@@ -1,0 +1,147 @@
+---
+title: "\"2024 Approved  Unveiling Windows Media  Seamless CD Extraction\""
+date: 2024-06-17T07:57:27.298Z
+updated: 2024-06-18T07:57:27.298Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+  - ai auto
+categories: 
+  - ai
+  - screen
+description: "\"This Article Describes 2024 Approved: Unveiling Windows Media: Seamless CD Extraction\""
+excerpt: "\"This Article Describes 2024 Approved: Unveiling Windows Media: Seamless CD Extraction\""
+keywords: "Windows Media Extract,CD Unlocking Tech,Seamless Media Copy,Media Streaming Ease,Widows Media Utility,Easy CD Extraction,Transparent Media Access"
+thumbnail: https://thmb.techidaily.com/063adb3e91f9e707cd239c6a9a79b813aee233d9ca23dd7f8b09ffae8f586c57.jpg
+---
+
+## Unveiling Windows Media: Seamless CD Extraction
+
+# How to use windows media player to rip and burn cd
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+ If you want to Rip and Burn your CD with new data using Windows Media Player then prefer to follow these simple steps:
+
+## 1: How to use Window Media Player to Rip CD?
+
+ **Step 1: Quick Rip Vs Normal Rip:**
+
+ If you are accessing CDs for the very first time then you must be searching hard about how to rip music from a CD. Don’t worry! The tutorial below can help you to understand this process. First of all you must install latest version of Windows Media Player on your device (V12); it is much improved as compared to that old V11 platform addition of preview functions and library.
+
+![](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-1.jpg)
+
+ **Quick Rip:**
+
+ Users are advised to start ripping process from “AutoPlay” menu. It will appear right after you insert your CD/DVD drive inside computer. Below AutoPlay menu, you will find “Rip Music from CD – using Window Media Player” option. Once you click on this option, it will automatically open the WMP timeline on your system. Never forget to uncheck that “Always do this for audio CDs” option otherwise it will perform the same operation every time whenever a new CD will be detected. Now you need to hit “Start Rip Button”. The software tool performs ripping task with WMA file format and you can save it directly to Music Folder.
+
+ **Step 2: Normal Ripping with Windows Media Player:**
+
+ If you want to do ripping task with customizable settings then prefer to go for Normal Ripping technique. To complete this task: simply launch Window Media Player on your system. Now insert your CD but never use that AutoPlay option this time. As soon as you reach at Rip Menu then hit Rip Tab available on screen. From the drop down menu, you have to select “Formats”. It will assist users to pick audio files with WAV and MP3 file formats. Note that both these media file formats come under lossless format category so ripping process will not cause any quality reduction for your actual data. You can also enter your desired bit rate value to ensure right content quality. But note that, better content quality means larger file size.
+
+![](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-2.jpg)
+
+ **Step 3: Additional CD ripping options:**
+
+ When you hit “More Options” then it will provide you many choices below. In the “Rip Options” section, you can easily enter your desired destination folder from change button that is available below “Rip Music to this Location” section. Users are also allowed to change their file format and bit rate settings. As soon as you are done with all the settings then press “OK” button.
+
+![](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-3.jpg)
+
+ **Step 4: Changing Album and Track Info in Windows Media Player:**
+
+ In case if you want your software to automatically search for complete information of album online then simply right click on CD icon. Here you will find a submenu that asks for “Find Album Info”. Select your file and then press Next. On the verification screen, hit Finish.
+
+![](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-4.jpg)
+
+ **Step 5: Let “Er Rip: Manual Album and Track Editing”:**
+
+ As soon as you are done with the ripping task, your software will show a message “Ripped to Library” and it will appear with each song. Now you can use Window Media Player to move these songs to any destination media like CD or music player etc. Now your media content is ready with you and you can access it easily on other players.
+
+![](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-5.jpg)
+
+## 2: How to Use Windows Media Player to Burn CD?
+
+ So now, you are ready to learn the CD burning process. Great! Start following these simple steps:
+
+ **Step 1: Check for the music tracks that you want to burn:**
+
+ Note that, if you want to burn a CD then it must be ripped in advanced using Window Media Player.
+
+* In case if you have not yet uploaded or ripped your CD then insert it into the CD drive. As soon as your Windows Media Player recognises this new insert, hit the “Rip CD” option that is visible at upper left portion of media player. System will take few minutes to copy this CD onto computer.
+* Those who want to assemble a mix or need to store songs from various CDs and need to create a playlist then go to upper left portion of media player and here press “create playlist” button. Enter name for your playlist and then drag and drop your desired songs over there.
+* If you want to create list from internet then you can directly download them from YouTube. Prefer to use URL to MP3 website to get it done faster. Enter your recently downloaded songs into playlist.
+
+ **Step 2: Insert your blank CD:**
+
+ It is time to put your CD into Computer Disk Drive and it will soon burn your CD while copying its original content. Note that, All CDs use to have specific storage space, you can enter data accordingly.
+
+ **Step 3: Locate Burn Tab on top Right corner of Media Player:**
+
+ You will not find any list of songs at this place and CD will also be reflected as Empty.
+
+ **Step 4: Drag your media files:**
+
+ Now as you are done with all these steps now you can start burning your CD. Simply drag the playlist or album that you have recently created for burning needs and place them on Burn tab. Now you will be able to see the complete list of songs over there.
+
+ **Step 5: Manipulate burn settings:**
+
+ Go to burn option button for this feature can be located on extreme right corner of your screen. Use this feature to set particular length between songs. Note that you can also adjust burn speed as well as quality of songs manually. Soon you will be able to create your track list.
+
+ **Step 6: Press Start Button:**
+
+ Go to burn tab and then hit start button. It will soon start the burning process and a green progress window will appear on screen.
+
+ **Step 7: Wait till the time process finishes:**
+
+ As soon as this burning process will complete, your system will immediately eject your CD from CD space.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/music-enhanced-whatsapp-expressions-for-2024/"><u>Music-Enhanced WhatsApp Expressions for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-powerpoint-tips-adding-and-capturing-speech-sounds-for-2024/"><u>[Updated] PowerPoint Tips  Adding and Capturing Speech Sounds for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-uncovering-elite-instagram-ringtones-and-crafting-an-astute-alarm-for-2024/"><u>[Updated] Uncovering Elite Instagram Ringtones and Crafting an Astute Alarm for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-highest-qp-for-gradual-video-playback/"><u>2024 Approved  Highest QP for Gradual Video Playback</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-first-time-periscope-income-strategies-for-success/"><u>[Updated] In 2024, First-Time Periscope Income  Strategies for Success</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-elevate-your-drone-experience-with-these-essentials/"><u>In 2024, Elevate Your Drone Experience with These Essentials</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-tutorial-for-effective-free-timer-management-for-2024/"><u>[Updated] The Ultimate Tutorial for Effective FREE Timer Management for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-rev-up-with-hubsans-x4-fpv-quadcopter-review-for-2024/"><u>[Updated] Rev Up with Hubsan's X4 FPV Quadcopter Review for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-how-to-hit-the-airwaves-with-instagram-lives-for-2024/"><u>[Updated] How to Hit the Airwaves with Instagram Lives for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-14-plus-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 14 Plus Without iTunes</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-list-10-best-timecode-calculators-for-film-and-video-pros/"><u>Updated The Ultimate List 10 Best Timecode Calculators for Film and Video Pros</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-revolutionizing-your-approach-to-iptv-viewership-saving-for-2024/"><u>[New] Revolutionizing Your Approach to IPTV Viewership Saving for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-13-mini-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-xs-max-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone XS Max iOS System? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-tecno-pova-5-pro-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Tecno Pova 5 Pro Phone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-color-theory-and-how-to-use-it/"><u>In 2024, Color Theory And How To Use It</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-adhering-to-twitters-video-dimension-standards/"><u>[Updated] 2024 Approved  Adhering to Twitter's Video Dimension Standards</u></a></li>
+</ul></div>
