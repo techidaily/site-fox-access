@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Prime Author's Draft Platform for 2024"
-date: 2024-06-17T07:55:38.813Z
-updated: 2024-06-18T07:55:38.813Z
+date: 2024-07-02T12:01:09.824Z
+updated: 2024-07-03T12:01:09.824Z
 tags: 
   - screen-recording
   - ai video
@@ -162,9 +162,9 @@ Users can adjust the white balance and dynamic range of their clips using the co
 
 To write a video script quickly, you should use templates, which are designed to force you to write the right things at the right time and place. There are numerous templates available, but these will allow you to complete almost any type of work that comes your way.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 </article
 
@@ -172,9 +172,9 @@ To write a video script quickly, you should use templates, which are designed to
 
 To write a video script quickly, you should use templates, which are designed to force you to write the right things at the right time and place. There are numerous templates available, but these will allow you to complete almost any type of work that comes your way.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"
