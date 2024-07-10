@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Quick Curving Techniques for Modern Photoshop Artists"
-date: 2024-06-17T08:28:23.734Z
-updated: 2024-06-18T08:28:23.734Z
+date: 2024-07-09T20:39:16.367Z
+updated: 2024-07-10T20:39:16.367Z
 tags: 
   - screen-recording
   - ai video
@@ -72,11 +72,11 @@ Once you're happy with the way your image looks, go to File > Save As in the men
 
 We hope this post has helped you learn how to curve an image in Photoshop. The best part about it? It's easy to do, and you can do it quickly. So, don't wait another minute! Get out there and start curving your images today (we know we are).
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"
