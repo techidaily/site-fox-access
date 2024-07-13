@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Cheap Yet Quality  Top Cam Lows\""
-date: 2024-06-17T08:06:13.331Z
-updated: 2024-06-18T08:06:13.331Z
+date: 2024-07-12T20:42:08.730Z
+updated: 2024-07-13T20:42:08.730Z
 tags: 
   - screen-recording
   - ai video
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 
 ## Top 10 Cheap/Budget Friendly Action Cameras
 
-#### 1\. [Xiaomi Yi Action Camera ($79.99):](<https://www.amazon.com/gp/product/B01C89GCHU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C89GCHU&linkId=0fa33bbe15256887fcfa7957bd8e3a3a>)
+#### 1\. Xiaomi Yi Action Camera ($79.99):
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01C89GCHU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C89GCHU&linkId=0fa33bbe15256887fcfa7957bd8e3a3a)
 
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 
  Kodak offers a waterproof, rugged, dustproof and shock proof companion for athletes and adventure lovers. It can be easily used in rough weather conditions as well as under water. You will be able to capture still images with 12MP clarity whereas for videos it offers 720p HD quality. 2X digital zoom is one more advanced feature and the convenient advanced batteries assist users to enjoy long hour recording with ease.
 
-#### 3\. [Polaroid XS 100 ($99.99)](<https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f>)
+#### 3\. Polaroid XS 100 ($99.99)
 
 [Cheap Action Cameras - Polaroid XS 100](https://images.wondershare.com/filmora/article-images/Polaroid-XS-100-Extreme.jpg) ](https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f)
 
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 
  Here is a lightweight solution for your action camera needs as its maximum weight goes up to 136grams. The video resolution offers by Polaroid is 1080p Full HD with the maximum storage capacity of 32GB. You can also enjoy the slow motion coverage with this device on 720p HD footage. This tube shaped device can be easily mounted anywhere and the auto rotate feature make it more suitable for adventure sports activities.
 
-#### 4\. [SJCAM SJ5000 ($99)](<https://www.amazon.com/gp/product/B00SUSLF8U/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00SUSLF8U&linkId=c6770a92f2510eb912a222add74cdf5c>)
+#### 4\. SJCAM SJ5000 ($99)
 
 [Cheap Action Cameras - PSJCAM SJ5000](https://images.wondershare.com/filmora/article-images/sjcam-sj5000.jpg) ](https://www.amazon.com/gp/product/B00SUSLF8U/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00SUSLF8U&linkId=c6770a92f2510eb912a222add74cdf5c)
 
@@ -119,3 +119,45 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-from-base-to-pro-gopro-hero5-blacks-clash-with-hero4-silver/"><u>[New] From Base to Pro  GoPro Hero5 Black's Clash with Hero4 Silver</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/choosing-an-original-channel-moniker-a-guide-for-filmmakers-with-filmora-for-2024/"><u>Choosing an Original Channel Moniker  A Guide for Filmmakers with Filmora for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-infinite-rotation-video-anchors/"><u>[New] In 2024, Infinite Rotation Video Anchors</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-skill-up-on-the-fly-with-top-10-freeware-art-apps-for-mac/"><u>[Updated] Skill Up on the Fly with Top 10 Freeware Art Apps for Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-complete-guide-to-the-latest-in-lgs-ultra-clear-monitoring/"><u>[Updated] The Complete Guide to the Latest in LG’s Ultra-Clear Monitoring</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-watching-the-future-on-screen-androids-2023-update-on-vr/"><u>In 2024, Watching the Future on Screen - Android's 2023 Update on VR</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-making-your-favorite-tiktok-beats-your-personal-mobile-alarm-signal-for-2024/"><u>[Updated] Making Your Favorite TikTok Beats Your Personal Mobile Alarm Signal for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-tecno-spark-20-proplus-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Tecno Spark 20 Pro+ without App | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-ultimate-guide-to-affordable-cloud-space-best-of-the-20/"><u>[New] 2024 Approved  The Ultimate Guide to Affordable Cloud Space  Best of the 20</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-superior-visual-experience-ranking-the-best-12-html5-players/"><u>[Updated] Superior Visual Experience  Ranking the Best 12 HTML5 Players</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-ranking-top-10-srt-modifications-for-pc-and-macos/"><u>[Updated] Ranking Top 10 SRT Modifications for PC & macOS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-synthetic-adventures-starts-here-top-vr-tools-10/"><u>2024 Approved  Synthetic Adventures Starts Here  Top VR Tools (10)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-panasonic-hx-a1-wearable-camera-explored/"><u>[New] In 2024, Panasonic HX-A1 Wearable Camera Explored</u></a></li>
+<li><a href="https://fox-access.techidaily.com/capture-and-edit-like-a-pro-with-these-8-top-montage-apps-for-2024/"><u>Capture and Edit Like a Pro with These 8 Top Montage Apps for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-perfecting-online-presence-key-to-knowing-and-using-fb-video-ratios/"><u>[New] 2024 Approved  Perfecting Online Presence  Key to Knowing and Using FB Video Ratios</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repaired-offline-troubleshoot-for-cod-cold-war-2024/"><u>[REPAIRED] Offline Troubleshoot for CoD Cold War 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/vividplay-app-consumer-feedback/"><u>VividPlay App Consumer Feedback</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-memorable-book-trailers-explored/"><u>[New] 2024 Approved  Memorable Book Trailers Explored</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-experts-choice-gimbals-top-ranked-for-4k-cameras/"><u>[New] 2024 Approved  Expert's Choice  Gimbals Top-Ranked For 4K Cameras</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-new-era-vr-game-engines-whats-revolutionary/"><u>[New] 2024 Approved  New Era VR Game Engines  What's Revolutionary ?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-professionals-guide-to-the-top-vocal-dampening-software-for-musicians-and-producers/"><u>Updated 2024 Approved Professionals Guide to the Top Vocal Dampening Software for Musicians and Producers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-implement-xps-video-editing-suite-instantly-for-2024/"><u>[New] Implement XP's Video Editing Suite Instantly for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-zooming-into-success-how-to-improve-your-livestream-quality-on-youtube/"><u>[Updated] In 2024, Zooming Into Success  How to Improve Your Livestream Quality on YouTube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-building-brands-earning-dollars-a-comprehensive-guide-to-insta-sponsorships/"><u>[Updated] In 2024, Building Brands, Earning Dollars  A Comprehensive Guide to Insta-Sponsorships</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/discover-the-best-3d-animation-makers-for-stunning-videos/"><u>Discover the Best 3D Animation Makers for Stunning Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/mastering-multi-image-melding-on-computers-for-2024/"><u>Mastering Multi-Image Melding on Computers for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-unravel-the-best-web-resources-for-perfecting-your-video-subtitles/"><u>In 2024, Unravel the Best Web Resources for Perfecting Your Video Subtitles</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-screen-scribes-editing-edition-guide/"><u>[New] In 2024, Screen Scribes  Editing Edition Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-pro-level-strategies-for-stunningly-pinning-messages-in-discord/"><u>[New] In 2024, Pro-Level Strategies for Stunningly Pinning Messages in Discord</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-essentials-of-expertly-editing-images-at-home-for-2024/"><u>[Updated] The Essentials of Expertly Editing Images at Home for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-photoshop-and-beyond-top-monitors-reviewed-editors-picks/"><u>2024 Approved  Photoshop & Beyond  Top Monitors Reviewed [Editors' Picks]</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-oppo-k11-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-navigating-the-acquisition-of-stock-video-backgrounds/"><u>[New] In 2024, Navigating the Acquisition of Stock Video Backgrounds</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-storytelling-with-epic-videos-for-2024/"><u>[New] Instagram Storytelling with Epic Videos for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/iphone-photo-burst-how-to-take-burst-images/"><u>IPhone Photo Burst  How to Take Burst Images</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-unpacking-the-performance-a-complete-guide-to-lg-bp350-monitors/"><u>[New] 2024 Approved  Unpacking the Performance  A Complete Guide to LG BP350 Monitors</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-soundscapes-for-your-status-story/"><u>In 2024, Soundscapes for Your Status Story</u></a></li>
+<li><a href="https://fox-access.techidaily.com/comparing-magix-audio-tools/"><u>Comparing MAGIX Audio Tools</u></a></li>
+</ul></div>
