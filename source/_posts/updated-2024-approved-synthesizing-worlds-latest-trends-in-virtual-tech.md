@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Synthesizing Worlds  Latest Trends in Virtual Tech\""
-date: 2024-07-12T20:08:04.607Z
-updated: 2024-07-13T20:08:04.607Z
+date: 2024-07-29T13:13:38.974Z
+updated: 2024-07-30T13:13:38.974Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29f
 
 # State of the VR Industry
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -34,26 +37,50 @@ thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29f
 
 ![google-cardbaorad-1](https://images.wondershare.com/filmora/resource/google-cardbaorad-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## The VR gaming development is truly rising then
 
  Is it really the right time to make comment like virtual reality is really uprising as a gaming platform? If you take the year of year survey report, yes the result shows a significant uptick for the interest of this platform. If we look back at the last year’s survey, it revealed that only 33.4 percent of the developers were interested to develop games for VR platforms. If you consider in terms of interest, VR was placed behind the PC/Mac, PlayStation 4, smartphones or tablets. But, considering this year’s data, we can see more advancement in the interest for the VR platform! More and more European developers are now getting interested to develop games for VR platforms that the smartphones or tablets.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![vr-gaming](https://images.wondershare.com/filmora/resource/vr-gaming1.jpg)
 
  This clears the air that VR is turning to be an emerging platform for the European game developers but, which one is preferred more by the professional game developers – is it the Oculus Rift or HTC Vive or something else for that matter? The survey also includes a detailed report on that as well. Asking about which VR platform they are using – 23.1 percent developers said they are using Rift, Vive is slightly behind with 22 percent developers’ preferences. There is PlayStation VR headset as well with 11.8 percent preferences.
 
  However, despite having such acceptance by the professional game developers, the confidence for the VR games market seems to have dropped a bit – at least the recent survey is showing something like that. Last year, 71.7 percent of the game developers considered VR to be a sustainable long-term market while in this year, it slipped a little with 68.8 percent developers are thinking VR could be a long sustaining gaming market.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## About the European VR game makers and their funding
 
  Funding for the games has always remained one of the prime concerns for the game developers and publishers. You know that it takes large amounts to be invested for the games. When it comes to the funding policies for the European game developers, most of them are covering the entire expenses using their own funds. Take a look at what the survey report has to say about that. Asking about the sources of the fund for the games 57.8 percent said that their funds come from the company’s existing fund while contrary to this, 32.9 percent game developers said that they manage their own fund from their personal accounts.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![vr-developer](https://images.wondershare.com/filmora/resource/vr-developer.jpg)
 
  We know that crowdsourced funding is also a preferable way to manage funds but, this seems not very convenient for the VR game developers since a very poor percentage (5.2) of the developers replied that they are working on games the fund of which is crowdsourced. While some developers consider this as an awful idea, some mentioned this to be a tricky process.
 
  Overall, this is what cooking inside the VR gaming world and this survey report explains the different aspects of virtual reality that clearly presents the state of the VR industry on this year – 2016\. Hopefully, we will come across much more advancement to this process in the coming years since gaming on VR headsets is massively exciting and fun.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -82,3 +109,44 @@ Follow @Liza Brown
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-beat-hunters-delight-accessible-online-scanners/"><u>[New] 2024 Approved  Beat Hunters Delight  Accessible Online Scanners</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-fusion-of-video-and-melody-adding-music-to-vimeo-projects/"><u>[New] 2024 Approved  Fusion of Video & Melody  Adding Music to Vimeo Projects</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-the-key-ingredients-for-successful-instagram-unboxing-reels/"><u>[New] 2024 Approved  The Key Ingredients for Successful Instagram Unboxing Reels</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-why-visual-narratives-from-customers-boost-business-appeal/"><u>[New] 2024 Approved  Why Visual Narratives From Customers Boost Business Appeal</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-freed-images-public-domain-canvas-for-2024/"><u>[New] Freed Images  Public Domain Canvas for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-essential-techniques-for-securing-product-placements-on-youtube/"><u>[New] In 2024, Essential Techniques for Securing Product Placements on Youtube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-metavision-quest-selecting-the-most-advanced-vr-headset/"><u>[New] In 2024, Metavision Quest  Selecting the Most Advanced VR Headset</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-skip-unwanted-podcast-advice-on-the-spotify-app/"><u>[New] In 2024, Skip Unwanted Podcast Advice on the Spotify App</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-mastering-modern-photographys-dynamic-range-capabilities-for-2024/"><u>[New] Mastering Modern Photography's Dynamic Range Capabilities for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nlocking-potential-solving-common-youtube-short-problems/"><u>[New] Unlocking Potential  Solving Common YouTube Short Problems</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-guide-shutting-down-igtv/"><u>[Updated] 2024 Approved  Guide  Shutting Down IGTV</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-inverted-footage-whats-behind-instagrams-peculiarity/"><u>[Updated] 2024 Approved  Inverted Footage  What's Behind Instagram's Peculiarity?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-recording-webinars-on-a-budget-friendly-platform/"><u>[Updated] 2024 Approved  Recording Webinars on a Budget-Friendly Platform</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-complete-blueprint-for-tracking-yt-viewsrevenue/"><u>[Updated] Complete Blueprint for Tracking YT Views/Revenue</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-craft-compelling-video-content-using-windows-photos-and-story-remix/"><u>[Updated] Craft Compelling Video Content Using Windows Photos & Story Remix</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-exploring-the-best-free-and-paid-videomosaic-apps-for-android-enthusiasts-for-2024/"><u>[Updated] Exploring the Best Free & Paid Videomosaic Apps for Android Enthusiasts for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-elevating-your-shots-with-lightrooms-hdr-merging-magic/"><u>[Updated] In 2024, Elevating Your Shots with Lightroom's HDR Merging Magic</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-excellence-in-dialogue-maker-land/"><u>[Updated] In 2024, Excellence in Dialogue Maker Land</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-photographic-albums-with-soundscape-features-for-2024/"><u>[Updated] Photographic Albums with Soundscape Features for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-professionals-guide-to-photo-watermarking-solutions-for-2024/"><u>[Updated] Professional's Guide to Photo Watermarking Solutions for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-quick-adjustment-invert-playback-on-vlc-interface/"><u>[Updated] Quick Adjustment  Invert Playback on VLC Interface</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-motorola-edge-2023-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Motorola Edge 2023</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-nurturing-relationships-inspiring-connections-with-your-viewers/"><u>2024 Approved  Nurturing Relationships  Inspiring Connections With Your Viewers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-premier-seminar-title-inventor-suite/"><u>2024 Approved  Premier Seminar Title Inventor Suite</u></a></li>
+<li><a href="https://fox-access.techidaily.com/codec-clash-determining-the-leader-in-video-quality/"><u>Codec Clash  Determining the Leader in Video Quality</u></a></li>
+<li><a href="https://fox-access.techidaily.com/enthralling-viewers-stream-with-success-even-if-youre-just-starting-out/"><u>Enthralling Viewers  Stream with Success, Even if You're Just Starting Out</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-update-issues-for-iphones-and-ipads-top-9-tips-and-tricks/"><u>Fixing Update Issues for iPhones and iPads: Top 9 Tips & Tricks</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/flash-vids-unpacked-whats-inside/"><u>Flash Vids Unpacked  What's Inside?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/global-viewer-count-triumphs-play-button-honors/"><u>Global Viewer Count Triumphs  Play Button Honors</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-motorola-moto-g34-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Motorola Moto G34 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s24-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy S24 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-go-live-on-youtube-from-a-phone-no-need-for-huge-fans-yet/"><u>In 2024, Go Live on YouTube From a Phone, No Need for Huge Fans Yet</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-green-canvas-essential-templates-to-enhance-your-cinematographic-journey/"><u>In 2024, Green Canvas  Essential Templates to Enhance Your Cinematographic Journey</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-reviving-windows-photo-viewer-two-approaches-in-windows-10/"><u>In 2024, Reviving Windows Photo Viewer  Two Approaches in Windows 10</u></a></li>
+<li><a href="https://fox-access.techidaily.com/mastering-numeric-adjustments-in-tiktok-videos-for-2024/"><u>Mastering Numeric Adjustments in TikTok Videos for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-here-are-8-best-video-animation-app-on-different-devices-android-iphone-and-ipad/"><u>New In 2024, Here Are 8 Best Video Animation App on Different Devices, Android, iPhone and iPad</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/your-compreran-guide-to-creating-viral-ad-videos-for-free-for-2024/"><u>Your Compreran Guide to Creating Viral Ad Videos for Free for 2024</u></a></li>
+</ul></div>

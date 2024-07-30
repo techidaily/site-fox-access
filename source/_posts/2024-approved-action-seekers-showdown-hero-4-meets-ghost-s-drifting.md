@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Action Seekers' Showdown  Hero 4 Meets Ghost-S Drifting\""
-date: 2024-07-12T20:11:02.067Z
-updated: 2024-07-13T20:11:02.067Z
+date: 2024-07-29T13:16:01.372Z
+updated: 2024-07-30T13:16:01.372Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 
 # GoPro Hero4 Black VS Drift Ghost-S
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -69,20 +72,32 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 
  Although this bullet shaped Ghost S action cam is bulkier and larger than most competing models but the advantage is that it can store a powerful battery inside. At the same time you will be able to access buttons on the top for all major controls like left/right navigation, Menu and power button that provides direct control over Select/Play and Record functions. A bright LED is provided to reflect the recording status all the time and on the back portion a removable cover is used to hide the 3.5 mm mic jack, Mini USB port, Mini HDMI, Micro SD and battery. A standard screw mount along with speaker is connected at right side.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Drift-Ghost-S-35832568-design](https://images.wondershare.com/filmora/article-images/Drift_Ghost-S_35832568_design.jpg)
 
  Hero 4 Black layout is really impressive with a Wi-Fi button on the right side and a special setting button that assists in immediate adjustment of camera modes. On the left side of the device, the removable cover is hiding Micro SD slot, Mini USB port and Micro HDMI port etc.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![gopro-hero4-black-design](https://images.wondershare.com/filmora/article-images/gopro-hero4-black-design.jpg)
 
 #### 2\.  Accessories in the Box
 
  • Drift Ghost S: In the box you will find the camera, battery, remote, a non waterproof type connector that allows easy access to mic ports and mini USB terminal, a universal clip, a wrist strap, two mount clips, one mini USB cable, one goggle mount and a microphone extension cable.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Drift-Ghost-S-accessories](https://images.wondershare.com/filmora/article-images/Drift_Ghost-S_accessories.jpg)
 
  • Hero 4 Black: This device usually comes with standard housing arrangement and to provide direct access to camera a skeleton backdoor is included. Other than this the box will have rechargeable battery, flat and curved adhesive mount, three way pivot arm, quick release buckles and Mini USB Cable.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![gopro-hero4-black-accessories](https://images.wondershare.com/filmora/article-images/gopro-hero4-black-accessories.jpg)
 
  Need more information about accessories?[Check Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -127,6 +142,9 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 
  Want to learn more about Ghost-S?[Check Drift Innocations Ghost-S Action Camera Review](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -155,3 +173,48 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-joke-jugglers-androids-in-the-dead-zone/"><u>[New] 2024 Approved  Joke Jugglers  Androids in the Dead Zone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-stream-smarter-with-float-mastery-over-pip-on-netflix/"><u>[New] 2024 Approved  Stream Smarter with Float  Mastery Over PIP on Netflix</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-audio-amplification-for-online-photo-archiving/"><u>[New] Audio Amplification for Online Photo Archiving</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-crafting-an-impressive-online-brand-presence/"><u>[New] Crafting an Impressive Online Brand Presence</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-expand-horizons-freshest-wins11-apps-and-games/"><u>[New] Expand Horizons  Freshest Wins11 Apps & Games</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-video-setup-starter-kit-for-excursion-documentation/"><u>[New] In 2024, Video Setup Starter Kit for Excursion Documentation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ios-leading-ps2-game-emulation-tools/"><u>[New] IOS Leading PS2 Game Emulation Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-optimizing-colors-in-films-via-luts-for-2024/"><u>[New] Optimizing Colors in Films via Luts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-synching-worlds-instagram-to-tiktok-essentials/"><u>[New] Synching Worlds  Instagram to TikTok Essentials</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unlocking-the-full-capabilities-of-windows-11-for-2024/"><u>[New] Unlocking the Full Capabilities of Windows 11 for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-avoid-common-mistakes-in-youtube-livestreaming-with-best-webcams/"><u>[Updated] 2024 Approved  Avoid Common Mistakes in YouTube Livestreaming with Best Webcams</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-digital-cutting-edge-streamlined-strategies-for-editing-videos-on-vimeo/"><u>[Updated] 2024 Approved  Digital Cutting Edge  Streamlined Strategies for Editing Videos on Vimeo</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-how-to-enhance-your-gopros-battery-health/"><u>[Updated] 2024 Approved  How to Enhance Your GoPro's Battery Health</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-next-gen-gaming-the-best-oculus-players-uncovered/"><u>[Updated] 2024 Approved  Next-Gen Gaming  The Best Oculus Players Uncovered</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-a-thorough-examination-adobe-lightroom-for-android-users-for-2024/"><u>[Updated] A Thorough Examination  Adobe Lightroom for Android Users for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-decoding-popular-themes-in-youtube-commentary-for-2024/"><u>[Updated] Decoding Popular Themes in YouTube Commentary for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-best-photo-enhancing-apps-for-smartphones-with-overlays-top-10/"><u>[Updated] In 2024, Best Photo-Enhancing Apps for Smartphones with Overlays (Top 10)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-dissecting-the-sony-s6700-enhancements/"><u>[Updated] In 2024, Dissecting the Sony S6700 Enhancements</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-essential-stop-motion-movies-you-cant-miss/"><u>[Updated] In 2024, Essential Stop-Motion Movies You Can't Miss</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-superior-visual-experience-ranking-the-best-12-html5-players/"><u>[Updated] Superior Visual Experience  Ranking the Best 12 HTML5 Players</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-top-10-action-cameras-with-image-stabilization/"><u>[Updated] Top 10 Action Cameras with Image Stabilization</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pc-virtual-reality-hits-top-10/"><u>2024 Approved  PC Virtual Reality Hits  Top 10</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-social-media-sensation-top-eight-videos/"><u>2024 Approved  Social Media Sensation  Top Eight Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/dji-drone-masterpiece-analysis/"><u>DJI Drone Masterpiece Analysis</u></a></li>
+<li><a href="https://fox-access.techidaily.com/downgrading-tips-from-sierra-to-os-x-el-capitan-version/"><u>Downgrading Tips From Sierra to OS X El Capitan Version</u></a></li>
+<li><a href="https://fox-access.techidaily.com/effortless-course-skipping-techniques-for-bypassing-edgenuity-videos/"><u>Effortless Course Skipping  Techniques for Bypassing Edgenuity Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/get-ready-to-save-space-with-these-38-exceptional-android-compressor-apps-for-2024/"><u>Get Ready to Save Space with These 38 Exceptional Android Compressor Apps for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 13 mini</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gopro-hero5-black-vs-yi-4k-latest-camera-showdown/"><u>In 2024, GoPro Hero5 Black VS Yi 4K - Latest Camera Showdown</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-15-location-by-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 15 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-joining-the-global-game-how-to-zoom-on-xbox-one/"><u>In 2024, Joining the Global Game  How to Zoom on Xbox One</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-joke-tastic-iphones-today/"><u>In 2024, Joke-Tastic iPhones Today</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-ultimate-tutorial-sending-subtitles-via-srt-to-twitter-facebook-and-more/"><u>In 2024, The Ultimate Tutorial  Sending Subtitles via SRT to Twitter, Facebook & More</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-unveiling-8-premium-free-srt-translation-services-online/"><u>In 2024, Unveiling 8 Premium Free SRT Translation Services Online</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-virtual-reality-vanguard-leading-pc-headsets-to-watch/"><u>In 2024, Virtual Reality Vanguard  Leading PC Headsets to Watch</u></a></li>
+<li><a href="https://fox-access.techidaily.com/photography-editing-tips-for-making-stunning-photos-for-2024/"><u>Photography Editing Tips for Making Stunning Photos for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/spectrum-surge-tools-for-sharper-web-videos/"><u>Spectrum Surge  Tools for Sharper Web Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/troubleshooting-tips-for-a-stable-windows-11-photo-experience-for-2024/"><u>Troubleshooting Tips for a Stable Windows 11 Photo Experience for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unveiling-the-mechanisms-that-govern-youtube-after-a-video-is-live-for-2024/"><u>Unveiling the Mechanisms That Govern YouTube After a Video Is Live for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/vividplay-app-consumer-feedback/"><u>VividPlay App Consumer Feedback</u></a></li>
+</ul></div>
