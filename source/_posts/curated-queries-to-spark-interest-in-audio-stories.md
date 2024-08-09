@@ -1,7 +1,7 @@
 ---
 title: "Curated Queries to Spark Interest in Audio Stories"
-date: 2024-07-12T21:44:55.913Z
-updated: 2024-07-13T21:44:55.913Z
+date: 2024-08-08T11:56:54.830Z
+updated: 2024-08-09T11:56:54.830Z
 tags: 
   - screen-recording
   - ai video
@@ -30,10 +30,16 @@ The best podcast questions to ask guests differ according to your niche and the 
 
 The best way is to divide your questions into different categories.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ### Great Icebreaker/Intro Questions
 
 Icebreaker questions are used to begin an interview or meeting. These are personal questions to learn more about one another quickly. For example, the prompt might be "share your name, role, and what you usually do during the weekend." These questions aim to have fun, create points of connection between guests, and build confidence in speaking in front of the group.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![icebreaker questions](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-2.jpg)
 
 Here are some icebreaker questions that you can ask to start an interview.
@@ -73,10 +79,25 @@ Some leading questions that you can ask are discussed below.
 14. Can you give an example?
 15. What do you suggest to our audience who are facing the same problems?
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Comparison Questions
 
 In an interview, a comparison question is one where you ask a person what he prefers between these two things. This type of question can also advance the discussion of the topic. Besides, you can get a deeper understanding of what guests think and feel about this podcast episode.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![comparison questions](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-4.jpg)
 
 You can ask questions from the comparison questions given below.
@@ -97,6 +118,14 @@ You can ask questions from the comparison questions given below.
 14. In which weather do you feel comfortable, summer or winter?
 15. What do you prefer to eat, pizza or a burger?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### Great Closing Questions
 
 When we move on to this type of question, typically, it's time to end the show. Closing interview questions are questions the hosts might ask at the end of the podcast to wrap things up. The following question can be asked to conclude the podcast on a happy note.
@@ -112,6 +141,9 @@ When we move on to this type of question, typically, it's time to end the show. 
 9. Where may listeners sign up for your course or purchase your products?
 10. How can listeners contact you online?
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. What's a Good Podcast Interview Question?
 
 After discussing the 50 questions you can ask in a podcast, let's see what a good podcast interview question is. A good interview question is comfortable for the guest and engaging for the listeners, so the guest can answer the question wholeheartedly. Therefore, you need to avoid impolite and aggressive asks during podcasting. Besides, try to ask such questions that your guest is not frequently asked. It may reveal new things about him and make your podcast stand out.
@@ -137,10 +169,17 @@ As an interviewer, "why" is your most powerful tool. Guests usually provide surf
 
 If your guest is overwhelmed by the emotions and has stopped before completing his answer, help him achieve it by asking, "What Happened Next?" Use a softer tone while asking this question.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What were your feelings when this happened?
 
 Sometimes you want the guest to answer your questions with feelings and emotions. Making your guest answer your questions while drenched in emotions can take your podcast to the next level. Questions like "What were your feelings when this happened?" can take the guest back to the past and make him answer your question with full emotions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Mirror your guest
 
 Repeat the same few last words that a guest just said when he finishes his thought, and by doing that, you're creating an intonation that's sort of like a question. It's another way to permit the person you're interviewing to keep going. For example, your question might go like this. Perhaps you're asking somebody about his favorite software of the year that they've used in video editing.
@@ -168,6 +207,9 @@ Avoiding asking wrong questions is as important as asking good questions. Some q
 * Similarly, avoid asking questions to which you can predict the answer will be a "no."
 * Avoid questions that might offend your guest.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 5\. Should I Send an Advance Interview Questions Podcast?
 
 Yes, you can send interview questions to guests. Therefore, they get time to prepare interesting responses. Also, they may think about their answers or type out lengthy responses. Either way, they'll feel more comfortable and help you make better content.
@@ -207,3 +249,46 @@ Consider the following when picking which of the above questions to use on your 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-digital-audio-streaming-and-recording/"><u>[New] In 2024, The Ultimate Guide to Digital Audio Streaming & Recording</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-smartphone-evolution-at-4k-peaks-sony-xperia-xz-reviewed/"><u>[New] Smartphone Evolution at 4K Peaks – Sony Xperia XZ Reviewed</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-first-steps-for-joining-online-video-chats-google-meet/"><u>[Updated] 2024 Approved  First Steps for Joining Online Video Chats (Google Meet)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-integrated-approach-to-post-videos-on-twittertumblr/"><u>[Updated] Integrated Approach to Post Videos on Twitter/Tumblr</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-audiovid-synergy-community-online/"><u>2024 Approved  AudioVid Synergy Community Online</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-brainy-brigade-top-11-quiz-channels/"><u>2024 Approved  Brainy Brigade  Top 11 Quiz Channels</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-decoding-the-journey-from-sdr-to-stunning-hdr-images/"><u>2024 Approved  Decoding the Journey  From SDR to Stunning HDR Images</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-eagle-eyed-elites-superior-laptops-for-high-res-video-edits/"><u>2024 Approved  Eagle-Eyed Elites  Superior Laptops for High-Res Video Edits</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-epic-assessment-and-alternative-measures/"><u>2024 Approved  Epic Assessment & Alternative Measures</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-from-stillness-to-streamline-adding-blurring-beauty-to-illustrator-photos/"><u>2024 Approved  From Stillness to Streamline  Adding Blurring Beauty to Illustrator Photos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-instabeats-intellectual-property-overview/"><u>2024 Approved  InstaBeats  Intellectual Property Overview</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-master-quick-red-eye-correction-with-this-free-ios-tool/"><u>2024 Approved  Master Quick Red-Eye Correction with This Free iOS Tool</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-prime-ringtone-reserves-retro-rhythms-online/"><u>2024 Approved  Prime Ringtone Reserves  Retro Rhythms Online</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-top-10-gps-drones-with-steady-trail-following-features/"><u>2024 Approved  Top 10 GPS Drones with Steady Trail-Following Features</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-total-budget-for-making-a-music-video/"><u>2024 Approved  Total Budget for Making a Music Video</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-12-pro-max-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-ai-powered-creativity-and-industry-applications/"><u>A Deep Dive Into AI-Powered Creativity & Industry Applications</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ace-your-green-screen-videos-must-know-secrets-for-2024/"><u>Ace Your Green Screen Videos  Must-Know Secrets for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/beat-writers-block-learning-ms-words-voice-transcription-techniques/"><u>Beat Writer’s Block  Learning MS Word's Voice Transcription Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/best-4k-ultra-hd-screens-ranked-1-10/"><u>Best 4K Ultra HD Screens Ranked #1-10</u></a></li>
+<li><a href="https://fox-access.techidaily.com/bring-your-camera-life-into-your-instagram-world/"><u>Bring Your Camera Life Into Your Instagram World</u></a></li>
+<li><a href="https://fox-access.techidaily.com/complete-examination-the-video-show-app/"><u>Complete Examination  The Video Show App</u></a></li>
+<li><a href="https://fox-access.techidaily.com/complete-rundown-how-google-podcast-works-for-2024/"><u>Complete Rundown  How Google Podcast Works for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/cost-cutting-camera-options-discover-top-6-cheap-action-cams-for-2024/"><u>Cost-Cutting Camera Options  Discover Top 6 Cheap ACTION Cams for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/cut-the-redundancy-a-step-by-step-to-adding-times-in-your-videos-for-2024/"><u>Cut the Redundancy  A Step-by-Step to Adding Times in Your Videos for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/demystifying-the-use-of-luts-in-professional-photoshop-workflows/"><u>Demystifying the Use of LUTs in Professional Photoshop Workflows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-organizing-your-day-using-slack-reminder-features/"><u>Expert Tips for Organizing Your Day Using Slack Reminder Features</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-oppo-reno-8t-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Oppo Reno 8T 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-zte-axon-40-lite-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock ZTE Axon 40 Lite PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-advanced-card-selections-uhd-video-perfection/"><u>In 2024, Advanced Card Selections  UHD Video Perfection</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-x-fold-2-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo X Fold 2 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-depth-tutorials-on-documenting-ps3-gaming-sessions-for-2024/"><u>In-Depth Tutorials on Documenting PS3 Gaming Sessions for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/masterful-14-textual-movement-illustrations/"><u>Masterful 14 Textual Movement Illustrations</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-top-6-video-dubbing-software-for-hilarious-edits/"><u>New In 2024, Top 6 Video Dubbing Software for Hilarious Edits</u></a></li>
+<li><a href="https://review-topics.techidaily.com/new-iphone-14-pro-restore-from-icloud-stuck-on-time-remaining-estimating-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>New iPhone 14 Pro Restore from iCloud Stuck on Time Remaining Estimating | Stellar</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-qb-files-stellars-revolutionary-tool-unveiled/"><u>Revive QB Files: Stellar's Revolutionary Tool Unveiled</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-htc-u23-pro-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any HTC U23 Pro Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-graphics-cards-focus-on-functionality/"><u>Troubleshooting Graphics Cards: Focus on Functionality</u></a></li>
+</ul></div>

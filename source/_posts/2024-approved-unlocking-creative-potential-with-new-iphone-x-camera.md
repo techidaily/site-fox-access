@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking Creative Potential with New iPhone X Camera\""
-date: 2024-07-12T21:47:11.556Z
-updated: 2024-07-13T21:47:11.556Z
+date: 2024-08-08T11:54:57.778Z
+updated: 2024-08-09T11:54:57.778Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/2527931ff4c659441e41ccebfbfcddf054977d94a
 
 # New iPhone X Camera Features You Need to Know
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -33,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/2527931ff4c659441e41ccebfbfcddf054977d94a
 * [Part 3: How to use portrait mode](#part3)
 * [Part 4: Video improvement](#part4)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## Part 1: TrueDepth Camera
 
  The phone has a brand new rear [camera with two lenses](https://tools.techidaily.com/wondershare/filmora/download/) in a vertical orientation. This new orientation has been chosen to provide more space for the front-facing TrueDepth camera. This camera is tasked with powering the Face ID feature. The TrueDepth system also has a f/2.2 7-megapixel camera for selfies. The feature means Portrait Mode and Portrait Lighting are supported in front-facing mode. With Portrait Lighting, you can dynamically adjust your photo’s lighting with ease. TrueDepth uses an infrared emitter to project more than 30,000 in a recognised pattern onto users’ faces, before photographing the dots for analysis. The function is strengthened with a proximity sensor as well as an ambient light sensor which allows output light levels to be set.
@@ -43,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/2527931ff4c659441e41ccebfbfcddf054977d94a
 
 ![depth camera](https://images.wondershare.com/filmora/article-images/depth-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Part 3: How to use portrait mode
 
  Portrait mode uses your iPhone X’s telephoto lens kit to create images with “bokeh”-esque backgrounds and foregrounds. Portrait Lighting also comes as part of the Portrait Mode with the iPhone X, utilising both machine learning and the depth map of Portrait mode to add exceptional lighting effects to your photos in real time. When you shoot in Portrait mode, the wide-angle measures the difference between what it and the telephoto can see to offer a multi-point depth map. The depth map itself creates artificial depth of field.
@@ -59,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/2527931ff4c659441e41ccebfbfcddf054977d94a
 * Swipe or tap the cube icons above your shutter button to change the lighting effects if needed.
 * To take your photo, press the shutter button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![portrait lighting](https://images.wondershare.com/filmora/article-images/PortraitLighting.jpg)
 
 ## Part 4: Video improvement
@@ -69,12 +81,19 @@ thumbnail: https://thmb.techidaily.com/2527931ff4c659441e41ccebfbfcddf054977d94a
 
 **You may also like:** [Best iPhone Stabilizers for Video Shooting >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
  There are many great reasons for investing in the iPhone X if you are interested in carrying a high-end camera around in your pocket. The phone is the smallest yet to feature two 12MP rear-facing cameras, with the updated telephoto lens also being a big draw for many. The lens has been optically stabilised and had its aperture boosted to f/2.4 from f/2.8\. The phone is now able to offer vastly superior performance in low-light conditions, with the sensor having been completely rebuilt and a brand new image signal processor offering stunning colours and textures. In fact, the phone is able to perform convincingly in low-light conditions even when there are multiple light sources competing.
 
  The phone has also been praised for its wide range between light and dark colours. The Face ID function has proved to be incredibly secure, unlike earlier facial recognition systems which could easily be tricked by with the use of photographs or videos. It’s now possible to be more creative than ever with your iPhone’s camera whilst benefiting from a wealth of robust security features.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -101,3 +120,43 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-quick-focus-effortless-viewport-changes-on-iphone/"><u>[New] Quick Focus  Effortless Viewport Changes on iPhone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/digital-picture-perfect-with-audio-touches-for-2024/"><u>Digital Picture Perfect with Audio Touches for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/discovering-best-in-class-live-church-broadcast/"><u>Discovering Best-in-Class Live Church Broadcast</u></a></li>
+<li><a href="https://fox-access.techidaily.com/discovering-windows-11s-new-additions-for-2024/"><u>Discovering Windows 11'S New Additions for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/download-guide-enjoy-windows-movie-maker-6-today/"><u>Download Guide  Enjoy Windows Movie Maker 6 Today</u></a></li>
+<li><a href="https://fox-access.techidaily.com/dynamic-camera-audio-excellence-top-10-picks-for-2024/"><u>Dynamic Camera Audio Excellence, Top 10 Picks for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/effortless-restoration-of-windows-photo-viewer-steps-explained-for-2024/"><u>Effortless Restoration of Windows Photo Viewer - Steps Explained for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/elevate-hd-audiovideo-on-your-android-device-with-top-players/"><u>Elevate Hd Audio/Video on Your Android Device with Top Players</u></a></li>
+<li><a href="https://fox-access.techidaily.com/elevate-your-photo-projects-techniques-for-adding-text-to-digital-images-for-2024/"><u>Elevate Your Photo Projects  Techniques for Adding Text to Digital Images for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/elite-7-camcorders-for-winter-sports-enthusiasts-for-2024/"><u>Elite 7 Camcorders for Winter Sports Enthusiasts for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/elite-camera-optics-for-cutting-edge-film-and-tv/"><u>Elite Camera Optics for Cutting-Edge Film & TV</u></a></li>
+<li><a href="https://fox-access.techidaily.com/elite-inventory-optimal-auto-surveillance-cams/"><u>Elite Inventory  Optimal Auto Surveillance Cams</u></a></li>
+<li><a href="https://fox-access.techidaily.com/essential-tips-for-constructing-professional-podcast-rss-feeds-for-2024/"><u>Essential Tips for Constructing Professional Podcast RSS Feeds for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/excellence-in-detail-a-curated-list-of-8k-cameras/"><u>Excellence in Detail  A Curated List of 8K Cameras</u></a></li>
+<li><a href="https://fox-access.techidaily.com/exclusive-changes-in-photo-backgrounds-visionshift-elite-for-2024/"><u>Exclusive Changes in Photo Backgrounds  VisionShift Elite for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/exclusive-listing-top-15-platforms-for-gopro-optimal-use-for-2024/"><u>Exclusive Listing  Top 15 Platforms for GoPro Optimal Use for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/exclusive-melodic-selections-for-video-editing/"><u>Exclusive Melodic Selections for Video Editing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/expert-choice-top-10-video-subtitles-editors-online/"><u>Expert Choice  Top 10 Video Subtitles Editors Online</u></a></li>
+<li><a href="https://fox-access.techidaily.com/expert-tips-for-navigating-youtubes-comprehensive-comments-section/"><u>Expert Tips for Navigating YouTube's Comprehensive Comments Section</u></a></li>
+<li><a href="https://fox-access.techidaily.com/exploring-dji-phantom-3s-advanced-aerial-capabilities-for-2024/"><u>Exploring DJI Phantom 3’S Advanced Aerial Capabilities for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/exploring-the-realm-of-video-production-obs-and-free-luts-for-2024/"><u>Exploring the Realm of Video Production  OBS & Free LUTs for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/fast-track-to-time-lapse-magic-on-samsung-phones-for-2024/"><u>Fast Track to Time-Lapse Magic on Samsung Phones for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/fast-forward-altering-instagram-stories-tempo/"><u>Fast-Forward  Altering Instagram Stories' Tempo</u></a></li>
+<li><a href="https://fox-access.techidaily.com/free-10-high-quality-passport-photos-available-here/"><u>Free 10 High-Quality Passport Photos Available Here</u></a></li>
+<li><a href="https://fox-access.techidaily.com/free-lut-heaven-the-10-finest-and-accessible-resources-for-2024/"><u>Free LUT Heaven  The 10 Finest and Accessible Resources for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/free-versatile-laptop-software-to-watch-dvds/"><u>Free, Versatile Laptop Software to Watch DVDs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/from-dull-to-dynamic-an-in-depth-guide-to-hue-mastery-for-2024/"><u>From Dull to Dynamic  An In-Depth Guide to Hue Mastery for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-find-and-upgrade-your-pcs-usb-ethernet-rndis-driver-on-windows/"><u>How to Find and Upgrade Your PC's USB Ethernet (RNDIS) Driver on Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-google-pixel-8-pro-to-mac-drfone-by-drfone-android/"><u>How to Mirror Google Pixel 8 Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1715859886787-in-2024-top-15-open-world-games-to-beat-the-climb/"><u>In 2024, Top 15 Open World Games to Beat the Climb!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-instagram-maximizing-post-engagement-for-2024/"><u>Mastering Instagram  Maximizing Post Engagement for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-troubleshooting-steps-for-fixing-the-mass-effect-legendary-edition-startup-issue/"><u>Resolved: Troubleshooting Steps for Fixing the Mass Effect Legendary Edition Startup Issue</u></a></li>
+<li><a href="https://video-capture.techidaily.com/streamlining-movie-capture-with-multiple-technology-systems/"><u>Streamlining Movie Capture with Multiple Technology Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+</ul></div>

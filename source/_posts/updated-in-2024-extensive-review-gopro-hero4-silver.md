@@ -1,0 +1,191 @@
+---
+title: "\"[Updated] In 2024, Extensive Review  GoPro HERO4 Silver\""
+date: 2024-08-08T12:09:08.964Z
+updated: 2024-08-09T12:09:08.964Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+  - ai auto
+categories: 
+  - ai
+  - screen
+description: "\"This Article Describes [Updated] In 2024, Extensive Review: GoPro HERO4 Silver\""
+excerpt: "\"This Article Describes [Updated] In 2024, Extensive Review: GoPro HERO4 Silver\""
+keywords: "GoPro HERO4 Guide,HERO4 Camera Reviews,Best HERO4 Footage,HERO4 Silver Analysis,HERO4 Performance,GoPro HERO4 Tips,HERO4 Silver Review"
+thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4c6891c8d31a4e5e36657912.jpg
+---
+
+## Extensive Review: GoPro HERO4 Silver
+
+# Full Review for GoPro Hero4 Sliver
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ Although this device cannot provide you the advanced recording features like Hero4 Black but still it is rated as one of the best action camera device with all amazing features. Even with its few technical shortcomings this device can provide best facility with its built in type touch screen display. If you are thinking to buy a new action camera device then it is good to check this extensive review of Hero4 silver first.
+
+**You may also like:**
+[GoPro Tips and Tricks >>](https://tools.techidaily.com/wondershare/filmora/download/)
+[GoPro Hero4 black vs Hero 4 silver >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+ Want to know which GoPro to buy? Here is a [complete comparison >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+ Here is the complete review of GoPro Hero4 Silver:
+
+#### Specs Info
+
+| **Product Name**                                        | **GoPro Hero4 Silver**                                                       |                      |                          |
+| ------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------- | ------------------------ |
+| **Price:**                                              | Amazon:$299                                                                  |                      |                          |
+| **Manufacture**                                         | GoPro (USA)                                                                  |                      |                          |
+| **Date available**                                      | September 2014                                                               |                      |                          |
+| **Basic Specification**                                 |                                                                              |                      |                          |
+| **Parameters**                                          | **Details**                                                                  | **Parameters**       | **Details**              |
+| **Weight**                                              | 83g                                                                          | **Shape**            | Box                      |
+| **Memory**                                              | microSD/HC/XC that can go Up To 64 GB                                        | **Dimensions**       | 41 x 59 x 21/30 mm       |
+| **Battery**                                             | 1160mAh                                                                      | **Waterproof**       | 40 meters (with housing) |
+| **Image resolution**                                    | Up to 12mp clarity                                                           | **Video resolution** | Up to 4k with 15fps      |
+| **Display**                                             | 1.7 inch built-in type touch screen                                          | **Connectivity**     | WIFI and Bluetooth       |
+| **Other features**                                      | Narrow , medium, ultra wide, Limited SuperView and new linear field of views |                      |                          |
+| Professional low light type performance can be obtained |                                                                              |                      |                          |
+| Auto image rotation is possible                         |                                                                              |                      |                          |
+| Auto low-light mode can be activated                    |                                                                              |                      |                          |
+| Time lapse video is accessible                          |                                                                              |                      |                          |
+
+#### Pros and Cons
+
+| **Pros**                                                     | **Cons**                            |
+| ------------------------------------------------------------ | ----------------------------------- |
+| 1.7 inch touchscreen type LCD                                | Case muffles audio quality          |
+| Great 4K image quality that serves                           | Can't handle direct or bright light |
+| breathtaking results                                         | Battery life is inadequate          |
+| Fast wifi connectivity is possible                           | \-                                  |
+| Many mounts as well as accessories are available with device | \-                                  |
+| $100 cheaper as compared to Hero4 Black                      | \-                                  |
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Complete Review for Hero4 Silver
+
+#### **What will you find inside the Box?**
+
+ The box consists of:
+
+1. One GoPro Hero Silver Camera
+2. 40meter or 131 Feet waterproof housing.
+3. Skeleton type door
+4. Curved as well as plat adhesive mounts for easy and effective mounting.
+5. Vertical and Horizontal quick release type buckles for easy and efficient handling.
+6. Three way pivot type arm.
+7. Battery and
+8. Mini USB cable
+  
+#### **Design and Accessories:**
+
+ You can use the same waterproof housing as well as mounts for your GoPro Hero4 Silver unit as Black edition. This device comes with built in type touch screen facility whereas the overall thickness of this device use to be same as that of Hero4 Black version. People love its touchscreen the most as it assists in fast recording functions whereas you can also access high quality user interfaces along with easy usability. Those who are not much familiar with GoPro camera series can begin learning the various features with Hero4 silver. The front panel of this device allows all controls to be accessed to easily and the touchscreen type LCD panel offers interactive usage.
+
+ Same as that of black version, there are two lights that indicate camera status as well as Wi-Fi connectivity so that users can stay aware about camera conditions. Both these versions of GoPro series possess same battery designs that cannot be accessed from backside like other devices rather you need to take them out from bottom. The design of batteries is also completely new that means it is not possible to connect batteries of your old HERO device to this one.
+
+#### **Video and Audio Quality:**
+
+ The processor of Silver version is much slower as compared to the black version; that is why this device cannot handle higher frame rates. With 4k recording, the Hero5 silver can provide you 15fps frame rate whereas for 1080p it can be improved up to 60fps. The image as well as video quality of both these devices is rated to be quite high and that is why it is recommended for beginners as well as professionals.
+
+ The low light recording capabilities of this device is much improved with latest launch so it can also capture clear photos during light hours with the help of night photo and night lapse mode. The frame rates can be also adjusted as per need in different lighting conditions.
+
+ Hero4 silver also offers four different field of view settings that are Narrow, Medium, Ultra-wide and Superview, where the last one is capable enough to generate videos without noise.
+
+ As it is also possible to control things from remote location with the help of smart phones of tablet so users can avail best quality for all footage. The footage can be further edited with advanced software tools that are easily available online.
+
+#### **Connectivity:**
+
+ Hero4 silver offers Wi-fi connectivity same as all other models of this series but the amazing this to know is that it was the first device of this series with Bluetooth connectivity that works for iOS platform. If you open this device on smartphone application then you will be able to get a much wider view as compared to the actual screen of GoPro Hero4 Silver. Further you can also adjust few major settings using these smartphone applications. Users can easily connect this device with iOS, Android and Windows platform for obtaining easy remote access to all incredible features. Further the device screen can be also used for preview of camera recordings so that users can make immediate decisions about whether the recorded video is ready to livestream or it demands some basic editing.
+
+#### **Battery and Storage:**
+
+ This device comes with Lithium ion Battery of 1100mAh rating that can serve you during 1090p video recording for 1 hour and 50 minutes. If you enable the Wi-Fi services or connect your device via smartphone application then the maximum record timing will be reduced by 10 minutes at max. Users can insert a MicroSD card in this device that offers maximum storage capacity up to 64 GB so you can store your 1080p videos up to the maximum duration of 4 hours 40 minutes.
+
+#### **Live Streaming:**
+
+ This device can be easily connected to smartphone as well as tablets via dedicated applications so that remote control can be accessed. But at the same time it also offers LiveStreaming of recorded content with the help of Meerkat and LiveStream application. The LiveStream allows users to access all videos on iPhone, iPad and iPod like devices that can be further transferred to internet. The livestreaming channel usually takes some time to plug the recorded videos and maximum delay visualized is up to 10 seconds. Many adventure sports lovers enjoy this facility to provide all tour details to their friends connected on social media and you will always love the quality offered for video resolution by this device.
+
+#### **The Bottom line:**
+
+ There are so many features that make GoPro Hero4 Silver one of the best tools for recording crystal clear videos. If you have limited budget but wish to buy a feature rich camera then it is good to go for Hero4 Silver. Its high speed recording ability along with 4K resolution makes it one of the best cameras for action needs and the light weight structure offers best accessibility on the go. It can be mounted on rough as well as flat surfaces so easily with the help of additional mounting accessories and battery life is also good as compared to all competitors. GoPro is always rated to be the best action camera unit by all professionals.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-breaking-down-the-process-of-livestreaming-online/"><u>[New] 2024 Approved  Breaking Down the Process of Livestreaming Online</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-conjuring-chrono-displacement-with-digital-magic/"><u>[New] 2024 Approved  Conjuring Chrono-Displacement with Digital Magic</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-laughs-in-a-click-building-hilarious-memes/"><u>[New] 2024 Approved  Laughs in a Click  Building Hilarious Memes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-lightning-foldout-sculpting-rapidly-produced-google-collage-pics/"><u>[New] 2024 Approved  Lightning Foldout  Sculpting Rapidly Produced Google Collage Pics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-ideal-15-color-filters-for-improving-gopro-shots/"><u>[New] Ideal 15 Color Filters for Improving GoPro Shots</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-comprehensive-study-gopro-slr4-sliver-feature-review/"><u>[New] In 2024, Comprehensive Study  GoPro SLR4 Sliver Feature Review</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-premiere-experts-exceptional-instagram-highlight-craftsmen/"><u>[New] Premiere Experts  Exceptional Instagram Highlight Craftsmen</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-seconds-in-a-snapshot-20mb-videography/"><u>[New] Seconds in a Snapshot  20MB Videography</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-boosting-visual-impact-incorporate-apple-music/"><u>[Updated] 2024 Approved  Boosting Visual Impact  Incorporate Apple Music</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-demystifying-smooth-audio-conversions-crossfade/"><u>[Updated] 2024 Approved  Demystifying Smooth Audio Conversions (Crossfade)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-essential-steps-capturing-exceptional-iphone-based-interview-podcasts/"><u>[Updated] 2024 Approved  Essential Steps  Capturing Exceptional iPhone-Based Interview Podcasts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-expert-tips-for-capturing-your-gaming-skills-in-obs/"><u>[Updated] 2024 Approved  Expert Tips for Capturing Your Gaming Skills in OBS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-perfecti-top-photo-and-video-display-programming/"><u>[Updated] 2024 Approved  Perfecti  Top Photo & Video Display Programming</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-pioneering-companies-for-haptic-rich-views/"><u>[Updated] 2024 Approved  Pioneering Companies for Haptic-Rich Views</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-grasping-basics-your-guide-to-av1-encoding-for-2024/"><u>[Updated] Grasping Basics  Your Guide to AV1 Encoding for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-optimizing-playback-speed-with-professional-tactics/"><u>[Updated] In 2024, Optimizing Playback Speed with Professional Tactics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-srgb-standardized-vs-traditional-rgb-spectrum/"><u>[Updated] In 2024, Srgb Standardized Vs Traditional Rgb Spectrum</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-next-level-gaming-premium-vr-players-reviewed-for-2024/"><u>[Updated] Next-Level Gaming  Premium VR Players Reviewed for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-non-sportive-pursuits-the-top-ten-front-row-options/"><u>[Updated] Non-Sportive Pursuits  The Top Ten Front Row Options</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-pictorial-humor-ranking-10-memes-by-creativity/"><u>[Updated] Pictorial Humor  Ranking #10 Memes by Creativity</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-sync-sound-files-with-ppt-slides-for-2024/"><u>[Updated] Sync Sound Files with PPT Slides for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-a-quick-fix-for-quirky-content-mastering-meme-creation-at-9gag/"><u>2024 Approved  A Quick Fix for Quirky Content  Mastering Meme Creation at 9GAG</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-cutting-edge-8-lens-modifications-for-webcams/"><u>2024 Approved  Cutting-Edge 8 Lens Modifications for Webcams</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-subtitles-in-a-click-our-free-top-10-converter-picks/"><u>2024 Approved  Subtitles in a Click - Our Free, Top 10 Converter Picks</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-top-audio-assistant-software-android-version/"><u>2024 Approved  Top Audio Assistant Software, Android Version</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/artisanarray-pro-online-creation-powerhouse/"><u>ArtisanArray Pro  Online Creation Powerhouse</u></a></li>
+<li><a href="https://fox-access.techidaily.com/cutting-edge-photography-techniques-harnessing-lut-capabilities/"><u>Cutting-Edge Photography Techniques  Harnessing LUT Capabilities</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-oneplus-nord-n30-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass OnePlus Nord N30 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://fox-access.techidaily.com/elite-gopro-accessory-catalog-for-2024/"><u>Elite Gopro Accessory Catalog for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Ways to Change Spotify Location On Your Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-cutting-edge-photo-editing-the-top-10-apps-with-sweet-stickers/"><u>In 2024, Cutting-Edge Photo Editing  The Top 10 Apps with Sweet Stickers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-harnessing-light-and-motion-for-gopro-time-lapse-magic/"><u>In 2024, Harnessing Light and Motion for GoPro Time-Lapse Magic</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-high-end-camcorders-for-impeccable-4k-quality-top-18/"><u>In 2024, High-End Camcorders for Impeccable 4K Quality (Top 18)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-prime-avi-media-reader-superior-on-every-platform/"><u>In 2024, Prime Avi Media Reader - Superior on Every Platform</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-ultimate-kids-camera-guide-top-11-easy-waterproof-options/"><u>In 2024, The Ultimate Kids' Camera Guide - Top 11 Easy, Waterproof Options</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/mental-wellness-through-virtual-environments/"><u>Mental Wellness Through Virtual Environments</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-iphone-from-communication-to-entertainment-hub/"><u>Transform Your iPhone: From Communication to Entertainment Hub</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-secrets-of-the-turing-test-will-ai-ever-triumph-over-it/"><u>Unveiling the Secrets of the Turing Test – Will AI Ever Triumph Over It?</u></a></li>
+</ul></div>
