@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Spectaculum of Sight  Top Picks for Professional 8K\""
-date: 2024-07-12T21:31:17.165Z
-updated: 2024-07-13T21:31:17.165Z
+date: 2024-08-23T04:08:00.235Z
+updated: 2024-08-24T04:08:00.235Z
 tags: 
   - screen-recording
   - ai video
@@ -64,12 +64,18 @@ The rumors that Canon is working on its first 8K camera surfaced in early 2019, 
 
 ![Canon EOS 5DS R DSLR Camera](https://images.wondershare.com/filmora/article-images/canon-eos-5ds-r-dslr.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Image resource: Cannon
 
 This camera should be capable of recording **8K footage at 60 fps**, as well as 4K footage at 120 fps, but whether or not this will turn out to be true still remains to be seen. However, a number of Canon’s models are already equipped with **50MP** sensors that can capture still images in resolutions that go as high as **8712 x 5813** or record videos in 4K resolution at 60fps.
 
 Models like [EOS 5DS](https://www.usa.canon.com/internet/portal/us/home/products/details/cameras/eos-dslr-and-mirrorless-cameras/dslr/eos-5ds) or [EOS R](https://www.amazon.com/Canon-Mirrorless-Digital-Camera-Body/dp/B07H484HLT), are powerful enough to enable you to take still images at resolutions that resemble those provided by 8K cameras. However, the exact date when Canon is going to unveil their first 8K camera is still not known, but if any of the rumors are true it could easily happen that we are going to see the Canon’s first 8K camera in 2020.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Nikon
 
 Even though Nikon is one of the leading camera manufacturers in the world, there are still no 8K Nikon cameras. After Apple’s WWDC event information surfaced that Nikon is developing a new 8K model, but this information has been dismissed as false soon after the event.
@@ -100,18 +106,37 @@ Professional cinematographers don’t need an introduction to Sony’s cameras, 
 
 ![Sony F65 CineAlta 8K Camera](https://images.wondershare.com/filmora/article-images/sony-f65-cineAlta-8k-camera.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 Image resource: Sony
 
 The **1-chip 20MP Super 35mm type** **24.7mm X 13.1mm** **CMOS sensor** enables you to capture videos in 8K, 4K or 2K resolutions. The camera’s **PL lens mount** is standard for all film cameras, which means that you won’t have too much trouble finding the lens you can use with F65 CineAlta.
 
 The camera has **14 stops of exposure latitude**, so if you are shooting RAW video files F65 will utilize the **S-Log3/S-Gamut3 gamma curve** to ensure accurate color depiction. In addition, this 8K camera can capture **275,000,000,000,000 color variations** even while you are shooting in full resolution at 60fps. Unsurprisingly, F65 CineAlta costs more than $60.000, but it is still a great investment for all professional filmmakers in need of a camera that can deliver great performances regardless of the available light.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Ikegami
 
 Ikegami is a well-known manufacturer of professional broadcast cameras, so it comes as no surprise that the first handheld 8K UHD Television Camera System was produced by this Japanese television equipment manufacturer. Their [SHK-810 8K Super Hi-Vision Camera System](https://www.ikegami.com/archives/menu1/shk-810) features a **Super 35mm 33 million-pixel CMOS Sensor** as well as **4,000 TV lines** which enables the camera to capture highly-detailed images.
 
 ![ikegami 8K Super Hi-Vision Camera System](https://images.wondershare.com/filmora/article-images/ikegami-8k-super-hi-vision-camera-system.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 Image resource: ikegami
 
 This broadcast camera has **a PL lens mount with a back-focus adjusting mechanism** that helps the camera operator to keep the image sharp even while recording rapidly moving figures and objects. The SHK-810’s output signal features are equally impressive since you can choose between **SHV Dual Green SDI Interface, 4K SMPTE 424M (3G-SDI) Level B and HD SMPTE 292M** options.
@@ -124,6 +149,11 @@ The list of TV shows and movies shot on RED cameras is seemingly endless and it 
 
 ![Red DSMC2 BRAIN](https://images.wondershare.com/filmora/article-images/red-dsmc2-brain-monstro-8k-w.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 Image resource: red
 
 Furthermore, each of the Red’s 8K cameras can record 8K videos at **60fps** while they also offer the possibility to capture **7K, 6K, 5K or 4K** videos at different frame rates. In addition, these modular cameras are equipped with the **Apple ProRes codecs** that ensure high image quality throughout the video recording and editing processes.
@@ -142,6 +172,9 @@ In addition, Canon and Nikon only offer 50 MP cameras that can capture still ima
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -168,3 +201,50 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-essential-techniques-for-green-screen-shooting-excellence/"><u>[New] 2024 Approved  Essential Techniques for Green Screen Shooting Excellence</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-facebook-avatar-create-your-own-cartoonish-character/"><u>[New] 2024 Approved  Facebook Avatar  Create Your Own Cartoonish Character</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-fixing-photo-booth-lags-for-smoother-playbacks/"><u>[New] 2024 Approved  Fixing Photo Booth Lags for Smoother Playbacks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-humorous-horizons-in-the-virtual-realm-your-meme-making-map/"><u>[New] 2024 Approved  Humorous Horizons in the Virtual Realm - Your Meme-Making Map</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-unlock-your-potential-with-these-leading-cost-free-editions/"><u>[New] 2024 Approved  Unlock Your Potential with These Leading Cost-Free Editions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-bend-the-rules-of-livestreaming-on-youtube-without-a-subscriber-hurdle-for-2024/"><u>[New] Bend the Rules of Livestreaming on YouTube, Without a Subscriber Hurdle for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-from-screenshots-to-art-the-8-best-photo-collage-tools-for-2024/"><u>[New] From Screenshots to Art  The 8 Best Photo Collage Tools for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-how-to-achieve-lightning-fast-periscope-transmission/"><u>[New] In 2024, How to Achieve Lightning-Fast Periscope Transmission</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-insert-audio-files-into-powerpoint-sequences-for-2024/"><u>[New] Insert Audio Files Into PowerPoint Sequences for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-secure-and-updated-altering-numbers-in-tiktok-profiles-for-2024/"><u>[New] Secure and Updated  Altering Numbers in TikTok Profiles for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tales-for-twilight-film-analysis/"><u>[New] Tales for Twilight  Film Analysis</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-ultimate-list-of-no-cost-sound-sites-for-filmmakers/"><u>[New] The Ultimate List of No-Cost Sound Sites for Filmmakers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-ultimate-8-camera-showdown-excellence-in-broadcasting/"><u>[New] Ultimate 8 Camera Showdown  Excellence in Broadcasting</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-hysterics-hub-best-meme-tool/"><u>[Updated] 2024 Approved  Hysterics Hub  Best Meme Tool</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-pinnacle-creation-hub-synopsis-studio-assessment-2023/"><u>[Updated] 2024 Approved  Pinnacle Creation Hub Synopsis, Studio Assessment 2023</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-slick-shots-from-yesteryear-mastering-vhs-hacks-in-modern-edits/"><u>[Updated] 2024 Approved  Slick Shots From Yesteryear  Mastering VHS Hacks in Modern Edits</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-venture-into-virtual-worlds-a-close-look-at-lgs-360-tech/"><u>[Updated] 2024 Approved  Venture Into Virtual Worlds  A Close Look at LG's 360 Tech</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-conquer-video-editing-on-pclaptop-with-inshot-for-2024/"><u>[Updated] Conquer Video Editing on PC/Laptop with Inshot for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-become-a-whatsapp-guru-key-tips-and-tricks-uncovered/"><u>[Updated] In 2024, Become a WhatsApp Guru  Key Tips and Tricks Uncovered</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-easy-steps-for-harvesting-free-video-frames/"><u>[Updated] In 2024, Easy Steps for Harvesting Free Video Frames</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-next-level-livestream-selecting-the-best-360-cameras-for-2024/"><u>[Updated] Next-Level Livestream  Selecting the Best 360° Cameras for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-open-access-mindful-harmonies-for-2024/"><u>[Updated] Open Access Mindful Harmonies for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-revolutionize-video-files-with-instant-fb-to-mp4-and-hd-upgrade-for-2024/"><u>[Updated] Revolutionize Video Files with Instant FB to MP4 & HD Upgrade for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unlocking-the-power-of-photo-editing-in-ps-novice-style/"><u>[Updated] Unlocking the Power of Photo Editing in PS, Novice Style</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-samsung-galaxy-a14-4g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Samsung Galaxy A14 4G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-the-0x80248007-windows-11-update-issue-a-comprehensive-guide/"><u>Fixing the '0X80248007' Windows 11 Update Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-z-flip-5-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy Z Flip 5 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-aerial-units-phylogeny/"><u>In 2024, Aerial Units' Phylogeny</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-from-words-to-memos-iphone-sound-guide/"><u>In 2024, From Words to Memos  IPhone Sound Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo Y200e 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-stop-the-stop-start-prevent-freezing-on-photo-booth/"><u>In 2024, Stop the Stop-Start  Prevent Freezing on Photo Booth</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-streamlining-team-discussions-combining-slack-and-filmora-for-professionals/"><u>In 2024, Streamlining Team Discussions  Combining Slack and Filmora for Professionals</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-smart-choice-essential-steps-in-upgrading-your-tech/"><u>In 2024, The Smart Choice  Essential Steps in Upgrading Your Tech</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-transformative-idea-capture-via-mematic-software/"><u>In 2024, Transformative Idea Capture via Mematic Software</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/navigating-the-nuances-of-sound-reduction-in-pp-projects/"><u>Navigating the Nuances of Sound Reduction in PP Projects</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721473937083-no-need-for-buttons-heres-how-to-restart-your-iphone-anytime-anywhere/"><u>No Need for Buttons? Here's How to Restart Your iPhone Anytime, Anywhere</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-essential-tutorial-for-making-memes-on-9gag/"><u>The Essential Tutorial for Making Memes on 9GAG</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-merits-of-sns-hdr-vs-its-industry-contenders-for-2024/"><u>The Merits of SNS HDR Vs. Its Industry Contenders for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-realme-c55-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Realme C55</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-picks-non-intrusive-android-recorders-for-2024/"><u>Top Picks  Non-Intrusive Android Recorders for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-investigating-the-pinnacle-of-sound-design-software-assessing-the-merits-of-magix-samplitude/"><u>Updated 2024 Approved Investigating the Pinnacle of Sound Design Software Assessing the Merits of MAGIX Samplitude</u></a></li>
+</ul></div>

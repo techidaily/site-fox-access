@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Resource for Mac Users  Unlocking Preview Capabilities\""
-date: 2024-07-12T21:32:31.886Z
-updated: 2024-07-13T21:32:31.886Z
+date: 2024-08-23T04:06:42.923Z
+updated: 2024-08-24T04:06:42.923Z
 tags: 
   - screen-recording
   - ai video
@@ -64,6 +64,9 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -80,6 +83,9 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -92,6 +98,9 @@ Use the method explained above to open the photo in Preview.
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Add Text to Image in Preview
 
 The **Preview app** even lets you annotate the images with ease. To add text to a photo:
@@ -108,6 +117,9 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -124,6 +136,9 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -186,6 +201,9 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -212,3 +230,53 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-groundwork-on-image-detail-a-novices-reference/"><u>[New] 2024 Approved  Groundwork on Image Detail  A Novice's Reference</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-masterclass-in-image-cleanup-remove-unwanted-surroundings/"><u>[New] 2024 Approved  Masterclass in Image Cleanup  Remove Unwanted Surroundings</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-picture-in-picture-pro-optimizing-your-viewing-with-netflixs-floating-window-feature/"><u>[New] 2024 Approved  Picture-in-Picture Pro  Optimizing Your Viewing with Netflix's Floating Window Feature</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-skip-unwanted-podcast-advice-on-the-spotify-app/"><u>[New] 2024 Approved  Skip Unwanted Podcast Advice on the Spotify App</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-androids-power-for-pause-how-to-create-amazing-time-lagged-footage-for-2024/"><u>[New] Android's Power for Pause  How to Create Amazing Time-Lagged Footage for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-boost-your-creative-edge-on-instagram-with-more-free-filters/"><u>[New] Boost Your Creative Edge on Instagram with More Free Filters</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-best-4k-laptops-ultimate-gaming-edition/"><u>[New] In 2024, Best 4K Laptops - Ultimate Gaming Edition</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-boosting-collaboration-essential-zoom-video-alterations/"><u>[New] In 2024, Boosting Collaboration  Essential Zoom Video Alterations</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-cinema-chronicles-the-quintessential-cinematographic-tips-for-24/"><u>[New] In 2024, Cinema Chronicles  The Quintessential Cinematographic Tips for '24</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-exclusive-selection-of-high-caliber-free-luts/"><u>[New] In 2024, Exclusive Selection of High-Caliber Free LUTs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-jaunt-vr-unleashed-an-in-depth-look-for-2024/"><u>[New] Jaunt VR Unleashed  An In-Depth Look for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-ultimate-guide-integrating-visuals-into-windows-10-with-finesse/"><u>[New] Ultimate Guide  Integrating Visuals Into Windows 10 with Finesse</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-become-a-zoom-champion-in-minutes/"><u>[Updated] 2024 Approved  Become a Zoom Champion in Minutes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-curating-the-perfect-mix-a-youtube-playlist-manual/"><u>[Updated] 2024 Approved  Curating the Perfect Mix  A Youtube Playlist Manual</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-digital-filmmakers-guide-converting-avi-media-to-compact-gif-format-in-filmora/"><u>[Updated] 2024 Approved  Digital Filmmakers' Guide  Converting AVI Media to Compact GIF Format in Filmora</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-stories-harmonizing-photos-for-maximum-impact/"><u>[Updated] 2024 Approved  Instagram Stories  Harmonizing Photos for Maximum Impact</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-pro-iphone-hdr-photos-made-easy/"><u>[Updated] 2024 Approved  Pro iPhone HDR Photos Made Easy</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-ultimate-checklist-for-nfl-live-broadcasting/"><u>[Updated] 2024 Approved  The Ultimate Checklist for NFL Live Broadcasting</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-enthusiastic-exchanges-chatting-with-your-subscribers-for-2024/"><u>[Updated] Enthusiastic Exchanges  Chatting With Your Subscribers for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-essential-15-film-look-up-tables-for-gopro-videos/"><u>[Updated] Essential 15 Film Look-Up Tables for GoPro Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-lightning-fast-fileshare-on-windows-os/"><u>[Updated] Lightning-Fast Fileshare on Windows OS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-maximize-mp4-audio-quality-with-srt-integration-your-comprehensive-guide-for-2024/"><u>[Updated] Maximize MP4 Audio Quality with SRT Integration - Your Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-quick-start-zooming-into-success-with-win11/"><u>[Updated] Quick Start  Zooming Into Success with Win11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-sj7s-pioneering-tech-in-the-action-space-a-complete-4k-starcam-review/"><u>[Updated] SJ7's Pioneering Tech in the Action Space  A Complete 4K Starcam Review</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-art-of-mastering-funimate-for-2024/"><u>[Updated] The Art of Mastering Funimate for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-efficient-editing-for-quick-youtube-content/"><u>2024 Approved  Efficient Editing for Quick YouTube Content</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-instagram-live-with-professional-obs/"><u>2024 Approved  Instagram Live with Professional OBS</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtubes-image-files-made-simple-online-desktop-and-terminal-steps/"><u>2024 Approved  Youtube’s Image Files Made Simple  Online, Desktop & Terminal Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-critique-on-analogies-between-internet-and-library-paradigms-within-academic-discourse/"><u>A Critique on Analogies Between Internet and Library Paradigms Within Academic Discourse</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bringing-text-to-life-3d-creation-in-photo-for-2024/"><u>Bringing Text to Life  3D Creation in PHOTO for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fun-on-a-budget-meme-creators-handbook-for-2024/"><u>Fun on a Budget – Meme Creator’s Handbook for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/how-to-unlock-mac-with-apple-watch-sierra-for-2024/"><u>How to Unlock Mac with Apple Watch [Sierra] for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-nubia-red-magic-8s-proplus-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Nubia Red Magic 8S Pro+ PC | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-attention-stirrer-supreme/"><u>In 2024, Attention Stirrer Supreme</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-essential-online-hubs-for-got-audio-download/"><u>In 2024, Essential Online Hubs for GoT Audio Download</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-finding-the-funny-10-best-meme-blueprints-unveiled/"><u>In 2024, Finding the Funny  #10 Best Meme Blueprints Unveiled</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-parable-pioneers-guild-premier-peak/"><u>In 2024, Parable Pioneers Guild – Premier Peak</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-picking-the-top-action-cam-gopro-or-sony-fdr-x1000v/"><u>In 2024, Picking the Top Action Cam  GoPro or Sony FDR-X1000V?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-depth-zoom-guidance-for-virtual-team-spaces-in-msteams/"><u>In-Depth Zoom Guidance for Virtual Team Spaces in MSTEAMS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/perfect-every-moment-incorporating-captions-in-instagram-footage/"><u>Perfect Every Moment  Incorporating Captions in Instagram Footage</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ready-set-edit-top-15-fast-and-fun-tricks-to-use-in-pixlr/"><u>Ready, Set, Edit! Top 15 Fast and Fun Tricks to Use in Pixlr</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tactics-for-pinpointing-ideal-podcast-debut-days/"><u>Tactics for Pinpointing Ideal Podcast Debut Days</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-ultimate-screen-time-treasure-summers-top-10-gems-for-2024/"><u>The Ultimate Screen Time Treasure  Summer’s Top 10 Gems for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/time-travel-through-free-visual-storerooms-for-2024/"><u>Time Travel Through Free Visual Storerooms for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-10-strategies-how-utilizing-chatgpt-can-boost-your-linkedin-employment-opportunities/"><u>Top 10 Strategies: How Utilizing ChatGPT Can Boost Your LinkedIn Employment Opportunities</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/your-portal-to-creative-inspiration-mastering-pexels/"><u>Your Portal to Creative Inspiration  Mastering Pexels</u></a></li>
+</ul></div>

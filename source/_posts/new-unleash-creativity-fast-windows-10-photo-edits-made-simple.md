@@ -1,0 +1,153 @@
+---
+title: "\"[New] Unleash Creativity Fast  Windows 10 Photo Edits Made Simple\""
+date: 2024-08-23T04:31:29.801Z
+updated: 2024-08-24T04:31:29.801Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+  - ai auto
+categories: 
+  - ai
+  - screen
+description: "\"This Article Describes [New] Unleash Creativity Fast: Windows 10 Photo Edits Made Simple\""
+excerpt: "\"This Article Describes [New] Unleash Creativity Fast: Windows 10 Photo Edits Made Simple\""
+keywords: "Quick Photo Editing Win10,Windows Photo Tools,Easy Win10 Image Enhance,Simplify Win10 Imagery,Accelerate Win10 Creativity,Fast Photo Edit on Windows,Simple Win10 Photo Correction"
+thumbnail: https://thmb.techidaily.com/b865d1fe2bcace495751c454db93866647380420be6c31ae58cdceea73012a33.jpg
+---
+
+## Unleash Creativity Fast: Windows 10 Photo Edits Made Simple
+
+# How to Easily and Quickly Draw on Photos App in Windows 10
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+The Photos app in Windows 10 is one of the best and with the addition of the drawing tools to this app, it has become even better. The recent update on Photos app allows you to upload, crop, rotate and add various kinds of Filters. You may open this app and use pencils, markers, and pen to draw on this drawing tool. This animation or static image with text can be shared on the social media platforms. The drawings on the images get recorded and video clips are created out of it. The actions made by you are replayed in the clips for the viewers to see. But, do you know how to draw on Photos in Windows 10? Let’s learn and explore.
+
+* [**Part1: How to Draw On Photos App in Windows 10**](#part1)
+* [**Part2: How to Draw on Photos Online**](#part2)
+
+## Part 1: How to Draw On Photos App in Windows 10
+
+When you can add a personal touch to your videos and photos, it becomes all the way more special. Many times, it becomes essential to add a note to explain a video in a better way. Here are the steps to draw on photos in Windows 10 –
+
+* Firstly, open a video or a photo from your phone gallery
+* Select the **Edit and Create** option and click on Draw
+
+![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/draw-on-photos-in-windows-10.jpg)
+
+* You can see a Windows Ink Toolbar, select your preferred pen from the options available
+* Select the size and color of the fonts you wish to use from a range of palette
+
+![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/start-drawing-on-photos-in-windows-10.jpg)
+
+* Draw on the images and videos effortlessly
+* You can also find an eraser tool with various sizes of erasers that allows you to erase your entire drawing or a part of it as per your choice when required
+
+When you draw on the image or video, the ink can be attached to a particular object or person within the video. As you move the camera angle or the object, the ink stays or moves along. You just need to select the anchor icon and link it to the object in the video.
+
+## Part 2: How to Draw on Photos Online
+
+Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lunapic.com/editor/?action=draw) is one such tool that lets you draw on your photos easily online. It is more of a paint tool that lets you edit, adjust, draw borders, add filters, effects, art, animation, and more. It has more than 200 effects option to choose from. To draw on photos online with LunaPic, follow the below-mentioned steps-
+
+* Open the LunaPic page and upload the image on which you wish to add text
+* Select Draw from the various options available at the header of the page
+* You can see a range of options when you click on Draw, but you need to select the drawing tool
+* You get 7 options for tool selection – filled polygon, filled ellipse, ellipse, filled rectangle, rectangle, straight line, and free hand pencil. Select the free hand pencil option
+
+![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/lunapic-drawing.jpg)
+
+* Select the color from the range of palette available
+* Select the pen size using the given number scroll option
+* Click on apply if you are all set to draw or click on clear if you wish to make changes
+
+![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/editing-drawings-on-windows-10.jpg)
+
+* To save your drawing on the image, you must click on Apply after each action you make with the tool
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Conclusion
+
+The Photos app has an interface that is restructured with dark theme options and new drawing and editing features making it a great tool. If you want to draw on Photos in Windows 10, follow the above steps and make your actions easier. If you want to have more options to edit videos with drawing in Windows 10, why not choose [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)? You can edit your video with various drawing and text style.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/he-easy-way-to-embed-youtube-into-google-slides/"><u>[New] The Easy Way to Embed YouTube Into Google Slides</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-laughterlink-join-now-and-start-your-journey/"><u>[Updated] In 2024, LaughterLink  Join Now & Start Your Journey</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-a-critique-of-vivas-video-capabilities/"><u>2024 Approved  A Critique of Viva's Video Capabilities</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-affordable-high-quality-asmr-recording-devices-revealed/"><u>2024 Approved  Affordable, High-Quality ASMR Recording Devices Revealed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-creative-composition-concepts-fostering-joyful-spaces/"><u>2024 Approved  Creative Composition Concepts  Fostering Joyful Spaces</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-evaluating-virtual-realms-pros-and-cons/"><u>2024 Approved  Evaluating Virtual Realms  Pros and Cons</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-how-to-make-a-good-podcast-trailer/"><u>2024 Approved  How To Make A Good Podcast Trailer</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-image-enhancement-101-text-addition-for-pc-and-mac-users/"><u>2024 Approved  Image Enhancement 101  Text Addition for PC and Mac Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-isolating-photographs-within-windows-10-movie-files/"><u>2024 Approved  Isolating Photographs Within Windows 10 Movie Files</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-leading-gallery-archive-services/"><u>2024 Approved  Leading Gallery Archive Services</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-mastering-the-art-of-restoring-past-reddit-articles/"><u>2024 Approved  Mastering the Art of Restoring Past Reddit Articles</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-soaring-past-competitors-mastering-drone-racing-and-best-fpv-drones/"><u>2024 Approved  Soaring Past Competitors  Mastering Drone Racing and Best FPV Drones</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-streaming-high-quality-vr-videos-made-easy-for-ios-users/"><u>2024 Approved  Streaming High-Quality VR Videos Made Easy for IOS Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-streaming-video-evaluation-report/"><u>2024 Approved  Streaming Video Evaluation Report</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-path-to-artistic-expression-discover-free-tools-for-voice-modification/"><u>2024 Approved  The Path to Artistic Expression – Discover Free Tools for Voice Modification</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-ultimate-guide-to-freebie-animation-tools/"><u>2024 Approved  The Ultimate Guide to Freebie Animation Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-ultimate-guide-to-night-photos-on-iphones/"><u>2024 Approved  The Ultimate Guide to Night Photos on iPhones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-enhancements-in-sonys-s6500-bdhd-player/"><u>2024 Approved  Unveiling Enhancements in Sony's S6500 BD/HD Player</u></a></li>
+<li><a href="https://fox-access.techidaily.com/5-reddit-marketing-tips-that-will-turn-beginners-into-experts-for-2024/"><u>5 Reddit Marketing Tips that Will Turn Beginners Into Experts for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/a-comprehensive-list-of-15-competitors-to-gopro-cameras/"><u>A Comprehensive List of 15 Competitors to GoPro Cameras</u></a></li>
+<li><a href="https://fox-access.techidaily.com/advanced-strategies-for-enhancing-vhs-images-digitally/"><u>Advanced Strategies for Enhancing VHS Images Digitally</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-nokia-c300-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Nokia C300? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/beyond-illusion-vr-timeline-explored/"><u>Beyond Illusion  VR Timeline Explored</u></a></li>
+<li><a href="https://fox-access.techidaily.com/beyond-the-screen-a-dive-into-vr-filmmaking/"><u>Beyond the Screen  A Dive Into VR Filmmaking</u></a></li>
+<li><a href="https://fox-access.techidaily.com/boosting-productivity-with-zoom-and-a-chromebook-for-2024/"><u>Boosting Productivity with Zoom and a Chromebook for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/broadcast-battlegrounds-where-does-streaming-technology-stand-strongest-for-2024/"><u>Broadcast Battlegrounds  Where Does Streaming Technology Stand Strongest for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/cheapest-cosmic-storage-service-large-files-on-the-low-for-2024/"><u>Cheapest Cosmic Storage Service  Large Files on the Low for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/complete-rundown-how-google-podcast-works/"><u>Complete Rundown  How Google Podcast Works</u></a></li>
+<li><a href="https://fox-access.techidaily.com/comprehensive-tutorial-on-gdocs-voice-to-text-feature/"><u>Comprehensive Tutorial on GDoc's Voice-to-Text Feature</u></a></li>
+<li><a href="https://fox-access.techidaily.com/decoding-upgrades-to-macos-11-big-surs-core-features/"><u>Decoding Upgrades to macOS 11 Big Sur's Core Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-system-analysis-widgets-for-hardware-monitoring/"><u>Enhancing System Analysis: Widgets for Hardware Monitoring</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-huawei-p10s-user-interface-and-usability-for-2024/"><u>Exploring the Huawei P10's User Interface & Usability for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/how-to-make-an-emoji-of-yourself-on-mobile-emoji-yourself/"><u>How to Make an Emoji of Yourself on Mobile ? Emoji Yourself</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock iPhone 13 Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-boost-your-media-library-top-20-freeware-tools-turning-instagram-videos-into-mp4/"><u>In 2024, Boost Your Media Library  Top 20 Freeware Tools Turning Instagram Videos Into MP4</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-key-steps-to-composing-engaging-youtube-video-plans/"><u>In 2024, The Key Steps to Composing Engaging YouTube Video Plans</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-convert-mp4-to-mp3-top-tools-for-easy-audio-extraction/"><u>New 2024 Approved Convert MP4 to MP3 Top Tools for Easy Audio Extraction</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unreal-engine-at-risk-post-d3d-loss/"><u>Unreal Engine at Risk Post-D3D Loss</u></a></li>
+</ul></div>
