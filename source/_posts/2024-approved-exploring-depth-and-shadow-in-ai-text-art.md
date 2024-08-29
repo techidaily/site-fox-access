@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Exploring Depth and Shadow in AI Text Art\""
-date: 2024-07-12T21:21:05.329Z
-updated: 2024-07-13T21:21:05.329Z
+date: 2024-08-28T10:57:09.875Z
+updated: 2024-08-29T10:57:09.875Z
 tags: 
   - screen-recording
   - ai video
@@ -66,6 +66,15 @@ Step8 Now, all left to do is experiment with the settings in this panel and adju
 
 Step9 Finally, it's time to export the image, and you're all done.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## Best Alternative Way to Create 3D Text Animation
 
 You might not believe it, but there's an even more accessible and less expensive way to create 3D text effects. You can use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Compared to Illustrator, Filmora is much better for beginners and more affordable.
@@ -90,10 +99,16 @@ Step3 Double-click on the 3D title layer you dragged into the Timeline. When the
 
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Both programs will get the job done if you use Adobe Illustrator or Filmora for your 3D text effect. The main difference is that it will be easier with Filmora. The choice is yours. Have fun!
@@ -112,14 +127,23 @@ Step2 Head to the **Titles** tab and search for the **“3D Illustration**” ti
 
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
 
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Both programs will get the job done if you use Adobe Illustrator or Filmora for your 3D text effect. The main difference is that it will be easier with Filmora. The choice is yours. Have fun!
@@ -149,3 +173,49 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-detailed-guide-to-googles-voice-to-text-service-features-and-usage/"><u>[New] 2024 Approved  Detailed Guide to Google's Voice-to-Text Service Features and Usage</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-find-the-perfect-phone-shot-blur/"><u>[New] 2024 Approved  Find the Perfect Phone Shot Blur</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-illuminating-emotions-an-hdr-portraitists-guide/"><u>[New] 2024 Approved  Illuminating Emotions  An HDR Portraitist's Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-innovative-5-mobile-photo-editing-tools-background-switcher/"><u>[New] 2024 Approved  Innovative 5 Mobile Photo Editing Tools  Background Switcher</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-cloud-storage-apps-on-android-2024/"><u>[New] Best Cloud Storage Apps on Android 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-cutting-edge-virtuosity-30plus-metaverse-expressions-arvr/"><u>[New] Cutting-Edge Virtuosity  30+ Metaverse Expressions [AR/VR]</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-from-camera-to-feed-ig-photo-tutorial/"><u>[New] In 2024, From Camera to Feed  IG Photo Tutorial</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-navigating-the-insider-features-of-zoom-software-for-windows-11/"><u>[New] In 2024, Navigating the Insider Features of Zoom Software for Windows 11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-simplifying-typeface-addition-for-enhanced-creativity-in-ae/"><u>[New] In 2024, Simplifying Typeface Addition for Enhanced Creativity in AE</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-top-10-android-and-ios-wedding-timers-latest-app-rankings/"><u>[New] In 2024, Top 10 Android & iOS Wedding Timers  Latest App Rankings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-interactive-illusions-vr-storytelling/"><u>[New] Interactive Illusions  VR Storytelling</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-learn-audio-recording-in-audacity-with-your-mac-for-2024/"><u>[New] Learn Audio Recording in Audacity with Your Mac for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ust-know-facts-for-asmr-enthusiasts-for-2024/"><u>[New] Must-Know Facts for ASMR Enthusiasts for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-out-of-obscurity-reversing-tiktoks-stealth-ban-for-2024/"><u>[New] Out of Obscurity  Reversing TikTok's Stealth Ban for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-perfect-process-for-embedding-youtube-playlists-on-websites-efficiently/"><u>[New] Perfect Process for Embedding YouTube Playlists on Websites Efficiently</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-superior-selection-ultimate-cloud-storage-picks-for-2024/"><u>[New] Superior Selection  Ultimate Cloud Storage Picks for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-science-of-quadcopters-understanding-their-flight-patterns-for-2024/"><u>[New] The Science of Quadcopters  Understanding Their Flight Patterns for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-voice-maestros-toolkit-free-applications-to-enrich-your-auditory-palette/"><u>[New] The Voice Maestro's Toolkit  Free Applications to Enrich Your Auditory Palette</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-top-nvidia-and-amd-gpus-for-4k-workstations/"><u>[New] Top NVIDIA & AMD GPUs for 4K Workstations</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-shopping-smart-with-drones-what-you-need-to-think-about-first/"><u>[Updated] 2024 Approved  Shopping Smart with Drones  What You Need to Think About First</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-easy-tweaks-changing-fishy-vocal-patterns-on-windows-for-2024/"><u>[Updated] Easy Tweaks  Changing Fishy Vocal Patterns on Windows for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-full-review-of-picsart-app-a-step-by-step-guide/"><u>[Updated] Full Review of PicsArt App - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-box-it-up-right-10-online-haunts-for-tailored-gift-boxes/"><u>[Updated] In 2024, Box It Up Right  10 Online Haunts for Tailored Gift Boxes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-luminance-in-hd-boost-or-bust-in-hdr-world/"><u>[Updated] In 2024, Luminance in HD  Boost or Bust in HDR World?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-master-the-art-of-cinematic-vibrance-top-11-post-production-insights/"><u>[Updated] In 2024, Master the Art of Cinematic Vibrance  Top 11 Post-Production Insights</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-photoshop-stabilizers-role-crucial-for-creatives/"><u>[Updated] In 2024, Photoshop Stabilizer's Role - Crucial for Creatives?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-splurging-less-with-low-cost-vr-technology-china/"><u>[Updated] In 2024, Splurging Less with Low-Cost VR Technology (China)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-turn-back-the-tape-on-twitch-broadcasting/"><u>[Updated] In 2024, Turn Back the Tape on Twitch Broadcasting</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-vid-lifting-made-simple-top-5-free-downloaders-for-pinterest-users/"><u>[Updated] In 2024, Vid Lifting Made Simple  Top 5 Free Downloaders for Pinterest Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-mastering-multitasking-firefox-picture-in-picture-explained/"><u>[Updated] Mastering Multitasking  Firefox Picture-in-Picture Explained</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-prevent-social-discomfort-block-options/"><u>[Updated] Prevent Social Discomfort  Block Options</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-sky-excellence-best-add-ons-for-your-phantom-4-drone/"><u>[Updated] Sky Excellence  Best Add-Ons for Your Phantom 4 Drone</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-ace-subtitles-conversion-the-best-free-services-listed/"><u>2024 Approved  Ace Subtitles Conversion  The Best Free Services Listed</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/analyzing-the-goofy-journey-vhs-review-insights/"><u>Analyzing 'The Goofy Journey'  VHS Review Insights</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/cost-effective-wireless-booster-an-in-depth-analysis-of-the-tp-link-re200-ac750-range-extender/"><u>Cost-Effective Wireless Booster: An In-Depth Analysis of the TP-Link RE200 AC750 Range Extender</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/docooler-usb-20-with-12-mp-sensor-a-thorough-camera-review-and-assessment/"><u>Docooler USB 2.0 with 12 MP Sensor - A Thorough Camera Review & Assessment</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/download-and-stream-videos-anytime-top-alternatives-to-keepvid-for-pc-and-mac-users/"><u>Download and Stream Videos Anytime: Top Alternatives to KeepVid for PC & Mac Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-max-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro Max to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-layer-chords-over-ppt-slides/"><u>In 2024, Layer Chords over PPT Slides</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-user-friendly-budget-optimizing-passport-photo-creators/"><u>In 2024, Top 10 User-Friendly, Budget-Optimizing Passport Photo Creators</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-visual-harmony-in-grids-the-top-10-photo-choices/"><u>In 2024, Visual Harmony in Grids  The Top 10 Photo Choices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/step-by-written-by-john-smith-phd-for-2024/"><u>Step-By Written by John Smith, PhD for 2024</u></a></li>
+</ul></div>

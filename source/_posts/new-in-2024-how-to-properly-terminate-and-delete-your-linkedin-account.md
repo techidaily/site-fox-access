@@ -1,0 +1,162 @@
+---
+title: "[New] In 2024, How to Properly Terminate and Delete Your LinkedIn Account"
+date: 2024-08-28T11:07:17.705Z
+updated: 2024-08-29T11:07:17.705Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+  - ai auto
+categories: 
+  - ai
+  - screen
+description: "This Article Describes [New] In 2024, How to Properly Terminate and Delete Your LinkedIn Account"
+excerpt: "This Article Describes [New] In 2024, How to Properly Terminate and Delete Your LinkedIn Account"
+keywords: "\"Ending LinkedIn: Guide,LinkedIn Deactivation,Close LinkedIn Safely,LinkedIn Cancellation Steps,Exiting LinkedIn Properly,Disconnect From LinkedIn,Delete LinkedIn Accounts\""
+thumbnail: https://thmb.techidaily.com/5cbb31b0aa89284f511ea895d4dc406591717af976dec90561d5751a6efa2298.jpg
+---
+
+## How to Properly Terminate and Delete Your LinkedIn Account
+
+# How Do I Delete Or Close My Old LinkedIn Account (Solved)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+ LinkedIn is considered one of the best when the social network and its privacy policy is being discussed. In spite of the great user controls and policies, people often hold back and do not wish LinkedIn to harvest data.
+
+ There are also many who are not able to use the tool or the platform and wishes to **delete LinkedIn account**. There are also few who are unaware how to edit the LinkedIn account and find it easier to remove the existing account to create a new one.
+
+ Whatever be your requirement or problem, if you want to **cancel LinkedIn account** it is quite simple and does not involve much of your time or understanding. Do you know how to close LinkedIn account? With this article learn how to delete LinkedIn account on Android phone and computer.
+
+* [**Part1: Notes You Need To Know**](#part1)
+* [**Part2: How to Delete LinkedIn Account on PC**](#part2)
+* [**Part3: How To Close Linkedin Account On Android Phone**](#part3)
+
+## Part1: Notes You Need To Know
+
+ Here are some of the points which you may find important prior to deleting your LinkedIn account. Just remember the following notes so that you are not confused why is your profile appearing in search engines even after closing it or why are you unable to close your premium membership account, and so on.
+
+* Once you delete LinkedIn account, the profile will be removed from the LinkedIn account but your information may be temporarily displayed on the search engines.
+* Do you have a premium membership on LinkedIn? In such a situation, you first have to cancel LinkedIn account premium membership and continue with the free basic membership or delete LinkedIn account.
+* You will not be able to contact any of your Connections.
+* Your collected endorsements and recommendations on the LinkedIn profile will be lost.
+* A copy of your LinkedIn data can be downloaded if you want.
+* Do you have more than one LinkedIn account? You may merge or delete LinkedIn account.
+* Reopening your LinkedIn account is possible within 20days but the data like recommendations, pending invitations, followings, or group memberships will be lost.
+
+## Part2: How to Delete LinkedIn Account on PC
+
+**Step 1:** To delete LinkedIn account, sign in by entering the username and the password. On the top right hand side corner, you can find the "Me" tab. From the "Me" tab drop down menu, you can go to Settings & Privacy. Now, under the "Account" tab find the "Account Management" option.
+
+![linkedin privacy](https://images.wondershare.com/filmora/article-images/linkedin-privacy.JPG)
+
+**Step 2:** Next, to "Close your LinkedIn account" find the "Change" option and click on it. You will get a warning if you are a premium member that without canceling the premium membership, you cannot close LinkedIn account. Click on "You’ll need to convert it to a Basic membership" option to reach the membership cancelation page.
+
+![close linkedin accout](https://images.wondershare.com/filmora/article-images/close-linkedin-account.JPG)
+
+**Step 3:** Then, you need to click on the answer why you wish to delete LinkedIn account from the options available like I have a duplicate account, I'm getting too many emails, I'm not getting any value from my membership, I have a privacy concern, I'm receiving unwanted contact, and Other. At the bottom of the page, click on "Next". You are asked to enter your password. Now, click on Close "Close Account".
+
+![linkedin click answer](https://images.wondershare.com/filmora/article-images/linkedin-click-answer.JPG)
+
+ This automatically deletes LinkedIn account officially but, it takes few more weeks to remove LinkedIn account from the search engines as well.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part3: How To Close Linkedin Account On Android Phone
+
+ If you wish to close LinkedIn account on Android phone, there’s nothing to worry about. It is very similar to how you delete LinkedIn account on PC.
+
+1. At first, tap on the LinkedIn app and then click on the displayed profile picture. Next, on the top right corner you can find the Settings tab, tap on it. From the Account icon, click on Close Account.
+
+![linkedin android setting](https://images.wondershare.com/filmora/article-images/linkedin-android-setting.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
+2. A message appears if you wish to "continue", so tap on the continue option.Once you click on the continue option, a similar message like the above in delete LinkedIn account from PC appears as to why you wish to close LinkedIn account. Click on any one reason for leaving LinkedIn and then, proceed to tap "Next". It asks for your password to ensure it’s you and for the security of your account and once entering the password is complete, tap "done".
+
+![linkedin android close account](https://images.wondershare.com/filmora/article-images/linkedin-android-close-account.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
+## Conclusion
+
+ LinkedIn is not rigid about deleting the account or losing a user. It is completely up to you and your convenience, if you wish to remove LinkedIn account completely. Whether mobile browser or Android phone or your computer, the process to cancel LinkedIn account is quite simple and does not involve much of any critical steps. Follow the above points to delete LinkedIn account from your PC or Android.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-free-srt-translation-leaders-a-select-8-guide-for-2024/"><u>[New] Free SRT Translation Leaders  A Select 8 Guide for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-from-speech-to-text-your-all-inclusive-gdoc-training-guide/"><u>[New] In 2024, From Speech to Text  Your All-Inclusive GDoc Training Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-ultimate-blur-apps-for-clearer-phone-images/"><u>[New] In 2024, The Ultimate Blur Apps for Clearer Phone Images</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-mastery-guide-on-the-world-of-voice-recordings/"><u>[New] Mastery Guide on the World of Voice Recordings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-rapid-capture-visuals-and-voices-together-for-2024/"><u>[New] Rapid Capture  Visuals & Voices Together for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-selecting-the-best-5-monitors-for-ps5-games/"><u>[New] Selecting the Best 5 Monitors for PS5 Games</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-snapchat-tips-uploading-twitter-videos-for-max-impact-for-2024/"><u>[New] SnapChat Tips  Uploading Twitter Videos for Max Impact for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-ironclad-guide-to-bio-and-profile-url-association-in-tiktok-for-2024/"><u>[New] The Ironclad Guide to Bio and Profile URL Association in TikTok for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nlocking-video-content-free-downloader-apps-guide-for-2024/"><u>[New] Unlocking Video Content  Free Downloader Apps Guide for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-what-makes-a-viral-video-the-tiktok-twitter-link-for-2024/"><u>[New] What Makes a Viral Video  The TikTok-Twitter Link for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-exclusive-list-of-cost-free-video-downloaders-from-pinterest/"><u>[Updated] 2024 Approved  Exclusive List of Cost-Free Video Downloaders From Pinterest</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-fusionvisualizer-ipadplusmacmedia-combining-tool/"><u>[Updated] 2024 Approved  FusionVisualizer  IPad+MacMedia Combining Tool</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-best-mp4-to-facebook-converter/"><u>[Updated] Best MP4 to Facebook Converter</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-enhancing-photo-stability-with-the-right-gimbal/"><u>[Updated] Enhancing Photo Stability with the Right Gimbal</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-innovative-cameras-of-2024-the-ultimate-rundown/"><u>[Updated] Innovative Cameras of 2024  The Ultimate Rundown</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-omniview-app-critical-look-over/"><u>[Updated] OmniView App Critical Look-Over</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-pajama-plots-performed-a-critical-study-of-bedtime-storytelling-vids/"><u>[Updated] Pajama Plots Performed  A Critical Study of Bedtime Storytelling Vids</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-pro-zoom-functionality-tips-for-chromebook-devices/"><u>[Updated] Pro Zoom Functionality Tips for Chromebook Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-strategies-to-remove-dull-backgrounds-from-pictures/"><u>[Updated] Strategies to Remove Dull Backgrounds From Pictures</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unlock-social-media-success-a-comprehensive-10-step-plan/"><u>[Updated] Unlock Social Media Success  A Comprehensive 10-Step Plan</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-discover-poi-delights-in-instant-from-coffee-shops-to-concert-venues/"><u>2024 Approved  Discover POI Delights in Instant, From Coffee Shops to Concert Venues</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-screenshot-success-mastering-instagrams-preferred-video-format-with-fcpx/"><u>2024 Approved  Screenshot Success  Mastering Instagram's Preferred Video Format with FCPX</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-viral-vignette-visor/"><u>2024 Approved  Viral Vignette Visor</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-realme-c67-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Realme C67 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-update-hp-officejet-5255-printer-drivers-download-now/"><u>Easy Guide to Update HP Officejet 5255 Printer Drivers - Download Now!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/elite-web-based-voice-recorders-the-best-of-2023/"><u>Elite Web-Based Voice Recorders - The Best of 2023</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-restarting-your-pc-with-a-hard-reboot-on-windows-11/"><u>Guide to Restarting Your PC with a Hard Reboot on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-nubia-red-magic-8s-proplus-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Nubia Red Magic 8S Pro+ Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-gifs-that-speak-volumes-unveiling-6-critical-strategies-for-memetic-design/"><u>In 2024, GIFs That Speak Volumes  Unveiling 6 Critical Strategies for Memetic Design</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oneplus-11-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on OnePlus 11 5G Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-oppo-f25-pro-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Oppo F25 Pro 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-apple-iphone-se-5-ways-to-get-into-a-locked-apple-iphone-se-drfone-by-drfone-ios/"><u>Locked Out of Apple iPhone SE? 5 Ways to get into a Locked Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/mastering-kinemaster-written-in-5-steps-plus-best-digital-editors-online-for-2024/"><u>Mastering KineMaster' Written in 5 Steps + Best Digital Editors Online for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/seamless-podcast-experience-for-iphone-users-for-2024/"><u>Seamless Podcast Experience for iPhone Users for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/step-by-step-guide-to-create-flawless-animation-movies/"><u>Step-by-Step Guide to Create Flawless Animation Movies</u></a></li>
+<li><a href="https://fox-access.techidaily.com/toonbox-complete-insight-for-24-year-for-2024/"><u>ToonBox Complete Insight for '24 Year for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-8-tv-streaming-platforms-you-cant-miss/"><u>Top 8 TV Streaming Platforms You Can't Miss</u></a></li>
+</ul></div>
