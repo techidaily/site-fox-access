@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, The Power of the Podium  Mastering Audio in Videography\""
-date: 2024-09-01T15:04:36.596Z
-updated: 2024-09-02T15:04:36.597Z
+date: 2024-09-06T05:05:22.882Z
+updated: 2024-09-07T05:05:22.882Z
 tags: 
   - screen-recording
   - ai video
@@ -16,6 +16,12 @@ keywords: "Audio Mastery Videograbbing,Podium Audio Influence,Video Podium Techn
 thumbnail: https://thmb.techidaily.com/30d2a20c84a301395b600ba93cb77523eb9f5d9c595c4e33a41955717da718a0.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Power of the Podium: Mastering Audio in Videography
 
 Ah, the infamous voiceover. Some filmmakers hate it -- considering it a lazy method of telling a story. But it's actually quite helpful to understand when, and how to include voiceovers and narrations in your video project.
@@ -24,6 +30,12 @@ And when you learn how to use this technique the right way, your YouTube videos 
 
 I'll be demonstrating how to add voiceovers and narrations in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to help you step up your video creation game.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Voiceover or Narration?
 
 But first, what's the difference between a voiceover and a narration? Truth be told, there is quite a bit of overlap between the two.
@@ -44,18 +56,36 @@ But here's the good news: the way you add either option is the same in Filmora.
 
 ![add either option](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to add narration
 
 So the easiest way to add narration is directly to a project. The benefit of this is that you can record your narration inside Filmora while you watch the preview of your edited video.
 
 ![add narration to project](https://images.wondershare.com/filmora/guide/stt-tts-srt-09.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 A good example of this would be narrating a story on top of some still images and video clips from a recent vacation. (In most cases you would want to turn off the sound of the video clip, or at least use ducking to help the viewer focus on the narration.)
 
 You put the playhead where you want to start recording and hit the microphone icon under the preview window.
 
 ![hit microphone icon](https://images.wondershare.com/filmora/guide/stt-tts-srt-08.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 A 3-second countdown will pop up and start recording immediately after this countdown.
 
 You can record your narration and click stop.
@@ -63,7 +93,16 @@ You can record your narration and click stop.
 After recording, you can trim and edit your narration, you can delete it and record it again, and can move it and edit it like any other feature.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Some Tips for Recording Narration
 
@@ -75,9 +114,6 @@ You can edit pauses or weak parts out of the voiceover to trim it up. But if it 
 
 Fortunately, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) comes equipped with video b-roll which is another great option. When using b-roll, it's better to use multiple shorter clips than one longer clip in most cases. But adding the same b-roll clip near the beginning and another section of the same b-roll clip, later on, should help you match the length of your narration to the video timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Narration is a great storytelling device
 
 Narration is a fantastic tool to have in your arsenal as a young filmmaker. It allows you to quickly communicate feelings, backstory, and context quickly and effectively.
@@ -86,23 +122,14 @@ Practice adding it to your videos to see how it adds depth and dimension to your
 
 It can also help make a connection with your audience because you can be relating to the images on the screen as they watch them. This is effective in building your YouTube audience.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## Always use a good mic
 
 When adding voiceover or narration to your project, be sure to use a good USB microphone. A good quality sound will elevate your entire project and just requires a little planning.
 
 ![use good microphone](https://images.wondershare.com/filmora/article-images/2022/11/use-good-microphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Also, be sure to check that your external microphone is selected when you start recording. There's nothing worse than nailing the perfect narration and realizing it was recorded with the built-in mic, not your USB microphone.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Should you use narration in your next project?
 
 The best way to learn something is by doing it. So the next time you record a video, think about how you could augment your video project with narration.

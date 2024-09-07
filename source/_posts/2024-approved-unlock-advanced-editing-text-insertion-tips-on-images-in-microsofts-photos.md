@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock Advanced Editing  Text Insertion Tips on Images in Microsoft's Photos\""
-date: 2024-07-12T21:00:31.515Z
-updated: 2024-07-13T21:00:31.515Z
+date: 2024-09-06T05:01:55.551Z
+updated: 2024-09-07T05:01:55.551Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,18 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Shanoon Cox
 
  Mar 27, 2024• Proven solutions
@@ -42,15 +54,39 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/add-text-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * You may also add the image from the project library to the storyboard if you cannot find the image in the preset categories
 * Resize the image if black parts appear by clicking on resize and then, remove black parts
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/resize-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * To add titles/text to video on Photos in Windows 10 that perfectly match the background, type out the title in the text box at the top right corner
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
 The Photos app in Windows 10 is even easier than the old Windows Movie Maker. You do not need a sharp learning curve for using this app and any beginner can use it with ease and comfort. The Photos app has an anchoring system along with the text tool that makes the text move with the video images. Here’s how you can make the text move in Windows 10 Photos app-
@@ -74,12 +110,30 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -106,3 +160,49 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-affordable-aethervault-substantial-file-safekeeping/"><u>[New] 2024 Approved Affordable AetherVault Substantial File Safekeeping</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-expert-recommendations-the-very-best-ways-to-watch-cricket-on-screen/"><u>[New] 2024 Approved Expert Recommendations The Very Best Ways to Watch Cricket on Screen</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-in-depth-analysis-ultimate-storage-choices/"><u>[New] 2024 Approved In-Depth Analysis Ultimate Storage Choices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-nighttime-exposures-for-your-iphone-lens/"><u>[New] 2024 Approved Nighttime Exposures for Your iPhone Lens</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-computer-connection-5-strategies-to-move-files-for-2024/"><u>[New] Computer Connection 5 Strategies to Move Files for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-digital-tapestry-crafting-visual-narratives-for-2024/"><u>[New] Digital Tapestry Crafting Visual Narratives for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-filmoras-pathway-to-convert-video-avi-files-into-image-gif/"><u>[New] Filmora’s Pathway to Convert Video (AVI) Files Into Image (GIF)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-immersive-beginnings-secrets-to-successful-podcast-intros-for-2024/"><u>[New] Immersive Beginnings Secrets to Successful Podcast Intros for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-essential-guide-integrating-virtual-backgrounds-for-webcasters/"><u>[New] In 2024, Essential Guide Integrating Virtual Backgrounds for Webcasters</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-ultimate-online-destinations-for-3d-shimmering-letters/"><u>[New] In 2024, Ultimate Online Destinations for 3D Shimmering Letters</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-secrets-of-windows-10-effortless-media-importation-methods-for-2024/"><u>[New] Secrets of Windows 10 Effortless Media Importation Methods for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-art-of-reel-production-embedding-soundtracks-for-2024/"><u>[New] The Art of Reel Production Embedding Soundtracks for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-essential-guide-integrating-virtual-backgrounds-for-webcasters/"><u>[Updated] 2024 Approved Essential Guide Integrating Virtual Backgrounds for Webcasters</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-script-to-screen-youtube-tutorial-and-alternative-pathways/"><u>[Updated] 2024 Approved From Script to Screen YouTube Tutorial & Alternative Pathways</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-leading-with-purpose-strategic-openings-in-podcasting/"><u>[Updated] 2024 Approved Leading with Purpose Strategic Openings in Podcasting</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-advancing-beyond-vp9-a-look-at-av1/"><u>[Updated] Advancing Beyond VP9 A Look at AV1</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-exploring-magix-vpxs-innovative-editing-capabilities/"><u>[Updated] Exploring Magix VPX's Innovative Editing Capabilities</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-gopro-hero-5-black-vs-nikon-keymission-170-action-camera-which-is-better-for-2024/"><u>[Updated] GoPro Hero 5 Black vs Nikon Keymission 170 Action Camera Which Is Better for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-innovative-way-of-merging-gopro-footage-into-continuous-360-degree-narratives/"><u>[Updated] Innovative Way of Merging GoPro Footage Into Continuous 360-Degree Narratives</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-live-your-dreams-insights-into-the-panasonic-hx-a1-cam-for-2024/"><u>[Updated] Live Your Dreams Insights Into the Panasonic HX-A1 Cam for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-paint-picture-humor/"><u>[Updated] Paint Picture Humor</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-quick-and-easy-gif-to-video-transition-tools-listed-for-2024/"><u>[Updated] Quick & Easy GIF-to-Video Transition Tools Listed for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-skyborne-duo-faceoff-dji-mavic-pro-and-gopro-karma-for-2024/"><u>[Updated] The Skyborne Duo Faceoff DJI Mavic Pro & GoPro Karma for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dealing-with-download-issues-for-monster-hunter-stories-2-wings-of-ruin/"><u>Dealing with Download Issues for Monster Hunter Stories 2: Wings of Ruin</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnose-and-fix-504-gateway-timing-out-glitches-easily/"><u>Diagnose and Fix 504 Gateway Timing Out Glitches Easily</u></a></li>
+<li><a href="https://fox-access.techidaily.com/high-fidelity-footage-face-off-hero5-black-vs-hero4-silver-for-2024/"><u>High Fidelity Footage Face-Off Hero5 Black vs Hero4 Silver for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-enable-microphone-during-powerpoint-recording/"><u>How to Enable Microphone During PowerPoint Recording</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-apple-iphone-14-plus-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>How to Fix Apple iPhone 14 Plus Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s24-bootloader-easily-by-drfone-android/"><u>How to Unlock Samsung Galaxy S24 Bootloader Easily</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-beyond-ustream-a-comparative-analysis-of-streams/"><u>In 2024, Beyond Ustream A Comparative Analysis of Streams</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-comparing-gopro-and-polaroids-video-editors-for-filmmakers/"><u>In 2024, Comparing GoPro & Polaroid's Video Editors for Filmmakers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-distinguished-choices-top-iphone-sound-artisans/"><u>In 2024, Distinguished Choices Top iPhone Sound Artisans</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-oceanic-visionaries-selecting-the-top-5-cameras/"><u>In 2024, Oceanic Visionaries Selecting the Top 5 Cameras</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-pushing-perceptions-with-the-advanced-dell-p2715q-display-review/"><u>In 2024, Pushing Perceptions with the Advanced Dell P2715Q Display Review</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-definitive-guide-to-appending-srt-track-in-videos/"><u>In 2024, The Definitive Guide to Appending SRT Track in Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-unlock-advanced-splitting-with-non-xsplit-apps/"><u>In 2024, Unlock Advanced Splitting with Non-Xsplit Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sharper-stars-in-iphone-nocturne-photos/"><u>Sharper Stars in iPhone Nocturne Photos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-financial-key-to-boosting-your-videos-reach-for-2024/"><u>The Financial Key to Boosting Your Video's Reach for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-ultimate-guide-to-ppro-fs-viewing-for-2024/"><u>The Ultimate Guide to PPro FS Viewing for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ultimate-4k-desktop-screens-full-integration-and-touch-for-2024/"><u>Ultimate 4K Desktop Screens Full Integration & Touch for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-top-rated-video-editing-tools-for-mac-users/"><u>Updated 2024 Approved The Top-Rated Video Editing Tools for Mac Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win-710-save-screen-settings-issue-resolution-provided-solved/"><u>Win 7/10 Save Screen Settings Issue - Resolution Provided [Solved]</u></a></li>
+</ul></div>

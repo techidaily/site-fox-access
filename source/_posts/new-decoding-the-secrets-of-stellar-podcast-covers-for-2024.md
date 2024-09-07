@@ -1,7 +1,7 @@
 ---
 title: "[New] Decoding the Secrets of Stellar Podcast Covers for 2024"
-date: 2024-09-01T15:03:39.696Z
-updated: 2024-09-02T15:03:39.696Z
+date: 2024-09-06T05:05:23.897Z
+updated: 2024-09-07T05:05:23.897Z
 tags: 
   - screen-recording
   - ai video
@@ -16,6 +16,12 @@ keywords: "Starry Pod Cover Code,Stellar Pod Cover Decrypt,Deciphering Pod Cast 
 thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680a77e468de6afed425dad313.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Decoding the Secrets of Stellar Podcast Covers
 
 Research suggests people make up their mind within 90 seconds after the initial interaction with the brand and associate it as either bad or good. Many podcasters only focus on the podcast’s content, which they should, but ignore the visual identity of the podcast.
@@ -60,7 +66,16 @@ Nevertheless, there are some platforms that have different requirements. For ins
 ![podcast straight to the point image](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 People often confuse “straight to the point” with plain and simple. However, it is an unjust explanation of what is straight to the point. Additionally, achieving the “straight to the point” scale is not simple.
 
@@ -75,7 +90,16 @@ Here are some examples to help you think in the “straight to the point” fash
 ![podcast straight to the point image](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 The above podcast cover designs are related to business. If you carefully review each of them, you will find the human element. The human element is a necessary factor in business-related podcasts. It is what allows business professionals to connect with the experts and attracts them to the podcasts.
 
@@ -88,7 +112,10 @@ Another thing to review is the color palettes used by the entrepreneurs. The col
 Comedy podcasts don’t seem like much, but they have a huge user following. Do you know how? Well, they attract users in bulk with their funky, impressive, and immersive cover images. Notice the clever use of colors on all the podcast cover designs. Moreover, the typography used in these cover images is also unsophisticated and often conveys that this isn’t something serious.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 3\. Avoid Inappropriate Words or Imagery
 
@@ -98,10 +125,19 @@ Not to mention, using explicit languages is also restricted by podcast directori
 
 ![podcast explicit covers](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The recent policies of podcast directories like Apple Podcast have changed drastically. For instance, you could have gotten away with using asterisk marks in some words (like sh\*t); however, it is not the case today. Your podcast will receive multiple notifications from the platform managers to remove the banner, and in some cases, the directories can also ban you from the platform. So, it is best to play it safe and use professional language, at least in the podcast cover photos.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 4\. Color Matters
 
@@ -109,9 +145,6 @@ There are trends in book cover design and movie cover design, and then comes the
 
 ![podcast colors covers](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 Color is something that not many businesses pay attention to, but it has a profound effect on users. To just give you an example of how deep businesses think about the color of their business, there is a separate domain after colors: color branding.
 
 Yes, businesses spent a lot of brainstorming sessions to combine color theory and business. Here are some of the most prominent trends in the podcast world today and their significance:
@@ -134,6 +167,12 @@ There are numerous other examples like this. For instance, even black ink on a g
 
 It is important to retain that color psychology is not about tricking people. Instead, it is about learning the effects of color on people mind’s and using one that best describes your episodes. So, research this in-depth and choose a color that resonates with your content and also impresses users.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Typography will help
 
 A debate that long started at the advent of the internet and is still continuing is the effects of fonts on readability. Some recent [studies from Canva have revealed that fonts have a lot](https://www.canva.com/learn/serif-vs-sans-serif-fonts/) to do with readability. But most important of all, fonts have a huge effect on people’s emotions.
@@ -142,38 +181,32 @@ For instance, serif fonts have long been used in newspapers, magazines, and even
 
 ![podcast typography covers](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sans serif is the new thing. It is all about throwing the tradition of using Serif fonts out of the window and using a fun and exciting and allowing users to read conveniently on the web-pages.
 
 But typography does not mean it's all about the font itself. The size of the font, the spaces in between the fonts, and the color of the font all play a differential role. So, ensure to learn about all the intricacies of typography and accordingly use fonts, their size, the gap in between them, their color, and so on.
 
 ![podcast typography blendcovers](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Additionally, you should focus on blending the typography with imagery. The combination of both often becomes messy and unreadable; of course, the creativity lies in
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6\. Unique and high-resolution images
 
 A unique picture is what differentiates you from others. A user can easily locate and revisit your episodes if you use a unique-looking podcast cover. However, in addition to the unique design of the podcast cover, you should also ensure it is in high resolution.
 
 Retain that a high-resolution picture speaks about class, professionalism, and sophistication, regardless of what you discuss in the podcast. At the same time, a low-resolution podcast is unsuitable and looks un-classy in the digital era.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 7\. Brand consistency
 
 Of course, A/B testing in the initial phases is necessary to test the design of the podcast cover. However, such tests are suitable for a short period of time. Ensure to spend enough time beforehand, so you do not have to change the design of the podcast cover often.
 
 Brands like Coca-Cola, Nike, and Apple use consistency in their images and logos and ensure that all platforms have a similar brand image. This allows the users to recognize the brand, and the picture sits in the user’s mind. So, ensure consistency across all platforms and use the same cover images on all podcast directories.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### 8\. Image compression
 
 Almost all podcast directories will recommend you compress the podcast cover image, and for good reasons. Firstly, a small image loads faster on the pages and allows users to interact with your podcast at first sight. Second, mobile apps and web pages are very different in nature from web platforms. And a lot of users listen to the podcast via their smart phones, so it is best to use compressed images.
@@ -183,15 +216,26 @@ An ideal podcast cover art dimension is 3000 x 3000 pixels, which is a 1:1 aspec
 Some podcast platforms, like Buzzsprout, do the image compression on their end. So, ensure not to compress the image beforehand, as this will further shrink the size of the image.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 9\. Design for a variety of sizes and re-purpose your art
 
 When you design the podcast cover, it is best to take different aspect ratios and dimensions and sketch your plan. This will allow you to be more creative, and of course, you can easily resize the banner for respective podcast directories.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Bonus Tip: Make an Attractive Podcast Cover Easily with Filmora
 
@@ -219,8 +263,10 @@ Above all, Filmora is a self-explanatory tool with a clean and modern interface 
 * Export in any resolution, format, and custom dimension (dedicated options available).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### How to make a podcast cover with Filmora?
 
@@ -232,28 +278,46 @@ Step2 Launch the installed app and click Create a New Project. Then, click Stock
 
 ![create podcast cover photo filmora 1](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 Step3 You should see a list of the royalty-free image platforms that are supported on Filmora on the left side of the screen. Click a preferred platform (We used Unsplash for this stepwise guide.) and type Podcast in the search bar. Then, drag-n-drop a preferred photo that you wish to use for your podcast cover photo to the Timeline.
 
 ![create podcast cover photo filmora 2](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-13.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step4 Navigate to the top of the timeline and click the Text icon. Then, select Quick Text or 3D Text, depending on your requirements.
 
 ![create podcast cover photo filmora 3](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step5 A pop-up window should appear on your screen. Click Title > Basic > then enter the title of your podcast show in the relevant area. After that, adjust the font, font size, and text color. You can also make the text animated by clicking Animation at the top of the pop-up.
 
 ![create podcast cover photo filmora 4](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step6 Once you complete the settings. Click OK > Export. Then, from the pop-up that appears, enter the file name in the relevant area and select a preferred location to save the p\[ocast cover photo. Then, click Export to finish.
 
 ![create podcast cover photo filmora 5](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Summing Up
 
 Hopefully, you have a clear idea of what elements to manage in your podcast cover and how to make a podcast with Filmora. Retain that there is no such thing as a perfect podcast cover photo.
@@ -290,16 +354,31 @@ Step3 You should see a list of the royalty-free image platforms that are support
 ![create podcast cover photo filmora 2](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Step4 Navigate to the top of the timeline and click the Text icon. Then, select Quick Text or 3D Text, depending on your requirements.
 
 ![create podcast cover photo filmora 3](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step5 A pop-up window should appear on your screen. Click Title > Basic > then enter the title of your podcast show in the relevant area. After that, adjust the font, font size, and text color. You can also make the text animated by clicking Animation at the top of the pop-up.
 
 ![create podcast cover photo filmora 4](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step6 Once you complete the settings. Click OK > Export. Then, from the pop-up that appears, enter the file name in the relevant area and select a preferred location to save the p\[ocast cover photo. Then, click Export to finish.
 
 ![create podcast cover photo filmora 5](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-16.jpg)

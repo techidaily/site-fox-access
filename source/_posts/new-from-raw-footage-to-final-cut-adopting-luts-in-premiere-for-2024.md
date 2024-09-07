@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Raw Footage to Final Cut  Adopting LUTs in Premiere for 2024\""
-date: 2024-09-01T15:05:17.344Z
-updated: 2024-09-02T15:05:17.344Z
+date: 2024-09-06T05:05:22.119Z
+updated: 2024-09-07T05:05:22.119Z
 tags: 
   - screen-recording
   - ai video
@@ -16,6 +16,12 @@ keywords: "Premiere LUT Basics,LUTs in Editing,Transform Footage,Raw to Color Gr
 thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0aa2219c94653cd1097dc9a0c.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## From Raw Footage to Final Cut: Adopting LUTs in Premiere
 
 Whether you're working on a personal project or a business campaign, the procedure is very much the same:
@@ -32,6 +38,12 @@ Step2Locate the Lumetri LUTs folder in your Premiere Pro installation directory 
 
 Step3Paste all of your fresh LUTs in this folder at this time. Your new LUTs will now show up in the Lumetri Color Panel when you launch Premiere Pro (or restart the software if it was already open). Innovative >> Looks
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. How to add LUTs to your footage
 
 Step1Choose the Color Workspace at the top after your clip is in the timeline and prepared for grading.
@@ -43,7 +55,10 @@ Step3The first Basic Correction option in the right-hand panel of Lumetri Color 
 Step4Double-click the LUT you wish to use once you've located it, and it will be applied immediately.A tiny tip I like to use occasionally is to find the Effect Controls panel on the left side, then click the drop-down arrow next to Opacity, and make adjustments if you input your LUT and feel that it's too intense.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. Why use LUTs in your project?
 
@@ -56,7 +71,10 @@ Because of this, some designers employ look-up tables (LUTs) that they have crea
 When it comes to working on a project for a customer that has a stringent deadline to fulfill, poor color grading could result in a negative impression of your work. This is the case even if everything from the sound effects to the video effects is done to a high standard and is done well.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. Can you adjust the strength of the LUT?
 
@@ -67,7 +85,10 @@ The entire color panel in Premiere Pro is packed with all of the color grading t
 The end outcome does not vary by a substantial amount, but how it looks can change depending on the LUT you use. In the event that something seems to be lacking, you can always modify the color grading.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5\. Export LUTs
 
@@ -81,10 +102,6 @@ Step2Export ".cube" This function exports lookup tables in the.cube format so th
 
 Step3Store Preset: You can personalize the settings for each color effect, then save the resulting combinations as presets. Within the Save Preset dialog box, give your preset the name you want it to have. If desired, enter a description. Please visit the article on how to create and store an effect preset for further details.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 6\. Where can you find LUTs?
 
 You might be asking, "Now that I've learned more about LUTs (Lookup Tables), where can I get even more LUTs?" since you've gained some new knowledge. In the end, being able to use the built-in LUTs in Luminar is a nice feature, but these are merely samples of the thousands upon thousands of LUTs that are accessible, both for free and for purchase.
@@ -99,7 +116,10 @@ You might be asking, "Now that I've learned more about LUTs (Lookup Tables), whe
 * Urban Dark Creative LUTs
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 

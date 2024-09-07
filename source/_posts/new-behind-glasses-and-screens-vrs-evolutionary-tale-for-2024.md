@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Behind Glasses and Screens  VR’s Evolutionary Tale for 2024\""
-date: 2024-09-01T15:02:12.776Z
-updated: 2024-09-02T15:02:12.776Z
+date: 2024-09-06T05:05:25.535Z
+updated: 2024-09-07T05:05:25.535Z
 tags: 
   - screen-recording
   - ai video
@@ -16,6 +16,12 @@ keywords: "Virtual Reality Journey,Tech Behind Glasses,Screen to VR Transition,E
 thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211ca4fd673ea682421459ce79.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Behind Glasses and Screens: VR’s Evolutionary Tale
 
 # A Brief History of Virtual Reality
@@ -39,26 +45,47 @@ _[Virtual Reality Technology: Current State and Future Challenges](https://tools
 
 In Pygmalions Spectacles, Stanley G. Weinbaum explains a goggle based game in which individuals can watch a holographic recording of virtual stories including touch and smell. This amazing vision of the future would actually turn into what we think of as virtual-reality today. While it's difficult to introduce touch and smell elements into the average virtual-reality experience, these are visions that creators have in mind for the very near future of virtual-reality experiences. It's amazing to think that 85+ years ago, people were already thinking about creating simulation experiences using technology. We still think of these types of plans as we look towards the future of VR. With rapidly changing technology however, these improvements to the VR simulation experience may be far closer than decades away.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## VR development in 1960s
 
 VR headsets actually started development in the 1960s. Just 30 years from the original thought of a VR headset, Ivann Sutherland created the very first VR headset for use with military applications. Using a specialized military software as well as a motion control platform, the first VR headsets were designed for use in training exercises. These VR training tools have now become the standard in the military for training for flight exercises, combat situations and more. An immersive experience is definitely required to push military personnel and prepare them in a safe training environment before they enter into the field. Many air forces around the world require an extensive amount of VR training simulations before they will even let a pilot into one of their aircraft. With the initial development using specialized software and motion controls, VR research would continue to pave the way for training in the military and beyond. Today’s military VR headsets are far more advanced, compact and immersive and these training programs as well as the technology will continue to develop a little bit faster than some of the products that we might find as regular consumers.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## VR development in 1990s
 
 VR headsets begin to make their way into a few arcade games for simulations and Nintendo announced the first home VR system. Virtual Boy was one of the first home systems available for use with a widespread appeal. Sega also introduced a Sega VR headset for the Sega Genesis console in the year 1993\. These wraparound prototypes had stereo sound, LCD screens and head tracking. Technical development in this VR headset doom the project and the cost of the headset was extensive making it a massive flop for Sega. The Virtual Boy however was a 3-D game console that experienced a little more success. Virtual Boy was released in North America at a price of $180\. The games were entirely made in red and black and there were only a few pieces of software available with the device. Users would wear a VR headset and control the action on a regular Nintendo controller. Unfortunately the console was very uncomfortable to use and because of the lack of games as well as the lack of color, it didn't present the same strong sales as the other Nintendo consoles out at the time.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## VR development in 2014
 
 Oculus VR represents the latest revolution in VR technology. When Facebook officially acquired the Oculus VR system, this showed that virtual-reality was becoming a huge concern for many of the world's top developers. Although the Oculus Rift was formed out of a kickstarter campaign in 2012, the deal in 2014 represented a huge boost in their funding and confidence. Later in 2015, Oculus began to acquire other companies like Surreal Vision and built partnerships with Samsung to develop the Samsung gear VR. As one of the leading companies in VR development, Oculus has fully functioning VR systems for consumers to purchase and use at home. With support for a wide range of applications and further applications being developed for specific use with their VR systems, this was a huge leap forward for VR. After gaining international attention with the demand after the Facebook deal, this would propel many other developers into creating their own VR development firms. Oculus in a way started a brand-new VR renaissance with a call to create immersive and simulated experiences for the average consumer. Previous VR headsets were very technical and inaccessible for the average computer user, but with plug-and-play compatibility and a wide host of supported applications, Oculus gave the average consumer hope that they can enjoy VR again.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## VR development in 2016 and beyond
 
@@ -69,7 +96,16 @@ The future of VR looks very bright and with so many new devices in development i
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Benjamin Arango
 

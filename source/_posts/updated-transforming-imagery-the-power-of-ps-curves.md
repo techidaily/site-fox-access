@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Transforming Imagery  The Power of PS Curves\""
-date: 2024-09-01T15:02:29.917Z
-updated: 2024-09-02T15:02:29.917Z
+date: 2024-09-06T05:05:25.184Z
+updated: 2024-09-07T05:05:25.184Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,30 @@ In this Photoshop tutorial, we're going to carve an image using four simple step
 
 ![curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/curve-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Simple Steps to Curve an Image in Photoshop
 
 ##### Step1Create a New Document
@@ -40,12 +64,24 @@ Now we'll curve the image using the Warp Tool. Select the Warp Tool by clicking 
 
 ![wrap image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/wrap-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 With the Warp Tool selected, hover your cursor over the image. You'll see a grid appear over the image. Click and drag one of the middle nodes in the horizontal direction to begin curving the image. As you drag, you'll see the image curve along with your cursor. If you want to increase or decrease the amount of curvature, simply press and hold the Shift key while dragging the node.
 
 Play around with the settings in the options bar. There are quite a few different looks you can achieve just by adjusting these.
 
 ![change image height photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-image-height-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
 
 ![change horizontal distortion photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-horizontal-distortion-photoshop.jpg)
@@ -62,12 +98,30 @@ Flip any of these effects in the opposite direction by placing a negative sign i
 
 ![flip effect image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/flip-effect-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step4Save the Image
 
 Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved
 
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 We hope this post has helped you learn how to curve an image in Photoshop. The best part about it? It's easy to do, and you can do it quickly. So, don't wait another minute! Get out there and start curving your images today (we know we are).
@@ -156,7 +210,3 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
 <li><a href="https://audio-editing.techidaily.com/updated-in-2024-step-by-step-eliminating-sound-from-modern-avi-format-avi-2023/"><u>Updated In 2024, Step-by-Step Eliminating Sound From Modern AVI Format (AVI 2023)</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-gionee-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Gionee Phone Network-Ready</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->

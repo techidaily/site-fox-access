@@ -1,7 +1,7 @@
 ---
 title: "[New] Gently Reducing Sound Levels in Operating Systems for 2024"
-date: 2024-09-01T15:03:38.459Z
-updated: 2024-09-02T15:03:38.459Z
+date: 2024-09-06T05:05:23.922Z
+updated: 2024-09-07T05:05:23.922Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,12 @@ However, it sometimes happens that the professionally composed music might not s
 
 * [How to Fade Music Online](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. How to Fade Music on Windows PC
 
 The term fades in and fades out music effect might sound very professional and out of reach of most struggling musicians. However, it is not the same. Anybody with a proficient sense of music and a pair of ears to judge whether the tune sounds soothing or not can easily use these musical effects on their systems. If you have a Windows PC at your place, it might be handy for adding the Fade in and out effect to your songs.
@@ -54,6 +60,12 @@ If you are looking for applications to edit your audio file most professionally,
 
 ![import audio file to filmora](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. In the next step, you must click on the audio file and go to the animation tab to find the preset button.
 2. Upon expanding the options, you could find fade music options in different types.
 3. At last, you must choose a particular fading effect and drag the slider on the audio file to adjust the fade music effect accordingly.
@@ -61,7 +73,22 @@ If you are looking for applications to edit your audio file most professionally,
 ![adjust fade music effect](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Way 2 - Use Audacity to Fade Audio
 
@@ -71,9 +98,6 @@ Yet another fantastic option for adding fade music effects on the audio files is
 
 ![select audio file audacity](https://images.wondershare.com/filmora/article-images/2022/07/select-audio-file-audacity.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Go to the effect menu and spot the Fade in or fade-out option.
 
 ![choose fade out audacity](https://images.wondershare.com/filmora/article-images/2022/07/choose-fade-out-audacity.jpg)
@@ -84,6 +108,12 @@ Yet another fantastic option for adding fade music effects on the audio files is
 
 Just like the Windows PC users, MAC users can quickly opt for fading in and fading out music effects. Some people consider everything about MAC expensive as most things do not come for free. However, while adding fade music effects from your MAC, you would not face any problems as popular platforms like iMovie and Music Apple can help you carry out the task professionally and free of cost.
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Way 1 - Use iMovie to Fade audio on Mac
 
 iMovie is the official platform that 90% of MAC users use to edit audio files and music books in the best way possible. This application is indeed highly compatible with the MAC's system. Thus, it would not be challenging for you to figure out the necessary buttons on iMovie at once. Here are the steps:
@@ -93,14 +123,20 @@ iMovie is the official platform that 90% of MAC users use to edit audio files an
 ![drag audio to imovie timeline](https://images.wondershare.com/filmora/article-images/2022/07/drag-audio-to-imovie-timeline.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 1. Once upon choosing the portion, you will notice the fade handles. Drag the handles to the beginning for Fade in effect and the opposite in the other end.
 
 ![fade music in imovie](https://images.wondershare.com/filmora/article-images/2022/07/fade-music-in-imovie.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Way 2 - Use Apple Music App to Fade Audio
 
@@ -129,12 +165,27 @@ Adding fade music effects is not only about making money or trying to add spine 
 * [Way 2 - Use Apple Music App to Fade Audio](#part2-2)
 * [How to Fade Music Online](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. How to Fade Music on Windows PC
 
 The term fades in and fades out music effect might sound very professional and out of reach of most struggling musicians. However, it is not the same. Anybody with a proficient sense of music and a pair of ears to judge whether the tune sounds soothing or not can easily use these musical effects on their systems. If you have a Windows PC at your place, it might be handy for adding the Fade in and out effect to your songs.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Way 1 - Fade music on PC with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -149,7 +200,16 @@ If you are looking for applications to edit your audio file most professionally,
 ![import audio file to filmora](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 1. In the next step, you must click on the audio file and go to the animation tab to find the preset button.
 2. Upon expanding the options, you could find fade music options in different types.
@@ -158,7 +218,10 @@ If you are looking for applications to edit your audio file most professionally,
 ![adjust fade music effect](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Way 2 - Use Audacity to Fade Audio
 
@@ -172,14 +235,8 @@ Yet another fantastic option for adding fade music effects on the audio files is
 
 ![choose fade out audacity](https://images.wondershare.com/filmora/article-images/2022/07/choose-fade-out-audacity.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 1. Use the effects by dragging the slider on the audio file to get the desired fade music result.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. How to Fade in/out Music on Mac
 
 Just like the Windows PC users, MAC users can quickly opt for fading in and fading out music effects. Some people consider everything about MAC expensive as most things do not come for free. However, while adding fade music effects from your MAC, you would not face any problems as popular platforms like iMovie and Music Apple can help you carry out the task professionally and free of cost.
@@ -192,12 +249,27 @@ iMovie is the official platform that 90% of MAC users use to edit audio files an
 
 ![drag audio to imovie timeline](https://images.wondershare.com/filmora/article-images/2022/07/drag-audio-to-imovie-timeline.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. Once upon choosing the portion, you will notice the fade handles. Drag the handles to the beginning for Fade in effect and the opposite in the other end.
 
 ![fade music in imovie](https://images.wondershare.com/filmora/article-images/2022/07/fade-music-in-imovie.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Way 2 - Use Apple Music App to Fade Audio
 
@@ -209,9 +281,6 @@ One of the best apps for Apple MAC users for editing soundtracks is none other t
 
 ![apple music fade audio](https://images.wondershare.com/filmora/article-images/2022/07/apple-music-fade-audio.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. It would lead you to another page on Apple music where you can enable the automatic option for the app to edit the file by adding fade music effects, or you can manually do it all by yourself.
 
 ## Part 3\. How to Fade Music Online

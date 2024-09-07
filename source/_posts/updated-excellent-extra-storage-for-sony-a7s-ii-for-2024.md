@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Excellent Extra Storage for Sony A7S II for 2024"
-date: 2024-07-12T21:02:53.988Z
-updated: 2024-07-13T21:02:53.988Z
+date: 2024-09-06T05:00:30.635Z
+updated: 2024-09-07T05:00:30.635Z
 tags: 
   - screen-recording
   - ai video
@@ -16,12 +16,24 @@ keywords: "Sony A7S II Space,A7S II Additional Storage,Extra A7S II Spot,Sony A7
 thumbnail: https://thmb.techidaily.com/995d8276c073ea6830ba619ba4614fd047fc0375a4d1ae8bef82547a42248f63.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Excellent Extra Storage for Sony A7S II
 
 # Best Memory Card for Sony A7S II
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Max Wales
 
  Mar 27, 2024• Proven solutions
@@ -30,6 +42,12 @@ thumbnail: https://thmb.techidaily.com/995d8276c073ea6830ba619ba4614fd047fc0375a
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -67,6 +85,12 @@ thumbnail: https://thmb.techidaily.com/995d8276c073ea6830ba619ba4614fd047fc0375a
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -107,6 +131,12 @@ thumbnail: https://thmb.techidaily.com/995d8276c073ea6830ba619ba4614fd047fc0375a
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -133,3 +163,45 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-elevate-presents-prime-online-retailers-for-personalized-wrapped-goodies/"><u>[New] 2024 Approved Elevate Presents Prime Online Retailers for Personalized Wrapped Goodies</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-enriching-the-instagram-experience-with-background-sounds/"><u>[New] 2024 Approved Enriching the Instagram Experience with Background Sounds</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-simplifying-the-process-of-creating-time-lapses-with-gopro/"><u>[New] 2024 Approved Simplifying the Process of Creating Time Lapses with GoPro</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-strategic-sharing-spoken-engagement-for-youtube-viewers/"><u>[New] 2024 Approved Strategic Sharing Spoken Engagement for YouTube Viewers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-zero-price-green-screen-visuals/"><u>[New] 2024 Approved Zero Price, Green Screen Visuals</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-avoiding-auditory-peaks-control-volume-levels-in-logic-pro/"><u>[New] Avoiding Auditory Peaks Control Volume Levels in Logic Pro</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-becoming-a-green-mastermind-with-kinemasters-gs-knowledge/"><u>[New] Becoming a Green Mastermind with KineMaster's GS Knowledge</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-earning-potential-in-beauty-blogging-for-2024/"><u>[New] Earning Potential in Beauty Blogging for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-flawlessly-merged-the-linkage-of-instagram-and-tiktok/"><u>[New] Flawlessly Merged The Linkage of Instagram & TikTok</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-game-changing-growl-techniques-in-free-fire-for-2024/"><u>[New] Game-Changing Growl Techniques in Free Fire for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-photograph-total-browser-scope/"><u>[New] In 2024, Photograph Total Browser Scope</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unlocking-the-secrets-of-youtube-video-comments-for-2024/"><u>[New] Unlocking the Secrets of YouTube Video Comments for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-enhanced-photoshoot-with-online-backdrop-swap/"><u>[Updated] 2024 Approved Enhanced Photoshoot with Online Backdrop Swap</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-high-definition-streaming-wars-vmix-or-wirecast/"><u>[Updated] 2024 Approved High Definition Streaming Wars VMix or Wirecast?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-illuminate-your-images-adding-life-with-illustrator-motion/"><u>[Updated] 2024 Approved Illuminate Your Images Adding Life with Illustrator Motion</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-quick-guide-to-mobile-devices-becoming-virtual-reality-hubs/"><u>[Updated] 2024 Approved The Quick Guide to Mobile Devices Becoming Virtual Reality Hubs</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-accidental-tiktok-overview-can-i-see-previous-videos-in-2024/"><u>[Updated] Accidental TikTok Overview – Can I See Previous Videos, In 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-easy-download-unique-video-opening-lines/"><u>[Updated] In 2024, Easy Download Unique Video Opening Lines</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-toppest-ios-video-capture-aids/"><u>[Updated] In 2024, Toppest iOS Video Capture Aids</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-unveiling-the-world-of-alternative-augmented-reality-decorations/"><u>[Updated] In 2024, Unveiling the World of Alternative Augmented Reality Decorations</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-voice-memo-essentials-a-complete-reference-guide/"><u>[Updated] In 2024, Voice Memo Essentials A Complete Reference Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-streaming-showdown-obs-versus-twitch-space-for-2024/"><u>[Updated] Streaming Showdown OBS versus Twitch Space for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-transforming-gameplay-discovering-the-seven-stars-of-stardew-updates-for-2024/"><u>[Updated] Transforming Gameplay Discovering the Seven Stars of Stardew Updates for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/detailed-tips-for-addressing-missing-d3dx924dll-files-on-your-pc/"><u>Detailed Tips for Addressing Missing d3dx9_24.dll Files on Your PC</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/facebook-live-cutting-edge-strategies-audiences/"><u>Facebook Live Cutting-Edge Strategies Audiences</u></a></li>
+<li><a href="https://fox-access.techidaily.com/how-to-create-a-funny-meme-for-2024/"><u>How To Create A Funny Meme for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/iconic-photographs-the-true-story/"><u>Iconic Photographs The True Story</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-ravenhill-resonance-essential-websites-to-download-hearing-heroes-tones/"><u>In 2024, Ravenhill Resonance Essential Websites to Download Hearing Heroes' Tones</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-depth-guide-to-the-best-photovideo-makers-with-harmonized-sounds/"><u>In-Depth Guide to the Best Photo/Video Makers with Harmonized Sounds</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/lia-interpolation-dimages-pour-ameliorer-les-frames-per-second-et-les-transitions-sans-perturbation/"><u>L'IA Interpolation D'Images Pour Améliorer Les Frames Per Second Et Les Transitions Sans Perturbation</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-apple-iphone-7-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and Apple iPhone 7 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/level-up-your-green-thumb-skills-using-perplexity-a-step-by-step-guide/"><u>Level Up Your Green Thumb Skills Using Perplexity - A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/mod007b-gaming-keyboard-akkos-high-performance-review/"><u>Mod007B Gaming Keyboard - Akko's High-Performance Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-power-settings-fully-charged-notifications-for-win11/"><u>Navigating Power Settings: Fully Charged Notifications for Win11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-visual-markers-guide-customizing-instagram-photo-watermarks/"><u>The Visual Marker's Guide Customizing Instagram Photo Watermarks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/turbocharge-fb-video-speed-selective-extensions-and-apps-guidebook/"><u>Turbocharge FB Video Speed Selective Extensions & Apps Guidebook</u></a></li>
+<li><a href="https://fox-access.techidaily.com/unleash-creativity-discover-the-top-11-grading-techniques-for-video-editors-for-2024/"><u>Unleash Creativity Discover the Top 11 Grading Techniques for Video Editors for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Motorola Moto G23? | Dr.fone</u></a></li>
+</ul></div>

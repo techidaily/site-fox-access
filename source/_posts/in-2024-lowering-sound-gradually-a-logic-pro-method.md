@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Lowering Sound Gradually  A Logic Pro Method\""
-date: 2024-09-01T15:01:39.760Z
-updated: 2024-09-02T15:01:39.760Z
+date: 2024-09-06T05:05:26.172Z
+updated: 2024-09-07T05:05:26.172Z
 tags: 
   - screen-recording
   - ai video
@@ -44,12 +44,33 @@ Step2 Enter the required value for your fade in the Fade Out section by clicking
 
 ![fade out section logic pro](https://images.wondershare.com/filmora/article-images/2022/07/fade-out-section-logic-pro.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 Create an automation curve on the produced fade using the Curve section if you'd like. For greater control, you may add a curve to your fading automation. To achieve this, choose the Automation Curve Tool by clicking on the Tool Selector at the top of the Arrangement View. Then, left-click and drag your automation point up or down between the points.
 
 ![automation curve logic pro](https://images.wondershare.com/filmora/article-images/2022/07/automation-curve-logic-pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Method 2: Employ the Fade-Out Tool
 
@@ -59,15 +80,15 @@ Step1 Navigate to the Tool Selector located at the Region View's top. Select the
 
 ![fade tool logic pro](https://images.wondershare.com/filmora/article-images/2022/07/fade-tool-logic-pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step2 Select the fade tool, then left-click on the beginning point of your fading while still in the appropriate audio zone. Till the conclusion of your fade, drag the mouse.
 
 ![region master logic pro](https://images.wondershare.com/filmora/article-images/2022/07/region-master-logic-pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Step3 The "Fade Out" option may also be used to manage how quickly an area fades out. You must first choose an area and then press the "Fade Out" slider to do this. A playhead may regulate a cross-fade depending on the genre of music. The choice is unaffected by this. However, you should utilize the "Fade In" slider if you're employing an audio effect in a video.
 
@@ -79,13 +100,16 @@ Step1 Either hit the E key or click the icon of a button with a pair of scissors
 
 ![choose file menu logic pro](https://images.wondershare.com/filmora/article-images/2022/07/choose-file-menu-logic-pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step2 To generate a seamless fade while dealing with audio, you must utilize the fade tool. You may use this to open and shut various audio zones. Use of the fade tool will make producing a smooth fade simpler. You may easily switch between various portions of the song by using the "Fade Out" button.
 
 ![fade out funtions logic pro](https://images.wondershare.com/filmora/article-images/2022/07/fade-out-funtions-logic-pro.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 Additionally, you will always have the option to change the level, which is a terrific method to avoid having too much background noise in your music as shown here:
 
 ![edit music logic pro](https://images.wondershare.com/filmora/article-images/2022/07/edit-music-logic-pro.jpg)
@@ -109,7 +133,10 @@ You must first download and install this application on your computer before you
 ![install filmora and import audio](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Then, you must import your files, which is easy with Filmora since you just need to do it once from your device as seen below. To import your music and video files, use the Import button from the software's main screen as shown below:
 
@@ -119,9 +146,6 @@ You must drag the media files into the program's timeline after importing them i
 
 ![launch audio editor in filmora](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ##### Step3 Use the Audio Fade-in/Fade-out
 
 The first step in this process is to learn how to use Filmora to start fading in and out your audio recordings. The best aspect of Filmora is how simple it is to employ these techniques from the timeline.
@@ -130,9 +154,6 @@ To achieve this, focus on the audio file that you want to change in the timeline
 
 ![use audio fade out](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Step4 Export Your Fade Out Video
 
 In the final touch, if you are content with the way your voice has evolved, now may be the ideal time to maintain it or even record it. There is support for all widely used video and audio formats, including MP3\. Click "Export" and choose the appropriate file format from the Local menu as shown below to do this. The parameters as indicated below allow you to alter the ultimate location of the altered audio file:
@@ -146,7 +167,10 @@ Apple's Logic Pro X is not compatible with Windows-based computers. Therefore, i
 The tool may be used in your productions to help you conclude songs gradually and create more seamless transitions between different parts of your project. In Logic, there are several ways to create fades, but the two most popular methods are automation and the fade tool. The appropriate course of action will vary depending on several variables that we shall discuss later in this piece.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Method 1: Employ an Automation Tool
 
@@ -156,19 +180,31 @@ Step1 Locate the section Region Inspector on the left top side of your screen af
 
 ![region inspector logic pro](https://images.wondershare.com/filmora/article-images/2022/07/region-inspector-logic-pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 Step2 Enter the required value for your fade in the Fade Out section by clicking More and then finding it. If you're uncertain, experiment with various figures until you find the ideal one.
 
 ![fade out section logic pro](https://images.wondershare.com/filmora/article-images/2022/07/fade-out-section-logic-pro.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 Create an automation curve on the produced fade using the Curve section if you'd like. For greater control, you may add a curve to your fading automation. To achieve this, choose the Automation Curve Tool by clicking on the Tool Selector at the top of the Arrangement View. Then, left-click and drag your automation point up or down between the points.
 
 ![automation curve logic pro](https://images.wondershare.com/filmora/article-images/2022/07/automation-curve-logic-pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Method 2: Employ the Fade-Out Tool
 
@@ -178,10 +214,22 @@ Step1 Navigate to the Tool Selector located at the Region View's top. Select the
 
 ![fade tool logic pro](https://images.wondershare.com/filmora/article-images/2022/07/fade-tool-logic-pro.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2 Select the fade tool, then left-click on the beginning point of your fading while still in the appropriate audio zone. Till the conclusion of your fade, drag the mouse.
 
 ![region master logic pro](https://images.wondershare.com/filmora/article-images/2022/07/region-master-logic-pro.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 The "Fade Out" option may also be used to manage how quickly an area fades out. You must first choose an area and then press the "Fade Out" slider to do this. A playhead may regulate a cross-fade depending on the genre of music. The choice is unaffected by this. However, you should utilize the "Fade In" slider if you're employing an audio effect in a video.
 
 ### Method 3: Utilize a File Editor
@@ -196,6 +244,12 @@ Step2 To generate a seamless fade while dealing with audio, you must utilize the
 
 ![fade out funtions logic pro](https://images.wondershare.com/filmora/article-images/2022/07/fade-out-funtions-logic-pro.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 Additionally, you will always have the option to change the level, which is a terrific method to avoid having too much background noise in your music as shown here:
 
 ![edit music logic pro](https://images.wondershare.com/filmora/article-images/2022/07/edit-music-logic-pro.jpg)
@@ -219,7 +273,16 @@ You must first download and install this application on your computer before you
 ![install filmora and import audio](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Then, you must import your files, which is easy with Filmora since you just need to do it once from your device as seen below. To import your music and video files, use the Import button from the software's main screen as shown below:
 
@@ -230,7 +293,10 @@ You must drag the media files into the program's timeline after importing them i
 ![launch audio editor in filmora](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##### Step3 Use the Audio Fade-in/Fade-out
 
@@ -240,24 +306,15 @@ To achieve this, focus on the audio file that you want to change in the timeline
 
 ![use audio fade out](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ##### Step4 Export Your Fade Out Video
 
 In the final touch, if you are content with the way your voice has evolved, now may be the ideal time to maintain it or even record it. There is support for all widely used video and audio formats, including MP3\. Click "Export" and choose the appropriate file format from the Local menu as shown below to do this. The parameters as indicated below allow you to alter the ultimate location of the altered audio file:
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
