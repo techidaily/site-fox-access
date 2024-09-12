@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Quick Shake Reduction Companion for Cams"
-date: 2024-09-06T05:27:34.418Z
-updated: 2024-09-07T05:27:34.418Z
+date: 2024-09-11T16:00:11.143Z
+updated: 2024-09-12T16:00:11.143Z
 tags: 
   - screen-recording
   - ai video
@@ -16,24 +16,12 @@ keywords: "QuickCam Shake Solver,CamShake SpeedFix,RapidReducer CamKit,InstantSh
 thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373d5c47d7a53f258bef450907.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Quick Shake Reduction Companion for Cams
 
 # Top Handheld Video Stabilizer Equipment To Help Shoot Smooth Scenes
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Liza Brown
 
  Mar 27, 2024• Proven solutions
@@ -63,11 +51,12 @@ Here are a few options to consider:
 ![glidecam hd 2000](https://images.wondershare.com/filmora/article-images/glidecam-hd-2000.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 This is easily one of the most popular options to consider. The HD-2000 model is a good possibility, and that's going to run you about $549 dollars. Utilizing a gimbal, this product is great for low-profile cameras that weigh between two and six pounds. You will hold the device in one hand, and work the camera during a shoot with your other hand. The gimbal can be a little on the tricky side, but it is well worth mastering this thing.
 
 #### 2\. [The Aviator Travel Jib:](http://www.aviatorcameragear.com/product/the-aviator-travel-jib-mag-alloy-kit/)
@@ -75,16 +64,30 @@ This is easily one of the most popular options to consider. The HD-2000 model is
 ![Aviator Travel Jib](https://images.wondershare.com/filmora/article-images/Aviator-Travel-Jib.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 For just $475 dollars, you can purchase this absolutely fantastic stabilizer from a number of different sources. This stabilizer is extremely lightweight, coming in at just under four pounds, and it is capable of extending up to six feet. Setting this thing up is a relative breeze, as well.
 
 #### 3\. [The SteadyTracker :](http://www.cobracraneusa.com/steadytracker.html)
 
 ![steady tracker](https://images.wondershare.com/filmora/article-images/steady-tracker.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 This is another example of a really popular stabilizer. You have a number of options available to you within the specific SteadyTracker product, but a lot of people seem to like the UltraLite version of the product, which you can have for around $190\. Weighing in at around 4.6 pounds, this stabilizer is capable of working with cameras that weigh as much as three pounds. By contrast, the Xtreme version of this product is capable of working with cameras that weigh as much as eight pounds. Additional features include comfortable gripping, the fact that it is extremely easy to set up, and the ability to allow for fluid motion.
 
@@ -93,16 +96,24 @@ This is another example of a really popular stabilizer. You have a number of opt
 ![Benro](https://images.wondershare.com/filmora/article-images/Benro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Weighing just a little bit over six pounds, the Benro Monopod scores big with users for a couple of reasons. In the first place, you can get this stabilizer for under two hundred bucks, which definitely makes it one of the most affordable video stabilizers you are going to come across. In the second place, this product is extremely versatile. This is a monopod, and it is widely considered to be the best monopod for filmmaking. This stabilizer has features that include locking pan, drag adjustment capabilities, and tilt.
 
 #### 5\. [Cinevate Duzi Slider](http://www.bhphotovideo.com/c/product/1010735-REG/cinevate%5Finc%5Fciduzi02%5Fduzi%5Fcamera%5Fslider.html/BI/5982/KBID/6868/DFF/d10-v21-t1-x468844)
 
 ![cinevate](https://images.wondershare.com/filmora/article-images/cinevate.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 When you're looking for a stabilizer that is also a slider, the Cinevate Duzi Slider is definitely worth a look. At four hundred dollars, you will definitely want to make sure this is something you absolutely want. That said, this product is extremely lightweight at 3.6 pounds, and it has an impressive load capacity of seventy-five pounds. Additional features include fifteen millimeter solid carbon rails, eight precision ball-bearings, micro-adjustable rollers, micro-adjustable feet, and center/side support mounting. You also don't have to be particularly concerned about lubing and cleaning this slider.
 
@@ -115,11 +126,12 @@ In the end, as you research these video stabilizers further, try to compare the 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -145,50 +157,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-capture-perfection-iphone-x8plus-ultimate-lens-tools/"><u>[New] 2024 Approved Capture Perfection IPhone X/8+ Ultimate Lens Tools</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-efficiently-producing-quality-videos-on-the-latest-windows-os/"><u>[New] 2024 Approved Efficiently Producing Quality Videos on the Latest Windows OS</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-what-youre-really-earning-as-a-podcaster/"><u>[New] 2024 Approved What You're Really Earning as a Podcaster</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-deciphering-average-income-the-podcasters-guide-for-2024/"><u>[New] Deciphering Average Income The Podcaster's Guide for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-elite-10-royal-warfare-games-for-2024/"><u>[New] Elite 10 Royal Warfare Games for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-fpv-fantasy-a-closer-look-at-the-hubsan-h501x4/"><u>[New] FPV Fantasy A Closer Look at the Hubsan H501X4</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-delving-into-ffmpeg-for-pure-unchanged-auditory-extraction/"><u>[New] In 2024, Delving Into FFmpeg for Pure, Unchanged Auditory Extraction</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-step-into-better-imaging-with-these-gopro-extras/"><u>[New] In 2024, Step Into Better Imaging with These GoPro Extras</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-pictorial-humor-ranking-10-memes-by-creativity/"><u>[New] Pictorial Humor Ranking #10 Memes by Creativity</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-proven-methods-for-backdrop-cleansing-in-photoshop-enhanced-by-affinity/"><u>[New] Proven Methods for Backdrop Cleansing in Photoshop Enhanced by Affinity</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-superfast-windows-images-scaner-for-2024/"><u>[New] Superfast Windows Images Scaner for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-the-ultimate-guide-zero-cost-seminar-capture-for-2024/"><u>[New] The Ultimate Guide Zero-Cost Seminar Capture for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-trivia-collection-general-knowledge-2024/"><u>[New] The Ultimate Trivia Collection - General Knowledge 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-turning-pre-recorded-videos-into-a-captivating-live-experience-on-fb/"><u>[New] Turning Pre-Recorded Videos Into a Captivating Live Experience on FB</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-elevating-visual-communication-top-10-tools-for-vector-artists/"><u>[Updated] 2024 Approved Elevating Visual Communication Top 10 Tools for Vector Artists</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-speech-to-text-magic-for-ms-word-users/"><u>[Updated] 2024 Approved Speech-to-Text Magic for MS Word Users</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-the-blueprint-for-designing-eye-catching-thumbnails-for-your-youtube-channel/"><u>[Updated] 2024 Approved The Blueprint for Designing Eye-Catching Thumbnails for Your YouTube Channel</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-clearer-sharper-zoom-tips-for-ultimate-video-quality/"><u>[Updated] Clearer, Sharper Zoom Tips for Ultimate Video Quality</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-gauging-storage-capacity-for-full-length-films/"><u>[Updated] Gauging Storage Capacity for Full-Length Films</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-importing-songs-into-inshot-a-step-by-step-guide/"><u>[Updated] Importing Songs Into InShot A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-digital-notepad-delight-photography-enhancers/"><u>[Updated] In 2024, Digital Notepad Delight Photography Enhancers</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-the-complete-guide-to-crafting-luts-in-3d/"><u>[Updated] In 2024, The Complete Guide to Crafting LUTs in 3D</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-depth-the-full-spectrum-of-toolwiz-apps-capabilities-2023-for-2024/"><u>[Updated] In Depth The Full Spectrum of Toolwiz App's Capabilities, 2023 for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-navigating-through-vlc-features-settings-and-troubleshooting-mac/"><u>[Updated] Navigating Through VLC Features, Settings & Troubleshooting (Mac)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-perfecting-sound-with-ideal-cam-mics-list-for-2024/"><u>[Updated] Perfecting Sound with Ideal Cam Mics List for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-transformative-image-processing-auto-smart-hdr-3-and-4-insights/"><u>[Updated] Transformative Image Processing Auto, Smart HDR 3 & 4 Insights</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-complete-overview-the-spinning-lens-revolution/"><u>2024 Approved Complete Overview The Spinning Lens Revolution</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-magix-photographic-mastery-an-in-depth-review/"><u>2024 Approved MAGIX Photographic Mastery An In-Depth Review</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-mastering-pixiz-photo-video-creation-guide/"><u>2024 Approved Mastering Pixiz Photo Video Creation Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-screencentral-exclusive-global-views-with-homeside-links/"><u>2024 Approved ScreenCentral Exclusive Global Views with Homeside Links</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-screenmasters-unite/"><u>2024 Approved ScreenMasters Unite</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-hidden-treasure-troves-of-snapchat-tones/"><u>2024 Approved Unveiling the Hidden Treasure Troves of Snapchat Tones</u></a></li>
-<li><a href="https://fox-access.techidaily.com/a-comprehensible-approach-to-masterful-gopro-studio-edits/"><u>A Comprehensible Approach to Masterful GoPro Studio Edits</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/a-comprehensive-guide-for-free-video-translator-downloading/"><u>A Comprehensive Guide for Free Video Translator Downloading</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/busting-illusions-top-9-misconceptions-about-ai-conversations/"><u>Busting Illusions: Top 9 Misconceptions About AI Conversations</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-leveraging-instagrams-capabilities-for-podcast-promotion/"><u>In 2024, Leveraging Instagram's Capabilities for Podcast Promotion</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/macs-choice-of-capture-an-in-depth-look-at-premium-software/"><u>Mac's Choice of Capture An In-Depth Look at Premium Software</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/simplified-pathway-using-instagram-live-effectively/"><u>Simplified Pathway Using Instagram Live Effectively</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-cmos-checksum-failure-step-by-step-guide/"><u>Solving CMOS Checksum Failure – Step-by-Step Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/troubleshooting-made-simple-how-to-get-the-right-dell-mouse-driver-installed/"><u>Troubleshooting Made Simple: How to Get the Right Dell Mouse Driver Installed</u></a></li>
-<li><a href="https://fox-access.techidaily.com/ultimate-hue-harmonizer-tool-for-2024/"><u>Ultimate Hue Harmonizer Tool for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-free-top-10-best-websites-to-download-sound-clips-for-videos/"><u>Updated In 2024, FREE Top 10 Best Websites to Download Sound Clips for Videos</u></a></li>
-<li><a href="https://driver-error.techidaily.com/usb-headset-not-chargingworking-windows-10-fixes-explained/"><u>USB Headset Not Charging/Working: Windows 10 Fixes Explained</u></a></li>
-<li><a href="https://fox-access.techidaily.com/vidfx-tricks-top-10-text-transformations/"><u>VidFX Tricks Top 10 Text Transformations</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/why-is-google-chrome-freezing-expert-tips-for-resolving-non-responsive-issues/"><u>Why Is Google Chrome Freezing? Expert Tips for Resolving Non-Responsive Issues</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-rhyme-and-share-spotlight-on-popular-tiktok-rap-hits/"><u>[New] Rhyme & Share Spotlight on Popular TikTok Rap Hits</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-tips-for-skewing-photo-captions-for-2024/"><u>[New] Tips for Skewing Photo Captions for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-transition-to-darkness-premiere-pro-techniques/"><u>[Updated] 2024 Approved Transition to Darkness Premiere Pro Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-unveiling-the-top-10-essential-podcast-microphones/"><u>[Updated] 2024 Approved Unveiling the Top 10 Essential Podcast Microphones</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-step-by-step-guide-to-adding-subtitles-in-wmp-for-2024/"><u>[Updated] Step-by-Step Guide to Adding Subtitles in WMP for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-subtitled-success-the-top-8-software-that-swiftly-converts-sub-to-srt-on-pcmacosx-for-2024/"><u>[Updated] Subtitled Success! The Top 8 Software That Swiftly Converts SUB to SRT on PC/MacOSX for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-intriguing-world-of-triller-vs-tiktok-for-2024/"><u>[Updated] The Intriguing World of Triller vs TikTok for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-30-metaverse-meme-creation-guide-for-fun-enthusiasts/"><u>2024 Approved Top 30 Metaverse Meme Creation Guide for Fun Enthusiasts</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-vivo-y100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-deactivating-facebook-a-simple-process-for-your-android-device/"><u>Guide to Deactivating Facebook: A Simple Process for Your Android Device</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-tecno-pova-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-fierce-competition-gopro-vs-sonys-dslr-for-adventure-films/"><u>In 2024, Fierce Competition GoPro Vs. Sony's DSLR for Adventure Films</u></a></li>
+<li><a href="https://fox-access.techidaily.com/innovation-unleashed-cutting-edge-ar-games-for-2024/"><u>Innovation Unleashed Cutting-Edge AR Games for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/top-premier-sound-storylines/"><u>Top Premier Sound Storylines</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-when-your-internet-explorer-freezes-or-fails-to-start-up/"><u>Troubleshooting Steps When Your Internet Explorer Freezes or Fails to Start Up</u></a></li>
 </ul></div>
+

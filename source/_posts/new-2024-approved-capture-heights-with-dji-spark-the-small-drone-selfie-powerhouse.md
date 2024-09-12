@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Capture Heights with DJI Spark  The Small Drone Selfie Powerhouse\""
-date: 2024-07-12T20:55:25.003Z
-updated: 2024-07-13T20:55:25.003Z
+date: 2024-09-11T15:56:49.725Z
+updated: 2024-09-12T15:56:49.725Z
 tags: 
   - screen-recording
   - ai video
@@ -54,9 +54,23 @@ Have you gone through DJI Spark videos on YouTube? They are spreading like a vir
 
 ![spark vs mavic](https://images.wondershare.com/filmora/article-images/spark-vs-mavic.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###### #3\. Battery
 
 ![dji spark battery](https://images.wondershare.com/filmora/article-images/dji-spark-battery.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It can stay in air up to 16 minutes with its 1480mAh LiPo Battery. Yeah, this high end battery makes it powerful enough to let users enjoy long flight time. The total time spent on charging is observed to be one hour and 20 minutes. Here is one interesting news for all buyers, DJI Spark do not limit your charging options. It can be charged with three different modes:
 
@@ -70,6 +84,13 @@ Have you gone through DJI Spark videos on YouTube? They are spreading like a vir
 
 ![dji spark 3d system](https://images.wondershare.com/filmora/article-images/dji-spark-3d-system.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Spark is perfect combination of technologies that makes its flights more stunning. It is equipped with 3D sensing system, high precision type inertial measurement mechanism, dual band GPS, Vision Positioning System, 24 powerful core for enhanced computing and many more. Spark use to follow its owner in air, and it's incredibly advanced design technology let it behave like an intelligent unit. It understands your gestures and move accordingly. The most impressive one is that when you outstretch your palm, it comes down and sits on your palm. That's really amazing.
 
 ###### #2\. Control Mode
@@ -81,6 +102,13 @@ Have you gone through DJI Spark videos on YouTube? They are spreading like a vir
  In this mode, you don't need phone or controller to control the drone, it can take off and land in your hand, keep following you when you waving your palm in front of its camera. You make a rectangle in air using your fingers and your intelligent drone will capture a selfie for you. But note that, this feature works only up to 3 meters distance.
 
 ![gesture mode](https://images.wondershare.com/filmora/article-images/gesture-mode.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * By App on Smartphone
 
@@ -98,6 +126,13 @@ Have you gone through DJI Spark videos on YouTube? They are spreading like a vir
 
 ![spark remote comtroller](https://images.wondershare.com/filmora/article-images/spark-remote-comtroller.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Under this mode, the Spark's flight potential will be totally liberated. After connecting the remote controller, the WIFI technology allows for 720p real-time video transmission from up to 2 km away, and the flight speed can reach up to 50km/h. What's more, you can pick up the latest [DJI Goggles](https://tools.techidaily.com/wondershare/filmora/download/) to see a different world.
 
 ###### #2\. Camera
@@ -109,6 +144,13 @@ Have you gone through DJI Spark videos on YouTube? They are spreading like a vir
  DJI Spark took the ease-of-use to the extreme compared with its other drones like Mavic or other brands like GoPro Karma. Combined with so many cool technologies, at just $500, DJI Spark should be listed in the must-buy products for droners.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -133,6 +175,23 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-expert-advice-for-xbox-one-zooming-pros/"><u>[New] 2024 Approved Expert Advice for Xbox One Zooming Pros</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-gamers-guide-to-elite-streaming-platforms/"><u>[New] In 2024, Gamers' Guide to Elite Streaming Platforms</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-ultimate-guide-to-iphones-macro-and-close-up-photography-tactics/"><u>[New] In 2024, Ultimate Guide to iPhone's Macro & Close-Up Photography Tactics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-should-you-review-off-facebook-histories-security-tips-and-tricks/"><u>[Updated] Should You Review Off-Facebook Histories? Security Tips & Tricks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/a-stepwise-approach-to-srt-mastery-and-expert-tips/"><u>A Stepwise Approach to SRT Mastery and Expert Tips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/avoiding-blur-on-instagram-with-smart-zooms/"><u>Avoiding Blur on Instagram with Smart Zooms</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/data-to-drama-utilizing-google-trends-in-video-planning-for-2024/"><u>From Data to Drama Utilizing Google Trends in Video Planning for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/how-to-add-fonts-to-after-effects-in-2024/"><u>How to Add Fonts to After Effects, In 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-lenovo-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Lenovo Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://fox-access.techidaily.com/hues-unleashed-mastery-over-video-editing-colors-for-2024/"><u>Hues Unleashed Mastery over Video Editing Colors for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/illuminate-canon-cameras-combining-freebies-and-paid-lut-sets-for-2024/"><u>Illuminate Canon Cameras Combining Freebies and Paid LUT Sets for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-tecno-camon-20-premier-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Tecno Camon 20 Premier 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-get-both-sides-right-expert-tips-on-crafting-compelling-pov-based-youtube-reaction-videos-2-pov-perspective/"><u>In 2024, Get Both Sides Right – Expert Tips on Crafting Compelling POV-Based YouTube Reaction Videos (2 POV Perspective)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/multi-camera-mastery-top-11-cameras-for-every-viewpoint/"><u>Multi-Camera Mastery Top 11 Cameras for Every Viewpoint</u></a></li>
+<li><a href="https://fox-access.techidaily.com/noir-effects-in-adobe-premiere-for-2024/"><u>Noir Effects in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-nubia-red-magic-9-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Nubia Red Magic 9 Pro Reset Code | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Guide for Proficient Use of Movie Maker in Win11\""
-date: 2024-07-12T20:55:41.887Z
-updated: 2024-07-13T20:55:41.887Z
+date: 2024-09-11T15:57:08.681Z
+updated: 2024-09-12T15:57:08.681Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,19 @@ With the help of Clipchamp, anyone can easily create videos, even those without 
 
 ![open clipchamp on windows 11](https://images.wondershare.com/filmora/article-images/2022/09/open-clipchamp-on-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Add videos to the timeline**
 
 * Drag and drop the video from the library to the timeline. One can tap on the "+" button to add a file directly to the timeline, and tap on "Add" to all media files.
@@ -45,6 +58,13 @@ With the help of Clipchamp, anyone can easily create videos, even those without 
 * Choose the clips on the timeline, and move that scrubber to mention where you want to cut your clips.
 * After that, tap on the "scissor icon" on the top left.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Play the clip on the timeline**
 
 * Playing the clips on the timeline is necessary. You can move that scrubber to select the position where you want to start the video.
@@ -53,6 +73,19 @@ With the help of Clipchamp, anyone can easily create videos, even those without 
 ### **Zoom in and out of the timeline**
 
 * If you want to zoom in on the video, then use the + button and use the - button to zoom out.
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Add a filter or Change the video**
 
@@ -76,9 +109,29 @@ With the help of Clipchamp, anyone can easily create videos, even those without 
 
 * Tap on the preferred titles from the sidebar using the drag and drop option to get the desired title to the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Export the video**
 
 * After you have finished your edits, you can save the file in MP4 and tap on the export option in the right corner of the screen.
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. Edit Videos in Windows 11 with Photos App
 
@@ -86,10 +139,24 @@ Windows has always offered methods for searching and displaying photos because i
 
 The outcome, the innocently named "Photos" app, can be pretty confusing. You can do anything with your photographs and videos, thanks to the Photos experience. Compare, edit, view, construct albums and create movies with ease of your priceless memories. While keeping you involved in the experience, it displays all of the goods from that place and lets you navigate to other pictures.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Add the file
 
 * You can tap on the "ADD" option, select "From the PC" from the overlay menu, and choose the desired video from the storage drive.
 * After importing the videos from photos, you can see the storyboard screen to edit the video.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Add title card
 
@@ -100,16 +167,37 @@ The outcome, the innocently named "Photos" app, can be pretty confusing. You can
 * Choose the desired color from your color palette to change the background.
 * You can tap on the "+" button under "Custom color" to choose the color by using the color picker.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Time the unwanted parts
 
 * Tap on the "Trim" option and choose the file you wish to trim if you have various video files on the storyboard.
 * Then, click and hold your left mouse button and drag the pointer to adjust the clip.
 * After editing according to your preference, you can tap on the "Done" option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Add some filters
 
 * You can tap "Filters" on the storyboard pane, choose one, but tap on individual thumbnails on the sidebar.
 * After applying the preferred filter, tap on the "Done" button from the bottom section, and click on confirm and apply.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Export the video
 
@@ -133,11 +221,31 @@ Tap on "New Project" and enter the video editor. Register your product by tappin
 
 ![click on create a video](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step2Trim and edit the unwanted parts
 
 When you create a raw video, it contains several unwanted parts that need to be removed from the video. You must drag the video to the timeline from Media Tab to cut or trim the video parts.
 
 ![trim and edit the unwanted parts](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 One can add numerous clips, but each clip will get placed after the previously added clip. To rearrange the files, you must drag clips according to your preference.
 
@@ -171,6 +279,13 @@ Tap on "New Project" and enter the video editor. Register your product by tappin
 
 ![click on create a video](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step2Trim and edit the unwanted parts
 
 When you create a raw video, it contains several unwanted parts that need to be removed from the video. You must drag the video to the timeline from Media Tab to cut or trim the video parts.
@@ -192,6 +307,13 @@ You can get various templates in the software, which you can use for the video.
 One can utilize numerous software filters to add exciting colors to the clip. Drag the filter and drop it on the timeline. Sliding to the end of the filter can change the lasting of the filter.
 
 Once you finish your edits, you can easily save and publish them.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -223,6 +345,20 @@ In this article, you have learned about various video editors available on Windo
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-snapedit-essentials-for-beginners-a-visual-journey/"><u>[New] 2024 Approved Snapedit Essentials for Beginners A Visual Journey</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-permanently-quit-youtube-shorts-now/"><u>[New] In 2024, Permanently Quit YouTube Shorts Now!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-jumpstart-your-journey-learning-snapseed-techniques-for-2024/"><u>[New] Jumpstart Your Journey Learning Snapseed Techniques for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-a-bite-into-tiktoks-most-engaging-dishes/"><u>[Updated] 2024 Approved A Bite Into TikTok's Most Engaging Dishes</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-a-step-by-step-journey-to-pc-live-streams-master-tiktok-live-for-2024/"><u>[Updated] A Step-By-Step Journey to PC Live Streams – Master TikTok LIVE for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-exploring-present-day-drones-envisioning-their-future/"><u>[Updated] In 2024, Exploring Present-Day Drones, Envisioning Their Future</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-streamline-photos-via-iphone-size-adjustment/"><u>[Updated] Streamline Photos via iPhone Size Adjustment</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/affordable-pc-display-recorder-apps/"><u>Affordable PC Display Recorder Apps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-honor-magic-6-pro-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Honor Magic 6 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-xr-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone XR? | Stellar</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-exploring-the-metaverse-meme-landscape/"><u>In 2024, Exploring the Metaverse Meme Landscape</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-soft-image-effects-in-iphone-photography-4-tips-for-2024/"><u>Mastering Soft Image Effects in iPhone Photography (4 Tips!) For 2024</u></a></li>
+<li><a href="https://techidaily.com/repair-corrupt-pdf-v16-file-using-pdf-repair-tool-by-stellar-guide/"><u>Repair Corrupt PDF v1.6 File using PDF Repair Tool</u></a></li>
+</ul></div>
 

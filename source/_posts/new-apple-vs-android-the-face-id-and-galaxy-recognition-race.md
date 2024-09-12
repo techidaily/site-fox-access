@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Apple Vs. Android  The Face ID and Galaxy Recognition Race\""
-date: 2024-09-06T05:26:28.925Z
-updated: 2024-09-07T05:26:28.925Z
+date: 2024-09-11T16:01:11.581Z
+updated: 2024-09-12T16:01:11.581Z
 tags: 
   - screen-recording
   - ai video
@@ -22,12 +22,6 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Ollie Mattison
 
  Mar 27, 2024• Proven solutions
@@ -39,12 +33,6 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
 * [Part 3: The Common Inconvenience](#part3)
 * [Part 4: Safety Issue](#part4)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How does it work?
 
  This section will cover how the face recognition technology works for both the devices. Check out the process.
@@ -62,11 +50,12 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
 ![Samsung](https://images.wondershare.com/filmora/article-images/Samsung-Galaxy-S8-Face-Unlock.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: Which one is more Accuracy?
 
  Being accurate is a considerable issue with face recognition technology if you are using a Samsung device. On the other hand, iPhone X shows accuracy than Samsung since it analyzes the whole face instead of iris. For Samsung’s iris scanner, the camera contains a confined and narrowly designed focus where is exactly your iris needed to be for scanning. The camera will able to recognize only when your iris will be in that same place for long where it focuses. And therefore, there are times when you left with holding your device high for better iris detection. Apple has no such accuracy issue for it takes your face to recognize.
@@ -74,11 +63,19 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
 ![iPhone X accuracy](https://images.wondershare.com/filmora/article-images/iphone-x-accuracy.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: The Common Inconvenience
 
  When it comes to practicality, we would state that both the phone don’t stand well for it. This is because if you use Apple’s latest invention i.e. iPhone X, you are required to first hold your device in your hand followed by looking at the screen. Then you need to swipe it up for unlocking the device.
@@ -99,22 +96,36 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
 
 ![face ID issue](https://images.wondershare.com/filmora/article-images/face-id-issue.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the other hand, Samsung also doesn’t lag behind when it comes to safety and security with face recognition feature. Samsung is the first Android device company to introduce face recognition technology that brought iris scanning technology with its Galaxy Note 7\. The technology does it job by detecting the iris’ pattern of your eyes. As far as security is concerned, the technology gets 10 on 10 since each person possesses unique iris pattern and it becomes difficult to replicate. The devices by Samsung having face recognition technology are designed with infrared diode which is capable
 
  All in all, both the companies have put extra effort in justifying the safety with trending face recognition technology. However, we are not certain for full reliability of them.
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  The technology of facial recognition isn’t new to us and it has made people excited from the time it has come. However, many users have not started using the technology yet. We hope that this functionality will gain the popularity with time and people will start to make use of it.
@@ -122,11 +133,12 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -152,52 +164,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-elevate-your-drone-experience-with-these-essentials/"><u>[New] 2024 Approved Elevate Your Drone Experience with These Essentials</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-elite-flight-stability-drones-best-gimbals/"><u>[New] 2024 Approved Elite Flight Stability Drone's Best Gimbals</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-tailoring-teammate-backgrounds-on-teams-chat/"><u>[New] 2024 Approved Tailoring Teammate Backgrounds on Teams Chat</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-thrifty-mics-the-budgetists-guide-for-youtubers/"><u>[New] 2024 Approved Thrifty Mics The Budgetist's Guide for Youtubers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-year-round-chronicles-top-20-youtubers-for-inspiring-tales/"><u>[New] 2024 Approved Year-Round Chronicles Top 20 YouTubers for Inspiring Tales</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-discover-prime-sites-offering-free-got-soundtracks/"><u>[New] Discover Prime Sites Offering Free GoT Soundtracks</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-drone-photography-showdown-dji-fpv-vs-gopro-x/"><u>[New] Drone Photography Showdown DJi FPV Vs GoPro X</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-chic-characters-cheeky-captions-making-memes/"><u>[New] In 2024, Chic Characters, Cheeky Captions Making Memes</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-reviewing-videoshow-in-its-fullest-for-24-edition/"><u>[New] In 2024, Reviewing VideoShow in Its Fullest for '24 Edition</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-latest-insights-on-facebook-whats-new-in-2024/"><u>[New] Latest Insights on Facebook - What's New, In 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-mastering-visual-impact-a-comprehensive-guide-to-zooms-video-filters-for-2024/"><u>[New] Mastering Visual Impact A Comprehensive Guide to Zoom's Video Filters for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-plotting-precise-promotional-reels-for-2024/"><u>[New] Plotting Precise Promotional Reels for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-sync-shutter-speed-blur-artistry-in-photoshop-for-2024/"><u>[New] Sync Shutter Speed Blur Artistry in Photoshop for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-unleash-creativity-with-gopros-time-lapse-technology/"><u>[New] Unleash Creativity with GoPro's Time-Lapse Technology</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-bridging-gaps-building-relationships-with-your-audience/"><u>[Updated] 2024 Approved Bridging Gaps Building Relationships with Your Audience</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-cutting-edge-techniques-for-bypassing-obscuring-elements-in-affinity-photo/"><u>[Updated] 2024 Approved Cutting-Edge Techniques for Bypassing Obscuring Elements in Affinity Photo</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-harmony-hunters-dive-into-free-online-beat-tracker/"><u>[Updated] 2024 Approved Harmony Hunters Dive Into Free, Online Beat Tracker</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-make-every-podcast-session-count-with-these-15-powerful-activities/"><u>[Updated] 2024 Approved Make Every Podcast Session Count with These 15 Powerful Activities</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-pun-picture-studio-chucklecrafts/"><u>[Updated] 2024 Approved Pun Picture Studio ChuckleCrafts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-secrets-to-successfully-obtain-windows-movie-maker-6/"><u>[Updated] 2024 Approved Secrets to Successfully Obtain Windows Movie Maker 6</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-comprehensive-techniques-for-moving-media-from-iphones/"><u>[Updated] Comprehensive Techniques for Moving Media From iPhones</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-electronic-gamblers-journal/"><u>[Updated] ELECTRONIC GAMBLER'S JOURNAL</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-exploring-quantum-hdrs-impact-on-photography/"><u>[Updated] Exploring Quantum HDR's Impact on Photography</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-humor-hub-picture-composer/"><u>[Updated] Humor Hub Picture Composer</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-organic-scenes-essential-free-templates-to-elevate-filmmaking-art/"><u>[Updated] In 2024, Organic Scenes Essential, Free Templates to Elevate Filmmaking Art</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-perfect-your-passport-portrait-a-compilation-of-top-10-free-tools/"><u>[Updated] In 2024, Perfect Your Passport Portrait A Compilation of Top 10 Free Tools</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-artisans-secret-to-viral-youtube-success/"><u>[Updated] In 2024, The Artisan's Secret to Viral YouTube Success</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-depth-examination-androids-photography-solution-lightroom/"><u>[Updated] In-Depth Examination Android's Photography Solution, Lightroom</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-ps5xbox-series-x-the-elite-tvs-for-gamers-for-2024/"><u>[Updated] PS5/Xbox Series X The Elite TVs for Gamers for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-the-smoothest-gameplay-with-lg-27uhd68-freesync-tv/"><u>[Updated] The Smoothest Gameplay with LG 27UHD68 FreeSync TV</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-picks-for-car-compatible-dvd-systems-for-2024/"><u>[Updated] The Ultimate Picks for Car-Compatible DVD Systems for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-top-ten-clandestine-corrections-for-artists-for-2024/"><u>[Updated] Top Ten Clandestine Corrections for Artists for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-visual-narratives-unleashed-top-5-filmmaking-skills/"><u>[Updated] Visual Narratives Unleashed Top 5 Filmmaking Skills</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-calculate-and-change-aspect-ratio-online/"><u>2024 Approved Calculate and Change Aspect Ratio Online</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-inside-look-apples-m1-max-attachments/"><u>2024 Approved Inside Look Apple's M1 Max Attachments</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-quick-guide-integrating-titles-into-videos-within-windows-photos/"><u>2024 Approved Quick Guide Integrating Titles Into Videos Within Windows Photos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-quick-tips-for-saving-the-world-with-a-smile/"><u>2024 Approved Quick Tips for Saving the World with a Smile</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-nubia-z50s-pro-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Nubia Z50S Pro Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/action-camera-buyers-manual-skisnow-gear-insights-for-2024/"><u>Action Camera Buyer's Manual Ski/Snow Gear Insights for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-hisense-40-40h5590f-led-smart-tv-evaluation-affordable-quality-on-display/"><u>Comprehensive Hisense 40 40H5590F LED Smart TV Evaluation - Affordable Quality on Display</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/exclusive-gaming-delight-with-single-platform-play-in-apex-legends-for-2024/"><u>Exclusive Gaming Delight with Single-Platform Play in Apex Legends for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-explore-efficient-two-screen-viewing-on-netflix/"><u>In 2024, Explore Efficient Two-Screen Viewing on Netflix</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-precision-at-a-glance-hps-4k-z32-x-examination/"><u>In 2024, Precision at a Glance HP’s 4K Z32 X Examination</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-top-10-shopping-sites-for-customized-gift-boxes-find-the-perfect-personalized-present/"><u>In 2024, Top 10 Shopping Sites for Customized Gift Boxes - Find the Perfect Personalized Present</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/mastering-the-mystique-of-moonlit-portraits-for-2024/"><u>Mastering the Mystique of Moonlit Portraits for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/speedy-microphone-testing-methods-for-crystal-clear-results-every-time/"><u>Speedy Microphone Testing Methods for Crystal Clear Results Every Time!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-gadgets-with-tom-expert-hardware-reviews/"><u>Unveiling Gadgets with Tom - Expert Hardware Reviews</u></a></li>
-<li><a href="https://fox-access.techidaily.com/virtual-horizons-unveiled-critics-top-oculus-headsets/"><u>Virtual Horizons Unveiled Critics' Top Oculus Headsets</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-crystal-carousel-at-the-olympics/"><u>[New] 2024 Approved Crystal Carousel at the Olympics</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-how-to-record-a-timelapse-video-on-ipad-for-2024/"><u>[New] How to Record a Timelapse Video on iPad for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-accelerated-conversion-of-yt-content-for-mac-screens/"><u>[New] In 2024, Accelerated Conversion of YT Content for MAC Screens</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-dividing-recordings-top-cam-scrutiny-review/"><u>[New] In 2024, Dividing Recordings Top Cam Scrutiny Review</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-precise-mac-photo-tips-mastering-five-quick-and-effective-methods-for-2024/"><u>[New] Precise Mac Photo Tips Mastering Five Quick and Effective Methods for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-crafting-360-worlds-top-picks-between-samsung-and-lg/"><u>[Updated] 2024 Approved Crafting 360 Worlds Top Picks Between Samsung & LG</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-passport-photo-creation-made-easy-10-images-at-no-cost-for-2024/"><u>[Updated] Passport Photo Creation Made Easy 10 Images at No Cost for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/desktop-puzzle-solved-effortless-techniques-for-retrieving-misplaced-off-screen-windows/"><u>Desktop Puzzle Solved: Effortless Techniques for Retrieving Misplaced Off-Screen Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725284999407-dvd/"><u>DVDコピー・リッピング手順：合法的かつ効率的な方法</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/navigating-the-legal-landscape-check-tiktok-video-compliance-for-2024/"><u>Navigating the Legal Landscape Check TikTok Video Compliance for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-top-rated-free-video-watermarking-programs-for-beginners/"><u>New 2024 Approved Top-Rated Free Video Watermarking Programs for Beginners</u></a></li>
 </ul></div>
+

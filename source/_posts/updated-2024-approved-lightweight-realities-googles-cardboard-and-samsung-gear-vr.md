@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Lightweight Realities  Google’s Cardboard and Samsung Gear VR\""
-date: 2024-07-12T20:58:29.716Z
-updated: 2024-07-13T20:58:29.716Z
+date: 2024-09-11T15:54:15.319Z
+updated: 2024-09-12T15:54:15.319Z
 tags: 
   - screen-recording
   - ai video
@@ -26,17 +26,50 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 
  Mar 27, 2024• Proven solutions
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Overview of Google Cardboard and Gear VR
 
  Google’s Cardboard VR is one of the Google’s side projects, the projects that are not considered important and limited resources are given to them. This side project became an instant success for Google and has attracted customers all around the world costing only 20$ this is one of the cheapest headsets anyone can get in the market. The best thing about Google cardboard is that the design is open source and anyone can make one at home just by following few clear instructions. Google’s vision of technology to everyone is working and cardboard is one step towards their main goal.
 
  The Samsung Gear VR is the product that comes when you combine the expertise of the best Virtual Reality Company and the best smart phone brand in the world. Samsung Gear VR is a combined collaboration between Samsung and Oculus. This Virtual reality headset is made for only Samsung phones and retails around 100$ which is almost 5 times more than the Google cardboard. Gear VR is packed with functionality it has a very firm phone stand inside of which you can easily put any phone. It connects to your phone through the charging port and as soon as you connect the phone it starts the VR software in it. You can also control the volume and the zoom through this headset. You can also play many games on it through the Oculus app which is present on the app store for Gear VR only.
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Samsung Gear VR
 
  Samsung just partnered with Oculus to bring you the Samsung Gear VR headset in 2014 and now the new Samsung Gear VR introduced with the Galaxy S7 is jam packed with new features that are ready to blow your mind. The new Gear is 19 percent lighter than the previous model so it doesn’t feel like a brick tied to your head. The straps are more elastic and give a better fit than the previous model, the padding around the eyes and nose gives a very comfortable grip. The new VR has a USB type c port you can also switch it micro USB to make it compatible with the older versions of Samsung phones.
 
  The best part about the new Samsung Gear is the new lens that is clearer and gives a glare free view of the screen. Along with the new lens there are some more features in the Samsung Gear VR, You can plug in headphones in your phone and enjoy the whole VR experience with sound Samsung ahs specially made ports in the headset for it. Samsung has also introduced some buttons to change the volume of the device from the Gear itself. The previous versions had a problem that the lenses tend to mist up thus making you unable to see clearly but in this version the issue has been resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Google Cardboard
 
@@ -45,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
  Google cardboard does not have any volume control options no flaps straps to attach the device directly on your head, the build quality is as poor as it can get. There are many downsides to the Google cardboard but if you look at its price you realize it is a pretty good deal for 20$ you are getting a VR headset who would’ve thought this was possible?
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -69,6 +109,20 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/lavorful-friends-top-gastronomy-guides-online-for-2024/"><u>[New] Flavorful Friends Top Gastronomy Guides Online for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-10-best-android-and-ios-clock-apps-for-a-perfectly-countdownwedding/"><u>[New] In 2024, The 10 Best Android & iOS Clock Apps for a Perfectly Countdownwedding</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-best-virtual-race-games-roundup/"><u>[Updated] 2024 Approved Best Virtual Race Games Roundup</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-navigating-legal-boundaries-in-whatsapp-call-recordings/"><u>[Updated] 2024 Approved Navigating Legal Boundaries in WhatsApp Call Recordings</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-discovering-the-best-our-full-scrutiny-of-inshot-app-for-2024/"><u>[Updated] Discovering the Best - Our Full Scrutiny of InShot App for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elevate-your-video-game-youtube-production-mastery-for-2024/"><u>[Updated] Elevate Your Video Game YouTube Production Mastery for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-speed-up-your-file-format-shift-from-srt-to-text-txt/"><u>[Updated] In 2024, Speed-Up Your File Format Shift From SRT to Text (TXT)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-recalibrating-youtube-rearranging-with-ease-and-speed/"><u>[Updated] Recalibrating YouTube Rearranging with Ease and Speed</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-rise-of-facebooks-quick-vids-for-2024/"><u>[Updated] The Rise of Facebook's Quick Vids for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-y55s-5g-2023-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo Y55s 5G (2023) Without PUK Codes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/raspberry-router-image-maker/"><u>Raspberry Router Image Maker</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-netflix-connection-issue-stop-using-a-vpnproxy-now/"><u>Resolve Your Netflix Connection Issue: Stop Using a VPN/Proxy Now</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-poco-m6-pro-4g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Poco M6 Pro 4G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>
 
