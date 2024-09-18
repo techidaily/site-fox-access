@@ -1,7 +1,7 @@
 ---
 title: "Swift Solutions for the Window's 10 Photos App Stability Woes for 2024"
-date: 2024-09-11T16:23:25.415Z
-updated: 2024-09-12T16:23:25.415Z
+date: 2024-09-10T17:45:03.774Z
+updated: 2024-09-17T22:00:42.116Z
 tags: 
   - screen-recording
   - ai video
@@ -45,21 +45,7 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to fix Windows 10 Photos app crashes
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 1: Use the Troubleshooter
 
@@ -86,20 +72,13 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 3: Reset it
@@ -113,10 +92,16 @@ Here is how can you reset it –
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 4: Repair Photos App package
@@ -140,13 +125,6 @@ Here is how to reinstall the Windows 10 Photos App –
 1. You have to wait a while to complete the process and reboot the Windows 10 system.
 2. Now, visit the ‘Microsoft Store on your computer and find ‘Microsoft Photos.’
 3. Install ‘Microsoft Photos’ after downloading it from there. Your Windows 10 Photos App crashing issue is well taken care of now.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -181,17 +159,15 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-unique-iphone-photo-style-adding-dynamic-motion-effects-for-2024/"><u>[New] Unique iPhone Photo Style Adding Dynamic Motion Effects for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-forge-corporate-icons-without-spending-a-dime/"><u>[Updated] 2024 Approved Forge Corporate Icons Without Spending a Dime</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-seamless-transition-from-skype-to-zoom-quick-tips/"><u>[Updated] 2024 Approved Seamless Transition From Skype to Zoom Quick Tips</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-elevate-your-design-game-with-expert-level-3d-text-tips/"><u>2024 Approved Elevate Your Design Game with Expert-Level 3D Text Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-your-downloads-faster-proven-methods-revealed/"><u>Boost Your Downloads Faster: Proven Methods Revealed</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-nokia-g42-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Nokia G42 5G?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-which-is-superior-for-screen-recording-obs-studio-or-fraps/"><u>In 2024, Which Is Superior for Screen Recording – OBS Studio or Fraps?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-your-movies-how-to-convert-dvds-to-digital-video-formats/"><u>New Free Your Movies How to Convert DVDs to Digital Video Formats</u></a></li>
-<li><a href="https://fox-access.techidaily.com/phantom-gag-craftsman-for-2024/"><u>Phantom Gag Craftsman for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/polish-skills-boost-quick-start-guide/"><u>Polish Skills Boost: Quick Start Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/stay-ahead-in-tech-top-picks-from-toms-detailed-hardware-reviews/"><u>Stay Ahead in Tech: Top Picks From Tom's Detailed Hardware Reviews</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/voices-of-the-future-leveraging-chatgpt-for-dynamic-game-dialogues/"><u>Voices of the Future: Leveraging ChatGPT for Dynamic Game Dialogues</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-decoding-shrouded-comments-in-video-platforms-for-2024/"><u>[New] Decoding Shrouded Comments in Video Platforms for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-picks-top-10-rated-gopro-cases-revisited/"><u>[New] Expert Picks - Top 10 Rated GoPro Cases Revisited</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-pro-level-screen-recorder-showdown/"><u>[New] Pro-Level Screen Recorder Showdown</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-master-the-art-of-filming-at-home-top-5-efficient-tricks/"><u>[Updated] 2024 Approved Master the Art of Filming at Home – Top 5 Efficient Tricks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-resolution-realm-for-rookies-exploring-picture-quality-nuances/"><u>[Updated] 2024 Approved Resolution Realm for Rookies Exploring Picture Quality Nuances</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-estimated-video-monetization-totals-for-2024/"><u>[Updated] Estimated Video Monetization Totals for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-charting-the-course-visual-content-in-educational-endeavors/"><u>[Updated] In 2024, Charting the Course Visual Content in Educational Endeavors</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-learn-to-initiate-harmonious-group-conversations-on-skype-for-both-pc-and-mac-users-for-2024/"><u>[Updated] Learn to Initiate Harmonious Group Conversations on Skype for Both PC & Mac Users for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-apple-iphone-13-mini-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On Apple iPhone 13 mini Making It Possible</u></a></li>
 </ul></div>
 

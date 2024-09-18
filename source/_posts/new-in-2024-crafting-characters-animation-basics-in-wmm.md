@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Crafting Characters  Animation Basics in WMM\""
-date: 2024-09-11T16:20:56.722Z
-updated: 2024-09-12T16:20:56.722Z
+date: 2024-09-12T02:02:45.663Z
+updated: 2024-09-17T20:29:56.753Z
 tags: 
   - screen-recording
   - ai video
@@ -37,27 +37,7 @@ On your PC, launch Windows Movie Maker. Windows Movie Maker, however, has to be 
 
 ![import video to movie maker](https://images.wondershare.com/filmora/article-images/2022/09/import-video-to-movie-maker.jpg)
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** You have the option to upload one file at a time or many files simultaneously.
 
@@ -66,19 +46,6 @@ On your PC, launch Windows Movie Maker. Windows Movie Maker, however, has to be 
 If you wish to clip off a section, go to "Edit" under "Video Tools" and choose the "Split" option. Depending on where you place the cursor during the section, the software will divide it into two halves. If you want to remove certain snippets, just touch the clip to reveal the context menu and choose "Remove" or "Delete" from the keyboard.
 
 ![preview video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/preview-video-movie-maker.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step3Open the Animation Tab
 
@@ -97,13 +64,6 @@ Between two multimedia portions, a transition effect may be added. In the "Anima
 When a transition is applied, a washed-out diagonal zone on the clip in the timeline indicates where the transition starts and finishes. Additionally, you have a choice in the sequence in which the effects are used. This may change how the movie is finally shown depending on the Effects, you choose. Once you're done, click Apply.
 
 ![save animation video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/save-animation-video-movie-maker.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. Movie Maker Alternative to Add Animations
 
@@ -157,31 +117,24 @@ You may add two distinct types of animations—Transitions and Pan and Zoom—to
 
 ![animation tab movie maker](https://images.wondershare.com/filmora/article-images/2022/09/animation-tab-movie-maker.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step4Add Transitions
 
 Between two multimedia portions, a transition effect may be added. In the "Animations" section, there are many different transitions available, including dissolves, patterns, and forms. The transition will be included at the start of the chosen medium. You may alter the effect's duration by writing or choosing a new time frame from the dropdown menu next to "Duration."
 
 ![add transitions movie maker](https://images.wondershare.com/filmora/article-images/2022/09/add-transitions-movie-maker.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step5Save the Video
 
 When a transition is applied, a washed-out diagonal zone on the clip in the timeline indicates where the transition starts and finishes. Additionally, you have a choice in the sequence in which the effects are used. This may change how the movie is finally shown depending on the Effects, you choose. Once you're done, click Apply.
 
 ![save animation video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/save-animation-video-movie-maker.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. Movie Maker Alternative to Add Animations
 
@@ -210,16 +163,10 @@ Filmora helps you create your text animation using the controller window as seen
 The software's Preview window also allows you to preview the animation you've selected before adding it to the timeline with a few simple drag-and-drop actions. After finishing the production and editing of the instructional video, you may save it for distribution on social media. You may choose to save the document as an MP4, WMV, AVI, MOV, or even a GIF file.
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3\. Related FAQs about Windows Movie Maker
@@ -260,13 +207,14 @@ Simple movies may be easily made using Windows Live Movie Maker. With Windows Vi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-xplits-rival-software-for-effortless-splits/"><u>[New] 2024 Approved Xplit's Rival Software for Effortless Splits</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-unveiling-30-preferred-steadicam-models-for-high-quality-dslr-projects/"><u>[New] Unveiling 30 Preferred Steadicam Models for High-Quality DSLR Projects</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-navigating-the-world-of-srt-files-on-youtube-and-twitter-for-2024/"><u>[Updated] Navigating the World of SRT Files on YouTube and Twitter for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pinnacle-teaser-film-assortment-for-2024/"><u>Pinnacle Teaser Film Assortment for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/preserve-your-visuals-capturing-pictures-within-word-docs-made-easy/"><u>Preserve Your Visuals: Capturing Pictures Within Word Docs Made Easy</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/superior-tech-for-live-stream-correction/"><u>Superior Tech for Live Stream Correction</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-beginners-guide-to-luts-and-downloading-tools-for-2024/"><u>The Beginner's Guide to LUTs and Downloading Tools for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-on-the-go-video-making-essentials/"><u>[New] 2024 Approved On-The-Go Video Making Essentials</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-uncharted-top-free-speech-to-text-for-mac-users/"><u>[New] 2024 Approved Uncharted Top Free Speech-to-Text for Mac Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-assessing-the-capabilities-of-yuneecs-typhoon-h-drone/"><u>[New] Assessing the Capabilities of Yuneec's Typhoon H Drone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-discovering-10-prime-microphones-for-podcasting/"><u>[New] Discovering 10 Prime Microphones for Podcasting</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/arning-by-critiquing-goodies-a-youtube-guide/"><u>[New] Earning by Critiquing Goodies A YouTube Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-utilizing-the-virtual-whiteboard-in-webinars-cross-platform-tips-and-tricks-for-2024/"><u>[New] Utilizing the Virtual Whiteboard in Webinars Cross-Platform Tips and Tricks for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-a-detailed-walkthrough-embedding-online-video-into-ms-presentations/"><u>[Updated] In 2024, A Detailed Walkthrough Embedding Online Video Into MS Presentations</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-direct-your-media-essential-flv-to-youtube-applications-ranked/"><u>2024 Approved Direct Your Media Essential Flv-to-YouTube Applications Ranked</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-in-2024-how-to-make-a-meme-step-by-step/"><u>New In 2024, How to Make a Meme (Step by Step)</u></a></li>
 </ul></div>
 

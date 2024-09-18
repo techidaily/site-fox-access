@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Underwater Cinematography Made Simple  Top 7 Tips for 2024\""
-date: 2024-09-11T16:21:57.165Z
-updated: 2024-09-12T16:21:57.165Z
+date: 2024-09-16T17:24:58.559Z
+updated: 2024-09-17T17:30:42.617Z
 tags: 
   - screen-recording
   - ai video
@@ -45,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 
 ![frame shot](https://images.wondershare.com/filmora/article-images/frame-shot.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 2\. Get closer
 
  You need to get as close to your subject as you possibly can. It may take several attempts to get it right, especially if you’ve just about got the shot you want but your subject inevitably floats or swims away.
@@ -62,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 
 ![get closer](https://images.wondershare.com/filmora/article-images/get-closer-underwater.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 3\. Lighting is important
 
  It’s possible to manipulate lighting via white balance and manual exposure. When you use manual white balance, you can obtain outstanding footage without purchasing costly lights.
@@ -78,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
  You can instead make use of natural sunlight, which should help you get the excellence you require even when you’re shooting at more than 30 metres depth. Deeper white balancing can be helpful during cloudy days.
 
 ![lightinng](https://images.wondershare.com/filmora/article-images/lightinng-underwater.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### 4\. Stay steady
 
@@ -106,13 +85,6 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 
 ![wide angle](https://images.wondershare.com/filmora/article-images/wide-angle-underwater.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 7\. Shoot the best colour
 
  You will be able to include the full spectrum of colour by remaining in the first five metres of the water. Fascinating marine life can be found in shallow reefs. The deeper you go, the more colour you are likely to lose.
@@ -120,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
  Virtually all natural colours when you stay shallow. Go beyond this and you will require a colour correction filter to retrieve the colour lost through depth. When shooting close-up subjects beneath 20 metres, use a wide-angle video light to return vibrant, kaleidoscopic colour to your video.
 
 ![shoot shot](https://images.wondershare.com/filmora/article-images/shoot-colour.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Edit your footage
 
@@ -141,19 +106,6 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -180,18 +132,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-art-of-amplifying-your-minecraft-scene/"><u>[New] 2024 Approved The Art of Amplifying Your Minecraft Scene</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-best-selling-vr-games-on-oculus-devices-for-2024/"><u>[New] Best-Selling VR Games on Oculus Devices for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-embrace-the-world-of-video-design-in-xp/"><u>[New] In 2024, Embrace the World of Video Design in XP</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-unveiling-professional-hdr-magic-in-adobes-photoshop/"><u>[New] In 2024, Unveiling Professional HDR Magic in Adobe's Photoshop</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-live-streaming-showdown-streamlabs-vs-obs-face-off/"><u>[Updated] 2024 Approved Live Streaming Showdown Streamlabs Vs. OBS Face-Off</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-resolve-fb-live-failure-video-not-posting/"><u>[Updated] 2024 Approved Resolve FB Live Failure Video Not Posting</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-canvasknotter-your-ultimate-photo-blend-tool/"><u>[Updated] CanvasKnotter Your Ultimate Photo Blend Tool</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-screen-capture-mastery-with-irecorder/"><u>2024 Approved Screen Capture Mastery with iRecorder</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-vivo-s18-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Vivo S18 Pro without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/complete-guide-setting-up-revo-app-manager-and-uninstaller/"><u>Complete Guide: Setting Up Revo App Manager & Uninstaller</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-nokia-c12-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Nokia C12</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-11-pro-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme 11 Pro Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-12-mini-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 12 mini</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-audiovisual-adventures-unleashed-by-polaroid-camplus-cubeplus/"><u>[Updated] Audiovisual Adventures Unleashed by Polaroid Cam+ Cube+</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-eliminating-noise-in-photos-using-photopeas-tools-for-2024/"><u>[Updated] Eliminating Noise in Photos Using Photopea's Tools for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-revitalize-your-reels-selecting-the-best-5-enhancers/"><u>[Updated] In 2024, Revitalize Your Reels Selecting the Best 5 Enhancers</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-unlocking-the-full-power-of-tiktok-with-apples-voice-commands-integration/"><u>[Updated] Unlocking the Full Power of TikTok with Apple's Voice Commands Integration</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-hand-trackings-evolution-and-practice/"><u>[Updated] Unveiling Hand Tracking's Evolution and Practice</u></a></li>
+<li><a href="https://driver-download.techidaily.com/obtain-your-brother-hl-l2380dw-printing-software-and-utilities-for-windows-operating-systems/"><u>Obtain Your Brother HL-L2380DW Printing Software and Utilities for Windows Operating Systems</u></a></li>
+<li><a href="https://video-capture.techidaily.com/screencastify-recorder-a-complete-step-wise-how-to-guide/"><u>Screencastify Recorder - A Complete Step-Wise How-To Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/transform-your-imagination-into-visual-masterpieces-on-windows-10-for-2024/"><u>Transform Your Imagination Into Visual Masterpieces on Windows 10 for 2024</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

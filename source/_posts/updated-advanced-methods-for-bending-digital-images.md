@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Advanced Methods for Bending Digital Images"
-date: 2024-09-11T16:20:30.154Z
-updated: 2024-09-12T16:20:30.154Z
+date: 2024-09-16T00:46:01.793Z
+updated: 2024-09-17T20:16:23.942Z
 tags: 
   - screen-recording
   - ai video
@@ -39,19 +39,6 @@ After creating the new document, open the image that you want to curve. You may 
 
 ![place image in photoshop](https://images.wondershare.com/filmora/article-images/2022/09/place-image-in-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step3Warp the Image
 
 Now we'll curve the image using the Warp Tool. Select the Warp Tool by clicking and holding on the Transform Tool in the toolbar. The Warp Tool is located at the bottom of the Transform Tool's fly-out menu. Alternatively, you may press Ctrl+T or Command+T on your keyboard to open the Transform Tool's fly-out menu and then select the Warp Tool from there.
@@ -72,66 +59,19 @@ Play around with the settings in the options bar. There are quite a few differen
 
 ![verticle distortion image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/verticle-distortion-image-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The **Bend Direction** option rotates the angle of the bend.
 
 ![bend direction image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/bend-direction-image-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
 
 ![flip effect image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/flip-effect-image-photoshop.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step4Save the Image
 
 Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved
 
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -167,16 +107,25 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-pros-and-cons-delving-into-the-world-of-video-downloading-methods/"><u>[New] Pros and Cons Delving Into the World of Video Downloading Methods</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-dive-into-multi-tasking-mastery-with-chromes-pip-feature/"><u>[Updated] In 2024, Dive Into Multi-Tasking Mastery with Chrome's PIP Feature</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-premier-image-changing-solutions-clipsmorph-elite-for-2024/"><u>[Updated] Premier Image Changing Solutions ClipsMorph Elite for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-the-troubleshooting-companion-restoring-srt-functionality-in-premiere-for-2024/"><u>[Updated] The Troubleshooting Companion Restoring SRT Functionality in Premiere for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-xiaomi-redmi-note-12-pro-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Xiaomi Redmi Note 12 Pro 5G Phone Screen?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-proven-approaches-for-large-media-file-transfers-from-iphones-to-macs/"><u>In 2024, Proven Approaches for Large Media File Transfers From iPhones to Macs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/in-depth-look-at-oculus-quest-3-unveiling-news-cost-details-upcoming-release-date-and-complete-specs-checklist/"><u>In-Depth Look at Oculus Quest 3: Unveiling News, Cost Details, Upcoming Release Date & Complete Specs Checklist</u></a></li>
-<li><a href="https://fox-access.techidaily.com/master-your-mix-essential-audio-devices-for-podcast-success-for-2024/"><u>Master Your Mix Essential Audio Devices for Podcast Success for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unearth-the-10-finest-mystery-box-deals-portals/"><u>Unearth the 10 Finest Mystery Box Deals Portals</u></a></li>
-<li><a href="https://program-issues.techidaily.com/why-is-my-helldivers-2-not-launching-expert-tips-to-get-it-running-on-steam-again/"><u>Why Is My Helldivers 2 Not Launching? Expert Tips to Get It Running on Steam Again</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-detailed-overview-of-lightroom-on-android-devices/"><u>[New] Detailed Overview of Lightroom on Android Devices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-enhancing-zoom-video-clarity-user-guide/"><u>[New] Enhancing Zoom Video Clarity User Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-channel-command-center-masterminding-visionary-content/"><u>[New] In 2024, Channel Command Center Masterminding Visionary Content</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-enhance-and-unblur-photo-editing-tools-ranked-1-10/"><u>[New] In 2024, Enhance and Unblur Photo Editing Tools Ranked #1-10</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-melodic-instagram-reels-blending-music-voiceovers/"><u>[New] Melodic Instagram Reels Blending Music, Voiceovers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-gigglegraphics-eyecatchermemes/"><u>[Updated] 2024 Approved GiggleGraphics EyeCatcherMemes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-probing-the-depth-of-recmeisters-high-end-screen-capture-features/"><u>[Updated] In 2024, Probing the Depth of Recmeister's High-End Screen Capture Features</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-joining-the-digital-conversation-zooming-effortlessly-with-android/"><u>In 2024, Joining the Digital Conversation Zooming Effortlessly with Android</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-new-frontiers-in-immersive-experiences-the-best-metaverse-insights/"><u>In 2024, New Frontiers in Immersive Experiences The Best Metaverse Insights</u></a></li>
+<li><a href="https://fox-access.techidaily.com/navigating-the-zoom-interface-a-focus-on-windows-10-for-2024/"><u>Navigating the Zoom Interface A Focus on Windows 10 for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-get-your-audio-fix-10-webm-to-mp3-converters-you-can-trust-for-2024/"><u>New Get Your Audio Fix 10 WebM to MP3 Converters You Can Trust for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-key-to-dramatic-contrast-in-hdr-portrait-photography-for-2024/"><u>The Key to Dramatic Contrast in HDR Portrait Photography for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy A05 | Dr.fone</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

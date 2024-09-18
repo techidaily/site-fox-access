@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, '3DR'  The Soloist’s Voyage in 3D Printing Tech\""
-date: 2024-09-11T16:18:39.509Z
-updated: 2024-09-12T16:18:39.509Z
+date: 2024-09-13T16:23:52.057Z
+updated: 2024-09-17T19:03:26.329Z
 tags: 
   - screen-recording
   - ai video
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Pros and Cons of 3DR Solo
 
 **Pros:**
@@ -60,19 +53,6 @@ thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909
 
  The 3DR solo drone is designed to serve with amazing aerial photography functions that is why it is one of the most preferred drones by cinematographers. One can easily connect it with GoPro cameras to get stunning shots on height. But the downside is its short battery life and weak GPS.
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Complete Review
 
 #### 1\. Basic Specs Info
@@ -92,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909
 
 ![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=5a8069fda1f7be3bf48e831452f3ee9d)
 
  People call 3DR Solo one of the most impressive drone with minimal complexities in design. It is the best product for cinematographic needs and you could easily imagine it hovering on the top to capture scenes for Hollywood movies. You will find a 5200mAh battery on top portion of this drone, located near power button. It appears little heavier with the gimbal, camera and battery installation, the overall weight goes up to 3.35 pounds. Note that, you need to get your drone registered with FAA to organise its flights because the weight goes above 0.5 pounds limit. You will find indicating LEDs on this device that keep on indicating full status during its flights and they can be observed in day light too. Users need to connect this device with a smartphone or iOS device to avail full control as well as to get live preview of shoots.
@@ -115,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909
 
 ![3dr solo controller](https://images.wondershare.com/filmora/article-images/3dr-solo-controller.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The 3DR solo controller appears trendy with just two joysticks that offer direct control to acceleration, yaw, pitch and roll. The fly button can be accessed for initiated automated landing and takeoff. A tiny screen is provided to display continuous information about battery condition and telemetry data. One additional knob is available for adjustments of camera angle controls. Other then this you will find one customizable button to activate autonomous flight mode. It also provides one pause button that helps users to make their drone stable in air. All other controls can be managed from application.
 
 #### 6\. Camera
@@ -135,13 +101,6 @@ thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909
 **You may also like:** [10 Must Have drone accessories and parts](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -168,16 +127,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/the-witcher-3-enhanced-performance-and-fixed-crashes-post-update/"><u>'The Witcher 3': Enhanced Performance and Fixed Crashes Post-Update</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-extensive-review-the-hero4-black-journey/"><u>[New] In 2024, Extensive Review The Hero4 Black Journey</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-unlock-creativity-the-best-collection-of-free-slide-show-patterns/"><u>[Updated] 2024 Approved Unlock Creativity The Best Collection of Free Slide Show Patterns</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-comedy-mastering-kinemaster/"><u>2024 Approved Crafting Comedy Mastering KineMaster</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminate-blank-screen-a-twitch-guide/"><u>Eliminate Blank Screen: A Twitch Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-minute-methods-for-retrieving-erased-reddit-threads/"><u>In 2024, Minute Methods for Retrieving Erased Reddit Threads</u></a></li>
-<li><a href="https://fox-access.techidaily.com/premium-top-15-high-res-recording-devices-for-2024/"><u>Premium Top 15 High-Res Recording Devices for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-of-swagtrons-t1-model-a-look-at-its-mobility-and-cost-balance/"><u>Review of Swagtron's T1 Model - A Look at Its Mobility and Cost Balance</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/transform-your-viewing-experience-activating-av1-on-youtube-for-2024/"><u>Transform Your Viewing Experience Activating AV1 on YouTube for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/unleash-the-power-of-natural-and-artificentic-lights-on-iphone/"><u>Unleash the Power of Natural and Artificentic Lights on iPhone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-slow-down-your-footage-top-video-editing-software-for-slo-mo/"><u>Updated In 2024, Slow Down Your Footage Top Video Editing Software for Slo-Mo</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-gear-selection-guide-for-global-filmmakers/"><u>[New] In 2024, Gear Selection Guide for Global Filmmakers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-5-methods-to-record-high-quality-audio-on-windows/"><u>[New] Top 5 Methods to Record High-Quality Audio on Windows</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-amplify-imagery-with-simple-grading-tricks/"><u>[Updated] 2024 Approved Amplify Imagery with Simple Grading Tricks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-max-360-vs-hero-11-gopro-cameras-face-off/"><u>[Updated] 2024 Approved Max 360 Vs. Hero 11 - GoPro Cameras Face Off</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-your-journey-through-the-maze-of-uploading-videos-on-youtube/"><u>2024 Approved Your Journey Through the Maze of Uploading Videos on YouTube</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-the-question-of-authorship-how-is-copyright-assigned-in-the-realm-of-artificial-intelligence/"><u>Demystifying the Question of Authorship: How Is Copyright Assigned in the Realm of Artificial Intelligence?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-guide-epson-wf-3520-printer-driver-on-windows/"><u>Download & Update Guide: Epson WF-3520 Printer Driver on Windows</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-iphone-15-plus-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your iPhone 15 Plus Apple ID and Apple Pay</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

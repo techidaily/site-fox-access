@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Chroma Chronicles  Expertise in Color Crafting\""
-date: 2024-09-11T16:23:13.603Z
-updated: 2024-09-12T16:23:13.603Z
+date: 2024-09-12T23:35:39.295Z
+updated: 2024-09-18T02:08:50.134Z
 tags: 
   - screen-recording
   - ai video
@@ -33,13 +33,6 @@ Color theory consists of many elements that could fill a library on its own but 
 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Color Wheel
 
 Using red, green and blue as primary colors we can mix the colors to one another to get our secondary colors giving us yellow, magenta and cyan. We can mix these to one another to create our tertiary colors which are raspberry, orange, sprig green, turquoise, ocean and violet giving us something which looks like this
@@ -54,13 +47,6 @@ So now we know how the wheel is made and what it looks like. What does it do? We
 
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
 
 These colors always work as they create contrast and stability.
@@ -69,13 +55,6 @@ The blue lines represent what is known as split contrasting colors and these wil
 
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## But How Do I Use This
 
 You may still be unsure as to how to implement color theory into your videos. Let's look at some scenarios that color theory may help your creations.
@@ -83,10 +62,10 @@ You may still be unsure as to how to implement color theory into your videos. Le
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
@@ -95,20 +74,13 @@ As you can see from this example the base color for the scene is a dark blue/pur
 
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -145,19 +117,14 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-channel-charisma-standing-out-with-strategic-telegram-promotion/"><u>[New] 2024 Approved Channel Charisma Standing Out with Strategic Telegram Promotion</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-top-5-video-editors-for-macos-sierra/"><u>[New] 2024 Approved Top 5 Video Editors for macOS Sierra</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-a-deep-dive-into-luts-for-image-enhancement/"><u>[New] A Deep Dive Into LUTs for Image Enhancement</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-download-your-favorite-shows-anytime-everywhere-with-these-apps/"><u>[New] In 2024, Download Your Favorite Shows Anytime, Everywhere with These Apps</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-ownership-deciphering-in-instasongs/"><u>[New] In 2024, Ownership Deciphering in InstaSongs</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-expertly-blending-tracks-using-audacity-crossfade-tools/"><u>[Updated] 2024 Approved Expertly Blending Tracks Using Audacity Crossfade Tools</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-streamline-content-creation-leading-after-effects-plugins/"><u>[Updated] 2024 Approved Streamline Content Creation Leading After Effects Plugins</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-top-handheld-stabilizers-to-elevate-your-vlogging-game/"><u>[Updated] Top Handheld Stabilizers to Elevate Your Vlogging Game</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ovative-yt-tales-share-your-life-journey-for-2024/"><u>5 Innovative YT Tales Share Your Life Journey for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/dynamic-portraits-made-easy-using-picsart-for-face-motion-blur/"><u>Dynamic Portraits Made Easy Using Picsart for Face Motion Blur</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-from-catalina-to-big-sur-a-comprehensive-mac-os-shift-guide/"><u>In 2024, From Catalina to Big Sur A Comprehensive Mac OS Shift Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-oneplus-ace-2v-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on OnePlus Ace 2V Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s24-ultra-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S24 Ultra Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-guide-to-stop-red-dead-online-from-crashing-on-windows-pcs/"><u>Ultimate Troubleshooting Guide to Stop Red Dead Online From Crashing on Windows PCs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2022s-top-figure-skating-performances/"><u>[New] 2022'S Top Figure Skating Performances</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-jaunt-vr-unleashed-an-in-depth-look/"><u>[New] 2024 Approved Jaunt VR Unleashed An In-Depth Look</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-best-script-artisans-domain/"><u>[Updated] 2024 Approved Best Script Artisan's Domain</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-elite-set-of-android-photoshoppers/"><u>[Updated] In 2024, The Elite Set of Android Photoshoppers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-oneplus-nord-ce-3-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost OnePlus Nord CE 3 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-samsung-galaxy-s23-tactical-edition-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Samsung Galaxy S23 Tactical Edition Phone? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-depth-look-at-srt-knowledge-for-all-levels-for-2024/"><u>In-Depth Look at SRT Knowledge for All Levels for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/small-but-mighty-an-in-depth-analysis-of-amazons-newest-echo-dot-gen3-alexa-device/"><u>Small but Mighty: An In-Depth Analysis of Amazon's Newest Echo Dot Gen3 Alexa Device</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ultimate-guide-to-comparing-leading-4k-youtube-to-mp3-extractors-for-2024/"><u>Ultimate Guide to Comparing Leading 4K YouTube to MP3 Extractors for 2024</u></a></li>
 </ul></div>
 

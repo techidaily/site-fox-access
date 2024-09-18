@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Enhancing Windows Photos with Music and Custom Filters\""
-date: 2024-09-11T16:23:24.144Z
-updated: 2024-09-12T16:23:24.144Z
+date: 2024-09-15T20:54:53.232Z
+updated: 2024-09-17T23:01:26.301Z
 tags: 
   - screen-recording
   - ai video
@@ -38,19 +38,6 @@ Having Windows 10 Photos app is an advantage for you. This is not like any other
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: How to add filters on Windows 10 Photos App
 
 If you have got Windows 10 Photos app and wish to add filters, though, it is by default a photo viewing app, its editing features are worth to mention. This step by step guide is your perfect savior in that case.
@@ -69,21 +56,7 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5**: Just select one you like. Preview it and then click Done.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
 
@@ -97,38 +70,17 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
 **Step 5**: Hit the ‘Done’ button.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 From the above article, we conclude that Windows 10 Photos app is an amazing app when it comes to photo editing and screen capturing from a video. While there are numerous options out there, you can **_add filters using Windows 10 Photos app_** in the best way possible. Moreover, this application enables you enable to even add music to videos using Windows 10 Photos app. The advantages of Windows 10 are innumerable, and with the right tools, you can get the best out of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -155,16 +107,28 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-explore-the-best-free-drawing-software-for-mac-users/"><u>[New] Explore the Best FREE Drawing Software for Mac Users</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-slick-shots-from-yesteryear-mastering-vhs-hacks-in-modern-edits/"><u>[New] In 2024, Slick Shots From Yesteryear Mastering VHS Hacks in Modern Edits</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-ultimate-psd-transparency-tricks/"><u>[Updated] 2024 Approved Ultimate PSD Transparency Tricks</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-how-to-proficiently-use-a-switch-pro-controller-on-steam-for-2024/"><u>[Updated] How to Proficiently Use a Switch Pro Controller on Steam for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-prime-video-sets-for-live-broadcasts-2023/"><u>[Updated] Prime Video Sets for Live Broadcasts 2023</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-the-top-10-filmora-traits-fueling-video-magic-for-2024/"><u>[Updated] The Top 10 Filmora Traits Fueling Video Magic for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-ignite-customer-interest-and-increase-revenue-top-15-tools-for-fb-data-analysis/"><u>2024 Approved Ignite Customer Interest & Increase Revenue Top 15 Tools for FB Data Analysis</u></a></li>
-<li><a href="https://fox-access.techidaily.com/freelancers-dilemma-navigating-through-bing-chat-and-chatgpt-what-to-watch-out-for-8-factors/"><u>Freelancer's Dilemma: Navigating Through Bing Chat and ChatGPT - What to Watch Out For (8 Factors)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-infinix-smart-8-plus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Infinix Smart 8 Plus to iPhone | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/er-tips-maximizing-youtube-edits-with-finalcut-pro-for-2024/"><u>Insider Tips Maximizing YouTube Edits with FinalCut Pro for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-expertise-in-computer-systems-and-equipment/"><u>Tom's Expertise in Computer Systems and Equipment</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-the-pathway-to-streaming-google-meet-on-youtube-procedures/"><u>[New] 2024 Approved The Pathway to Streaming Google Meet on YouTube Procedures</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-luminous-filmmaking-transform-your-videos-with-pro-tips/"><u>[New] In 2024, Luminous Filmmaking Transform Your Videos with Pro Tips</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-tactics-to-maximize-engagement-with-every-reddit-post/"><u>[New] In 2024, Tactics to Maximize Engagement with Every Reddit Post</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-prime-methods-to-adapt-track-paceplay-in-spotify-app-for-2024/"><u>[New] Prime Methods to Adapt Track Paceplay in Spotify App for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-audio-visual-synergy-iphones-role-in-modern-music-videos-for-2024/"><u>[Updated] Audio-Visual Synergy IPhone's Role in Modern Music Videos for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-breathless-battles-olympic-short-track/"><u>[Updated] Breathless Battles Olympic Short Track</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-sticky-visuals-at-a-glance-iphoneandroids-best-sticker-add-on-apps/"><u>[Updated] Sticky Visuals at a Glance – iPhone/Android's Best Sticker Add-On Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-appeal-of-artificial-intelligence-chatbots-whats-driving-their-popularity/"><u>Discover the Appeal of Artificial Intelligence Chatbots – What’s Driving Their Popularity?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/elevate-your-business-impact-a-comprehensive-approach-to-engaging-audiences-across-facebook-linkedin-xing-and-youtube/"><u>Elevate Your Business Impact: A Comprehensive Approach to Engaging Audiences Across Facebook, LinkedIn, Xing, and YouTube</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/excellent-efficiency-in-simplicity-the-clearstream-eclipse-antenna-comprehensive-analysis/"><u>Excellent Efficiency in Simplicity: The ClearStream Eclipse Antenna Comprehensive Analysis</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-11-pro-max-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 11 Pro Max With 7 Methods</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-s18e-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo S18e Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-zero-5g-2023-turbo-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Zero 5G 2023 Turbo To Phone | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-lava-blaze-pro-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Lava Blaze Pro 5G Device</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-streamline-your-screen-experience-pip-mastery-for-mac-enthusiasts/"><u>In 2024, Streamline Your Screen Experience PIP Mastery for Mac Enthusiasts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolvingscreenreversal-problems/"><u>ResolvingScreenReversal Problems</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

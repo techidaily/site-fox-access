@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Palette Playbook  The Filmmaker's Guide to Grading for 2024\""
-date: 2024-09-11T16:20:23.526Z
-updated: 2024-09-12T16:20:23.526Z
+date: 2024-09-15T22:21:11.760Z
+updated: 2024-09-17T23:16:41.066Z
 tags: 
   - screen-recording
   - ai video
@@ -27,13 +27,6 @@ Everyone in the video editing world is full of lively and beautiful colors — j
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is Color Grading?
 
 Color grading is the video editing process wherein grading (arranging) colors in a video or film to give them a stylistic look. It is different from Color correction because color correction is the process of correcting (fixing) colors in a video or a film as a way to get them back to what they should look like for your project or output.
@@ -42,25 +35,11 @@ In cinematography, color grading refers to the manipulation of film and video im
 
 ![origianl video color grading](https://images.wondershare.com/filmora/article-images/2022/08/origianl-video-color-grading.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Color grading and color correction are processes that happen throughout postproduction. One makes the film look more native, and the other stylizes the footage. After the colorist finishes color correction, they can begin grading the film. During color grading, colorists use editing software to formalize the footage, highlighting a movie's visual tone and ambiance and making it look more cinematic.
 
 ![apply color grading to video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-grading-to-video.jpg)
 
 To summarize, Color grading can be used to make both technical and creative changes. Colorists use color grading for artistic purposes to ensure that the film's carefully curated color palette conveys a specific atmosphere, style, or emotion.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why is Color Grading Important?
 
@@ -100,13 +79,6 @@ Color Panel Window - to perform color correction in Wondershare Filmora, switch 
 
 ![edit color grading video fx](https://images.wondershare.com/filmora/article-images/2022/08/edit-color-grading-video-fx.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Contrast**: is the variance in luminance or color that makes an object identifiable. By modifying this setting, control the dissimilarity in color and brightness in contrary parts of the video image.
 
 **Saturation:** This setting constitutes the amount of gray in proportion to the hue. You can adjust it to make the entire video image's colors look soaked or unnoticeable.
@@ -133,40 +105,13 @@ First, you need to select the specific video portion you want to change the colo
 
 ![split video into clips fx](https://images.wondershare.com/filmora/article-images/2022/08/split-video-into-clips-fx.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * And I selected the end portion of the video. After that, choose the part of the video.
 
 ![selected end portion video filmora](https://images.wondershare.com/filmora/article-images/2022/08/selected-end-portion-video-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step3Apply the color correction preset that you want then click ok
 
 ![apply color correction preset](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-correction-preset.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You will notice that the color changes depending on your selected preset.
 
@@ -260,16 +205,22 @@ Overall, Color grading is the process of video editing to have an excellent look
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-laughlenslab-pixelpunchers/"><u>[New] LaughLensLab PixelPunchers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-top-music-choices-for-captivating-video-experiences/"><u>[New] Top Music Choices for Captivating Video Experiences</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-microsoft-screen-recorder-download-and-use-guide/"><u>[Updated] Microsoft Screen Recorder Download and Use Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-podcast-dominance-through-effective-seo-strategies/"><u>[Updated] Podcast Dominance Through Effective SEO Strategies</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-the-essential-guide-to-asmr-for-sleep-enthusiasts-for-2024/"><u>[Updated] The Essential Guide to ASMR for Sleep Enthusiasts for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-six-quick-tips-for-efficient-beginner-edits-in-ps/"><u>2024 Approved Six Quick Tips for Efficient Beginner Edits in PS</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/all-the-highlights-you-need-from-samsungs-big-reveal-on-july-10th/"><u>All the Highlights You Need From Samsung's Big Reveal on July 10Th</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-find-your-perfect-match-gear-vr-compatible-phones-2023/"><u>In 2024, Find Your Perfect Match Gear VR-Compatible Phones 2023</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/screening-your-gaming-a-nintendo-switch-tutorial-for-2024/"><u>Screening Your Gaming A Nintendo Switch Tutorial for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/tinder-bio-hacks-steal-these-examples-and-get-swiped-right/"><u>Tinder Bio Hacks Steal These Examples & Get Swiped Right</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/ultra-high-definition-capture-ideal-apps-reviewed/"><u>Ultra-High Definition Capture Ideal Apps Reviewed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-expert-tips-on-choosing-the-ideal-live-broadcast-service/"><u>[New] 2024 Approved Expert Tips on Choosing the Ideal Live Broadcast Service</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-compact-cost-free-livestreaming-solutions-listed-in-a-nutshell-for-2024/"><u>[New] Compact, Cost-Free LiveStreaming Solutions Listed in a Nutshell for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-survivors-guide-top-6-mc-house-plans-for-2024/"><u>[New] Survivor's Guide Top 6 MC House Plans for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-ultimate-choice-the-greatest-11-multi-angle-cams/"><u>[New] Ultimate Choice The Greatest 11 Multi-Angle Cams</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-capture-flawless-underwater-images-easily-in-7-steps/"><u>[Updated] Capture Flawless Underwater Images Easily in 7 Steps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-fb-live-mastery-4-key-tv-broadcast-tips-for-2024/"><u>[Updated] FB Live Mastery 4 Key TV Broadcast Tips for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-how-to-use-luts-to-obs-studio-and-download-free-lut/"><u>[Updated] How to Use LUTs to OBS Studio & Download Free LUT</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-7-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone 7 to Android | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/mobile-magic-the-best-image-overlays-for-smartphones-are-here-for-2024/"><u>Mobile Magic The Best Image Overlays for Smartphones Are Here for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-vivo-y200e-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Vivo Y200e 5G | Dr.fone</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

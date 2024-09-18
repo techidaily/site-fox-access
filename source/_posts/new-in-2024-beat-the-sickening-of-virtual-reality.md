@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Beat the Sickening of Virtual Reality"
-date: 2024-09-11T16:22:35.520Z
-updated: 2024-09-12T16:22:35.520Z
+date: 2024-09-15T23:30:32.918Z
+updated: 2024-09-17T18:05:27.620Z
 tags: 
   - screen-recording
   - ai video
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 10 ways to prevent Oculus Rift motion sickness
 
  While using your Oculus Rift development kits you need to take care of few little things in order to avoid getting any kind of sickness during your game. Although the factors vary from individual to individual since it is more of the bodily response rather than the design variation.
@@ -62,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 
 **10\. Try not to move your head a lot.** Since motion sickness directly corresponds to movement, reducing your head movement left and right and up and down in one place can help you lower the chances of sickness.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Oculus have done to reduce motion sickness
 
  With the new, innovative VR devices and the head gear technology has taken a huge leap. Oculus Rift has become widely popular among its enthusiastic users. When Oculus released its first Development kit (DevKit 1) the users experienced the symptoms such as nausea, dizziness, sweating and vomiting. Even Oculus CEO Brendan Iribe experienced “motion sickness” with his own product, while using last year’s “DevKit 1” prototype. These sickness issues were so common while using DevKit 1 that its users called it the “Rift Sickness”.
@@ -76,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
  Since Oculus Rift DK1 came to the market, people were really unhappy with the sickness it gave to them. Oculus saw that issue as a big threat, and started to develop DK2 with a much better display. In the original DK1, Oculus Rift used the liquid crystal display (LCD) to display visual in its devices. LCD screen had been of very much advantage because of its brightness, geometric distortion, and less electricity consumption. But it still had been promoting to the sickness issue because of its sluggish motion time response. In replacement of LCD screens, Oculus Rift has introduced OLED (organic light emitting diode) screens which have proved to be a much better idea. Experiments of Oculus Rift with OLED screens have been successful so far in reducing motion sickness to its minimal. OLED has a much faster rate and thus much enhanced positional tracking.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -109,16 +88,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-crown-jewels-of-online-watching-youtubes-treasures-for-2024/"><u>[New] Crown Jewels of Online Watching YouTube's Treasures for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-all-time-highest-chart-youtubes-premier-video-list/"><u>[New] In 2024, All-Time Highest Chart YouTube's Premier Video List</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-gamers-guide-to-elite-streaming-platforms/"><u>[New] In 2024, Gamers' Guide to Elite Streaming Platforms</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-tilling-through-time-top-farmer-games-evolutions/"><u>[Updated] 2024 Approved Tilling Through Time Top Farmer Games Evolutions</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-should-you-review-off-facebook-histories-security-tips-and-tricks/"><u>[Updated] Should You Review Off-Facebook Histories? Security Tips & Tricks</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/cutting-edge-techniques-for-quick-czech-comprehension/"><u>Cutting-Edge Techniques for Quick Czech Comprehension</u></a></li>
-<li><a href="https://fox-access.techidaily.com/hues-unleashed-mastery-over-video-editing-colors-for-2024/"><u>Hues Unleashed Mastery over Video Editing Colors for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-apple-iphone-6-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your Apple iPhone 6 and iPad</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-poco-c50-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Poco C50 to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-skillful-shortcuts-quick-background-elimination-tactics/"><u>In 2024, Skillful Shortcuts Quick Background Elimination Tactics</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-best-4k-hdtv-monitors-for-gameplay-excellence/"><u>[New] 2024 Approved Best 4K HDTV Monitors for Gameplay Excellence</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-depth-look-at-tomtom-bandit-camera-series/"><u>[New] In-Depth Look at TomTom Bandit Camera Series</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-ensuring-clear-sound-with-proper-obs-configurations/"><u>[Updated] 2024 Approved Ensuring Clear Sound with Proper OBS Configurations</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-essential-guide-to-creating-stunning-timelapses-using-gopro-software/"><u>[Updated] Essential Guide to Creating Stunning Timelapses Using GoPro Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-building-blocks-of-virtual-experience-terminology/"><u>2024 Approved Building Blocks of Virtual Experience Terminology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-onestream-playbook-for-live-streamers/"><u>2024 Approved The Ultimate OneStream Playbook for Live Streamers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/journey-through-the-metaverse-discovering-iconic-memes-for-2024/"><u>Journey Through the Metaverse Discovering Iconic Memes for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-full-spectrum-of-ai-copilots-role-in-turbo-freedom/"><u>Unlocking the Full Spectrum of AI: Copilot's Role in Turbo Freedom</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
