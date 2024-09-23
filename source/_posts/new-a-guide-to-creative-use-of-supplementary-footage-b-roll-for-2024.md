@@ -1,7 +1,7 @@
 ---
 title: "\"[New] A Guide to Creative Use of Supplementary Footage (B-Roll) for 2024\""
-date: 2024-09-14T19:57:55.930Z
-updated: 2024-09-17T22:33:20.249Z
+date: 2024-09-18T21:16:12.746Z
+updated: 2024-09-22T17:39:45.846Z
 tags: 
   - screen-recording
   - ai video
@@ -53,49 +53,30 @@ We'll examine the top 5 uses for B rolls across a variety of video genres and di
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Visual detail b roll footage
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
-
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Atmospheric b roll footage
@@ -113,6 +94,13 @@ If flaws were discovered during primary photography, the directors could have re
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -148,20 +136,21 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-cut-to-impress-top-tier-online-photo-editing-skills/"><u>[New] 2024 Approved Cut to Impress Top-Tier Online Photo Editing Skills</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-enlightening-your-youtube-footage-with-proper-lighting-for-2024/"><u>[New] Enlightening Your YouTube Footage with Proper Lighting for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-navigating-the-complexities-of-youtubes-subtitles-download-with-3-proven-techniques-for-2024/"><u>[New] Navigating the Complexities of YouTube's Subtitles Download With 3 Proven Techniques for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-premier-selection-10-premium-image-replace-kits-for-2024/"><u>[New] Premier Selection 10 Premium Image Replace Kits for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-last-to-first-deconstructing-your-video-watch-list/"><u>[Updated] In 2024, From Last to First Deconstructing Your Video Watch List</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-perfecting-date-placement-on-visual-memories/"><u>[Updated] In 2024, Perfecting Date Placement on Visual Memories</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-instagrams-algorithm-unlocked-optimizing-your-reels-for-2024/"><u>[Updated] Instagram’s Algorithm Unlocked Optimizing Your Reels for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-manage-srt-files-in-winmac-environments-for-2024/"><u>[Updated] Manage SRT Files in Win/Mac Environments for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-iphone-14-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from iPhone 14 Safe and Legal</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elevate-your-editing-the-ultimate-list-of-lightroom-luts/"><u>Elevate Your Editing The Ultimate List of LightRoom LUTs</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-mastering-media-craft-debate-between-filmora-and-democracy-creator/"><u>In 2024, Mastering Media Craft Debate Between Filmora & Democracy Creator</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-depth-analysis-complete-revamp-of-facetune-app/"><u>In-Depth Analysis Complete Revamp of Facetune App</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/logitechs-official-webcam-software-download-the-latest-version-for-your-windows-pc/"><u>Logitech's Official Webcam Software: Download the Latest Version for Your Windows PC</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/reviewing-the-powerful-stanley-j5c09-large-scale-capability-meets-quality-craftsmanship/"><u>Reviewing the Powerful Stanley J5C09 – Large-Scale Capability Meets Quality Craftsmanship</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-best-top-5-featherweight-camcorders-for-adventures/"><u>[New] Best Top 5 Featherweight Camcorders for Adventures</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/aptivate-audiences-quickly-shortcuts-for-youtube-trailers-with-filmora-for-2024/"><u>[New] Captivate Audiences Quickly Shortcuts for YouTube Trailers with Filmora for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-do-youtube-channels-get-paid-regularly-in-2024/"><u>[New] How Do YouTube Channels Get Paid Regularly, In 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-winning-film-tech-comprerantes-top-5-windows-editing-tools/"><u>[New] In 2024, Winning Film Tech Comprerante's Top 5 Windows Editing Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-visual-virtuosity-leading-photo-frames-websites-and-tools-for-2024/"><u>[New] Visual Virtuosity Leading Photo Frames Websites and Tools for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-dynamic-games-best-flash-fueled-fun-for-phonespcs-for-2024/"><u>[Updated] Dynamic Games Best Flash-Fueled Fun for Phones/PCs for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-humorhub-quick-and-quirky-images-for-2024/"><u>[Updated] HumorHub Quick & Quirky Images for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-make-a-video-from-photo-with-music/"><u>How to Make a Video From Photo with Music</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-smooth-and-swift-designing-your-best-thumbnails/"><u>In 2024, Smooth & Swift Designing Your Best Thumbnails</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-the-nuances-of-softening-sounds-via-lumafusion/"><u>Mastering the Nuances of Softening Sounds via Lumafusion</u></a></li>
+<li><a href="https://fox-access.techidaily.com/meme-crafting-undead-androids/"><u>Meme Crafting Undead Androids</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-0x80240017-your-ultimate-troubleshooting-manual-for-windows-update-problems/"><u>Overcoming 0X80240017: Your Ultimate Troubleshooting Manual for Windows Update Problems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/streamline-your-study-avoiding-edgenuity-videos-efficiently/"><u>Streamline Your Study Avoiding Edgenuity Videos Efficiently</u></a></li>
+<li><a href="https://article-files.techidaily.com/swift-cinematic-skills-the-quickest-5-diy-hacks-for-success-for-2024/"><u>Swift Cinematic Skills The Quickest 5 DIY Hacks for Success for 2024</u></a></li>
 </ul></div>
 

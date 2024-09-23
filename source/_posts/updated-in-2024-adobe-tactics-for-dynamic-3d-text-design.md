@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Adobe Tactics for Dynamic 3D Text Design"
-date: 2024-09-12T18:48:52.725Z
-updated: 2024-09-18T01:00:45.274Z
+date: 2024-09-18T20:42:21.836Z
+updated: 2024-09-22T21:08:20.436Z
 tags: 
   - screen-recording
   - ai video
@@ -91,15 +91,22 @@ Step2 Head to the **Titles** tab and search for the **“3D Illustration**” ti
 
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
 
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
@@ -107,16 +114,10 @@ Step4 Finally, import a video in Filmora and drag it under the text into the Tim
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -140,19 +141,6 @@ Step2 Head to the **Titles** tab and search for the **“3D Illustration**” ti
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
 
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
@@ -186,17 +174,16 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-amplify-your-chat-status-with-melodies/"><u>[New] 2024 Approved Amplify Your Chat Status with Melodies</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-exploring-basic-hdr-a-thorough-review-guide-for-2024/"><u>[New] Exploring Basic HDR A Thorough Review Guide for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-in-depth-look-at-instagrams-video-time-restrictions/"><u>[New] In 2024, In-Depth Look at Instagram's Video Time Restrictions</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-unleash-creativity-gratuity-in-humor-tools/"><u>[New] In 2024, Unleash Creativity Gratuity in Humor Tools</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-soundtrack-of-your-phone-classic-tones-download-site-guide/"><u>[Updated] 2024 Approved The Soundtrack of Your Phone Classic Tones Download Site Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-gopro-hero-5-vs-nikon-km-170-for-adventurers-for-2024/"><u>[Updated] GoPro HERO 5 vs Nikon KM-170 for Adventurers for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015570878-astro-a50-speaker-mic-not-working-heres-how-to-fix-it/"><u>Astro A50 Speaker-Mic Not Working? Here's How to Fix It!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/exploring-handbrake-options-understanding-customization-constraints-configuration-and-basics/"><u>Exploring Handbrake Options: Understanding Customization, Constraints, Configuration, and Basics</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixes-and-solutions-resolving-mass-effect-trilogy-lag-issues/"><u>Fixes and Solutions: Resolving Mass Effect Trilogy Lag Issues</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-samsung-galaxy-a24-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Samsung Galaxy A24 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-worldwide-rich-list-top-earning-youtubers/"><u>In 2024, Worldwide Rich List Top Earning YouTubers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-premier-wavy-gaming-screens-2024-edition/"><u>Ultimate Selection: Premier Wavy Gaming Screens - 2024 Edition</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-addressing-the-myself-glitch-on-social-media-platforms/"><u>[New] In 2024, Addressing the 'Myself' Glitch on Social Media Platforms</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-breaking-barriers-innovative-ways-to-hook-your-podcast-audience/"><u>[Updated] 2024 Approved Breaking Barriers Innovative Ways to Hook Your Podcast Audience</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-pushing-perception-analyzing-the-dreamcolors-z32x-4k/"><u>[Updated] In 2024, Pushing Perception Analyzing the DreamColor's Z32X 4K</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-maximize-your-visuals-10-free-image-editing-tools-for-smartphones/"><u>[Updated] Maximize Your Visuals 10 Free Image Editing Tools for Smartphones</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-capturing-action-choosing-from-5-leading-game-stream-webcams/"><u>2024 Approved Capturing Action Choosing From 5 Leading Game Stream Webcams</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-chatgpt-control-pros-and-cons/"><u>Deciphering ChatGPT Control: Pros & Cons</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/immersive-storytelling-journey-our-top-8-selections/"><u>Immersive Storytelling Journey – Our Top 8 Selections</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/officiellt-upplaningstools-installera-imovie-vidareprogram-for-windows-2024/"><u>Officiellt Upplåningstools: Installera iMovie Vidareprogram För Windows 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/srt-mastery-advanced-techniques-for-mac-users-for-2024/"><u>SRT Mastery Advanced Techniques for Mac Users for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-guide-converting-h264-video-content-into-crystal-clear-mp4-for-enhanced-viewing-experience/"><u>Ultimate Guide: Converting H.264 Video Content Into Crystal Clear MP4 for Enhanced Viewing Experience</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ultimate-headset-guide-for-drone-racing-enthusiasts/"><u>Ultimate Headset Guide for Drone Racing Enthusiasts</u></a></li>
 </ul></div>
 

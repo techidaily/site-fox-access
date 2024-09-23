@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Frosty Frontiers  Highlighting the 2022 Olympic Games\""
-date: 2024-09-14T19:39:51.865Z
-updated: 2024-09-17T23:21:03.024Z
+date: 2024-09-19T19:43:28.397Z
+updated: 2024-09-23T01:07:28.524Z
 tags: 
   - screen-recording
   - ai video
@@ -51,14 +51,14 @@ Injuries are part of sports events but some injuries are gruesome and are result
 
 ![nina obrien](https://images.wondershare.com/filmora/article-images/nina-obrien-suffered-a-terrifying-crash.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 She lost her balance before she could cross the finishing line and she slid across the finish. She was screaming in pain as she left the event on a stretcher. The good news is that she is alert and responding. She has returned home to Colorado and she has received a warm welcome back home.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. US-Born Eileen Gu Wins Gold for China
 
@@ -66,14 +66,14 @@ Born in America, Eileen Gu represented China at Winter Olympics and managed to w
 
 ![eileen gu wins gold](https://images.wondershare.com/filmora/article-images/us-born-eileen-gu-wins-gold-for-china.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Eileen Gu's father is American while her mother is Chinese and she belongs to San Francisco. Yet, she represented China in the Winter Olympics which has sparked controversies. She has been representing China since 2019\. She wishes to represent China going forward and she has become a fan favorite in China.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Van der Poel Breaks the World Record
 
@@ -82,6 +82,13 @@ Nil Van der Poel broke his own record to win the Olympic gold medal. The 25-year
 ![van poel breaks the world record](https://images.wondershare.com/filmora/article-images/van-poel-breaks-the-world-record.jpg)
 
 Following the victory, he stated that he was sure to win the gold with eight laps remaining. However, he went not just for the gold but the world record with the remaining four laps. Patrick Roest from the Netherlands won the silver and the third spot went to Davide Ghittio of Italy.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Yan Wengang Wins China's First Medal in Sliding Sport
 
@@ -98,25 +105,19 @@ The competitiveness of Wengwang has made him the first medalist for China in men
 ![chloe kim](https://images.wondershare.com/filmora/article-images/chloe-kim.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 With the triumph, she joins Shaun White to be the only snowboarders to successfully defend their Olympic title. Following the victory, she was overwhelmed and emotional. Despite having the worst practice before the final, Kim went on to create history.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Ukrainian Athlete Shows ‘No War' Sign During Skeleton Event
@@ -124,19 +125,6 @@ With the triumph, she joins Shaun White to be the only snowboarders to successfu
 We are all aware of the tensions between Ukraine and Russia are at their peak and there are many experts who believe the countries are on the verge of declaring war. Even though The Winter Olympics should have ideally been an apolitical event, Ukrainian skeleton athlete Vladyslav Heraskevych flashed a sign that read “No War in Ukraine” to spark a political controversy.
 
 ![ukrainian athlete](https://images.wondershare.com/filmora/article-images/ukrainian-athlete.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 He showed the sign directly to the cameras after he finished his run at Beijing Olympics. It remains to be seen if any penalty will be imposed on him but Heraskevych has said that he is ready to face any repercussion even though he hopes that the Olympics will support him instead.
 
@@ -175,18 +163,17 @@ However, due to some miscommunication, she was allowed to be a participant in th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-digital-worlds-revealed-metaverse-vs-multiverse/"><u>[New] 2024 Approved Digital Worlds Revealed Metaverse vs Multiverse</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-advanced-photographic-techniques-from-auto-to-smart-hdr-for-2024/"><u>[New] Advanced Photographic Techniques From Auto to Smart HDR for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-spectral-revelations-drone-cams-overview-for-2024/"><u>[New] Spectral Revelations Drone Cams Overview for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-top-ten-blueprints-for-meme-mastery-for-2024/"><u>[New] Top Ten Blueprints for Meme Mastery for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-unique-trajectories-plotting-your-course-amongst-top-tiktok-creators-for-2024/"><u>[New] Unique Trajectories Plotting Your Course Amongst Top TikTok Creators for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-audio-endings-how-to-decrease-volume-gradually-in-pp/"><u>[Updated] Audio Endings How to Decrease Volume Gradually in PP</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-memo-menagerie-the-ultimate-list-of-meme-generators/"><u>[Updated] In 2024, Memo Menagerie The Ultimate List of Meme Generators</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-elite-5-digital-media-screenshots/"><u>2024 Approved Elite 5 Digital Media Screenshots</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-sony-xperia-5-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/hook-listeners-first-introductory-podcast-lines-for-2024/"><u>Hook Listeners First Introductory Podcast Lines for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/laptop-wont-boot-troubleshooting-the-all-too-common-bright-display-problem/"><u>Laptop Won’t Boot? Troubleshooting the All-Too-Common Bright Display Problem</u></a></li>
-<li><a href="https://fox-access.techidaily.com/serpent-soundtrack-comprehensive-guide-to-tts-resources-online/"><u>Serpent Soundtrack Comprehensive Guide to TTS Resources Online</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/wallet-friendly-cameras-2024-roundup/"><u>Wallet-Friendly Cameras: 2024 Roundup</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-eye-opening-experience-selecting-best-for-vr-gaming/"><u>[New] Eye-Opening Experience Selecting Best for VR Gaming</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-best-in-storytelling-eight-film-genre-showcase/"><u>[Updated] 2024 Approved The Best in Storytelling Eight Film Genre Showcase</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-virtual-jogging-meets-reality-treadmill-evaluations/"><u>[Updated] 2024 Approved Virtual Jogging Meets Reality Treadmill Evaluations</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-crafting-excellent-canon-temp-video-series/"><u>[Updated] In 2024, Crafting Excellent Canon Temp Video Series</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-top-8-youtube-to-avi-convertors-explained/"><u>[Updated] In 2024, Top 8 YouTube-to-AVI Convertors Explained</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-future-of-drone-control-with-syma-x8c/"><u>[Updated] The Future of Drone Control with Syma X8C</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhance-your-sites-potential-with-advanced-cookiebot-technology/"><u>Enhance Your Site's Potential with Advanced Cookiebot Technology</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-laptop-techniques-for-instantaneous-video-communication-through-whatsapp-web/"><u>In 2024, Laptop Techniques for Instantaneous Video Communication Through WhatsApp Web</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-honor-x7b-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Honor X7b Phones</u></a></li>
+<li><a href="https://win-best.techidaily.com/migrare-il-tuo-filmato-mov-in-formato-digitale-versione-gratuita-con-movavi/"><u>Migrare Il Tuo Filmato MOV in Formato Digitale - Versione Gratuita Con Movavi</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/securing-your-online-discussions-for-2024/"><u>Securing Your Online Discussions for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-for-disabling-or-unlinking-devices-from-your-google-home-network/"><u>Steps for Disabling or Unlinking Devices From Your Google Home Network</u></a></li>
 </ul></div>
 

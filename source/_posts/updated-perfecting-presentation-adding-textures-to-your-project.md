@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Perfecting Presentation  Adding Textures to Your Project\""
-date: 2024-09-11T00:57:32.503Z
-updated: 2024-09-17T17:47:46.313Z
+date: 2024-09-16T21:27:22.830Z
+updated: 2024-09-22T23:09:12.063Z
 tags: 
   - screen-recording
   - ai video
@@ -67,10 +67,10 @@ Adding text effects in Adobe After Effects is very easy and you can use these ef
 * After you are done, save the project and your text effects will be added to the final video successfully.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4\. Alternative ways to edit text fonts
@@ -86,10 +86,10 @@ These features also include adding texts and changing the fonts of those texts o
 ![use filmora to edit device](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * First open that video that you want to edit in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and then you will be available with a tab called "Titles" on the top. Select that and select any style of title that you want to edit. There is a preview window available to look at the text fonts and designs.
@@ -102,6 +102,13 @@ These features also include adding texts and changing the fonts of those texts o
 * You can drag the edges of the text effect on the timeline to edit the duration of text on your video. The text effect can also be composed in the video frame by dragging anywhere you wish.
 * When you double click on the text effect, you get more text editing tools such as "font, size, alignment, color, etc." for the text. This also provides an animation tab where you can animate your texts.
 * After you are done, click "save" and the text effects will be added to your videos successfully.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -116,13 +123,6 @@ These features also include adding texts and changing the fonts of those texts o
 * First open that video that you want to edit in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and then you will be available with a tab called "Titles" on the top. Select that and select any style of title that you want to edit. There is a preview window available to look at the text fonts and designs.
 
 ![open wanted video to edit in filmora](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Select the text style you want to add for your title and then drag it from the title's library to your timeline. An alternate way to add texts or such title font is to right-click on it and select the "Apply" option.
 * Here you can also set a particular font or style for the title as your favorite by right-clicking on the library and then selecting "Add to favorites" for easy access.
@@ -159,19 +159,20 @@ The article discussed the detailed process of **how to add font to Adobe After E
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-behind-the-scenes-samsungs-s8-and-4k-technology/"><u>[New] 2024 Approved Behind the Scenes Samsung's S8 and 4K Technology</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-explore-tiktoks-wonders-the-ultimate-macbook-setup/"><u>[New] Explore TikTok's Wonders The Ultimate MacBook Setup</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-revenue-revolution-leveraging-the-youtube-premium-opportunity/"><u>[New] Revenue Revolution Leveraging the YouTube Premium Opportunity</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-how-vr-movie-might-change-the-world/"><u>[Updated] 2024 Approved How VR Movie Might Change the World</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-first-use-to-expertise-a-comprehensive-fcp-guidebook/"><u>[Updated] From First Use to Expertise A Comprehensive FCP Guidebook</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-seamless-switching-between-screens-with-chromes-pip/"><u>[Updated] In 2024, Seamless Switching Between Screens with Chrome's PIP</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-stellarworkspace-unified-elite-full-hd-screens/"><u>[Updated] StellarWorkspace Unified, Elite Full HD Screens</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-superior-ff-videograbber-package-easy-and-reliable/"><u>2024 Approved Superior FF Videograbber Package - Easy and Reliable</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/fix-broken-jpegs-easily-with-our-expert-recommended-image-repair-software/"><u>Fix Broken JPEGs Easily with Our Expert-Recommended Image Repair Software</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-m1-macbook-air-video-editors-dream-machine/"><u>In 2024, M1 MacBook Air Video Editor's Dream Machine?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-nokia-c210-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Nokia C210 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-on-using-revouninstaller-to-abort-hanging-windows-programs/"><u>Step-by-Step Tutorial on Using RevoUninstaller to Abort Hanging Windows Programs</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unboxing-apple-watch-series-4-a-revolutionary-step-forward-in-smartwatch-technology/"><u>Unboxing Apple Watch Series ‪4: A Revolutionary Step Forward in Smartwatch Technology</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-radiance-studios-review-pinnacle-suite-deep-dive-into-studio-25-2023/"><u>[New] In 2024, Radiance Studios Review Pinnacle Suite Deep Dive Into Studio 25, 2023</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-crafting-cinematic-images-on-iphone-8-advanced-techniques/"><u>[Updated] In 2024, Crafting Cinematic Images on iPhone 8 Advanced Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-pioneering-the-space-of-podcast-logos-and-identity-for-2024/"><u>[Updated] Pioneering the Space of Podcast Logos & Identity for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-samsungs-latest-bd-edition-k850-update-for-2024/"><u>[Updated] Samsung's Latest BD Edition - K850 Update for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-audio-alerts-high-quality-pages/"><u>[Updated] Ultimate Audio Alerts High-Quality Pages</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-code-103003-in-tarkov-troubleshooting-guide-for-gamers/"><u>Error Code 103003 in Tarkov - Troubleshooting Guide for Gamers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/free-flexible-ais-for-practical-use-beyond-sora/"><u>Free, Flexible AIs for Practical Use: Beyond Sora</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-words-to-wisdom-distinguishing-natural-language-processing-from-machine-learning/"><u>From Words to Wisdom: Distinguishing Natural Language Processing From Machine Learning</u></a></li>
+<li><a href="https://howto.techidaily.com/gionee-f3-pro-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gionee F3 Pro Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-critical-assessment-the-dji-phantom-4-eyewear-probe/"><u>In 2024, Critical Assessment The DJi Phantom 4 Eyewear Probe</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-cutting-edge-tips-for-using-colored-backdrops-in-video-making/"><u>In 2024, Cutting-Edge Tips for Using Colored Backdrops in Video Making</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-effortless-editing-secrets-for-fresh-filmmakers/"><u>In 2024, Effortless Editing Secrets for Fresh Filmmakers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-samsung-galaxy-xcover-6-pro-tactical-edition-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Samsung Galaxy XCover 6 Pro Tactical Edition? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-lava-yuva-2-pro-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Lava Yuva 2 Pro Phone Hassle-Free</u></a></li>
+<li><a href="https://fox-access.techidaily.com/web-haven-for-historical-harmonies-downloads/"><u>Web Haven for Historical Harmonies' Downloads</u></a></li>
 </ul></div>
 

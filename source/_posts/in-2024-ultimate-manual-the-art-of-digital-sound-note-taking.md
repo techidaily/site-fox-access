@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Ultimate Manual  The Art of Digital Sound Note-Taking\""
-date: 2024-09-12T17:32:58.263Z
-updated: 2024-09-17T23:34:06.467Z
+date: 2024-09-18T00:05:06.839Z
+updated: 2024-09-22T21:36:28.600Z
 tags: 
   - screen-recording
   - ai video
@@ -57,6 +57,13 @@ How should you proceed if you find several voice clips that you want to remove? 
 
 ![choose the edit option](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Duplicate a Voice Memos
 
 1. Select the recording to make a duplicate.
@@ -81,6 +88,13 @@ How should you proceed if you find several voice clips that you want to remove? 
 
 ![replace button](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Save Voice Memos to a folder
 
 1. Go back from All Recordings at first and create a New Folder.
@@ -101,18 +115,25 @@ It's simple to use Voice Memos app on Mac:
 
 ![click the pause button](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. There are also options to edit or share your Voice Memos.
 
 ![share voice memos](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-10.jpg)
 
-If you're using a Mac and don't want to use Voice Memos to record your computer's internal or external sound, we've provided 2 additional productive ways for you to do so.
-
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+If you're using a Mac and don't want to use Voice Memos to record your computer's internal or external sound, we've provided 2 additional productive ways for you to do so.
 
 ### Way 1\. Use QuickTime Player
 
@@ -132,28 +153,21 @@ You can also use the [Wondershare Filmora](https://tools.techidaily.com/wondersh
 
 ![tap the recording option](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. In the new tab, select your options and then tap the start recording button (red circle).
 2. Click the pause button once you've completed the voiceover and tap ok.
 
 ![tap ok](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 5\. How to transcribe Voice Memos to text?
 
 Do you still type to organize meeting minutes or song lyrics after you have recorded them using Voice Memos? This requires a lot of effort and takes a lot of time. Being able to directly convert voice to text will significantly increase your productivity. Here we have introduced useful methods on 3 platforms to transcribe voice to text.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### On iPhone
 
@@ -209,21 +223,7 @@ Rev is also available to transcribe audio into text online. Visit the Rev Websit
 
 Otranscribe is one of the best online tools to transcribe Voice Memos into text. It stands out because it's free to use, unlike other websites offering trial and purchase. It is entirely free to use and user-friendly.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQ
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Can Voice Memos record phone calls?
 
@@ -263,17 +263,20 @@ Voice Memos is a helpful tool for iOS and Mac users. You can easily record audio
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-explore-your-virtual-worlds-choosing-between-portable-and-plugged-in-headsets-for-2024/"><u>[New] Explore Your Virtual Worlds Choosing Between Portable and Plugged-In Headsets for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-revolutionizing-workouts-the-best-vr-treadmill-choices/"><u>[New] In 2024, Revolutionizing Workouts The Best VR Treadmill Choices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-ultimate-choice-the-greatest-11-multi-angle-cams/"><u>[New] Ultimate Choice The Greatest 11 Multi-Angle Cams</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-navigating-photo-and-video-files-in-windows-10-like-a-pro/"><u>[Updated] 2024 Approved Navigating Photo & Video Files in Windows 10 Like a Pro</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-free-skype-recording-made-easy-mp3-edition-for-2024/"><u>[Updated] Free Skype Recording Made Easy - MP3 Edition for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-homemade-guide-to-google-vr-headset-construction/"><u>[Updated] Homemade Guide to Google VR Headset Construction</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-field-to-a-ott-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature field to a .ott file</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-top-7-affordable-solutions-to-watch-movies-on-pcs/"><u>In 2024, Top 7 Affordable Solutions to Watch Movies on PCs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/strategies-to-address-and-repair-msvcr100dll-errors/"><u>Strategies to Address and Repair MSVCR100.DLL Errors</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-performance-of-googles-wi-fi-nest-doorbells-powered-by-batteries-a-thorough-review/"><u>Unveiling the Performance of Google's Wi-Fi Nest Doorbells Powered by Batteries: A Thorough Review</u></a></li>
-<li><a href="https://win11.techidaily.com/whats-win32keygen-an-analysis-of-its-threats-and-remediation-processes-for-pcs/"><u>What's Win32/Keygen? An Analysis of Its Threats & Remediation Processes for PCs</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-12-proplus-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 12 Pro+ 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-cerebral-showcase-2024-exclusive-selection-of-trivia-streaming-sites/"><u>[New] Cerebral Showcase 2024 Exclusive Selection of Trivia Streaming Sites</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-experience-classic-ps1-games-with-leading-emulators-for-2024/"><u>[New] Experience Classic PS1 Games with Leading Emulators for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-ace-your-phone-the-ios-podcast-downloading-guidebook/"><u>[New] In 2024, Ace Your Phone The iOS Podcast Downloading Guidebook</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-echoes-of-excellence-learning-the-art-of-fading-in-audition/"><u>[New] In 2024, Echoes of Excellence Learning the Art of Fading in Audition</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-laughs-in-a-click-building-hilarious-memes/"><u>[New] Laughs in a Click Building Hilarious Memes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-mastering-lengthy-iphone-photo-captures-for-2024/"><u>[New] Mastering Lengthy iPhone Photo Captures for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-ultimate-checklist-for-installing-vrecorder/"><u>[New] Ultimate Checklist for Installing VRecorder</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-complete-2024-video-show-review-compendium/"><u>[Updated] Complete 2024 Video Show Review Compendium</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-11-techniques-for-perfecting-color-in-post-production/"><u>[Updated] Top 11 Techniques for Perfecting Color in Post-Production</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-instagram-gif-mastery-your-quick-guide-to-uploads-and-sharing/"><u>2024 Approved Instagram GIF Mastery Your Quick Guide to Uploads and Sharing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-ultimate-list-10-best-date-counting-clocks-androidios/"><u>2024 Approved The Ultimate List 10 Best Date-Counting Clocks Android/iOS</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-visualize-success-with-these-three-insta-video-caption-approaches/"><u>2024 Approved Visualize Success with These Three Insta Video Caption Approaches</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-vivo-y36-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Vivo Y36 Unlock Without Password</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-navigate-office-tasks-with-voice-recognition-in-microsoft-word/"><u>In 2024, Navigate Office Tasks with Voice Recognition in Microsoft Word</u></a></li>
+<li><a href="https://fox-access.techidaily.com/kodi-remote-x-wmps-easy-alternative-for-2024/"><u>Kodi Remote X WMP's Easy Alternative for 2024</u></a></li>
 </ul></div>
 

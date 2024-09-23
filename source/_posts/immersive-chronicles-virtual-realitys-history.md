@@ -1,7 +1,7 @@
 ---
 title: "\"Immersive Chronicles  Virtual Reality's History\""
-date: 2024-09-10T19:37:56.861Z
-updated: 2024-09-17T18:54:30.738Z
+date: 2024-09-20T17:15:26.824Z
+updated: 2024-09-23T00:18:27.667Z
 tags: 
   - screen-recording
   - ai video
@@ -52,16 +52,16 @@ VR headsets actually started development in the 1960s. Just 30 years from the or
 
 VR headsets begin to make their way into a few arcade games for simulations and Nintendo announced the first home VR system. Virtual Boy was one of the first home systems available for use with a widespread appeal. Sega also introduced a Sega VR headset for the Sega Genesis console in the year 1993\. These wraparound prototypes had stereo sound, LCD screens and head tracking. Technical development in this VR headset doom the project and the cost of the headset was extensive making it a massive flop for Sega. The Virtual Boy however was a 3-D game console that experienced a little more success. Virtual Boy was released in North America at a price of $180\. The games were entirely made in red and black and there were only a few pieces of software available with the device. Users would wear a VR headset and control the action on a regular Nintendo controller. Unfortunately the console was very uncomfortable to use and because of the lack of games as well as the lack of color, it didn't present the same strong sales as the other Nintendo consoles out at the time.
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## VR development in 2014
 
 Oculus VR represents the latest revolution in VR technology. When Facebook officially acquired the Oculus VR system, this showed that virtual-reality was becoming a huge concern for many of the world's top developers. Although the Oculus Rift was formed out of a kickstarter campaign in 2012, the deal in 2014 represented a huge boost in their funding and confidence. Later in 2015, Oculus began to acquire other companies like Surreal Vision and built partnerships with Samsung to develop the Samsung gear VR. As one of the leading companies in VR development, Oculus has fully functioning VR systems for consumers to purchase and use at home. With support for a wide range of applications and further applications being developed for specific use with their VR systems, this was a huge leap forward for VR. After gaining international attention with the demand after the Facebook deal, this would propel many other developers into creating their own VR development firms. Oculus in a way started a brand-new VR renaissance with a call to create immersive and simulated experiences for the average consumer. Previous VR headsets were very technical and inaccessible for the average computer user, but with plug-and-play compatibility and a wide host of supported applications, Oculus gave the average consumer hope that they can enjoy VR again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## VR development in 2016 and beyond
 
@@ -72,10 +72,10 @@ The future of VR looks very bright and with so many new devices in development i
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -103,21 +103,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-economic-explosion-unpacking-pewdiepies-earnings/"><u>[New] 2024 Approved Economic Explosion Unpacking PewDiePie’s Earnings</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-captivating-viewers-with-animated-text-on-instagram-stories/"><u>[New] Captivating Viewers with Animated Text on Instagram Stories</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-eminent-playwriting-for-podcasting/"><u>[New] Eminent Playwriting for Podcasting</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-step-by-step-guide-to-preserve-snapchat-videos-on-phone/"><u>[New] Step-by-Step Guide to Preserve Snapchat Videos on Phone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-behind-the-scenes-of-360-degree-media/"><u>[Updated] Behind the Scenes of 360-Degree Media</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-best-practices-in-altering-igtv-video-titles/"><u>[Updated] Best Practices in Altering IGTV Video Titles</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-from-good-to-great-videos-the-20-essential-shortcuts-for-success-for-2024/"><u>[Updated] From Good to Great Videos The 20 Essential Shortcuts for Success for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-hope-on-the-big-screen-top-10-cinematic-power-ups-for-2024/"><u>[Updated] Hope on the Big Screen Top 10 Cinematic Power-Ups for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-free-fix-swiftly-eradicate-unwanted-eyeshine-from-your-iphone-pics/"><u>[Updated] In 2024, Free Fix Swiftly Eradicate Unwanted Eyeshine From Your iPhone Pics</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-is-active-presenter-8-the-peak-of-recording/"><u>2024 Approved Is Active Presenter 8 the Peak of Recording?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/amazonbasics-tripod-review-for-aspiring-photographers/"><u>AmazonBasics Tripod Review for Aspiring Photographers</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/como-cambiar-tus-datos-de-memoria-ram-a-formato-wav-por-nada-el-mejor-software-en-linea-de-movavi/"><u>Cómo Cambiar Tus Datos De Memoria RAM a Formato WAV Por Nada: El Mejor Software en Línea De Movavi</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-update-error-0x8024402c-a-step-by-step-guide/"><u>Fixing Windows Update Error 0X8024402C: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-giggle-guild-undead-humor-bots/"><u>In 2024, Giggle Guild Undead Humor Bots</u></a></li>
-<li><a href="https://fox-access.techidaily.com/navigating-snapchat-spotlight-feature/"><u>Navigating Snapchat Spotlight Feature</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-scope-of-panoramic-filmmaking-explained-for-2024/"><u>The Scope of Panoramic Filmmaking Explained for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/eciphering-youtubes-cost-per-mille-cpm-structure-for-2024/"><u>[New] Deciphering YouTube’s Cost Per Mille (CPM) Structure for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-best-professional-drones-an-in-depth-pilots-list/"><u>[Updated] 2024 Approved Best Professional Drones – An In-Depth Pilot’s List</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-acquiring-vivid-clipart-without-investment/"><u>[Updated] Acquiring Vivid Clipart Without Investment</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-how-to-do-screen-recording-on-iphone-easily/"><u>[Updated] How to Do Screen Recording on Iphone Easily?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-adobe-tactics-for-dynamic-3d-text-design/"><u>[Updated] In 2024, Adobe Tactics for Dynamic 3D Text Design</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-of-the-best-high-res-gaming-displays-for-2024/"><u>Best of the Best High-Res Gaming Displays for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-how-to-swiftly-shut-down-hanging-apps-for-seamless-windows-11-performance/"><u>Comprehensive How-To: Swiftly Shut Down Hanging Apps for Seamless Windows 11 Performance</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-on-how-to-retrieve-data-from-iphone-and-android-device-backups/"><u>Comprehensive Tutorial on How to Retrieve Data From iPhone & Android Device Backups</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/freeze-time-easy-video-editing-techniques/"><u>Freeze Time Easy Video Editing Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/mastering-real-time-broadcasting-a-beginners-guide/"><u>Mastering Real-Time Broadcasting A Beginner's Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-game-crashes-with-the-new-fix-for-euro-truck-simulator-2-on-your-computer/"><u>Say Goodbye to Game Crashes with the New Fix for Euro Truck Simulator 2 on Your Computer</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-amd-radeon-rx-6800-experience-on-windows-fresh-drivers-for-win11-10-8-and-7/"><u>Seamless AMD Radeon RX 6800 Experience on Windows - Fresh Drivers for Win11, 10, 8 and 7!</u></a></li>
 </ul></div>
 

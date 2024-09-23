@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Face Enhancement  Integrating Motion Blur in Photos for 2024\""
-date: 2024-07-12T20:52:28.214Z
-updated: 2024-07-13T20:52:28.214Z
+date: 2024-09-16T23:46:30.619Z
+updated: 2024-09-22T17:19:39.756Z
 tags: 
   - screen-recording
   - ai video
@@ -141,6 +141,13 @@ Open the "Effects" tab from the top and find "Background Blur" in the left secti
 
 ![add the blur to the timeline](https://images.wondershare.com/filmora/article-images/2022/12/add-motion-blur-to-face-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 4 Apply Transitions and Change Parameters
 
 Adjust the added effect within the "Transitions" tab. Use the "Dissolve" option to apply the transition effect and smooth the clip. You can also work on the phase increment and zoom rate options to improve the quality.
@@ -152,6 +159,13 @@ Adjust the added effect within the "Transitions" tab. Use the "Dissolve" option 
 On completing the task, click on the "Export" button and define the resolution and output file format for concluding the process.
 
 ![export the edited media file](https://images.wondershare.com/filmora/article-images/2022/12/add-motion-blur-to-face-13.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Last Words
 
@@ -215,6 +229,13 @@ Drag the image to the timeline and clip the part where you want to add the motio
 
 ![split the added clip](https://images.wondershare.com/filmora/article-images/2022/12/add-motion-blur-to-face-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 3 Add Motion Blur Effect of Your Choice
 
 Open the "Effects" tab from the top and find "Background Blur" in the left section. Select the best motion blur effect that suits your requirements and add it to the split clip's specific part.
@@ -232,6 +253,20 @@ Adjust the added effect within the "Transitions" tab. Use the "Dissolve" option 
 On completing the task, click on the "Export" button and define the resolution and output file format for concluding the process.
 
 ![export the edited media file](https://images.wondershare.com/filmora/article-images/2022/12/add-motion-blur-to-face-13.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Last Words
 
@@ -259,6 +294,16 @@ This article has provided a comprehensive guide on how to do motion blur on Pics
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-cutting-edge-tools-for-optimal-yt-titles/"><u>[New] In 2024, Cutting-Edge Tools for Optimal YT Titles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-full-potential-of-speech-recognition-in-ms-word-for-efficient-documentation/"><u>[New] Unlocking the Full Potential of Speech Recognition in MS Word for Efficient Documentation</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-crafting-a-pathway-to-instagram-affordability-through-partnerships/"><u>[Updated] 2024 Approved Crafting a Pathway to Instagram Affordability Through Partnerships</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-financial-forecasting-in-the-world-of-youtube-snippet-creation/"><u>[Updated] 2024 Approved Financial Forecasting in the World of YouTube Snippet Creation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-honesty-in-high-definition-reviewing-recordcasts-efficacy-for-2024/"><u>[Updated] Honesty in High-Definition Reviewing RecordCast's Efficacy for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-10-exceptional-zero-cost-passport-portrait-clients/"><u>[Updated] In 2024, 10 Exceptional, Zero-Cost Passport Portrait Clients</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-transform-your-visual-storytelling-with-clear-backdrops-in-figma-for-2024/"><u>[Updated] Transform Your Visual Storytelling with Clear Backdrops in Figma for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-expert-picks-15-innovative-mounts-to-elevate-your-gopro/"><u>2024 Approved Expert Picks 15 Innovative Mounts to Elevate Your GoPro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-approaches-to-modify-user-numbers-in-tiktok-for-2024/"><u>Innovative Approaches to Modify User Numbers in TikTok for 2024</u></a></li>
+</ul></div>
 

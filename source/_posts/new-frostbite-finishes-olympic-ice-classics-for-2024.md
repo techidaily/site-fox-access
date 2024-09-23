@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Frostbite Finishes  Olympic Ice Classics for 2024\""
-date: 2024-09-13T00:16:14.472Z
-updated: 2024-09-17T19:30:16.916Z
+date: 2024-09-20T19:20:20.354Z
+updated: 2024-09-22T22:22:31.572Z
 tags: 
   - screen-recording
   - ai video
@@ -45,18 +45,18 @@ Nathan Chen of the United States set a world-record score in men's figure skatin
 
 Chen won the gold medal in men's figure skating with a combined score of 332.60 in the short program and free skate competitions. The defending champion Yuzuru Hanyu was not even in the top three and did not manage to win any medal which is naturally a major disappointment. On the contrary, Chen was elated and said that his performance is close to his best and that we could see even better performance going ahead.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Nina O'Brien Suffered a Terrifying Crash
 
 Injuries are part of sports events but some injuries are gruesome and are results of terrifying crashes. Team USA alpine racer Nina O'Brien was the victim of a terrifying crash this year at Winter Olympics. During her second run at the women's giant slalom event, she suffered a gruesome leg injury.
 
 ![nina obrien](https://images.wondershare.com/filmora/article-images/nina-obrien-suffered-a-terrifying-crash.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 She lost her balance before she could cross the finishing line and she slid across the finish. She was screaming in pain as she left the event on a stretcher. The good news is that she is alert and responding. She has returned home to Colorado and she has received a warm welcome back home.
 
@@ -74,20 +74,33 @@ Nil Van der Poel broke his own record to win the Olympic gold medal. The 25-year
 
 ![van poel breaks the world record](https://images.wondershare.com/filmora/article-images/van-poel-breaks-the-world-record.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Following the victory, he stated that he was sure to win the gold with eight laps remaining. However, he went not just for the gold but the world record with the remaining four laps. Patrick Roest from the Netherlands won the silver and the third spot went to Davide Ghittio of Italy.
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Yan Wengang Wins China's First Medal in Sliding Sport
 
 Yan Wengang becomes the first medalist from China in a sliding sport. In a four-run total time of 4:01.77, he secured himself a bronze medal. The gold and silver went to Christopher Grotheer and Alex Jung of Germany. With the victory of Wengwang, there was a good feat for China as the nation sent its first skeleton athlete to the Olympics only 4 years ago.
 
 ![yan wen gang](https://images.wondershare.com/filmora/article-images/yan-wen-gang.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The competitiveness of Wengwang has made him the first medalist for China in men's skeleton. The 24-year-old Tianjin native was happy as well as disappointed after the competition. With a fighting spirit, he gave everything he had in the last heat. His victory makes only the second time when a non-North American or non-European stood on the Olympic podium for skeleton.
 
@@ -97,20 +110,13 @@ The competitiveness of Wengwang has made him the first medalist for China in men
 
 ![chloe kim](https://images.wondershare.com/filmora/article-images/chloe-kim.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 With the triumph, she joins Shaun White to be the only snowboarders to successfully defend their Olympic title. Following the victory, she was overwhelmed and emotional. Despite having the worst practice before the final, Kim went on to create history.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Ukrainian Athlete Shows ‘No War' Sign During Skeleton Event
@@ -118,6 +124,13 @@ With the triumph, she joins Shaun White to be the only snowboarders to successfu
 We are all aware of the tensions between Ukraine and Russia are at their peak and there are many experts who believe the countries are on the verge of declaring war. Even though The Winter Olympics should have ideally been an apolitical event, Ukrainian skeleton athlete Vladyslav Heraskevych flashed a sign that read “No War in Ukraine” to spark a political controversy.
 
 ![ukrainian athlete](https://images.wondershare.com/filmora/article-images/ukrainian-athlete.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 He showed the sign directly to the cameras after he finished his run at Beijing Olympics. It remains to be seen if any penalty will be imposed on him but Heraskevych has said that he is ready to face any repercussion even though he hopes that the Olympics will support him instead.
 
@@ -128,13 +141,6 @@ US skater Vincent Zhou has tested positive for coronavirus and therefore, he is 
 ![american favorite out of the tournament](https://images.wondershare.com/filmora/article-images/american-favorite-out-of-the-tournament.jpg)
 
 Zhou is considering the silver win as a consolation prize but he could not showcase his brilliance at the singles competitions. However, he said that he would prepare for the Winter Olympics in Milan and make a bigger comeback the world has not seen yet.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Russian Figure Skater Tests Positive for Banned Substance
 
@@ -163,16 +169,18 @@ However, due to some miscommunication, she was allowed to be a participant in th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://technical-tips.techidaily.com/royal-match-how-many-ranks-and-phases-are-integrated-into-its-system/"><u>'Royal Match': How Many Ranks and Phases Are Integrated Into Its System?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-boosting-facebook-video-performance/"><u>[Updated] 2024 Approved Boosting Facebook Video Performance</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-boost-your-view-count-this-tutorials-top-hit-for-2024/"><u>[Updated] Boost Your View Count This Tutorial's Top Hit for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-creative-uses-for-unwanted-or-supplementary-shots/"><u>[Updated] Creative Uses for Unwanted or Supplementary Shots</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-honing-skills-for-hiring-best-filmmakers-for-2024/"><u>[Updated] Honing Skills for Hiring Best Filmmakers for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-live-cricket-watch-tactics-unveiled/"><u>Best Live Cricket Watch Tactics Unveiled</u></a></li>
-<li><a href="https://facebook.techidaily.com/customizable-avatars-redefine-user-experience-at-oculus/"><u>Customizable Avatars Redefine User Experience at Oculus</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-oppo-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Oppo</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-y100i-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-honor-x50-gt-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Honor X50 GT Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/why-does-imovie-enforce-dimensions-for-2024/"><u>Why Does iMovie Enforce Dimensions for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-extensive-look-at-djis-inspire-1-drone/"><u>[Updated] Extensive Look at DJI's Inspire 1 Drone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-captivating-book-video-tours/"><u>[Updated] In 2024, Captivating Book Video Tours</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-sharing-is-caring-but-not-without-copyright-checks-tiktok-for-2024/"><u>[Updated] Sharing Is Caring - But Not Without Copyright Checks (TikTok) for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-what-lies-beyond-your-public-social-profile-on-fb-for-2024/"><u>[Updated] What Lies Beyond Your Public Social Profile on FB for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-ultimate-powerdirector-guide/"><u>2024 Approved Ultimate PowerDirector Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-your-creative-spirit-from-images-to-videos-using-pixiz/"><u>2024 Approved Unleash Your Creative Spirit From Images to Videos Using Pixiz</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easily-connect-and-use-your-printer-across-various-gadgets-a-comprehensive-tutorial/"><u>Easily Connect and Use Your Printer Across Various Gadgets – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-all-about-whatsapp-voice-messages/"><u>In 2024, All About Whatsapp Voice Messages</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-realme-11-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Realme 11 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/initiate-impact-a-strategic-blueprint-for-setting-up-a-tech-reviews-channel-for-2024/"><u>Initiate Impact A Strategic Blueprint for Setting Up a Tech Reviews Channel for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/masterclass-in-image-moods-zenithcams-spectacle-for-2024/"><u>Masterclass in Image Moods ZenithCams Spectacle for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/unveiling-fast-fixes-for-lost-reddit-content-for-2024/"><u>Unveiling Fast Fixes for Lost Reddit Content for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Creating Gentle Volume Reduction in Audacity"
-date: 2024-09-13T19:11:01.928Z
-updated: 2024-09-17T18:34:02.704Z
+date: 2024-09-19T22:04:20.923Z
+updated: 2024-09-22T23:15:03.377Z
 tags: 
   - screen-recording
   - ai video
@@ -51,13 +51,6 @@ Choose your audio segment, go to the Effect menu, slide to the bottom, and pick 
 
 ![studio fade out audacity](https://images.wondershare.com/filmora/article-images/2022/07/studio-fade-out-audacity.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3\. Adjustable Fade
 
 A dialog box will show up on the screen when you choose the customizable fade option. You may customize the form and pattern of the fading using that dialog box. You may use this ability to make partial fades if you'd like. You must maintain the tracks stacked one on top of the other with the lower track underneath the higher track and its end overlapping when employing this form of fade.
@@ -83,13 +76,6 @@ Select the area to be crossfaded using the Selection tool, and then click Effect
 
 Use your Selection tool to organize the clips such that a crossfade will be applied between two clips on different tracks. Go to Effect > Crossfade Songs, place the cursor where you want the fade to begin, then drag it across the tracks you wish to blend.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 5\. Alternative Way to Fade Audio
 
 Even though it's still thought of as difficult, time-consuming work, audio editing is really pretty easy with the correct program or tool. The quality of audio tracks in a video is often disregarded by amateur video producers. In addition to having advanced features like 4K editing support, GIF support, noise removal, color tuning, an advanced text editor, an audio mixer, video stabilization, scene detection, and an audio equalizer, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is fairly simple to use and allows for extensive customization of pre-existing templates.
@@ -108,6 +94,19 @@ In the step that follows, we'll show you how to use this platform to fade in and
 
 ![open filmora and import audio files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 By choosing the Video Editor option from the software's home screen, you may now investigate the basic principles of editing. This will bring up the main interface for Filmora. To import your music and video files, just choose the Import button from the software's main screen, as seen below:
 
 ##### Step3 Open the Audio Editor in Filmora
@@ -115,13 +114,6 @@ By choosing the Video Editor option from the software's home screen, you may now
 You must drag the files into Filmora's timeline after importing your media files, as seen below. You may modify your media files using every tool in the timeline. To utilize Filmora's audio editor, just right-click on the specific audio file and choose "Edit Audio" from the list:
 
 ![open the audio editor in filmora](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step4 Fade-in/fade-out audio
 
@@ -138,10 +130,17 @@ The last step consists of downloading your modified file to your PC and storing 
 ![export the modified file](https://images.wondershare.com/filmora/guide/get-started-with-filmora-05.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -168,13 +167,6 @@ You must drag the files into Filmora's timeline after importing your media files
 
 ![open the audio editor in filmora](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step4 Fade-in/fade-out audio
 
 The first step in this process is to learn how to use Filmora to start fading in and out your audio recordings. The best aspect of Filmora is how simple it is to employ these techniques from the timeline. To achieve this, focus on the audio file that you want to change in the timeline; after you've picked it, the two icons will show up above the audio file. Drag the first one to the desired duration for the audio fade-in option, as demonstrated:
@@ -188,6 +180,20 @@ To finish the fade-out, click and drag the other icon in Filmora to the necessar
 The last step consists of downloading your modified file to your PC and storing it there in the appropriate place and format. To simply do so, use the Export button in the top right corner of your software's main interface. You may also quickly submit the modified audio clip to your YouTube channel. To post and share your audio-altered file right away, go to the YouTube menu bar at the top of your Export window as follows, select Sign in, and then input your YouTube channel in Filmora:
 
 ![export the modified file](https://images.wondershare.com/filmora/guide/get-started-with-filmora-05.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -217,19 +223,17 @@ You may access a variety of tools and services on the platform known as Audacity
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-humor-hierarchy-the-20-most-popular-memes-for-2024/"><u>[New] Humor Hierarchy The 20 Most Popular Memes for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-windows-animation-top-9-apps-for-high-quality-gif-capture/"><u>[Updated] 2024 Approved Mastering Windows Animation Top 9 Apps for High-Quality GIF Capture</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-mastery-of-image-warping-made-simple/"><u>[Updated] 2024 Approved Mastery of Image Warping Made Simple</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-breaking-the-code-30-novel-window-11-strategies-exposed/"><u>[Updated] In 2024, Breaking the Code 30 Novel WINDOW 11 Strategies Exposed</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-mastering-overloaded-tiktok-saves-a-guide-to-editing-and-streamlining-for-2024/"><u>[Updated] Mastering Overloaded TikTok Saves A Guide to Editing and Streamlining for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-next-gen-vr-engines-the-2023-rundown/"><u>[Updated] Next-Gen VR Engines The 2023 Rundown</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-visual-identity-simplified-personalized-branding-using-no-cost-templates-for-2024/"><u>[Updated] Visual Identity Simplified Personalized Branding Using No-Cost Templates for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-secrets-of-seamlessly-sharing-in-tiktok-livestreams/"><u>2024 Approved Secrets of Seamlessly Sharing in TikTok Livestreams</u></a></li>
-<li><a href="https://fox-access.techidaily.com/helmet-to-high-definition-top-5-cams-for-riders-23-edition/"><u>Helmet to High Definition Top 5 Cams for Riders, '23 Edition</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-ace-your-films-with-these-top-15-gopro-video-luts/"><u>In 2024, Ace Your Films with These Top 15 GoPro Video LUTs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tailor-your-text-to-voice-top-5-cloud-services-for-chrome-os-sound-transformation/"><u>In 2024, Tailor Your Text to Voice Top 5 Cloud Services for Chrome OS Sound Transformation</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-free-video-dubbing-software-for-pc-top-picks/"><u>New Free Video Dubbing Software for PC Top Picks</u></a></li>
-<li><a href="https://fox-access.techidaily.com/pazeras-path-to-sound-freedom-extraction-techniques/"><u>Pazera's Path to Sound Freedom Extraction Techniques</u></a></li>
-<li><a href="https://fox-access.techidaily.com/unlocking-advanced-vfx-techniques-expert-tips-on-chroma-key-kinemaster-for-2024/"><u>Unlocking Advanced VFX Techniques Expert Tips on Chroma Key (KineMaster) for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-eclipsing-fears-in-your-first-10-videos/"><u>[New] 2024 Approved Eclipsing Fears in Your First 10 Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-funnyframe-easy-memes-no-stress/"><u>2024 Approved FunnyFrame Easy Memes, No Stress</u></a></li>
+<li><a href="https://fox-access.techidaily.com/m4amn4v-movavi/"><u>在線無成本改變M4A檔並轉移為Mn4V - 以 Movavi 解決方案進行</u></a></li>
+<li><a href="https://techtrends.techidaily.com/accidentally-sent-an-important-email-heres-how-to-bring-it-back-in-outlook/"><u>Accidentally Sent an Important Email? Here's How to Bring It Back in Outlook!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comparing-amazons-fire-tablet-with-apples-ipad-making-the-right-purchase-decision/"><u>Comparing Amazon's Fire Tablet with Apple's iPad: Making the Right Purchase Decision</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-ultimate-cut-for-quality-offline-ipad-gaming/"><u>In 2024, The Ultimate Cut for Quality Offline iPad Gaming</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/mastery-in-radio-theatre-craftsm-written/"><u>Mastery in Radio-Theatre Craftsm Written</u></a></li>
+<li><a href="https://fox-access.techidaily.com/movavi-au/"><u>Movavi: AUファイルのための効果的な無料オンライン変換ツール</u></a></li>
+<li><a href="https://fox-access.techidaily.com/movavi-convertissez-gratuitement-vos-fichiers-mp2-en-mp4-en-ligne/"><u>Movavi: Convertissez Gratuitement Vos Fichiers MP2 en MP4 en Ligne!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-computing-the-top-5-ai-hardware-technologies-to-watch/"><u>Revolutionizing Computing: The Top 5 AI Hardware Technologies to Watch</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/step-by-step-fix-addressing-the-error-of-disconnected-config-servers/"><u>Step-by-Step Fix: Addressing the Error of Disconnected Config Servers</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-solution-for-stable-zoom-sessions-on-windows-1110-expert-tips-for-2hren/"><u>Ultimate Solution for Stable Zoom Sessions on Windows 11/10 - Expert Tips for 2Hren</u></a></li>
 </ul></div>
 

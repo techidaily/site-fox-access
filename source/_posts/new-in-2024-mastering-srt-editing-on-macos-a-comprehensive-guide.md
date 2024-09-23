@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Mastering SRT Editing on macOS  A Comprehensive Guide\""
-date: 2024-07-12T20:51:04.344Z
-updated: 2024-07-13T20:51:04.344Z
+date: 2024-09-15T22:13:56.072Z
+updated: 2024-09-22T16:01:17.218Z
 tags: 
   - screen-recording
   - ai video
@@ -176,6 +176,13 @@ Step2 Click on the “Select Caption Files” option and press the “SELECT .SR
 
 ![press the select srt files option](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Choose the output format for the file. Choose QT available in the fourth spot.
 
 ![choose the output format](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-9.jpg)
@@ -212,6 +219,13 @@ Step1 Launch Filmora on Mac and click on New Project. Add the video file and dra
 
 ![launch filmora on mac](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Click on the Media tab and import the SRT file.
 
 Step3 Right-click your cursor on the editor timeline > Choose the Advanced Edit option.
@@ -245,6 +259,13 @@ Part 1: Does the SRT file work on a Mac?
 The SRT file is typically a plain text-based file with time markers, sequence numbers, and captions. Most third-party media players do showcase the SRT-based format easily. So, you can also use Preview apps or any other software to access and read the basic text documents on Mac.
 
 However, the QuickTime player on Mac does not always support SRT in videos. You have to convert them to a format the QuickTime Player supports or utilize a third-party **SRT editor Mac** allows.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: What Programs can open SRT Files on Mac, and How to do it?
 
@@ -365,6 +386,13 @@ Step1 Open HappyScribe through your preferred browser. Press the Upload a File o
 
 ![press the upload a file option](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Tap the "Autogenerate subtitles" option, or you can browse for suitable SRT files.
 
 ![browse for suitable subtitles](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-7.jpg)
@@ -439,6 +467,19 @@ Step5 Choose the edited SRT file on the editor timeline. Right-click and choose 
 
 ![choose the export subtitle file option](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-15.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Final Words
 
 You can easily try out these methods to effectively open the SRT files in videos on Mac devices, either by converting them for QuickTime Player or using another player. The Filmora software is suitable for the best results if you plan to open and edit the SRT files with further precision. Carry out all of the steps carefully for a good user experience.
@@ -473,6 +514,23 @@ URL for VLC on Mac steps/pics: <https://videoconverter.wondershare.com/subtitle/
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-direct-pathways-moving-iphone-content-to-pc-efficiently-for-2024/"><u>[New] Direct Pathways Moving iPhone Content to PC Efficiently for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-pixel-powerhouses-the-elite-females-on-yt/"><u>[New] In 2024, Pixel Powerhouses The Elite Females on YT</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-testing-the-strength-of-apples-m1-in-professional-video-editing/"><u>[New] In 2024, Testing the Strength of Apple's M1 in Professional Video Editing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-streamline-your-media-files-8-pro-convertors-sub-to-srt-style/"><u>[Updated] 2024 Approved Streamline Your Media Files 8 Pro Convertors, Sub to Srt Style</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-whirling-installer-range/"><u>[Updated] 2024 Approved Whirling Installer Range</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-best-action-cameras-on-wheels-top-5-picks-for-23-riders/"><u>[Updated] Best Action Cameras on Wheels – Top 5 Picks for '23 Riders</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-no-hassle-no-money-10-official-passport-pictures-from-our-generator/"><u>[Updated] No Hassle, No Money 10 Official Passport Pictures From Our Generator</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avoid-these-4-faults-while-using-chatgpt-for-your-content-strategy/"><u>Avoid These 4 Faults While Using ChatGPT for Your Content Strategy</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-on-how-to-address-and-repair-the-missing-binkw32dll-error/"><u>Expert Tips on How to Address and Repair the Missing BinkW32.dll Error</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-bypass-tools-to-bypass-lock-screen-honor-play-40c-by-drfone-android-unlock-android-unlock/"><u>Honor Bypass Tools to Bypass Lock Screen(Honor Play 40C)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Poco M6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-nubia-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Nubia Is Unlocked</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-photographers-guide-to-online-image-editing-and-cropping/"><u>In 2024, The Photographer's Guide to Online Image Editing and Cropping</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-xboxs-game-pass-price-tide-rise/"><u>Navigating Through Xbox's Game Pass Price Tide Rise</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-performance-addressing-the-high-cpu-usage-impact-of-wudfhostexe-in-windows-11/"><u>Optimizing Performance: Addressing the High CPU Usage Impact of wudfhost.exe in Windows 11</u></a></li>
+</ul></div>
 

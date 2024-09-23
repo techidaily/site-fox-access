@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Zooming in Smoothly  YouTube Video Upgrades\""
-date: 2024-07-12T20:52:57.891Z
-updated: 2024-07-13T20:52:57.891Z
+date: 2024-09-16T01:05:17.066Z
+updated: 2024-09-22T19:52:20.423Z
 tags: 
   - screen-recording
   - ai video
@@ -92,9 +92,23 @@ Step2Drag and drop the target YouTube video on Filmora into Project Media folder
 
 ![drag video into project media folder](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3Thereafter, drag and drop the YouTube video file from Project Media folder into Timeline. Click on Crop icon located at the top of the timeline.
 
 ![drag video file into timeline](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4From Crop window, go to Pan & Zoom section. Place the rectangular box on that portion of the video which you want to zoom in. Mark the start and end of the video for pan and zoom effect. Play the video to watch how the effect unfolds. Finally, click on OK button.
 
@@ -117,6 +131,13 @@ Step3After uploading, click on the Video and select Editor option from the left 
 Step4You will find Zoom in and Zoom out icon below the video preview. Here, zoom in means the timeline gets zoomed so that you can check out the video frame by frame to find out all the details in any portion of the video.
 
 ![zoom in out youtube video](https://images.wondershare.com/filmora/article-images/2022/07/zoom-in-youtube-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -144,6 +165,22 @@ There are several ways you can zoom into YouTube videos to check out the desired
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-create-captivating-sports-videography/"><u>[Updated] 2024 Approved Create Captivating Sports Videography</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-loop-lovers-guide-instagrams-best-for-repeat-viewers/"><u>[Updated] 2024 Approved Loop Lovers Guide Instagram's Best for Repeat Viewers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superior-audio-transformation-tools-unleash-voices/"><u>[Updated] Superior Audio Transformation Tools Unleash Voices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatbots-demystified-for-parents-a-guide-to-generative-ai-and-chatgpt/"><u>Chatbots Demystified for Parents: A Guide to Generative AI and ChatGPT</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/efficient-whiteboard-use-in-webinars-apple-android-and-pc-solutions-explored/"><u>Efficient Whiteboard Use in Webinars Apple, Android & PC Solutions Explored</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-form-funny-meme-tools-on-a-shoestring-budget/"><u>Free-Form Funny Meme Tools on a Shoestring Budget</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-honor-play-40c-by-fonelab-android-recover-video/"><u>How to recover old videos from your Honor Play 40C</u></a></li>
+<li><a href="https://fox-access.techidaily.com/movavi-video-editor-convertire-e-editare-i-tuoi-filmati-con-la-versione-online-gratuita/"><u>Movavi Video Editor: Convertire E Editare I Tuoi Filmati Con La Versione OnLine Gratuita</u></a></li>
+<li><a href="https://fox-access.techidaily.com/movavi-mkvmpeg/"><u>Movavi 기술을 사용한 인터넷에서의 MKV/MPEG 영상 변환: 아무것도 주는 세금 없이!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/movavi-au/"><u>Movavi: AUファイルのための効果的な無料オンライン変換ツール</u></a></li>
+<li><a href="https://fox-access.techidaily.com/movavi-convertissez-gratuitement-vos-fichiers-mp2-en-mp4-en-ligne/"><u>Movavi: Convertissez Gratuitement Vos Fichiers MP2 en MP4 en Ligne!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/movaviflvmpeg/"><u>Movaviで気軽に行うFLVとMPEGファイル間の自由配布変換サービス</u></a></li>
+<li><a href="https://fox-access.techidaily.com/movavi-oggogv/"><u>Movaviで特別仕様: OGG/OGVフォーマットの自由なオンライン変更方法</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-strategies-to-thrive-on-reddit/"><u>Step-by-Step Strategies to Thrive on Reddit</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-vivo-v27-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Vivo V27 Pro to Other Android Devices | Dr.fone</u></a></li>
+</ul></div>
 

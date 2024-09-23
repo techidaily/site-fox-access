@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Mastering Your Mac  A Complete Guide to Leveraging Preview Features\""
-date: 2024-09-15T21:03:04.033Z
-updated: 2024-09-17T20:49:25.371Z
+date: 2024-09-22T00:28:57.722Z
+updated: 2024-09-22T23:46:09.667Z
 tags: 
   - screen-recording
   - ai video
@@ -85,6 +85,13 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -96,13 +103,6 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -136,6 +136,13 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -163,13 +170,6 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -206,10 +206,10 @@ Choose a destination folder in the **Where** field, select your preferred format
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -237,17 +237,14 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-crafting-visual-stories-quick-methods-to-design-snaps/"><u>[New] 2024 Approved Crafting Visual Stories Quick Methods to Design Snaps</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-your-step-by-step-apk-to-funimate-play/"><u>[New] 2024 Approved Your Step-by-Step APK to Funimate Play</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-conquering-the-creative-sector-with-savvy-strategies/"><u>[New] In 2024, Conquering the Creative Sector with Savvy Strategies</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-step-by-step-guide-to-ace-11-essential-color-correction-tutorials/"><u>[New] In 2024, Step-by-Step Guide to Ace 11 Essential Color Correction Tutorials</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-pioneering-pixels-select-the-leading-video-editors-for-big-sur/"><u>[Updated] 2024 Approved Pioneering Pixels Select the Leading Video Editors for Big Sur</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-4k-lenses-compatible-with-smartphones/"><u>[Updated] 4K Lenses Compatible with Smartphones</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-breaking-down-sync-a-thorough-review-of-lgs-uhd68-display/"><u>[Updated] Breaking Down Sync A Thorough Review of LG's UHD68 Display</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-your-wayback-machine-facebooks-story-archives-at-your-service/"><u>[Updated] In 2024, Your Wayback Machine Facebook’s Story Archives at Your Service</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/debunking-the-top-9-misconceptions-about-artificial-intelligence-chatbots/"><u>Debunking the Top 9 Misconceptions About Artificial Intelligence Chatbots</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/enhance-your-wireless-experience-direct-links-to-download-eveos-official-adapter-drivers/"><u>Enhance Your Wireless Experience: Direct Links to Download Eveo's Official Adapter Drivers</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/navigating-the-wilderness-in-skyrim-on-switch-an-in-depth-look-at-bethesdas-classic-rpg/"><u>Navigating the Wilderness in Skyrim on Switch: An In-Depth Look at Bethesda’s Classic RPG</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/uniting-melodies-and-images-with-youtube-music-for-video-projects/"><u>Uniting Melodies & Images with YouTube Music for Video Projects</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-for-beginners-best-film-and-point-shoot-cameras-reviewed-for-2024/"><u>[New] For Beginners Best Film and Point-Shoot Cameras Reviewed for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-learn-to-sharpen-images-blur-and-excise-background-edges/"><u>[Updated] In 2024, Learn to Sharpen Images Blur and Excise Background Edges</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-joke-jingles-top-online-ringtone-sources-for-2024/"><u>[Updated] Joke Jingles Top Online Ringtone Sources for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-revolutionize-your-editing-approach-with-these-top-methods-in-obs-studio/"><u>2024 Approved Revolutionize Your Editing Approach with These Top Methods in OBS Studio</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/an-open-and-trusting-organizational-culture-is-more-conducive-to-fostering-innovation-among-employees/"><u>An Open and Trusting Organizational Culture Is More Conducive to Fostering Innovation Among Employees.</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-90-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Honor 90 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-ultimate-onestream-playbook-for-live-streamers/"><u>In 2024, The Ultimate OneStream Playbook for Live Streamers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-understanding-macos-11-big-sur-transition-tips/"><u>In 2024, Understanding macOS 11 Big Sur Transition Tips</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-iphone-14-pro-max-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile iPhone 14 Pro Max Before the Plan Expires</u></a></li>
 </ul></div>
 

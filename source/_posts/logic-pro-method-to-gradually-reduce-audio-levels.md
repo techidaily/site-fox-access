@@ -1,7 +1,7 @@
 ---
 title: "Logic Pro Method to Gradually Reduce Audio Levels"
-date: 2024-09-16T21:33:08.167Z
-updated: 2024-09-17T21:52:46.818Z
+date: 2024-09-21T21:32:11.088Z
+updated: 2024-09-22T20:18:18.539Z
 tags: 
   - screen-recording
   - ai video
@@ -80,15 +80,22 @@ Step2 To generate a seamless fade while dealing with audio, you must utilize the
 ![fade out funtions logic pro](https://images.wondershare.com/filmora/article-images/2022/07/fade-out-funtions-logic-pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3 Additionally, you will always have the option to change the level, which is a terrific method to avoid having too much background noise in your music as shown here:
 
 ![edit music logic pro](https://images.wondershare.com/filmora/article-images/2022/07/edit-music-logic-pro.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. Logic Pro X Alternative to Fade Audio
 
@@ -109,10 +116,10 @@ You must first download and install this application on your computer before you
 ![install filmora and import audio](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Then, you must import your files, which is easy with Filmora since you just need to do it once from your device as seen below. To import your music and video files, use the Import button from the software's main screen as shown below:
@@ -169,24 +176,18 @@ Step1 Navigate to the Tool Selector located at the Region View's top. Select the
 
 ![fade tool logic pro](https://images.wondershare.com/filmora/article-images/2022/07/fade-tool-logic-pro.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Select the fade tool, then left-click on the beginning point of your fading while still in the appropriate audio zone. Till the conclusion of your fade, drag the mouse.
 
 ![region master logic pro](https://images.wondershare.com/filmora/article-images/2022/07/region-master-logic-pro.jpg)
 
 Step3 The "Fade Out" option may also be used to manage how quickly an area fades out. You must first choose an area and then press the "Fade Out" slider to do this. A playhead may regulate a cross-fade depending on the genre of music. The choice is unaffected by this. However, you should utilize the "Fade In" slider if you're employing an audio effect in a video.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Utilize a File Editor
 
@@ -203,6 +204,13 @@ Step2 To generate a seamless fade while dealing with audio, you must utilize the
 Step3 Additionally, you will always have the option to change the level, which is a terrific method to avoid having too much background noise in your music as shown here:
 
 ![edit music logic pro](https://images.wondershare.com/filmora/article-images/2022/07/edit-music-logic-pro.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. Logic Pro X Alternative to Fade Audio
 
@@ -230,19 +238,6 @@ You must drag the media files into the program's timeline after importing them i
 
 ![launch audio editor in filmora](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step3 Use the Audio Fade-in/Fade-out
 
 The first step in this process is to learn how to use Filmora to start fading in and out your audio recordings. The best aspect of Filmora is how simple it is to employ these techniques from the timeline.
@@ -254,13 +249,6 @@ To achieve this, focus on the audio file that you want to change in the timeline
 ##### Step4 Export Your Fade Out Video
 
 In the final touch, if you are content with the way your voice has evolved, now may be the ideal time to maintain it or even record it. There is support for all widely used video and audio formats, including MP3\. Click "Export" and choose the appropriate file format from the Local menu as shown below to do this. The parameters as indicated below allow you to alter the ultimate location of the altered audio file:
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -290,18 +278,20 @@ Apple's Logic Pro X is not compatible with Windows-based computers. Therefore, i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-taking-the-first-steps-towards-vr-technology-mobile-based-headsets-vs-cabled-gear/"><u>[New] 2024 Approved Taking the First Steps Towards VR Technology Mobile-Based Headsets Vs. Cabled Gear</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-step-into-success-beginners-guide-to-hosting-tech-product-discussions-online/"><u>[New] Step-Into Success Beginner’s Guide to Hosting Tech Product Discussions Online</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-stepwise-approach-to-exceptional-gopro-footage/"><u>[New] Stepwise Approach to Exceptional GoPro Footage</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-art-of-creating-impactful-ae-titles/"><u>[New] The Art of Creating Impactful AE Titles</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-unlocking-the-full-potential-of-windows-11s-video-production-suite/"><u>[Updated] 2024 Approved Unlocking the Full Potential of Windows 11'S Video Production Suite</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-step-by-step-guide-invert-playback-videos-android/"><u>[Updated] In 2024, Step-by-Step Guide Invert Playback Videos Android</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-strategy-for-collecting-multiple-videos-from-tiktok/"><u>[Updated] The Ultimate Strategy for Collecting Multiple Videos From TikTok</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-unraveling-the-enigma-instagram-story-follower-secrets-revealed/"><u>[Updated] Unraveling the Enigma Instagram Story Follower Secrets Revealed</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/altvmix-cross-platform-virtual-mixer/"><u>AltVMix Cross-Platform Virtual Mixer</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-mini-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock iPhone 13 mini With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-8-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 8 without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-techniques-to-improve-focal-depth-in-online-platforms/"><u>In 2024, Techniques to Improve Focal Depth in Online Platforms</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-latest-sound-driver-in-windows-7/"><u>Install Latest Sound Driver in Windows 7</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-bring-your-footage-to-life-master-the-art-with-these-11-color-edits/"><u>[New] Bring Your Footage to Life Master the Art with These 11 Color Edits</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-effortless-coordination-streamlining-zoom-and-gmail-collaboration-techniques-for-2024/"><u>[New] Effortless Coordination Streamlining Zoom & Gmail Collaboration Techniques for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-gopro-hero-5-vs-nikon-km-170-for-adventurers/"><u>[New] In 2024, GoPro HERO 5 vs Nikon KM-170 for Adventurers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-sparkle-with-style-personalize-brands-using-pre-set-graphics-for-2024/"><u>[New] Sparkle with Style Personalize Brands Using Pre-Set Graphics for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-uncovering-the-secrets-of-effortless-iphone-podcast-downloads-for-2024/"><u>[New] Uncovering the Secrets of Effortless iPhone Podcast Downloads for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-discover-the-power-of-dual-screen-viewing-a-complete-guide-for-netflix-users-for-2024/"><u>[Updated] Discover the Power of Dual-Screen Viewing - A Complete Guide for Netflix Users for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-garmins-virb-ultra-30-action-cam-in-depth-features-analysis-for-2024/"><u>[Updated] Garmin's VIRB Ultra 30 Action Cam – In-Depth Features Analysis for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-action-packed-comparisons-gopro-vs-star-sj7/"><u>[Updated] In 2024, Action-Packed Comparisons GoPro Vs Star SJ7</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-innovation-meets-tradition-the-best-frame-makers/"><u>[Updated] In 2024, Innovation Meets Tradition The Best Frame Makers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-mastering-freefire-the-30-best-tag-strategies-to-increase-views-for-2024/"><u>[Updated] Mastering FreeFire The 30 Best Tag Strategies to Increase Views for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/falls-aftermath-windows-10-screens-glow/"><u>Fall's Aftermath: Windows 10 Screens Glow</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-correctly-address-the-steamdll-not-found-error-message/"><u>How to Correctly Address the Steam.dll Not Found Error Message</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-background-removal-in-photo-editing-tools/"><u>Mastering Background Removal in Photo Editing Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-ultimate-guide-to-getting-fifa-21-up-and-running-successfully/"><u>The Ultimate Guide to Getting FIFA 21 Up and Running Successfully</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-and-overcome-freezes-in-gta-5-playtime/"><u>Troubleshoot and Overcome Freezes in GTA 5 Playtime</u></a></li>
 </ul></div>
 

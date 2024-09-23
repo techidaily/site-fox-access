@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering AE  Integrating Custom Typefaces for 2024\""
-date: 2024-07-12T20:50:52.356Z
-updated: 2024-07-13T20:50:52.356Z
+date: 2024-09-18T18:23:54.490Z
+updated: 2024-09-22T21:38:17.069Z
 tags: 
   - screen-recording
   - ai video
@@ -61,6 +61,13 @@ Adding text effects in Adobe After Effects is very easy and you can use these ef
 * Then slide the keyframes to set the text effect on the section of the video where you want to add your text. You can also compose the text by clicking on it and editing it for adjusting its content, height, width, opacity, and color.
 * After you are done, save the project and your text effects will be added to the final video successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4\. Alternative ways to edit text fonts
 
 If for some reason you don't want to use After Effects on your device to edit your videos, or your PC is incompatible with your device, then [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a great alternative for you. Filmora is a paid application that is supported on both Windows as well as Mac and comes with a free version where you can try the different video editing features.
@@ -73,9 +80,23 @@ These features also include adding texts and changing the fonts of those texts o
 
 ![use filmora to edit device](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * First open that video that you want to edit in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and then you will be available with a tab called "Titles" on the top. Select that and select any style of title that you want to edit. There is a preview window available to look at the text fonts and designs.
 
 ![open wanted video to edit in filmora](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Select the text style you want to add for your title and then drag it from the title's library to your timeline. An alternate way to add texts or such title font is to right-click on it and select the "Apply" option.
 * Here you can also set a particular font or style for the title as your favorite by right-clicking on the library and then selecting "Add to favorites" for easy access.
@@ -131,6 +152,20 @@ The article discussed the detailed process of **how to add font to Adobe After E
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-ultimate-iphoneipad-video-and-image-archive/"><u>[New] 2024 Approved The Ultimate iPhone/iPad Video & Image Archive</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-best-signature-background-remover-online-6-incredible-tools/"><u>[New] Best Signature Background Remover Online - 6 Incredible Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-how-to-digitize-your-old-photos-and-turn-them-into-videos-for-2024/"><u>[New] How to Digitize Your Old Photos and Turn Them Into Videos for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-art-of-piecing-together-digital-images/"><u>[New] In 2024, The Art of Piecing Together Digital Images</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-comprehensive-breakdown-exploring-lgs-widescreen-uhd-display-for-2024/"><u>[Updated] Comprehensive Breakdown Exploring LG's Widescreen UHD Display for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-learn-to-sharpen-images-blur-and-excise-background-edges/"><u>[Updated] In 2024, Learn to Sharpen Images Blur and Excise Background Edges</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-tecno-camon-20-pro-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Tecno Camon 20 Pro 5G? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/difficulty-levels-studying-german/"><u>Difficulty Levels: Studying German</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-landscape-of-modern-communication-facebook-twitter-instagram-youtube-explained/"><u>Exploring the Landscape of Modern Communication: Facebook, Twitter, Instagram, YouTube Explained</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-11-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone 11? How to Fix it?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-understanding-macos-11-big-sur-transition-tips/"><u>In 2024, Understanding macOS 11 Big Sur Transition Tips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Vivo V30 Pro? | Dr.fone</u></a></li>
+</ul></div>
 

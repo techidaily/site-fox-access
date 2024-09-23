@@ -1,7 +1,7 @@
 ---
 title: "\"Gratitude Archive  Complete Collection (Free/Paid) for 2024\""
-date: 2024-09-10T23:36:56.914Z
-updated: 2024-09-17T16:56:33.711Z
+date: 2024-09-18T22:38:19.530Z
+updated: 2024-09-22T17:56:57.798Z
 tags: 
   - screen-recording
   - ai video
@@ -75,6 +75,19 @@ You can customize your templates by adding images, text, logos, music, and even 
 
 ![invideo thanks for watching templates](https://images.wondershare.com/filmora/article-images/2022/11/invideo-thanks-for-watching-templates.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### WoFox
 
 [WoFox](https://www.wofox.com/design-templates/youtube-end-screen)has a library of templates for you to use to create an engaging Thanks for Watching outro for your videos. This is a valuable resource for content creators who want to add a professional touch to their content. The templates are easy-to-use and can be customized to fit the creator's individual style.
@@ -82,6 +95,20 @@ You can customize your templates by adding images, text, logos, music, and even 
 Another cool feature is that you can also customize the templates to match your brand. Simply choose the outro template you want to use, add your text and logo, and download the finished outro.
 
 ![wofox thanks for watching templates](https://images.wondershare.com/filmora/article-images/2022/11/wofox-thanks-for-watching-templates.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. Websites for Paid Thanks for Watching Outro Templates
 
@@ -93,13 +120,6 @@ A Quick Guide:
 2. [Videezy](#part2-2)
 3. [Placeit](#part2-3)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### iStock
 
 [iStock](https://www.istockphoto.com/search/2/film?phrase=thanks%20for%20watching%20outro) is an excellent resource for finding high-quality, paid **thanks for watching outro** templates. With a wide variety of options to choose from, it is easy to find the perfect template to match your channel's style.
@@ -109,23 +129,10 @@ You can purchase a template for **$0.22–$9.90/image or $14.90/video** and can 
 ![istock thanks for watching templates](https://images.wondershare.com/filmora/article-images/2022/11/istock-thanks-for-watching-templates.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Videezy
@@ -136,13 +143,6 @@ The subscription pricing starts at **$19/file**, and it's definitely worth it fo
 
 ![videezy thanks for watching templates](https://images.wondershare.com/filmora/article-images/2022/11/videezy-thanks-for-watching-templates.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Placeit
 
 [Placeit](https://placeit.net/c/design-templates?search=thank+you+for+watching) is a premium video editor where you can choose the required templates from the stock library, all of which are easy to customize to fit your specific needs.
@@ -150,6 +150,13 @@ The subscription pricing starts at **$19/file**, and it's definitely worth it fo
 The subscription plan offers two options: buy a template for **$2.95** or get an unlimited subscription for **$7.47** per month.
 
 ![placeit thanks for watching templates](https://images.wondershare.com/filmora/article-images/2022/11/placeit-thanks-for-watching-templates.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. A Bonus Tip: How To Edit YouTube Outro?
 
@@ -176,13 +183,6 @@ We hope you found this guide helpful in finding the right **Thanks for Watching 
 And to use Filmora making your outro without hassle, please watch this tutorial video below.
 
 ### Video Tutorial - How to Make a YouTube Outro
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -214,20 +214,12 @@ We hope you found this guide helpful in finding the right **Thanks for Watching 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-outro-mastery-top-6-free-video-closers/"><u>[New] 2024 Approved Outro Mastery Top 6 Free Video Closers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-blades-high-dynamic-range-redefined-in-four-kaps/"><u>[New] Blade's High Dynamic Range Redefined in Four Kaps</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-crafting-characters-animation-basics-in-wmm/"><u>[New] In 2024, Crafting Characters Animation Basics in WMM</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-innovation-in-action-top-video-editing-strategies/"><u>[New] In 2024, Innovation in Action Top Video Editing Strategies</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-unbelievable-charted-truths-youtubes-fact-filled-figures-2017/"><u>[New] In 2024, Unbelievable Charted Truths YouTube's Fact-Filled Figures (2017)</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-instagram-insights-identifying-your-posts-audience-for-2024/"><u>[New] Instagram Insights Identifying Your Post's Audience for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-unveiling-the-world-of-broadcast-software-plus-wirecast-for-2024/"><u>[New] Unveiling the World of Broadcast Software + Wirecast for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-gopro-hero5-black-vs-yi-4k-action-camera-which-is-better/"><u>[Updated] GoPro Hero5 Black Vs. Yi 4K Action Camera Which Is Better?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-perfecting-your-srt-file-dispatch-for-maximum-social-exposure/"><u>[Updated] In 2024, Perfecting Your SRT File Dispatch for Maximum Social Exposure</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-share-and-smile-discovering-the-best-meme-designs-10/"><u>[Updated] In 2024, Share & Smile Discovering the Best Meme Designs #10</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-scopesight-appraisal-review/"><u>[Updated] ScopeSight Appraisal Review</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-fix-no-sound-on-your-macbook-or-imac/"><u>How To Troubleshoot and Fix 'No Sound' On Your MacBook or iMac</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-15-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 15 In Different Conditionsin | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-x-fold-2-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo X Fold 2</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-tutorial-transforming-your-android-or-iphone-into-a-windows-microphone-device/"><u>Ultimate Tutorial: Transforming Your Android or iPhone Into a Windows Microphone Device</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-expertly-curated-facebooks-1-10-plays/"><u>[New] In 2024, Expertly Curated Facebook's #1-#10 Plays</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-mastering-low-audio-levels-in-logic-pro/"><u>[New] Mastering Low Audio Levels in Logic Pro</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-quick-guide-to-purging-watched-youtube-videos-for-2024/"><u>[Updated] A Quick Guide to Purging Watched YouTube Videos for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-flair-filled-images-top-10-screenshot-sticker-addons-on-iphonesandroids/"><u>[Updated] Flair-Filled Images – Top 10 Screenshot Sticker Addons on iPhones/Androids</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-guide-how-to-attract-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>2024 Approved Guide How to Attract More NFL Viewers for Your Sports Live Streaming Channel</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-poco-c50-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco C50 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ultimate-selection-of-android-and-ios-wedding-timer-apps-reviewed-for-2024/"><u>Ultimate Selection of Android and iOS Wedding Timer Apps Reviewed for 2024</u></a></li>
 </ul></div>
 
