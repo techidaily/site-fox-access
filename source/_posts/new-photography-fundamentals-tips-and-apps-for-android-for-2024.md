@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Photography Fundamentals  Tips & Apps for Android for 2024\""
-date: 2024-09-19T23:54:37.935Z
-updated: 2024-09-22T22:27:52.067Z
+date: 2024-09-22T17:45:07.659Z
+updated: 2024-09-28T17:12:49.594Z
 tags: 
   - screen-recording
   - ai video
@@ -59,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 
 ![selfie stick](https://images.wondershare.com/filmora/article-images/selfie-stick-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### It is Always Light
 
  While Android photography, it is important that your subject faces the light. Many Android phone cameras do not have the flash option. In such a case, if the subject is at the back of the light and you are facing light then the subject will appear dark. Unless a silhouette shot, you need not face the light, let your subject face it.
@@ -71,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 
 ![rule of third](https://images.wondershare.com/filmora/article-images/rule-of-third.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Change Your Focus
 
  What is your subject? While clicking photos, your camera cannot track your subject by Auto focussing option. So to ensure a flawless photo, it is essential that you touch your finger on the screen to focus manually. You just need to touch right on your subject to set your focus completely.
@@ -82,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
  As already mentioned earlier, in Android photography the digital zoom feature is not really worth it. Cropping a photo is far better an option than zooming in. Try to step closer to your subject, if you want to get a clear picture of it. If your cannot, then focus on your subject and click to crop it later. The digital zooming feature cannot be the solution to a clear picture.
 
 ![zoom in out android](https://images.wondershare.com/filmora/article-images/zoom-in-android.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Use HDR Effect
 
@@ -131,10 +152,10 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 ![pixlr](https://images.wondershare.com/filmora/article-images/pixlr-android.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -144,10 +165,10 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -173,5 +194,26 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-enriching-listening-activities-for-the-modern-ear-podder/"><u>[New] Enriching Listening Activities for the Modern Ear-Podder</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-gopro-spectrum-an-intensive-feature-by-feature-comparison-for-2024/"><u>[New] GoPro Spectrum An Intensive Feature-By-Feature Comparison for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-how-much-do-podcasters-make-for-2024/"><u>[New] How Much Do Podcasters Make for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-cut-costs-increase-impact-strategic-fb-posting/"><u>[New] In 2024, Cut Costs, Increase Impact Strategic FB Posting</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-dell-audio-not-working-quickly-and-easily/"><u>[Solved] Dell Audio Not Working – Quickly & Easily</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-advanced-techniques-for-efficient-media-navigation/"><u>[Updated] 2024 Approved Advanced Techniques for Efficient Media Navigation</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-enhance-video-storytelling-with-smart-chapter-insertion-techniques-on-youtube/"><u>[Updated] 2024 Approved Enhance Video Storytelling with Smart Chapter Insertion Techniques on YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-uncovering-elite-instagram-ringtones-and-crafting-an-astute-alarm-for-2024/"><u>[Updated] Uncovering Elite Instagram Ringtones and Crafting an Astute Alarm for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unlock-the-potential-of-your-online-social-presence/"><u>[Updated] Unlock the Potential of Your Online Social Presence</u></a></li>
+<li><a href="https://fox-access.techidaily.com/assessing-cloud-price-trends-and-economical-alternatives-for-2024/"><u>Assessing Cloud Price Trends & Economical Alternatives for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/film-enhancements-15-best-luts-to-boost-gopro-cinematography/"><u>Film Enhancements 15 Best LUTs to Boost GoPro Cinematography</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-an-engaging-film-teaser/"><u>In 2024, Crafting an Engaging Film Teaser</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-crafting-cinematic-experiences-with-magix-video-pro-x/"><u>In 2024, Crafting Cinematic Experiences with Magix Video Pro X</u></a></li>
+<li><a href="https://fox-access.techidaily.com/integrating-media-files-for-direct-transfer-to-iphone/"><u>Integrating Media Files for Direct Transfer to iPhone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/smile-smarter-crafting-text-memes-like-a-pro-for-2024/"><u>Smile Smarter Crafting Text Memes Like a Pro for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/spreading-beauty-wisdom-setting-up-your-vloggers-virtual-space-for-2024/"><u>Spreading Beauty Wisdom Setting Up Your Vlogger's Virtual Space for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/strategic-placements-for-elevating-youtube-videos-for-2024/"><u>Strategic Placements for Elevating YouTube Videos for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/0-youtube-shorts-video-editing-apps-for-ios-and-android-for-2024/"><u>Top 10 YouTube Shorts Video Editing Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/upgraded-views-installing-new-laptop-gfx/"><u>Upgraded Views: Installing New Laptop GFX</u></a></li>
+</ul></div>
 

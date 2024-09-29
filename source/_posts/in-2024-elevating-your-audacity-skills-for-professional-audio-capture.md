@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Elevating Your Audacity Skills for Professional Audio Capture"
-date: 2024-09-17T16:19:18.877Z
-updated: 2024-09-22T22:38:47.943Z
+date: 2024-09-25T05:34:05.864Z
+updated: 2024-09-28T18:32:41.213Z
 tags: 
   - screen-recording
   - ai video
@@ -41,6 +41,13 @@ Step3To choose the kind of track you want, click "Tracks" at the top of the page
 
 Step4To begin the recording, simply click the "Record" button. As soon as you press record, an audio graph of your voice should start to display. Using the "Shift + R" hotkeys on your keyboard, you can add a new recording if you'd like to.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Recording using Mac
 
 To record audio on your Mac, you might need to install Audacity and additional plugins. The best option is to use the Soundflower program, which enables you to send sound to other apps rather than your computer's speakers. Here's how to use Soundflower and Audacity to record audio on a Mac.
@@ -52,6 +59,13 @@ Step2The Soundflower app must then be set up. To achieve this, choose "Sounds" f
 Step3In the "Device" section of the Audacity preferences box, choose "Soundflower (2ch)". From the recording area, choose "Software playthrough." Click "OK" to save the options you've selected.
 
 Step4Launch audacity, then open the app whose audio you wish to record. To begin the recording, click the "Record" button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Export your audio
 
@@ -99,12 +113,19 @@ Simply select the necessary file format from the drop-down box that appears next
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-clearest-waves-premier-mic-selection/"><u>[New] 2024 Approved The Clearest Waves Premier Mic Selection</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-srs-adjustment-guide-boosting-performance-on-both-platforms-for-2024/"><u>[New] SRS Adjustment Guide Boosting Performance on Both Platforms for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-snowy-standouts-from-winter-2022-olympics/"><u>[Updated] 2024 Approved Snowy Standouts From Winter 2022 Olympics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-constructing-a-compelling-docu-script-a-stepwise-approach/"><u>2024 Approved Constructing a Compelling Docu-Script A Stepwise Approach</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620189235-get-your-favorite-android-games-on-lockdown-the-ultimate-list-of-20-free-full-version-apks-to-download-today/"><u>Get Your Favorite Android Games on Lockdown: The Ultimate List of 20 Free, Full-Version APKs to Download Today</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-ready-to-dive-into-photo-talking-videos-heres-what-you-need-to-know/"><u>In 2024, Ready To Dive Into Photo Talking Videos? Heres What You Need To Know</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-the-role-of-timestamps-in-content-longevity-and-popularity/"><u>In 2024, The Role of Timestamps in Content Longevity and Popularity</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-depth-guide-to-simple-high-dynamic-range/"><u>In-Depth Guide to Simple High Dynamic Range</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/passer-du-peer-to-peer-a-une-plateforme-internet-sans-cout-cours-avec-movavi/"><u>Passer Du Peer-to-Peer À Une Plateforme Internet Sans Coût - Cours Avec Movavi</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-full-gpu-potential-in-windows-10-and-11-via-vram/"><u>Unleashing Full GPU Potential in Windows 10 & 11 via VRAM</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/vlog-glow-achieving-professional-video-setup/"><u>Vlog Glow Achieving Professional Video Setup</u></a></li>
+<li><a href="https://techtrends.techidaily.com/windows-woes-be-gone-a-users-manual-for-restoring-winhttpdll-files/"><u>Windows Woes Be Gone: A User’s Manual for Restoring Winhttp.dll Files</u></a></li>
+</ul></div>
 

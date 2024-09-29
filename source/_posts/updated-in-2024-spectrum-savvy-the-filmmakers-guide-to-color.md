@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Spectrum Savvy  The Filmmaker's Guide to Color\""
-date: 2024-09-16T19:00:03.899Z
-updated: 2024-09-22T20:47:10.120Z
+date: 2024-09-23T21:35:14.311Z
+updated: 2024-09-28T20:56:29.848Z
 tags: 
   - screen-recording
   - ai video
@@ -97,6 +97,13 @@ Here, there are two options to select: The Color correction. It offers different
 
 ![open color correction filmora](https://images.wondershare.com/filmora/article-images/2022/08/open-color-correction-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step2Select the specific video portion
 
 #####
@@ -105,9 +112,23 @@ First, you need to select the specific video portion you want to change the colo
 
 ![split video into clips fx](https://images.wondershare.com/filmora/article-images/2022/08/split-video-into-clips-fx.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * And I selected the end portion of the video. After that, choose the part of the video.
 
 ![selected end portion video filmora](https://images.wondershare.com/filmora/article-images/2022/08/selected-end-portion-video-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step3Apply the color correction preset that you want then click ok
 
@@ -136,6 +157,13 @@ You can modify the temperature, tint, white balance, contrast, saturation, and b
 Click the button Advanced at the lower corner, then the color grading window will pop up, and you can explore your settings and options.
 
 ![color grading with filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-with-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Color Histogram**
 
@@ -203,12 +231,21 @@ Overall, Color grading is the process of video editing to have an excellent look
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-breakthrough-strategies-for-effective-fb-health-promotion/"><u>[New] 2024 Approved Breakthrough Strategies for Effective FB Health Promotion</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-innovations-highlighted-in-s3700s-2023-review/"><u>[New] 2024 Approved Innovations Highlighted in S3700's 2023 Review</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-decoding-second-count-in-20mb-video-files/"><u>[New] In 2024, Decoding Second Count in 20MB Video Files</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-youtube-creator-studio-unleashing-the-power-of-your-channel/"><u>[New] In 2024, YouTube Creator Studio Unleashing the Power of Your Channel</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-elevate-your-videography-premiere-to-youtube-upload/"><u>[Updated] In 2024, Elevate Your Videography Premiere to YouTube Upload</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-jokes-aplenty-incorrante-guide-to-snapchats-cartoon-filters/"><u>[Updated] Jokes Aplenty Incorrante Guide to Snapchat's Cartoon Filters</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-masterful-color-transformations-with-free-and-paid-luts-for-cameras-for-2024/"><u>[Updated] Masterful Color Transformations with Free & Paid LUTs for Cameras for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-windows-speed-dial-for-swift-inspection/"><u>[Updated] Windows Speed Dial for Swift Inspection</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-tecno-camon-20-premier-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/best-photo-text-editor-to-add-text-on-picture/"><u>Best Photo Text Editor to Add Text on Picture</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypassing-dxgierrordevicehunk-on-win-1011-systems/"><u>Bypassing DXGI_ERROR_DEVICE_HUNK on Win 10/11 Systems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-iphone-xr-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile iPhone XR online without SIM Card?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-google-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Google FRP</u></a></li>
+<li><a href="https://win-answers.techidaily.com/trouble-free-methods-for-working-with-h264-footage-in-adobe-premiere-pro/"><u>Trouble-Free Methods for Working with H264 Footage in Adobe Premiere Pro</u></a></li>
+</ul></div>
 
