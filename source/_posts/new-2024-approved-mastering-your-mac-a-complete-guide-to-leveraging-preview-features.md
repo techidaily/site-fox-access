@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Mastering Your Mac  A Complete Guide to Leveraging Preview Features\""
-date: 2024-09-22T00:28:57.722Z
-updated: 2024-09-22T23:46:09.667Z
+date: 2024-10-01T03:30:07.430Z
+updated: 2024-10-03T21:11:20.423Z
 tags: 
   - screen-recording
   - ai video
@@ -69,6 +69,13 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -86,10 +93,10 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Rotate Image in Preview
@@ -137,10 +144,10 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Combine Images into One
@@ -206,10 +213,10 @@ Choose a destination folder in the **Where** field, select your preferred format
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -235,5 +242,24 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-detailed-analysis-and-overview-of-du-recorders-capabilities/"><u>[New] 2024 Approved Detailed Analysis and Overview of Du Recorder’s Capabilities</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-from-stills-to-movement-examining-the-action-potential-of-camplus/"><u>[New] 2024 Approved From Stills to Movement Examining the Action Potential of Cam+</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-embark-on-an-avatar-journey-crafting-characters-with-ease-and-style/"><u>[New] In 2024, Embark on an Avatar Journey Crafting Characters with Ease and Style</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unleash-creativity-fast-windows-10-photo-edits-made-simple/"><u>[New] Unleash Creativity Fast Windows 10 Photo Edits Made Simple</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unleash-your-creative-potential-with-these-top-apps-for-2024/"><u>[New] Unleash Your Creative Potential with These Top Apps for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-mirthful-mobile-memories-iphone/"><u>[Updated] 2024 Approved Mirthful Mobile Memories (iPhone)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-bridging-the-gap-between-real-and-virtual-worlds-with-spark-ar-luts/"><u>[Updated] Bridging the Gap Between Real and Virtual Worlds with Spark AR LUTs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-5-screen-recorder-for-chromebook-free-extensions/"><u>[Updated] Top 5 Screen Recorder for Chromebook Free Extensions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-church-streaming-services-for-the-digital-age/"><u>[Updated] Top Church Streaming Services for the Digital Age</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/elevate-your-engagement-essential-apps-for-insta-growth/"><u>Elevate Your Engagement Essential Apps for Insta Growth</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-rectify-astro-a50-not-detected-error-in-the-astro-command-unit/"><u>Guide to Rectify Astro A50 Not Detected Error in the Astro Command Unit</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-install-battleye-anti-cheat-tips-and-tricks/"><u>How To Successfully Install BattlEye Anti-Cheat: Tips & Tricks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-ae-text-styles-the-ultimate-selection/"><u>In 2024, AE Text Styles The Ultimate Selection</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-your-path-to-perfect-captures-the-complete-guide-to-netflix-on-mac/"><u>In 2024, Your Path to Perfect Captures The Complete Guide to Netflix on Mac</u></a></li>
+<li><a href="https://fox-access.techidaily.com/iphone-macro-and-close-up-photography-tips/"><u>IPhone Macro and Close-Up Photography Tips</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/step-by-step-bitraser-demonstration-the-ultimate-solution-for-business-data-erasure-needs/"><u>Step-by-Step BitRaser Demonstration: The Ultimate Solution for Business Data Erasure Needs</u></a></li>
+</ul></div>
 

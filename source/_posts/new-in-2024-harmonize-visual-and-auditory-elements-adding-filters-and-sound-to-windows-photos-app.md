@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Harmonize Visual & Auditory Elements  Adding Filters & Sound to Windows Photos App\""
-date: 2024-09-17T19:12:48.999Z
-updated: 2024-09-22T17:05:39.728Z
+date: 2024-10-01T11:53:05.752Z
+updated: 2024-10-04T10:22:07.158Z
 tags: 
   - screen-recording
   - ai video
@@ -58,6 +58,19 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 **Step 5**: Just select one you like. Preview it and then click Done.
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to add music on Windows 10 Photos App
 
 Now that you have learnt how to **_add filters using Windows 10 Photos app._** Do you think there is any possibility regarding adding music over it? Adding music to your video would make it more enjoyable. The artificial intelligence feature on Windows 10 Photos app helps it add music to videos with a single click. It’s easy to do, but meanwhile there will be some twitches to the way artificial intelligence videos show up as you try to match the volume and tempo of the music. But, you can do it with the help of default Microsoft tools.
@@ -70,11 +83,38 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5**: Hit the ‘Done’ button.
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -105,12 +145,26 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-dissecting-metaverse-and-multimetase-what-sets-them-apart/"><u>[New] In 2024, Dissecting Metaverse and Multimetase What Sets Them Apart</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-snippet-filmmaker-pro/"><u>[New] Snippet Filmmaker Pro</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-navigating-the-auditory-waves-of-iphones-podcast-streaming/"><u>[Updated] 2024 Approved Navigating the Auditory Waves of iPhone's Podcast Streaming</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-best-5-non-youtube-editing-tools-for-vids/"><u>[Updated] Best 5 Non-YouTube Editing Tools for Vids</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-next-gen-photography-unveiling-auto-and-smart-hdr-features-for-2024/"><u>[Updated] Next-Gen Photography Unveiling Auto and Smart HDR Features for 2024</u></a></li>
+<li><a href="https://solve-info.techidaily.com/enhanced-web-traffic-with-cookiebot-technology/"><u>Enhanced Web Traffic with Cookiebot Technology</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-8-plus-using-macos-finder-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 8 Plus using macOS finder</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-building-striking-soundbite-trailers-for-podcasts/"><u>In 2024, Building Striking Soundbite Trailers for Podcasts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-expert-techniques-for-stellar-titling/"><u>In 2024, Expert Techniques for Stellar Titling</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-navigating-top-purchasers-for-monetized-yt-channels/"><u>In 2024, Navigating Top Purchasers for Monetized YT Channels</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-streamlining-avi-conversions-create-gifs-with-filmora-on-pcmac/"><u>In 2024, Streamlining AVI Conversions Create GIFs with Filmora on PC/Mac</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-unlocking-the-full-potential-of-iphones-hdr-functions/"><u>In 2024, Unlocking the Full Potential of iPhone's HDR Functions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-excel-techniques-for-identifying-and-tallying-unique-entries/"><u>Mastering Excel: Techniques for Identifying and Tallying Unique Entries</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-sound-shifts-in-free-fire/"><u>Mastering Sound Shifts in Free Fire</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/optimal-settings-for-watching-nba-live-streams/"><u>Optimal Settings for Watching NBA LIVE STREAMs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/precision-in-volume-decrease-lumafusions-methodology-for-2024/"><u>Precision in Volume Decrease Lumafusion's Methodology for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/talk-to-drive-smart-mercedes-vehicle-ai-and-speech-update/"><u>Talk to Drive Smart: Mercedes Vehicle AI & Speech Update</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-wireless-fm-transmitter-the-lihan-lhfm1039-and-its-benefits-for-car-stereos/"><u>Top Rated Wireless FM Transmitter: The LIHAN LHFM1039 and Its Benefits for Car Stereos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/transformative-tech-review-magix-vpx-redefines-editing/"><u>Transformative Tech Review Magix VPX Redefines Editing</u></a></li>
+</ul></div>
 

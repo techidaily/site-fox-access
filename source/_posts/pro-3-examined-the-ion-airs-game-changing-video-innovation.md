@@ -1,7 +1,7 @@
 ---
 title: "\"Pro 3 Examined  The ION Air's Game-Changing Video Innovation\""
-date: 2024-09-27T05:39:54.334Z
-updated: 2024-09-28T16:52:13.357Z
+date: 2024-10-01T12:33:47.523Z
+updated: 2024-10-03T17:23:20.508Z
 tags: 
   - screen-recording
   - ai video
@@ -82,16 +82,10 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
  It is much simpler to access Wi-Fi settings with this device. Switch on your device as well as the Wi-Fi Podz then move to Wi-Fi setting of your tablet or smart phone. Here also select Podz from your network and then add password. The settings part is over and now you can control your device from remote location easily. Settings can be adjusted from camera application and it also provides facility to fast media transfers between both connected devices.  
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Recommend best video editing software for action camera users
@@ -101,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 7. **Battery life and Storage:**  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  iON Air Pro 3 comes with a non removable battery that is really sad because you don’t have option to replace when it dies during shoot. But the good news is that this non removable battery makes it a compact action camera with waterproof body so that it can be easily used in tough situations. With 1080p resolution level it can record easily up to 2.5 hours. On the other side, the supported Micro SD card goes up to 64 GB capacity. Thus you can easily store a shoot of 4 hours 20 minute length if working on 1080p at 60 fps rating. Additionally, you will be able to obtain 8GB additional space from MiMedia that can be easily used for sharing videos or photos online.
@@ -116,10 +110,10 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -147,15 +141,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-pro-broadcast-hardware-for-seamless-livestreams-for-2024/"><u>[New] Pro Broadcast Hardware for Seamless Livestreams for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-top-stock-photos-their-journey-to-internet-fame-for-2024/"><u>[New] Top Stock Photos Their Journey to Internet Fame for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-unveiling-the-best-practices-in-cds-ripping-and-burning-with-win-media-for-2024/"><u>[New] Unveiling the Best Practices in Cds Ripping & Burning with Win, Media for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-sonic-and-the-hedgehog-switch-edition-top-10/"><u>[Updated] 2024 Approved Sonic and the Hedgehog Switch Edition (Top 10)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-mastering-visual-learning-lesson-planning-guide/"><u>[Updated] In 2024, Mastering Visual Learning Lesson Planning Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-xiaomi-13t-pro-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Xiaomi 13T Pro? Fixed | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-master-the-art-of-avi-gif-conversion-via-filmora-platform/"><u>In 2024, Master the Art of AVI-GIF Conversion via Filmora Platform</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-applying-luts-in-obs-streaming-for-2024/"><u>The Ultimate Guide to Applying LUTs in OBS Streaming for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-5-playstation-vr-games-to-look-forward-to/"><u>Top 5 Playstation VR Games to Look Forward To</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726030027475-windows-103/"><u>Windows 10マシン用ビデオ録画の3つの手段 - 専門家からの解説</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-investment-in-top-tier-hdr-cameras-a-buyers-guide/"><u>[New] 2024 Approved Investment in Top-Tier HDR Cameras A Buyer's Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-essential-six-social-media-locations-for-business-enhancement-for-2024/"><u>[New] Essential Six Social Media Locations for Business Enhancement for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-maximize-mobile-video-quality-top-4-strategies-to-brighten-iphone-hdr-in-adobe-for-2024/"><u>[New] Maximize Mobile Video Quality Top 4 Strategies to Brighten iPhone HDR in Adobe for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unveiling-the-secrets-to-youtube-highlighted-remarks/"><u>[New] Unveiling the Secrets to YouTube Highlighted Remarks</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-easy-steps-for-exporting-videos-from-youtube-to-dailymotion-for-2024/"><u>[Updated] Easy Steps for Exporting Videos From YouTube to Dailymotion for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-light-manipulation-for-captivating-gopro-time-lapse-scenes/"><u>[Updated] Mastering Light Manipulation for Captivating GoPro Time Lapse Scenes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-unveiling-the-methodology-for-quality-ps3-game-screenings/"><u>2024 Approved Unveiling the Methodology for Quality PS3 Game Screenings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/designing-pinnacle-canon-temp-video-series/"><u>Designing Pinnacle Canon Temp Video Series</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-tailored-preferences-when-they-freeze-up/"><u>Fix Your Tailored Preferences When They Freeze Up</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-to-operating-the-driver-easy-app-on-your-smartphone/"><u>Guide to Operating the Driver Easy App on Your Smartphone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-advanced-shooting-modes-unveiling-the-secrets-of-smart-hdr-3-and-4/"><u>In 2024, Advanced Shooting Modes Unveiling the Secrets of Smart HDR 3 & 4</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/intro-to-graphic-motion-artistry-and-usage/"><u>Intro to Graphic Motion Artistry and Usage</u></a></li>
+<li><a href="https://fox-access.techidaily.com/premium-audio-visual-leading-blu-ray-devices-for-2024/"><u>Premium Audio, Visual Leading Blu-Ray Devices for 2024</u></a></li>
 </ul></div>
 

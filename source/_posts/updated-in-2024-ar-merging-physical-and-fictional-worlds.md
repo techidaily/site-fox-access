@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, AR  Merging Physical and Fictional Worlds\""
-date: 2024-09-22T22:55:26.381Z
-updated: 2024-09-29T03:55:01.647Z
+date: 2024-09-27T21:29:42.734Z
+updated: 2024-10-04T10:05:08.995Z
 tags: 
   - screen-recording
   - ai video
@@ -40,16 +40,10 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
  The presentation of augmented reality is in some form of futuristic technology, despite the fact that it has been around for many years. For example, the heads-up display in many fighter jets utilizes the principles of augmented reality, and these date back to the early 1990s when they were used to show information about altitude, speed and direction of the aircraft.
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How does Augmented Reality work
@@ -59,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
  In general, the device will search for a particular object, which can be anything, but in most cases, they are usually 2D images like in the form of a movie poster. The augmented reality application will recognize the target through the camera and it will then process the image and augment it in some form through the utilization of sound and pictures. For example, if the target object was a movie poster, you may see it spring into life to play a trailer of the movie. So long as you continue viewing the poster through the “window” of the display object, you will see augmented reality rather than the plain old normal poster in normal reality.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The future of Augmented Reality
@@ -74,10 +68,16 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
  Like with every new technology, augmented reality comes with a plethora or ethical and political issues. For example, the Google Glass came along with a lot of privacy concerns, with some people worried that pictures may be snapped or conversations may be recorded surreptitiously. But amidst all these concerns, AR technology is expected to gather more steam in the near future and it will be a part of life for the majority.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Applications of Augmented Reality
@@ -115,10 +115,10 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -146,19 +146,15 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-culinary-cinematography-step-by-step-recipe-tutorials/"><u>[New] 2024 Approved Culinary Cinematography Step-by-Step Recipe Tutorials</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-beyond-the-skyline-with-yuneecs-typhoon-q500-for-2024/"><u>[New] Beyond the Skyline with Yuneec's Typhoon Q500 for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-most-favored-5-iphones-podcast-apps/"><u>[New] In 2024, Most Favored 5 iPhones Podcast Apps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-google-photos-essential-tips-and-tricks/"><u>[New] Mastering Google Photos Essential Tips and Tricks</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-asus-mg28uq-elevating-your-visual-experience-to-new-heights/"><u>[Updated] In 2024, ASUS MG28UQ Elevating Your Visual Experience to New Heights</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-master-list-of-affordable-websites-boosting-vector-graphics-skills/"><u>[Updated] In 2024, Master List of Affordable Websites Boosting Vector Graphics Skills</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-panasonic-hx-a1-wearable-camera-explored/"><u>[Updated] In 2024, Panasonic HX-A1 Wearable Camera Explored</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-the-ultimate-selection-of-androids-most-innovative-music-videography-tools/"><u>[Updated] The Ultimate Selection of Android's Most Innovative Music Videography Tools</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725287114155-avimp48/"><u>快速指南：如何无需花钱将AVI文件转换为MP4，探索优雅解决8种策略!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-xcover-6-pro-tactical-edition-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy XCover 6 Pro Tactical Edition Phones with/without a PC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-infinix-note-30-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Infinix Note 30 Phone Hassle-Free</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-the-sj7-action-hero-exclusive-insights-into-the-4k-starcam/"><u>In 2024, The SJ7 Action Hero Exclusive Insights Into the 4K StarCam</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/key-strategies-to-craft-persuasive-testimonials-that-resonate-for-2024/"><u>Key Strategies to Craft Persuasive Testimonials That Resonate for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/phone-replacement-schedule-understanding-the-best-time-for-an-upgrade/"><u>Phone Replacement Schedule: Understanding the Best Time for an Upgrade</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-professional-editors-guide-fcps-top-10-plugins/"><u>[New] 2024 Approved Professional Editor’s Guide FCP's Top 10 Plugins</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-creating-the-ultimate-home-pc-for-professional-video-editors/"><u>[Updated] 2024 Approved Creating the Ultimate Home PC for Professional Video Editors</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-amplify-audience-response-with-unique-instagram-quiz-features/"><u>[Updated] Amplify Audience Response with Unique Instagram Quiz Features</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-steps-for-perfect-audio-transition-in-adobe-audition/"><u>[Updated] Steps for Perfect Audio Transition in Adobe Audition</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-motorola-edge-40-neo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/all-time-cinematic-classics-discover-the-essential-top-1/"><u>All-Time Cinematic Classics: Discover the Essential Top 1</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/convenient-hp-recording-strategies-for-seamless-productivity/"><u>Convenient HP Recording Strategies for Seamless Productivity</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhancing-sound-quality-in-your-media-room-with-smart-furniture-placement-techniques-explore-how/"><u>Enhancing Sound Quality in Your Media Room with Smart Furniture Placement Techniques - Explore How.</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-estimating-gb-for-an-entire-film-daily-viewing/"><u>In 2024, Estimating GB for an Entire Film, Daily Viewing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-interface-feedback-for-screen-players-choice/"><u>In 2024, Interface Feedback for Screen Players' Choice</u></a></li>
 </ul></div>
 

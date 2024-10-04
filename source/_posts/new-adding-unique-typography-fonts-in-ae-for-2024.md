@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Adding Unique Typography  Fonts in AE for 2024\""
-date: 2024-09-24T01:06:52.865Z
-updated: 2024-09-29T05:29:33.287Z
+date: 2024-09-27T06:40:09.129Z
+updated: 2024-10-04T08:05:14.507Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,16 @@ Thus, selecting a proper font for the video becomes necessary in the post-produc
 * You can also use the font dropdown menu as a shortcut to use the fonts instantly. In Adobe After Effects interface, you can then select the "Character" panel to add or change the fonts to your videos.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. Types of Fonts in After Effects
@@ -60,6 +66,13 @@ Thus, selecting a proper font for the video becomes necessary in the post-produc
 Adobe After Effects provides a ton of families of fonts that can be added and used in video projects. These fonts are available on the Create Cloud application and also on the official website of adobe. Also, these fonts are categorized according to their height, weight, contrast as well as other attributes. And each of these fonts is shown with a preview saying "Typography" which can be selected instantly.
 
 Some of the most famous fonts such as "typewriter", "Cursive Handwriting" and many more are categorized under their family of fonts and are very easy to access. Along with this, you can also select fonts with different character strokes and can alter their features while adding to your videos.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. How to use text effects in After Effects?
 
@@ -89,13 +102,6 @@ These features also include adding texts and changing the fonts of those texts o
 
 ![open wanted video to edit in filmora](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Select the text style you want to add for your title and then drag it from the title's library to your timeline. An alternate way to add texts or such title font is to right-click on it and select the "Apply" option.
 * Here you can also set a particular font or style for the title as your favorite by right-clicking on the library and then selecting "Add to favorites" for easy access.
 * If you want to add any opener (Intro) or end credits (outro) to your video, then there are plenty of options available in the "Title" tab. You can apply them by clicking on the "apply" button.
@@ -104,16 +110,10 @@ These features also include adding texts and changing the fonts of those texts o
 * After you are done, click "save" and the text effects will be added to your videos successfully.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -127,10 +127,10 @@ These features also include adding texts and changing the fonts of those texts o
 ![use filmora to edit device](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * First open that video that you want to edit in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and then you will be available with a tab called "Titles" on the top. Select that and select any style of title that you want to edit. There is a preview window available to look at the text fonts and designs.
@@ -172,22 +172,14 @@ The article discussed the detailed process of **how to add font to Adobe After E
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-securing-your-digital-dividends-a-no-ads-youtube-money-manual/"><u>[New] 2024 Approved Securing Your Digital Dividends A No Ads YouTube Money Manual</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-clear-and-clean-photos-top-6-online-tools-to-remove-signatures/"><u>[Updated] Clear & Clean Photos – Top 6 Online Tools to Remove Signatures</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-discovering-the-essential-secrets-of-morphvox/"><u>2024 Approved Discovering the Essential Secrets of MorphVOX</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-explore-every-degree-top-9-techniques-for-vr-filmmaking/"><u>2024 Approved Explore Every Degree Top 9 Techniques for VR Filmmaking</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-fb-stream-downloading-on-different-operating-systems/"><u>2024 Approved FB Stream Downloading on Different Operating Systems</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-gopro-hero5-a-comprehensive-footage-study/"><u>2024 Approved GoPro Hero5 A Comprehensive Footage Study</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-maximize-android-gaming-with-funimate-apk-download/"><u>2024 Approved Maximize Android Gaming with Funimate APK Download</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-premium-selection-top-15-cameras-for-action/"><u>2024 Approved Premium Selection Top 15 Cameras for Action</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-tips-to-find-the-best-videographer/"><u>2024 Approved Tips to Find The Best Videographer</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-unlocking-full-access-to-itunes-radio-features/"><u>2024 Approved Unlocking Full Access to iTunes Radio Features</u></a></li>
-<li><a href="https://fox-access.techidaily.com/best-ios-slideshow-software-from-x-to-ios13-for-2024/"><u>Best iOS Slideshow Software From X to IOS13 for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-infinix-smart-8-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Infinix Smart 8 Pro Devices | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/leveraging-metas-artificial-intelligence-for-enhanced-instagram-strategies/"><u>Leveraging Meta's Artificial Intelligence for Enhanced Instagram Strategies</u></a></li>
-<li><a href="https://games-able.techidaily.com/opera-gx-vs-edge-which-is-superior-in-the-online-gaming-arena/"><u>Opera GX vs Edge: Which Is Superior in the Online Gaming Arena?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/steam-to-epic-transition-woes-troubleshooting-metro-exodus-pc-crashes-successfully/"><u>Steam-to-Epic Transition Woes? Troubleshooting Metro Exodus PC Crashes Successfully</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-unveiling-the-latest-in-computer-components/"><u>Tom's Tech Hub: Unveiling the Latest in Computer Components</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-whiteboard-animation-made-easy-top-5-hand-drawn-video-creators/"><u>Updated In 2024, Whiteboard Animation Made Easy Top 5 Hand-Drawn Video Creators</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unlocking-instagrams-power-essential-5-tips-and-examples-from-pros-for-2024/"><u>[New] Unlocking Instagram's Power Essential 5 Tips & Examples From Pros for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-windows-11-excellent-video-capture-tools-compared/"><u>[New] Windows 11 Excellent Video Capture Tools Compared</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-gopro-hero5-premium-showdown-black-edition/"><u>[Updated] 2024 Approved GoPro Hero5 Premium Showdown Black Edition</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-enchanting-echoes-are-voice-alteration-apps-truly-magical-explore-alternatives-for-2024/"><u>[Updated] Enchanting Echoes Are Voice Alteration Apps Truly Magical? Explore Alternatives for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-personalize-and-edit-iphone-ringtones-easily/"><u>[Updated] Personalize & Edit iPhone Ringtones Easily</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-vivo-s17-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Vivo S17? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/how-to-change-your-voice-on-instagram/"><u>How to Change Your Voice on Instagram?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-build-funny-images-kapwings-meme-studio/"><u>In 2024, Build Funny Images Kapwing’s Meme Studio</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Vivo S18 | Dr.fone</u></a></li>
 </ul></div>
 

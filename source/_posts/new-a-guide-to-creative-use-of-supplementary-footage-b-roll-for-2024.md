@@ -1,7 +1,7 @@
 ---
 title: "\"[New] A Guide to Creative Use of Supplementary Footage (B-Roll) for 2024\""
-date: 2024-09-18T21:16:12.746Z
-updated: 2024-09-22T17:39:45.846Z
+date: 2024-09-30T20:41:26.465Z
+updated: 2024-10-03T23:06:37.429Z
 tags: 
   - screen-recording
   - ai video
@@ -57,13 +57,6 @@ Aerial B roll is the solution when you like to show your viewers where your film
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
@@ -73,10 +66,10 @@ B roll footage can be used to tell a story that supports the narrative of your v
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Atmospheric b roll footage
@@ -85,21 +78,35 @@ When you are sharing a narrative that has been told in the past or that has hist
 
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 6\. Pick-up shots
 
 A pick-up is a tiny shot added to previously captured material. Re-shoots involve redoing entire scenes. Both types of shots are commonly added during film editing to fix, logic, continuity, or quality flaws. These photos happen a while after the sets have been taken down, clothes and props stowed, and the actors and crew have gone on to new projects.
 
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -134,5 +141,26 @@ We sincerely hope that this post will be of use to you in making your films more
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-mastering-cinematic-art-with-top-ten-professional-tools/"><u>[New] 2024 Approved Mastering Cinematic Art with Top Ten Professional Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-unpacking-the-virb-ultra-30-action-cam-by-garmin/"><u>[New] 2024 Approved Unpacking the VIRB Ultra 30 Action Cam by Garmin</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-discover-10-platforms-offering-free-gaming-melodies-for-2024/"><u>[New] Discover 10 Platforms Offering Free Gaming Melodies for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-how-to-seamlessly-integrate-captions-into-youtube-videos/"><u>[New] In 2024, How to Seamlessly Integrate Captions Into YouTube Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-racing-cameras-face-off-is-gopro-the-ultimate-champion/"><u>[New] Racing Cameras Face Off Is GoPro the Ultimate Champion?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-savvy-seekers-guide-to-spotting-superb-photos-on-pexels-for-2024/"><u>[New] The Savvy Seeker's Guide to Spotting Superb Photos on Pexels for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-ideal-internet-spots-curated-custom-tones-downloads/"><u>[Updated] 2024 Approved Ideal Internet Spots Curated Custom Tones Downloads</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unveiling-the-25-most-followed-insta-prodigies/"><u>[Updated] 2024 Approved Unveiling the 25 Most-Followed Insta Prodigies</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-leveraging-modern-ios-features-for-seamless-task-management-for-2024/"><u>[Updated] Leveraging Modern iOS Features for Seamless Task Management for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-purestream-app-audit-report/"><u>[Updated] PureStream App Audit Report</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-tweet-to-gif-magic-videos-to-animations-at-no-charge/"><u>2024 Approved Tweet-to-GIF Magic Videos to Animations at No Charge</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-techniques-for-id-extraction-from-steam/"><u>Efficient Techniques for ID Extraction From Steam</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hype-generator-chief-architect-for-2024/"><u>Hype Generator Chief Architect for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-revolutionizing-online-learning-with-zooms-transformative-tools/"><u>In 2024, Revolutionizing Online Learning with Zoom's Transformative Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/inside-out-essential-vr-dictionary-words-for-2024/"><u>Inside Out Essential VR Dictionary Words for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/picture-perfect-displays-choosing-the-best-photo-editing-screens-2024/"><u>Picture Perfect Displays Choosing the Best Photo Editing Screens, 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-fundamentals-of-pronouncing-french-words-rightly/"><u>The Fundamentals of Pronouncing French Words Rightly</u></a></li>
+<li><a href="https://fox-access.techidaily.com/why-are-my-photo-booth-videos-pausing-for-2024/"><u>Why Are My Photo Booth Videos Pausing for 2024</u></a></li>
+</ul></div>
 

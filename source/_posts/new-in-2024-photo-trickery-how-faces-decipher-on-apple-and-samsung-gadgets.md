@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Photo Trickery  How Faces Decipher on Apple & Samsung Gadgets\""
-date: 2024-09-24T20:01:41.733Z
-updated: 2024-09-28T20:47:16.251Z
+date: 2024-09-27T11:16:38.776Z
+updated: 2024-10-04T09:10:20.948Z
 tags: 
   - screen-recording
   - ai video
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
 
 ![Samsung](https://images.wondershare.com/filmora/article-images/Samsung-Galaxy-S8-Face-Unlock.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Which one is more Accuracy?
 
  Being accurate is a considerable issue with face recognition technology if you are using a Samsung device. On the other hand, iPhone X shows accuracy than Samsung since it analyzes the whole face instead of iris. For Samsung’s iris scanner, the camera contains a confined and narrowly designed focus where is exactly your iris needed to be for scanning. The camera will able to recognize only when your iris will be in that same place for long where it focuses. And therefore, there are times when you left with holding your device high for better iris detection. Apple has no such accuracy issue for it takes your face to recognize.
@@ -61,10 +68,16 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
 ![iPhone X accuracy](https://images.wondershare.com/filmora/article-images/iphone-x-accuracy.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: The Common Inconvenience
@@ -77,26 +90,6 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
 
 ![face ID incovenience](https://images.wondershare.com/filmora/article-images/face-incovenience.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: Safety Issue
 
  Ensuring safety is one of the main concern people have and the face recognition technology in both the devices has done pretty well. Apple uses the TrueDepth camera system which includes flood illuminator, IR camera as well as dot projector to make the face recognized in all possible ways. It has been claimed by the company that the possibility of unlocking the device by a random person’s face is 1 in 1,000,000\. Besides this, Apple had made sure to let people try only 5 face attempts after which they will require to enter the passcode. The probability though doesn’t work same for twins and the family members who resemble you. Also, the children who are less than 13 are able to trick you since they don’t have fully developed facial features.
@@ -107,22 +100,29 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
 
 ![face ID issue](https://images.wondershare.com/filmora/article-images/face-id-issue.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the other hand, Samsung also doesn’t lag behind when it comes to safety and security with face recognition feature. Samsung is the first Android device company to introduce face recognition technology that brought iris scanning technology with its Galaxy Note 7\. The technology does it job by detecting the iris’ pattern of your eyes. As far as security is concerned, the technology gets 10 on 10 since each person possesses unique iris pattern and it becomes difficult to replicate. The devices by Samsung having face recognition technology are designed with infrared diode which is capable
 
  All in all, both the companies have put extra effort in justifying the safety with trending face recognition technology. However, we are not certain for full reliability of them.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
  The technology of facial recognition isn’t new to us and it has made people excited from the time it has come. However, many users have not started using the technology yet. We hope that this functionality will gain the popularity with time and people will start to make use of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -149,16 +149,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-navigate-discords-streaming-landscape-a-comprehensive-tutorial/"><u>[New] 2024 Approved Navigate Discord's Streaming Landscape A Comprehensive Tutorial</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-crafting-perfect-tones-with-curvature-techniques/"><u>2024 Approved Crafting Perfect Tones with Curvature Techniques</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-in-depth-analysis-of-slomo-video-capture-tool/"><u>2024 Approved In-Depth Analysis of SloMo Video Capture Tool</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-integrating-streamlabs-smoothly-with-obs-on-macbooks/"><u>2024 Approved Integrating Streamlabs Smoothly with OBS on MacBooks</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-pictorial-synthesis-pro-online-blender-deluxe/"><u>2024 Approved Pictorial Synthesis Pro Online Blender Deluxe</u></a></li>
-<li><a href="https://fox-that.techidaily.com/avoiding-photo-redundancy-combining-repeated-subject-pictures-on-ios-and-macos-devices/"><u>Avoiding Photo Redundancy: Combining Repeated Subject Pictures on iOS & macOS Devices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/comparing-apples-with-oranges-not-when-it-comes-to-m1-pro-and-m1-max/"><u>Comparing Apples with Oranges? Not When It Comes to M1 Pro & M1 Max</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-common-problems-restoring-your-iphones-email-services/"><u>Overcoming Common Problems: Restoring Your iPhone's Email Services</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-of-iphone-and-ipad-friendly-bluetooth-earphones-for-202n3/"><u>Ultimate Selection of iPhone & iPad Friendly Bluetooth Earphones for 202N3</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-phisons-record-breaking-pcie-gen-40-ssd-e29t-controller-exclusive-insights-from-fms-2nd/"><u>Unveiling Phison's Record-Breaking PCIe Gen 4.0 SSD E29T Controller: Exclusive Insights From FMS 2nD</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-old-school-giggles-unpacking-goofy-movie/"><u>[New] 2024 Approved Old School Giggles Unpacking 'Goofy Movie'</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-pros-picks-premium-10-windows-11-webcam-recorders/"><u>[New] 2024 Approved Pro's Picks Premium 10 Windows 11 Webcam Recorders</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-reconnaissance-from-above-deciphering-gopro-karmas-offering/"><u>[New] 2024 Approved Reconnaissance From Above Deciphering GoPro Karma's Offering</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-beginners-blueprint-for-dynamic-illustration/"><u>[New] 2024 Approved The Beginner's Blueprint for Dynamic Illustration</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-economical-action-cameras-discover-the-cheapest-options-for-2024/"><u>[New] Economical Action Cameras Discover the Cheapest Options for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-mastering-microscopic-views-on-ms-teams-chat-for-2024/"><u>[New] Mastering Microscopic Views on MS Teams Chat for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-seamless-strategy-integrating-linktree-into-your-tiktok-bio/"><u>[Updated] 2024 Approved Seamless Strategy Integrating Linktree Into Your TikTok Bio</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-how-to-mass-download-tiktok-videos/"><u>[Updated] In 2024, How To Mass Download TikTok Videos</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-techniques-to-dodge-tiktoks-hidden-ban-for-2024/"><u>[Updated] Techniques to Dodge TikTok's Hidden Ban for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-5-masterful-fluid-interaction-titles/"><u>2024 Approved 5 Masterful Fluid Interaction Titles</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-memetic-flesh-eater-artist/"><u>2024 Approved Memetic Flesh Eater Artist</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disabling-your-newest-iphones-a-comprehensive-guide-for-iphone-15-pro-and-pro-max/"><u>Disabling Your Newest iPhones: A Comprehensive Guide for iPhone 15 Pro & Pro Max</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-poco-x5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-computational-photography-what-are-auto-hdr-smart-hdr-3-and-4-shooting/"><u>In 2024, Computational Photography What Are Auto HDR, Smart HDR 3 & 4 Shooting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-meme-makers-the-ultimate-resource-guide/"><u>In 2024, Free Meme Makers – The Ultimate Resource Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-high-speed-windows-viewer-for-images/"><u>In 2024, High-Speed Windows Viewer for Images</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-innovative-techniques-for-final-frame-enhancements-on-vimeo/"><u>In 2024, Innovative Techniques for Final Frame Enhancements on Vimeo</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-instantaneous-srt-to-txt-change-a-step-by-step-process/"><u>In 2024, Instantaneous SRT to TXT Change A Step-by-Step Process</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-for-transforming-video-object-vob-to-mp4-on-pcs-with-windows-11-and-mac-computers/"><u>Step-by-Step Tutorial for Transforming Video Object (VOB) to MP4 on PCs with Windows 11 & Mac Computers</u></a></li>
 </ul></div>
 

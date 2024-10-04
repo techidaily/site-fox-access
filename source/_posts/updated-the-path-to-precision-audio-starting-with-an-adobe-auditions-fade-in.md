@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Path to Precision Audio  Starting with an Adobe Audition's Fade In\""
-date: 2024-09-21T23:04:12.606Z
-updated: 2024-09-29T04:43:16.315Z
+date: 2024-10-03T07:12:48.992Z
+updated: 2024-10-04T09:49:46.600Z
 tags: 
   - screen-recording
   - ai video
@@ -71,10 +71,16 @@ You can also split audio, adjust audio, replace the original audio of a video, a
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Steps to use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to fade audio:**
@@ -88,25 +94,18 @@ You can also split audio, adjust audio, replace the original audio of a video, a
 * At the starting point of an audio clip, opt for dragging the fade-in maker that is to the right side. Then, opt for the application of the fade-in effect.
 * Now, opt for the clip's end, and then, opt for dragging the fade-out maker i.e. to the left side. This is for the addition of a fade-out effect. There is one thing to keep in mind if you drag it further, the fade effect lasts for a longer time.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3\. Related FAQs
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. How do you fade in multitrack in Audition?
 
 If you want to fade in and fade out two clips at the same time, then controlling just one track or multiple tracks will allow you to do fades on multiple audios inside the multitrack in Adobe Audition.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. How do you do a master fade in Audition?
 
@@ -126,6 +125,19 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Steps to use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to fade audio:**
 
 * First, do the installation of Filmora software from the home screen and set the default procedure for a successful installation, and then open it. Now, to your timeline, add your desired audio file, and then, opt for double-clicking on the same for opening the Audio editing menu.
@@ -139,16 +151,16 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 
 ## Part 3\. Related FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. How do you fade in multitrack in Audition?
 
 If you want to fade in and fade out two clips at the same time, then controlling just one track or multiple tracks will allow you to do fades on multiple audios inside the multitrack in Adobe Audition.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. How do you do a master fade in Audition?
 
@@ -159,10 +171,16 @@ Select the option of amplifying the effects i.e., amplitude and compression. Do 
 Fade-in and fade-out options are available in the top-left and right corners of the waveform. Right-clicking in the project panel will produce no ability to work in the audition. That option is called grey out. Whatever you want to look for won't work in this view.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -197,22 +215,18 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-essential-5-backdrops-alternator-for-iphones-x87/"><u>[New] 2024 Approved Essential 5 Backdrops Alternator for iPhones X/8/7</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-essential-design-modifications-for-2024/"><u>[New] Essential Design Modifications for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ackling-youtubes-dark-view-troubleshooting-steps-for-2024/"><u>[New] Tackling YouTube's Dark View Troubleshooting Steps for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-extreme-weather-footage-showdown-black-hero5/"><u>[Updated] 2024 Approved Extreme Weather Footage Showdown Black Hero5</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-savory-scenes-mastering-the-art-of-eating-focused-filmography/"><u>[Updated] 2024 Approved Savory Scenes Mastering the Art of Eating-Focused Filmography</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-ultimate-high-definition-slow-mo-cams/"><u>[Updated] 2024 Approved Ultimate High Definition Slow-Mo Cams</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-moving-data-quick-techniques-to-send-files-to-your-computer/"><u>[Updated] Moving Data Quick Techniques to Send Files to Your Computer</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/diy-troubleshooting-simple-ways-to-solve-i2c-peripheral-driver-issues/"><u>DIY Troubleshooting: Simple Ways to Solve I2C Peripheral Driver Issues</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevating-digital-portraits-with-acoustic-accents/"><u>Elevating Digital Portraits with Acoustic Accents</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-meizu-21-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Meizu 21 Through Google Earth?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-trendsetters-in-virtual-reality-headsets/"><u>In 2024, Trendsetters in Virtual Reality Headsets</u></a></li>
-<li><a href="https://fox-access.techidaily.com/infusing-life-into-text-instagram-story-animations-tips-for-2024/"><u>Infusing Life Into Text Instagram Story Animations Tips for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mending-the-disappearing-touchpad-driver-problem/"><u>Mending the Disappearing Touchpad Driver Problem</u></a></li>
-<li><a href="https://fox-access.techidaily.com/pricepoint-nimbus-economical-mass-storage-haven/"><u>PricePoint Nimbus - Economical Mass Storage Haven</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-accessing-and-reviewing-your-printer-activity-logs-on-windows-10/"><u>Step-by-Step Guide: Accessing and Reviewing Your Printer Activity Logs on Windows 10</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/visual-vividity-techniques-in-hue-adjustment-for-2024/"><u>Visual Vividity Techniques in Hue Adjustment for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/zero-degrees-to-glory-peak-sports-in-cold-climates-for-2024/"><u>Zero Degrees to Glory Peak Sports in Cold Climates for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-aquatic-adventures-top-5-anglers-choice-cameras-for-2024/"><u>[New] Aquatic Adventures Top 5 Anglers' Choice Cameras for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-detailed-dissection-straightforward-hdr-methods/"><u>[New] Detailed Dissection Straightforward HDR Methods</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-exclusive-list-of-top-mobile-editing-software-for-iphoneandroid/"><u>[New] Exclusive List of Top Mobile Editing Software for iPhone/Android</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-proven-pathways-for-sound-alteration-in-pubg-gamers/"><u>[New] Proven Pathways for Sound Alteration in PUBG Gamers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-art-of-avatar-design-in-the-metaverse-explained-simply-for-2024/"><u>[New] The Art of Avatar Design in the Metaverse Explained Simply for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-5-best-terraria-map-viewers-to-find-treasure/"><u>[Updated] In 2024, Top 5 Best Terraria Map Viewers to Find Treasure</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-a-lone-path-with-3d-printers-in-the-3dr-world/"><u>2024 Approved A Lone Path with 3D Printers in the '3DR' World</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-expedited-transformation-top-5-free-online-gif-to-video-apps/"><u>2024 Approved Expedited Transformation Top 5 Free Online GIF to Video Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/battling-bother-ais-role-in-relaxation/"><u>Battling Bother: AI's Role in Relaxation</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-8-plus-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock From iPhone 8 Plus You Should Try Out</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-realme-v30t-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Realme V30T Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://fox-access.techidaily.com/visual-velocity-boost-your-digital-drawing-speed-in-pc-photos-editor/"><u>Visual Velocity Boost Your Digital Drawing Speed in PC Photos Editor</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win10-touch-enhancement-no-hassle/"><u>Win10 Touch Enhancement: No Hassle</u></a></li>
 </ul></div>
 
