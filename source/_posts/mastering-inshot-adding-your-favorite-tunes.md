@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering InShot  Adding Your Favorite Tunes\""
-date: 2024-09-19T17:24:27.691Z
-updated: 2024-09-22T23:17:36.915Z
+date: 2024-10-07T19:15:37.144Z
+updated: 2024-10-09T19:30:31.392Z
 tags: 
   - screen-recording
   - ai video
@@ -61,6 +61,13 @@ Step 6: At this point, hit the "Track" button and move to the "My Music" section
 
 ![use spotify song in inshot](https://images.wondershare.com/filmora/article-images/2021/import-music-to-inshot-video-editor-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. How to Import Music from Apple Music to InShot?
 
 Apple Music offers a variety of tracks to its users. The only drawback of using Apple Music tracks is its DRM protection. Due to this protection, the tracks from Apple Music cannot be used on other platforms like InShot. Here, a question arises about how to import music to InShot if you cannot use it directly from Apple Music.
@@ -74,6 +81,13 @@ Step 1: To start the process, set DRmare Apple Music Converter on your computer.
 Step 2: You can set the output audio format for the files. For this, move to the "Format" icon and click on it. A new window will appear in front of you. You can change the audio format, adjust the bit rate, audio channel, etc. Once satisfied, hit the ‘OK’ button to save the changes.
 
 ![set apple music output](https://images.wondershare.com/filmora/article-images/2021/import-music-to-inshot-video-editor-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: Lastly, to download the converted files from DRmare Apple Music Converter, press the "Convert" button. You can find the converted files on your computer.
 
@@ -181,6 +195,13 @@ Step 3: Lastly, to download the converted files from DRmare Apple Music Converte
 
 ![apple music converted](https://images.wondershare.com/filmora/article-images/2021/import-music-to-inshot-video-editor-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4: To import the files to InShot, firstly connect your Android phone or iPhone to your computer using a USB cable. Then locate and transfer the converted music files to your phone.
 
 Step 5: At this point, launch the InShot app on your phone and create a new project. When the editing interface opens, move to the "Music" tab from the bottom.
@@ -279,9 +300,23 @@ Step 2: You can set the output audio format for the files. For this, move to the
 
 ![set apple music output](https://images.wondershare.com/filmora/article-images/2021/import-music-to-inshot-video-editor-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: Lastly, to download the converted files from DRmare Apple Music Converter, press the "Convert" button. You can find the converted files on your computer.
 
 ![apple music converted](https://images.wondershare.com/filmora/article-images/2021/import-music-to-inshot-video-editor-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: To import the files to InShot, firstly connect your Android phone or iPhone to your computer using a USB cable. Then locate and transfer the converted music files to your phone.
 
@@ -306,13 +341,6 @@ Step 2: From the main screen, you have to select the "Video" menu. Once that is 
 Step 3: Once you are on the editing interface, locate and then import the video that you want to edit and add a song.
 
 ![choose your video](https://images.wondershare.com/filmora/article-images/2021/import-music-to-inshot-video-editor-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4: Now, from the options at the bottom of the screen, move to the "Music" tab. Then click on the "Tracks" menu to select the song that you want to add to your video.
 
@@ -343,6 +371,13 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 02 [How to Import Music from Apple Music to InShot?](#part2)
 
@@ -375,10 +410,10 @@ Step 6: At this point, hit the "Track" button and move to the "My Music" section
 ![use spotify song in inshot](https://images.wondershare.com/filmora/article-images/2021/import-music-to-inshot-video-editor-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. How to Import Music from Apple Music to InShot?
@@ -398,13 +433,6 @@ Step 2: You can set the output audio format for the files. For this, move to the
 Step 3: Lastly, to download the converted files from DRmare Apple Music Converter, press the "Convert" button. You can find the converted files on your computer.
 
 ![apple music converted](https://images.wondershare.com/filmora/article-images/2021/import-music-to-inshot-video-editor-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4: To import the files to InShot, firstly connect your Android phone or iPhone to your computer using a USB cable. Then locate and transfer the converted music files to your phone.
 
@@ -439,10 +467,10 @@ Step 5: You can either use the music provided by the InShot application by selec
 ![choose your music](https://images.wondershare.com/filmora/article-images/2021/import-music-to-inshot-video-editor-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 6: Once you have selected your music, hit the "Use" button so that it is added to your video. Lastly, you can customize and adjust the song the way you like it.
@@ -450,13 +478,6 @@ Step 6: Once you have selected your music, hit the "Use" button so that it is ad
 ![insert music to your video](https://images.wondershare.com/filmora/article-images/2021/import-music-to-inshot-video-editor-13.jpg)
 
 Click here to learn [how to add transitions on Inshot](https://tools.techidaily.com/wondershare/filmora/download/).
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bottom Line
 
@@ -496,5 +517,17 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-easy-to-use-platforms-for-free-youtube-thumbnail-extracting/"><u>[New] 2024 Approved Easy-to-Use Platforms for Free YouTube Thumbnail Extracting</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-iphone-tips-bringing-out-the-best-with-hdr-photography/"><u>[New] 2024 Approved IPhone Tips Bringing Out the Best with HDR Photography</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-7-pro-tips-to-enhance-your-foodie-filmography-for-2024/"><u>[New] 7 Pro Tips to Enhance Your Foodie Filmography for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-unveiling-5-excellent-mac-livestream-software/"><u>[Updated] In 2024, Unveiling 5 Excellent Mac Livestream Software</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-reach-new-heights-in-video-content-with-dji-drones-for-2024/"><u>[Updated] Reach New Heights in Video Content with DJI Drones for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/discovering-superior-bot-talent-gpt-plus-or-perplexity/"><u>Discovering Superior Bot Talent: GPT Plus or Perplexity?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-boost-engagement-through-best-thumbnail-practices/"><u>In 2024, Boost Engagement Through Best Thumbnail Practices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-nokia-c12-plus-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Nokia C12 Plus Phone? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-effective-strategies-for-premiere-sound-transitioning/"><u>In 2024, Effective Strategies for Premiere Sound-Transitioning</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-glitch-video-editors-for-mobile-devices/"><u>New Best Glitch Video Editors for Mobile Devices</u></a></li>
+</ul></div>
 

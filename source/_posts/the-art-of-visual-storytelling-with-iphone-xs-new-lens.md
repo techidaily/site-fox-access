@@ -1,7 +1,7 @@
 ---
 title: "The Art of Visual Storytelling with iPhone X's New Lens"
-date: 2024-09-22T00:40:33.033Z
-updated: 2024-09-22T22:34:24.870Z
+date: 2024-10-03T16:06:09.472Z
+updated: 2024-10-09T19:03:34.651Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092c
 
 ![depth camera](https://images.wondershare.com/filmora/article-images/depth-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to use portrait mode
 
  Portrait mode uses your iPhone X’s telephoto lens kit to create images with “bokeh”-esque backgrounds and foregrounds. Portrait Lighting also comes as part of the Portrait Mode with the iPhone X, utilising both machine learning and the depth map of Portrait mode to add exceptional lighting effects to your photos in real time. When you shoot in Portrait mode, the wide-angle measures the difference between what it and the telephoto can see to offer a multi-point depth map. The depth map itself creates artificial depth of field.
@@ -66,20 +73,27 @@ thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092c
 
 ![portrait lighting](https://images.wondershare.com/filmora/article-images/PortraitLighting.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: Video improvement
 
  The iPhone X is also noted for its first-class video shooting capabilities, including its 4K video feature. Though previous iterations of the iPhone were already rather adept at shooting in 4K, the new devices are even more impressive and have been favourably compared to the GH5 in terms of quality and clarity. The new device has been complimented for its vibrant colour profile and its ability to deliver 4K video that matches a wide range of leading DSLR and mirrorless cameras. It’s possible to capture video in 240fps slo-mo at 1080p and 4K at 60fps.
 
 ![video improvement](https://images.wondershare.com/filmora/article-images/video-improvement.JPG)
 
-**You may also like:** [Best iPhone Stabilizers for Video Shooting >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**You may also like:** [Best iPhone Stabilizers for Video Shooting >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## Conclusion
 
@@ -90,10 +104,10 @@ thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092c
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -119,5 +133,20 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-building-a-following-with-captivating-instagram-reels/"><u>[New] 2024 Approved Building a Following with Captivating Instagram Reels</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-fresh-inspirations-for-streaming-topics/"><u>[New] 2024 Approved Fresh Inspirations for Streaming Topics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-snapchats-best-practices-for-image-and-video-zooming/"><u>[New] 2024 Approved Snapchat's Best Practices for Image and Video Zooming</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/etting-up-your-youtube-standings-from-beginner-to-beneficial-businesses-for-2024/"><u>[New] Setting Up Your YouTube Standings From Beginner to Beneficial Businesses for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-ultimate-selection-high-quality-zero-price-free-luts-for-2024/"><u>[New] The Ultimate Selection High Quality, Zero Price Free LUTs for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-dance-of-the-feathers-analyzing-parrots-flight-in-bebop-2-for-2024/"><u>[Updated] Dance of the Feathers Analyzing Parrot's Flight in Bebop 2 for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-a-step-by-step-guide-for-creating-channel-trailers-that-convert-viewers-into-customers/"><u>[Updated] In 2024, A Step-by-Step Guide for Creating Channel Trailers that Convert Viewers Into Customers</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-nokia-130-music-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-note-30i-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Note 30i to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/image-fusion-merging-photos-into-one-masterpiece/"><u>Image Fusion Merging Photos Into One Masterpiece</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-realme-gt-3-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Realme GT 3?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-the-best-places-to-explore-vector-artwork-at-no-cost/"><u>Unlock the Best Places to Explore Vector Artwork at No Cost</u></a></li>
+<li><a href="https://driver-install.techidaily.com/xbox-interface-smoothly-integrating-into-windows/"><u>Xbox Interface: Smoothly Integrating Into Windows</u></a></li>
+</ul></div>
 

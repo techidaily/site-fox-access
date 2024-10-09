@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Optimizing Audacity  A Guide to Premium Sound Capture\""
-date: 2024-09-17T22:26:01.564Z
-updated: 2024-09-22T18:04:40.717Z
+date: 2024-10-08T20:44:10.233Z
+updated: 2024-10-09T17:01:26.450Z
 tags: 
   - screen-recording
   - ai video
@@ -41,6 +41,19 @@ Step3To choose the kind of track you want, click "Tracks" at the top of the page
 
 Step4To begin the recording, simply click the "Record" button. As soon as you press record, an audio graph of your voice should start to display. Using the "Shift + R" hotkeys on your keyboard, you can add a new recording if you'd like to.
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Recording using Mac
 
 To record audio on your Mac, you might need to install Audacity and additional plugins. The best option is to use the Soundflower program, which enables you to send sound to other apps rather than your computer's speakers. Here's how to use Soundflower and Audacity to record audio on a Mac.
@@ -52,6 +65,13 @@ Step2The Soundflower app must then be set up. To achieve this, choose "Sounds" f
 Step3In the "Device" section of the Audacity preferences box, choose "Soundflower (2ch)". From the recording area, choose "Software playthrough." Click "OK" to save the options you've selected.
 
 Step4Launch audacity, then open the app whose audio you wish to record. To begin the recording, click the "Record" button.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Export your audio
 
@@ -99,12 +119,24 @@ Simply select the necessary file format from the drop-down box that appears next
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-a-deep-dive-prodigious-polarrs-editing-capabilities/"><u>[New] 2024 Approved A Deep Dive Prodigious Polarr's Editing Capabilities</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-beyond-the-buzz-a-ranked-guide-to-non-vimeo-edits/"><u>[New] In 2024, Beyond the Buzz A Ranked Guide to Non-Vimeo Edits</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-mastering-igtv-title-and-description-revision/"><u>[New] In 2024, Mastering IGTV Title & Description Revision</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-omni-angle-mounting-mechanisms/"><u>[New] In 2024, Omni-Angle Mounting Mechanisms</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-meme-masters-at-your-fingertips-app/"><u>[New] Meme Masters at Your Fingertips (App)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-understanding-hdr-techniques-in-modern-photoshoots/"><u>[New] Understanding HDR Techniques in Modern Photoshoots</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-cutting-edge-video-edits-without-spending-navigate-through-the-8-tools/"><u>[Updated] 2024 Approved Cutting-Edge Video Edits Without Spending Navigate Through The 8 Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-expert-recommendations-free-and-paid-hd-playback-for-pcmacos/"><u>2024 Approved Expert Recommendations Free & Paid HD Playback for PC/macOS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-ultimate-guide-to-effortless-zooming-on-snapchat/"><u>2024 Approved The Ultimate Guide to Effortless Zooming on Snapchat</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-6-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone 6 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mp4-movies-with-samsung-galaxy-a15-4g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Failed to play MP4 movies with Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-rescue-your-photos-contacts-and-more-after-an-iphone-factory-wipe/"><u>How To Rescue Your Photos, Contacts & More After An iPhone Factory Wipe 🔁</u></a></li>
+<li><a href="https://fox-access.techidaily.com/how-to-rewind-a-twitch-live-stream/"><u>How to Rewind A Twitch Live Stream</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-itel-a60s-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Itel A60s to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-enhancing-video-conferencing-with-zoom-and-chromebook/"><u>In 2024, Enhancing Video Conferencing with Zoom and Chromebook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-understanding-transient-suppression-via-audacity/"><u>In 2024, Understanding Transient Suppression via Audacity</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+</ul></div>
 

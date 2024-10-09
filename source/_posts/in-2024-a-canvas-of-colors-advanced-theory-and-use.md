@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, A Canvas of Colors  Advanced Theory & Use\""
-date: 2024-10-03T12:35:55.940Z
-updated: 2024-10-04T04:37:03.577Z
+date: 2024-10-05T21:54:08.581Z
+updated: 2024-10-09T17:40:02.860Z
 tags: 
   - screen-recording
   - ai video
@@ -34,10 +34,10 @@ Color theory consists of many elements that could fill a library on its own but 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Color Wheel
@@ -47,19 +47,19 @@ Using red, green and blue as primary colors we can mix the colors to one another
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Color Harmony
@@ -91,10 +91,10 @@ As you can see from this example the base color for the scene is a dark blue/pur
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -131,18 +131,19 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-the-beat-is-in-your-hands-for-free/"><u>[New] 2024 Approved The Beat Is in Your Hands for Free</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-discover-the-ultimate-path-to-boundless-space-with-20-no-cost-services-for-2024/"><u>[New] Discover The Ultimate Path to Boundless Space with 20 No-Cost Services for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-beat-cutting-editing-music-videos-on-ios/"><u>[Updated] Beat Cutting Editing Music Videos on iOS</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-instagram-stories-mastering-the-art-of-time-manipulation/"><u>[Updated] In 2024, Instagram Stories – Mastering the Art of Time Manipulation</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-immutable-tiktok-hyperlink-process-for-profiles/"><u>2024 Approved Immutable TikTok Hyperlink Process for Profiles</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-real-world-applications-of-magix-video-pro-x/"><u>2024 Approved Real-World Applications of Magix Video Pro X</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-in-schools-8-persuasive-arguments-why-teachers-should-choose-adaptation-over-apprehension/"><u>AI in Schools: 8 Persuasive Arguments Why Teachers Should Choose Adaptation Over Apprehension</u></a></li>
-<li><a href="https://fox-access.techidaily.com/decoding-the-m1-max-clip-functionality/"><u>Decoding the M1 Max Clip Functionality</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-do-ipads-distinguish-themselves-from-other-tablets/"><u>How Do iPads Distinguish Themselves From Other Tablets?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-pros-and-cons-of-cyberpunk-2077s-launch-version/"><u>In-Depth Look at the Pros & Cons of Cyberpunk 2077'S Launch Version</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-screen-recording-made-easy-a-step-by-step-guide-to-using-filmora-scrn/"><u>New 2024 Approved Screen Recording Made Easy A Step-by-Step Guide to Using Filmora Scrn</u></a></li>
-<li><a href="https://facebook.techidaily.com/tailored-data-protection-exploring-new-features-in-facebooks-privacy-hub/"><u>Tailored Data Protection: Exploring New Features in Facebook's Privacy Hub</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-composers-handbook-to-instagram-and-music-rights-for-2024/"><u>The Composer's Handbook to Instagram and Music Rights for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-fixing-half-muted-content-on-twitter-live-streams/"><u>[New] 2024 Approved Fixing Half-Muted Content on Twitter Live Streams</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-smile-spark-planner/"><u>[New] 2024 Approved Smile Spark Planner</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-augment-your-cams-with-top-accessory-picks/"><u>[New] Augment Your Cams with Top Accessory Picks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-how-to-utilize-obs-studio-android-solutions/"><u>[New] In 2024, How to Utilize OBS Studio Android Solutions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-securing-the-title-top-5-hmds-for-drone-pilots/"><u>[New] In 2024, Securing the Title Top 5 HMDs for Drone Pilots</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-best-video-titling-solutions-online-now-for-2024/"><u>[Updated] Best Video Titling Solutions Online Now for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-unveiling-the-apple-m1-a-computing-revolution/"><u>[Updated] In 2024, Unveiling the Apple M1 A Computing Revolution?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unmatched-fast-picture-viewer-experience-for-2024/"><u>[Updated] Unmatched Fast Picture Viewer Experience for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-reel-effect-creating-compelling-loops-on-ig/"><u>2024 Approved The Reel Effect Creating Compelling Loops on IG</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/from-capture-to-share-streamlining-logitech-webcam-recordings-for-2024/"><u>From Capture to Share Streamlining Logitech Webcam Recordings for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/hilarious-threads-the-tweeter-treasury-for-2024/"><u>Hilarious Threads The Tweeter Treasury for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-12-pro-max-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 12 Pro Max Prevention & Solution</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-transformative-audio-techniques-for-media-professionals/"><u>In 2024, Transformative Audio Techniques for Media Professionals</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/securely-save-your-favorite-facebook-films-on-chrome-for-2024/"><u>Securely Save Your Favorite Facebook Films on Chrome for 2024</u></a></li>
 </ul></div>
 

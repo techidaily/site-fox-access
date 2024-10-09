@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Apple Vs. Android  The Face ID and Galaxy Recognition Race for 2024\""
-date: 2024-09-19T16:07:57.286Z
-updated: 2024-09-22T16:24:21.650Z
+date: 2024-10-02T21:01:46.978Z
+updated: 2024-10-09T19:35:45.164Z
 tags: 
   - screen-recording
   - ai video
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 
 ![Samsung](https://images.wondershare.com/filmora/article-images/Samsung-Galaxy-S8-Face-Unlock.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Which one is more Accuracy?
 
  Being accurate is a considerable issue with face recognition technology if you are using a Samsung device. On the other hand, iPhone X shows accuracy than Samsung since it analyzes the whole face instead of iris. For Samsung’s iris scanner, the camera contains a confined and narrowly designed focus where is exactly your iris needed to be for scanning. The camera will able to recognize only when your iris will be in that same place for long where it focuses. And therefore, there are times when you left with holding your device high for better iris detection. Apple has no such accuracy issue for it takes your face to recognize.
@@ -71,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 ![face ID incovenience](https://images.wondershare.com/filmora/article-images/face-incovenience.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: Safety Issue
@@ -87,22 +94,35 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 
 ![face ID issue](https://images.wondershare.com/filmora/article-images/face-id-issue.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the other hand, Samsung also doesn’t lag behind when it comes to safety and security with face recognition feature. Samsung is the first Android device company to introduce face recognition technology that brought iris scanning technology with its Galaxy Note 7\. The technology does it job by detecting the iris’ pattern of your eyes. As far as security is concerned, the technology gets 10 on 10 since each person possesses unique iris pattern and it becomes difficult to replicate. The devices by Samsung having face recognition technology are designed with infrared diode which is capable
 
  All in all, both the companies have put extra effort in justifying the safety with trending face recognition technology. However, we are not certain for full reliability of them.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
  The technology of facial recognition isn’t new to us and it has made people excited from the time it has come. However, many users have not started using the technology yet. We hope that this functionality will gain the popularity with time and people will start to make use of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -127,5 +147,20 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-zoom-video-refinement-best-three-enhancement-steps/"><u>[New] 2024 Approved Zoom Video Refinement Best Three Enhancement Steps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-essentials-for-embracing-quantum-hdr/"><u>[New] Essentials for Embracing Quantum HDR</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-zero-to-hero-boosting-youtube-view-count-quickly/"><u>[New] In 2024, From Zero to Hero Boosting YouTube View Count Quickly</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-digital-subtitling-simplified-best-online-tools-of-the-decade/"><u>[Updated] Digital Subtitling Simplified Best Online Tools of the Decade</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-experts-picks-the-best-10-photography-lenses/"><u>[Updated] Expert's Picks The Best 10 Photography Lenses</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-writers-journey-through-podcast-production/"><u>[Updated] In 2024, The Writer's Journey Through Podcast Production</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-quick-file-formatting-magic-turning-srt-into-txt-in-minutes/"><u>[Updated] Quick File Formatting Magic Turning SRT Into TXT in Minutes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-10-stress-relieving-games-for-2024/"><u>[Updated] Top 10 Stress Relieving Games for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-nokia-105-classic-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Nokia 105 Classic Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-v27e-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo V27e to New Android? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-15-pro-max-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 15 Pro Max Lock Screen with Notifications?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/premium-ddr5-8600-ram-by-gskill-optimized-for-intel-raptor-lake-cpu-upgrades/"><u>Premium DDR5-8600 RAM by G.SKILL: Optimized for Intel Raptor Lake CPU Upgrades</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-relationships-how-chatgpt-can-upgrade-your-love-life/"><u>Revolutionizing Relationships: How ChatGPT Can Upgrade Your Love Life</u></a></li>
+</ul></div>
 

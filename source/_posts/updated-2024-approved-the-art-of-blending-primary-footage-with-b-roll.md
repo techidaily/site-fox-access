@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  The Art of Blending Primary Footage with B Roll\""
-date: 2024-10-03T13:54:30.243Z
-updated: 2024-10-04T08:00:48.118Z
+date: 2024-10-06T20:01:23.406Z
+updated: 2024-10-09T17:20:16.786Z
 tags: 
   - screen-recording
   - ai video
@@ -49,42 +49,48 @@ On the other hand, cutaways can show how different people react to what is being
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Visual detail b roll footage
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Atmospheric b roll footage
 
@@ -93,10 +99,10 @@ When you are sharing a narrative that has been told in the past or that has hist
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Pick-up shots
@@ -143,21 +149,19 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-step-by-step-periscope-utilization-complete-manual/"><u>[New] 2024 Approved Step-by-Step Periscope Utilization Complete Manual</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-spectacular-4k-tvs-nine-picks-for-exceptional-color-fidelity/"><u>[New] In 2024, Spectacular 4K TVs Nine Picks for Exceptional Color Fidelity</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-navigating-multimedia-in-educational-practice-for-2024/"><u>[New] Navigating Multimedia in Educational Practice for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-enhancing-focus-advanced-techniques-for-videoleap-zooming/"><u>[Updated] 2024 Approved Enhancing Focus Advanced Techniques for VideoLeap Zooming</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-achieving-professional-hdr-images-with-adobe-ps-for-2024/"><u>[Updated] Achieving Professional HDR Images with Adobe PS for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-explore-10-premier-historical-youtube-networks-for-2024/"><u>[Updated] Explore 10 Premier Historical Youtube Networks for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-mp4twitconversion-quick-conversion/"><u>[Updated] In 2024, MP4TwitConversion Quick Conversion</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-pro-tips-for-iphone-burst-photo-sequences/"><u>[Updated] In 2024, Pro Tips for iPhone Burst Photo Sequences</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-perfecting-playback-apply-filters-to-video-content/"><u>2024 Approved Perfecting Playback Apply Filters to Video Content</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/clever-con-cons-with-ai-assistance-the-top-7-tricks-used-in-romance-schemes/"><u>Clever Con Cons with AI Assistance: The Top 7 Tricks Used in Romance Schemes</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-clearer-crisper-youtube-videos-with-quality-tools/"><u>Craft Clearer, Crisper YouTube Videos with Quality Tools</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/csgo-gaming-sessions-captured-step-by-step-guide-to-perfect-game-recordings/"><u>CS:GO Gaming Sessions Captured - Step-by-Step Guide to Perfect Game Recordings</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/elevating-your-podcast-remote-recording-done-right/"><u>Elevating Your Podcast Remote Recording Done Right</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/empower-your-online-analytics-using-cookiebot-technology/"><u>Empower Your Online Analytics Using Cookiebot Technology</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-time-saving-tricks-for-powerpoint-projections/"><u>In 2024, Time-Saving Tricks for PowerPoint Projections</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/mastering-ios-device-care-essential-tips-for-iphone-maintenance-seamless-ipad-transitions-and-reliable-ipod-backups/"><u>Mastering iOS Device Care: Essential Tips for iPhone Maintenance, Seamless iPad Transitions, and Reliable iPod Backups</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-unveiling-the-hidden-secrets-of-facetime-voice-capturing-for-2024/"><u>[New] Unveiling the Hidden Secrets of FaceTime Voice Capturing for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-ultimate-guide-to-excellent-cricket-broadcasting/"><u>[Updated] 2024 Approved The Ultimate Guide to Excellent Cricket Broadcasting</u></a></li>
+<li><a href="https://fox-access.techidaily.com/digital-gallery-music-meets-images/"><u>Digital Gallery Music Meets Images</u></a></li>
+<li><a href="https://fox-access.techidaily.com/empower-your-imagery-free-lut-techniques-for-ar/"><u>Empower Your Imagery Free LUT Techniques for AR</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/enhance-your-engagement-on-youtube-a-guide-to-using-text-effects-in-comments-strikethrough-bold-and-italic/"><u>Enhance Your Engagement on YouTube: A Guide to Using Text Effects in Comments (Strikethrough, Bold & Italic)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/excellence-in-auditory-theatre-writing-for-2024/"><u>Excellence in Auditory Theatre Writing for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/expert-techniques-for-deciphering-meaning-in-youtube-snippets/"><u>Expert Techniques for Deciphering Meaning in YouTube Snippets</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-recommended-steadicams-for-professional-dslr-work-for-2024/"><u>Expert-Recommended Steadicams for Professional DSLR Work for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/expertise-in-spotify-advertising-a-playbook-guide/"><u>Expertise in Spotify Advertising A Playbook Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-10-key-steps-for-basic-photo-color-correction/"><u>In 2024, 10 Key Steps for Basic Photo Color Correction</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-close-up-confidence-navigating-google-meets-zoom-feature/"><u>In 2024, Close-Up Confidence Navigating Google Meet's Zoom Feature</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mastering-content-structure-elevated-templates-for-yt/"><u>Mastering Content Structure Elevated Templates for YT</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-quicktime-video-editing-made-easy-top-10-free-tools/"><u>Updated QuickTime Video Editing Made Easy Top 10 Free Tools</u></a></li>
 </ul></div>
 

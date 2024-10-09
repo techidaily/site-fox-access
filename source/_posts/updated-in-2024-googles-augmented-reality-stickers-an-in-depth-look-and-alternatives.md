@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Google's Augmented Reality Stickers  An In-Depth Look and Alternatives\""
-date: 2024-09-30T23:48:59.088Z
-updated: 2024-10-04T00:21:37.469Z
+date: 2024-10-02T20:03:16.683Z
+updated: 2024-10-09T21:03:58.972Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,13 @@ Think of stickers that you can put on images or videos. However, these stickers 
 
 You can look at Pokemon Go to understand it better. The game allows you to "place" your Pokemon in the real world and take photos of them. Google AR stickers are like that, except the stickers are not strictly only Pokemon. There are letters, food, Stranger Things characters, and more!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## History of Google AR Sticker
 
 Back in 2017, virtual reality and augmented reality received an increase in interest. While these technologies weren't really new, it was at this time that they became common. Apps like Snapchat included AR stickers that allowed users to take photos and videos with their favorite fictional characters and such. Google hopped on the trend by incorporating AR stickers into its smartphone, Pixel 2.
@@ -42,6 +49,13 @@ Back in 2017, virtual reality and augmented reality received an increase in inte
 The thing is that it did not last long. Ever since Google launched its Pixel 4a in 2020, they no longer provided AR stickers. The camera of the new devices is not compatible with AR stickers, Playground, and Playmoji. And that's the end of Google AR Stickers.
 
 Owners of older Pixel models should not worry since the devices' hardware isn't changed. Thus, they will continue to support Playground, the app needed to use Google AR Stickers.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How To Use Google Playground AR Stickers on Pixel 4 and Earlier
 
@@ -64,6 +78,13 @@ Step6 Touch and hold, and drag the AR sticker where you want it to be on the pho
 ![dragging star wars sticker to camera screen](https://images.wondershare.com/filmora/article-images/google-ar-stickers-6.jpg)
 
 Step7 Tap "Capture" to take a photo. If in video mode, touch and hold "Capture" instead.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Filmora AR Camera – Great Alternative to Google AR Stickers
 
@@ -94,10 +115,16 @@ Step2 Tap the "Camera" button on the right panel.
 ![ar camera option on filmora iphone](https://images.wondershare.com/filmorago/article-image/camera-icon-on-filmorago.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3 Tap the "Frame" icon at the top right to adjust the video ratio. It's also how you switch between the front and rear cameras.
@@ -126,28 +153,15 @@ Step2 Tap "Canvas" to adjust the video ratio size so it would be perfect for Tik
 
 ![canvas button on filmora for iphone](https://images.wondershare.com/filmorago/article-image/canvas-setting-for-video-on-filmorago.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Tap "Filters" to add more magic to the video.
 
 ![adding filters on filmora for iphone](https://images.wondershare.com/filmorago/article-image/tap-filter-button-for-ar-video-on-filmorago.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step4 Suppose there is more than one video clip, and you're combining them. Tap the junction between them to add transition effects so that the switch would not look too abrupt or to make the video cooler.
@@ -182,13 +196,6 @@ AR Apps can be dangerous, but not all of them are. Keep in mind that AR apps can
 
 Vendors can also add malware or other things to the apps. So it's necessary that you always stay vigilant. As much as possible, download AR apps from vendors with a good reputation. That's how you ensure the app is not doing something nasty behind your back.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Google AR Stickers are great for enhancing your photos and videos. Too bad it's no longer available on newer Pixel devices. Luckily, other apps are available on the market, and they're available on more platforms. For example, Wondershare Filmora for Mobile has an AR Camera feature. It lets you add AR stickers to your photos and videos, then combine and edit them. The selection of AR effects is also wide. So, you can have loads of fun creating content using Filmora for Mobile.
@@ -196,19 +203,6 @@ Google AR Stickers are great for enhancing your photos and videos. Too bad it's 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 Are you an Android or iPhone user? Filmora AR Camera is also available on these platforms. So you can join in on the fun!
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Filmora AR Camera Features
 
@@ -220,13 +214,6 @@ The best thing about Filmora AR Camera is it lets you record multiple videos wit
 
 Here's a tutorial on how to record an AR video & how to edit an AR selfie video on iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### To Record an AR Video
 
 Step1 Install Filmora for Mobile from the App store.
@@ -235,20 +222,27 @@ Step2 Tap the "Camera" button on the right panel.
 
 ![ar camera option on filmora iphone](https://images.wondershare.com/filmorago/article-image/camera-icon-on-filmorago.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Tap the "Frame" icon at the top right to adjust the video ratio. It's also how you switch between the front and rear cameras.
 
 ![changing canvas size on filmora](https://images.wondershare.com/filmorago/article-image/frame-icon-on-filmorago-camera.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 Select "Props" from the options at the bottom of the screen. Select the AR effect that you want to use.
 
 ![using an ar sticker on filmora](https://images.wondershare.com/filmorago/article-image/props-icon-on-filmorago-camera.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5 Tap the purple circle button at the bottom center of the screen to start recording a video.
 
@@ -268,13 +262,6 @@ Step2 Tap "Canvas" to adjust the video ratio size so it would be perfect for Tik
 
 ![canvas button on filmora for iphone](https://images.wondershare.com/filmorago/article-image/canvas-setting-for-video-on-filmorago.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Tap "Filters" to add more magic to the video.
 
 ![adding filters on filmora for iphone](https://images.wondershare.com/filmorago/article-image/tap-filter-button-for-ar-video-on-filmorago.jpg)
@@ -286,6 +273,13 @@ Step4 Suppose there is more than one video clip, and you're combining them. Tap 
 Step5 Preview the video. If you're already satisfied, tap "EXPORT" to save and share.
 
 ![previewing or exporting ar video](https://images.wondershare.com/filmorago/article-image/preview-ar-video-and-export-it.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## People Also Ask
 
@@ -339,22 +333,20 @@ Google AR Stickers are great for enhancing your photos and videos. Too bad it's 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-capture-heights-with-dji-spark-the-small-drone-selfie-powerhouse/"><u>[New] 2024 Approved Capture Heights with DJI Spark The Small Drone Selfie Powerhouse</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-ultimate-comic-strip-editor/"><u>[New] 2024 Approved Ultimate Comic Strip Editor</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-voice-recording-access-review-and-evaluate/"><u>[New] 2024 Approved Voice Recording Access, Review & Evaluate</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-unlocking-potential-advanced-techniques-for-slug-line-creation/"><u>[New] In 2024, Unlocking Potential Advanced Techniques for Slug Line Creation</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-crafting-contrast-and-depth-in-hdr-portraits/"><u>[Updated] 2024 Approved Crafting Contrast and Depth in HDR Portraits</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-elevate-console-experience-with-personalized-audio-settings/"><u>[Updated] 2024 Approved Elevate Console Experience with Personalized Audio Settings</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-best-in-class-slideshow-maker-xi-to-x-series-iphones-for-2024/"><u>[Updated] Best-in-Class Slideshow Maker XI to X Series iPhones for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-preserving-past-a-guide-to-digitally-archiving-faded-prints/"><u>[Updated] Preserving Past A Guide to Digitally Archiving Faded Prints</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-diaspora-user-visualization-measurements-format-length/"><u>2024 Approved Diaspora User Visualization Measurements, Format, Length</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-free-and-paid-drawing-tools-for-windows-enthusiasts/"><u>2024 Approved Free and Paid Drawing Tools for Windows Enthusiasts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-complete-breakdown-of-biometrics-concepts-and-uses-unveiled/"><u>A Complete Breakdown of Biometrics: Concepts and Uses Unveiled</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/efficient-methods-for-converting-avi-files-to-the-compact-3gp-format/"><u>Efficient Methods for Converting AVI Files to the Compact 3GP Format</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-realme-narzo-n53-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Realme Narzo N53? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-professional-zoom-settings-guide-for-google-meet/"><u>In 2024, Professional Zoom Settings Guide for Google Meet</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-file-migration-pc-to-iphone-setup/"><u>Navigating File Migration PC-to-iPhone Setup</u></a></li>
-<li><a href="https://facebook.techidaily.com/satire-scrutiny-in-social-networks-policies/"><u>Satire Scrutiny in Social Network's Policies</u></a></li>
-<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-honor-x9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-premier-12-video-capture-goes-on-forever/"><u>[New] In 2024, Premier 12 Video Capture - Goes On Forever</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-10-best-classic-family-vacation-movie-for-summer/"><u>2024 Approved 10 Best Classic Family Vacation Movie for Summer</u></a></li>
+<li><a href="https://fox-access.techidaily.com/a-comprehensive-guide-to-bringing-vividness-to-your-videos-sdr-hdr-conversion/"><u>A Comprehensive Guide to Bringing Vividness to Your Videos SDR-HDR Conversion</u></a></li>
+<li><a href="https://fox-access.techidaily.com/advanced-tips-for-applying-onscreen-vhs-effects-and-filters-for-2024/"><u>Advanced Tips for Applying Onscreen VHS Effects and Filters for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/androids-premier-8-apps-harmonizing-free-and-paid-videomosaic-experience/"><u>Android's Premier 8 Apps Harmonizing Free & Paid Videomosaic Experience</u></a></li>
+<li><a href="https://fox-access.techidaily.com/animated-text-tips-free-inclusion-techniques/"><u>Animated Text Tips Free Inclusion Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/best-camcorders-for-deer-stalking-success-for-2024/"><u>Best Camcorders for Deer Stalking Success for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/cutting-edge-online-resources-for-glittering-3d-typography/"><u>Cutting-Edge Online Resources for Glittering 3D Typography</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/deciphering-the-enigma-a-look-at-the-balancing-act-between-cost-and-character-in-the-microsoft-surface-go/"><u>Deciphering the Enigma: A Look at the Balancing Act Between Cost and Character in the Microsoft Surface Go</u></a></li>
+<li><a href="https://win-forum.techidaily.com/digital-connections-unleashed-leveraging-facebook-twitter-instagram-and-youtube/"><u>Digital Connections Unleashed: Leveraging Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-samsung-galaxy-s23-tactical-edition-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Samsung Galaxy S23 Tactical Edition Phone Screen?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-poco-f5-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Poco F5 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-new-horizons-windows-11s-latest-advances/"><u>In 2024, New Horizons Windows 11'S Latest Advances</u></a></li>
+<li><a href="https://games-able.techidaily.com/melodic-matchmaker-find-your-musical-gems-on-mobile/"><u>Melodic Matchmaker: Find Your Musical Gems on Mobile</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-path-to-precision-audio-starting-with-an-adobe-auditions-fade-in-for-2024/"><u>The Path to Precision Audio Starting with an Adobe Audition's Fade In for 2024</u></a></li>
 </ul></div>
 
