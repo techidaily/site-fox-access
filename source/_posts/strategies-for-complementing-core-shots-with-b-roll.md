@@ -1,7 +1,7 @@
 ---
 title: "\"Strategies for Complementing Core Shots with B-Roll\""
-date: 2024-10-02T16:31:02.656Z
-updated: 2024-10-09T19:18:30.043Z
+date: 2024-10-11T16:10:27.032Z
+updated: 2024-10-16T02:56:44.134Z
 tags: 
   - screen-recording
   - ai video
@@ -37,13 +37,6 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Methods to use b roll
 
 Now that there are so many stock footage platforms, you have a lot of choices when you need just the right scene for your project. Most of the time, filmmakers don't use B roll footage. One good way to use it is to use it as a way to move from one scene to the next. It can also be used to set the mood for an event or show what time of day it is when filming.
@@ -53,15 +46,22 @@ The ideal way to use B roll is to put it behind interviews. This kind of footage
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. What types of b roll are there?
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Archival b roll footage
 
@@ -74,6 +74,13 @@ Including archival material in your video allows your audience to experience a p
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Undirected b roll footage
 
@@ -91,22 +98,15 @@ A pick-up is a tiny shot added to previously captured material. Re-shoots involv
 
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -143,22 +143,17 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-best-memes-with-a-humor-shaper/"><u>[New] 2024 Approved Best Memes with a Humor Shaper</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-mastering-instagrams-peak-moments-a-how-to-guide/"><u>[New] 2024 Approved Mastering Instagram's Peak Moments A How-To Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-audience-management-strategies-for-periscope-for-2024/"><u>[New] Audience Management Strategies for Periscope for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-video-editing-virtuosity-mastering-the-fade-inout/"><u>[New] In 2024, Video Editing Virtuosity Mastering the Fade-In/Out</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-swift-video-transformation-with-top-8-apps-for-2024/"><u>[New] Swift Video Transformation with Top 8 Apps for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-art-of-using-b-roll-to-complement-visuals-effectively/"><u>[New] The Art of Using B-Roll to Complement Visuals Effectively</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-how-to-edit-titles-and-descriptions-of-igtv-videos-in-2024/"><u>[Updated] How to Edit Titles and Descriptions of IGTV Videos, In 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-innovative-approaches-in-micro-cinematography/"><u>[Updated] In 2024, Innovative Approaches in Micro Cinematography</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-inside-virtual-worlds-todays-insights-and-tomorrows-trials/"><u>[Updated] Inside Virtual Worlds Today's Insights & Tomorrow's Trials</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-tint-tuning-toolkit/"><u>[Updated] Tint Tuning Toolkit</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-itel-s23-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Itel S23 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-google-pixel-7a-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Google Pixel 7a Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-x5-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco X5 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-apple-iphone-14-pro-max-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your Apple iPhone 14 Pro Max has bad ESN or blacklisted IMEI?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-test-chatgpt-vs-innovative-ai-claude/"><u>The Ultimate Test: ChatGPT Vs. Innovative AI Claude</u></a></li>
-<li><a href="https://fox-access.techidaily.com/top-20-free-public-domain-pubg-screenshot-slideshows-for-2024/"><u>Top 20 Free Public Domain PUBG Screenshot Slideshows for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unified-media-playback-on-youtube-flv-files-tutorial-for-2024/"><u>Unified Media Playback on YouTube FLV Files Tutorial for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-advanced-strategies-for-removing-background-in-figma/"><u>[New] 2024 Approved Advanced Strategies for Removing Background in Figma</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-discover-the-best-10-top-video-translation-platforms-for-multilingual-professionals/"><u>[New] 2024 Approved Discover the Best 10 Top Video Translation Platforms for Multilingual Professionals</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cutting-edge-techniques-for-youtube-video-production-with-sony-vegas-for-2024/"><u>[New] Cutting-Edge Techniques for YouTube Video Production with Sony Vegas for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-radiance-hdr-examined-value-or-not-for-2024/"><u>[New] Radiance HDR Examined Value or Not for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-optimal-performance-desktops-today/"><u>[Updated] 2024 Approved Optimal Performance Desktops Today</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-master-the-meter-elevate-your-instagram-metrics-by-1kmnth/"><u>[Updated] Master the Meter Elevate Your Instagram Metrics by 1K/Mnth</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-of-the-affordable-and-speedy-tp-link-archer-c80-router/"><u>Comprehensive Analysis of the Affordable and Speedy TP-Link Archer C80 Router</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-nord-ce-3-lite-5gs-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Nord CE 3 Lite 5G’s lock screen pattern, PIN or password</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-chromatic-creativity-techniques-for-film-colorists/"><u>In 2024, Chromatic Creativity Techniques for Film Colorists</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Oppo K11x? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-video-production-with-powerdirector-24/"><u>In 2024, Mastering Video Production with PowerDirector '24</u></a></li>
+<li><a href="https://fox-access.techidaily.com/minimalist-approach-to-podcast-livestream-for-2024/"><u>Minimalist Approach to Podcast Livestream for 2024</u></a></li>
 </ul></div>
 

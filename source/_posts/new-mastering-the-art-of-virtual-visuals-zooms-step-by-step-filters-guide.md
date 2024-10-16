@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering the Art of Virtual Visuals  Zoom's Step-By Step Filters Guide\""
-date: 2024-10-02T16:11:16.279Z
-updated: 2024-10-09T18:35:26.154Z
+date: 2024-10-14T17:41:26.328Z
+updated: 2024-10-16T05:14:41.725Z
 tags: 
   - screen-recording
   - ai video
@@ -67,39 +67,26 @@ Step3A pop-up menu will appear and tap on Background and Filters option.
 
 ![background and filters zoom mobile](https://images.wondershare.com/filmora/article-images/2022/08/background-and-filters-zoom-mobile.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4Tap on Filters tab and select a desired filter from the available filters.
 
 ![select desired filter zoom mobile](https://images.wondershare.com/filmora/article-images/2022/08/select-desired-filter-zoom-mobile.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step5The last filter you tap on will be applied to your video. Finally, tap on “X” icon to close the filters overlay window.
 
 ![apply filter zoom and close](https://images.wondershare.com/filmora/article-images/2022/08/apply-filter-zoom-and-close.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Extra Info: How to Add Filters to Videos with Filmora
@@ -114,9 +101,29 @@ Step2Launch Filmora and click on New Project option on the welcome screen.
 
 ![launch filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3Drag and drop the video that you want to edit into Project Media folder and thereafter, on the Timeline.
 
 ![project media folder](https://images.wondershare.com/filmora/guide/filters-1.png)
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4Click on Effects at the top of the application screen and from the left panel, go to Filters option.
 
@@ -129,13 +136,6 @@ Step5Drag and drop the desired filter on the Timeline to apply to your video. Yo
 You can also use multiple video filters of different durations for one video clip. You can even customize the video filter by clicking on the applied filter.
 
 Step6Once you are satisfied with the editing, click on Export to save the edited video in desired file format.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### The Bottom Line
 
@@ -171,14 +171,16 @@ You must have heard that Zoom lets you use a virtual background to make your vid
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-mastering-video-spin-vlcs-rotation-guide/"><u>[New] 2024 Approved Mastering Video Spin VLC's Rotation Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-winning-software-to-capture-your-display-on-windows-10/"><u>[New] 2024 Approved Winning Software to Capture Your Display on Windows 10</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-top-business-cloud-data-warehouse-for-2024/"><u>[New] Top Business Cloud Data Warehouse for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-how-to-change-photo-color-like-a-pro-in-2024/"><u>[Updated] How to Change Photo Color Like A Pro, In 2024</u></a></li>
-<li><a href="https://discover-community.techidaily.com/gratuit-online-omzwerken-van-m4a-naar-ogg-movavi/"><u>Gratuit Online Omzwerken Van M4A Naar OGG - Movavi</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/oneplus-8t-evaluation-revealed-brilliant-velocity-meets-disappointing-image-capture-features/"><u>OnePlus 8T Evaluation Revealed - Brilliant Velocity Meets Disappointing Image Capture Features</u></a></li>
-<li><a href="https://fox-access.techidaily.com/quick-fix-tweeter-conversion-for-social-sharing/"><u>Quick-Fix Tweeter Conversion for Social Sharing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/where-to-download-christian-ringtones-and-how-to-customize-a-christian-ringtone/"><u>Where To Download Christian Ringtones And How To Customize A Christian Ringtone?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-kickstart-a-successful-charity-contest-via-social-media/"><u>[New] In 2024, Kickstart a Successful Charity Contest via Social Media</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-top-5-screen-recorder-for-chromebook-free-extensions/"><u>[New] Top 5 Screen Recorder for Chromebook Free Extensions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-mixed-reality-a-comprehensive-insight/"><u>[New] Unveiling Mixed Reality A Comprehensive Insight</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-exploring-magix-vpxs-innovative-editing-capabilities/"><u>[Updated] 2024 Approved Exploring Magix VPX's Innovative Editing Capabilities</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-virtual-artisans-haven-retreat/"><u>[Updated] 2024 Approved Virtual Artisans' Haven Retreat</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-vocal-volumes-the-most-emotional-songs-for-engagement/"><u>[Updated] 2024 Approved Vocal Volumes The Most Emotional Songs for Engagement</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-flavorful-filmmaking-top-7-strategies-for-culinary-videos/"><u>[Updated] In 2024, Flavorful Filmmaking Top 7 Strategies for Culinary Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-ultimate-video-playback-device-pcmobile-focus-for-2024/"><u>[Updated] Ultimate Video Playback Device - PC/Mobile Focus for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-flight-to-imagery-a-review-of-dji-sparks-miniature-drone-innovation/"><u>In 2024, Flight to Imagery A Review of DJI Spark's Miniature Drone Innovation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-to-facebook-in-a-flash-easy-connection-methods/"><u>In 2024, Instagram to Facebook in a Flash Easy Connection Methods</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
 

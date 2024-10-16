@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Synthesizing Sound and Slides  Incorporating Melodies in PPT\""
-date: 2024-09-16T22:51:00.629Z
-updated: 2024-09-17T20:03:42.863Z
+date: 2024-10-08T20:26:12.955Z
+updated: 2024-10-16T01:38:57.205Z
 tags: 
   - screen-recording
   - ai video
@@ -71,11 +71,25 @@ Consequently, the audio file gets embedded in your presentation.
 
 ![ppt audio options](https://images.wondershare.com/filmora/article-images/2022/02/ppt-audio-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After the music embeds in your presentation, anyone who opens the presentation can access and play the music inside PowerPoint.
 
 Your song will play within the Click Sequence of your presentation by default.
 
 After inserting music into your presentation, you can then convert your entire presentation into a video and share it with your colleagues.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2 Can I play music automatically on PowerPoint
 
@@ -96,10 +110,10 @@ Click From Beginning to test the sound over the Slide Show tab.
 Reminder: It would help if you keep your computer equipped with speakers or sound cards to hear sounds or music.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3 Get music to play throughout a PowerPoint
@@ -190,303 +204,19 @@ So, the solution is that you need to compress your file size accordingly.
 
 ![add music to ppt 1](https://images.wondershare.com/filmora/article-images/2022/02/add-music-to-ppt-1.jpg)
 
-### Steps on how to insert music in PowerPoint presentation
-
-##### Step1 Navigate to your Title slide (or wherever you want your music to start)
-
-##### Step2 Click the Insert tab
-
-##### Step3 Open the Audio drop-down (in the Media group)
-
-##### Step4 Select Audio on My PC
-
-##### Step5 Visit the folder on your computer
-
-##### Step6 Select the Audio file
-
-##### Step7 Hit the Insert tab
-
-Consequently, the audio file gets embedded in your presentation.
-
-![ppt audio options](https://images.wondershare.com/filmora/article-images/2022/02/ppt-audio-options.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-After the music embeds in your presentation, anyone who opens the presentation can access and play the music inside PowerPoint.
-
-Your song will play within the Click Sequence of your presentation by default.
-
-After inserting music into your presentation, you can then convert your entire presentation into a video and share it with your colleagues.
-
-## Part 2 Can I play music automatically on PowerPoint
-
-Yes, you can start the audio in the click sequence or immediately.
-
-<di
-
-##### Step1Click the audio icon on the slide in the Normal view while you edit the slides
-
-##### Step2 Choose Automatically or In Click Sequence in the Start list within the Audio Options of Audio Tools Playback tab
-
-![play automatic ppt](https://images.wondershare.com/filmora/article-images/2022/02/play-automatic-ppt.jpg)
-
-##### Step3 Remember that the In Click Sequence function is only available in PowerPoint 2016 and the latest versions
-
-Click From Beginning to test the sound over the Slide Show tab.
-
-Reminder: It would help if you keep your computer equipped with speakers or sound cards to hear sounds or music.
-
-## Part 3 Get music to play throughout a PowerPoint
-
-You can add music to your PowerPoint and play it across slides in the slide show background.
-
-If you wish to add audio or music from the web, you have to download it to your computer before using it in a presentation.
-
-### Steps to play a song across slides
-
-##### Step1 Select Audio on the Insert tab and choose Audio on My PC
-
-##### Step2 Browse to the music file you want to use within the File Explorer, and then select Insert
-
-##### Step3 Select Play in Background within the audio icon chosen over the slide
-
-![ppt playback](https://images.wondershare.com/filmora/article-images/2022/02/ppt-playback.jpg)
-
-Play in Background helps automatically start the audio file during a slide show and makes the audio play throughout the multiple slides.
-
-## Part 4 Add more songs to a PowerPoint presentation
-
-You can add more songs if your slide show plays longer than one song. Yet, find that you're having difficulty synchronizing the Audio with the PowerPoint slideshow. For this purpose, you can use a third-party audio editing tool, such as Wondershare Filmora, to combine the Audio into one file and enjoy it all together. And, this makes how to insert music in PowerPoint even easier than before. Here, we'd like to show you a tutorial on using Wondershare Filmora to add music to PowerPoint indirectly but more interestingly so that you don't have to work for longer.
-
-##### Step1 Download Filmora and launch it
-
-Click the Free Download button in the Wondershare Filmora to install it on your PC and then launch it.
-
-Before you do a new project, you can select the aspect ratio as per the requirements. And hit the New Project and continue.
-
-##### Step2 Import Photos and Music
-
-You can import music media to the Media Library and then directly drag and drop them to the timeline.
-
-##### Step3 Add Transitions
-
-![add transitions filmora](https://images.wondershare.com/filmora/article-images/filmora9-slideshow-transitions.jpg)
-
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-There are multiples of transitions available in Filmora to choose among. You can apply a particular transition between each selected photo or apply random transitions as per your interests.
-
-Filmora features 30 plus transitions, especially for Slideshow or PowerPoint presentations, such as cross split, cross merge, swap, and sweep clockwise. You can also use 3D transition, speed blur, or ripple and dissolve transitions.
-
-Moreover, you can accordingly adjust the duration of the transition.
-
-To make your photos slideshow look amazing, applying filters and overlays effects is highly recommended.
-
-##### Step4 Add background music
-
-You can select the sound effect or background music from the inbuilt audio library in Filmora or drag and drop these media or files to the timeline directly.
-
-Filmora features the voiceover recording tool, which assists you in recording your voice easily.
-
-![add background music filmora](https://images.wondershare.com/filmora/article-images/create-music-slideshow-filmora9.jpg)
-
-##### Step5 Export and Save
-
-Now, it's time to save and export the music slideshow as you see fit. You have several options where you can save the final project within your PC in different formats, or you can share it to various social media platforms directly, or you can burn it to DVD.
-
-Why choose Filmora to add music to the PowerPoint presentation?
-
-● Compatibility with different formats.
-
-● It helps you crop, zoom, and pan the PowerPoint slideshow automatically or manually by applying Pan & Zoom Photo Placement.
-
-● It has a massive library of sound effects, music tracks, stunning transitions, elements presets, and effects.
-
-● Here, you can record your voiceover and apply fade-in and fade-out effects.
-
-### Conclusion
-
-So, we're now concluding on how to add music to PowerPoint along with describing the most straightforward yet proficient way of making things simpler. We've discussed a quick yet straightforward to absorb step-by-step guide on how to put music in PowerPoint. If you wish to add a fully edited video directly into the PowerPoint presentation, try using Wondershare Filmora and enjoy your greatest wonders!
-
-02 [Can I play music automatically on PowerPoint](#Part 2)
-
-03 [Get music to play throughout a PowerPoint](#Part 3)
-
-04 [Add more songs to a PowerPoint presentation](#Part 4)
-
-## Part 1 How to add music to PowerPoint?
-
-Before you add music to PowerPoint, note specific points.
-
-Your presentation size will increase by the size of the MP3 music file you add after the audio files are embedded directly into PPT.
-
-For instance, the size of your presentation will magnify by 17MB if you add a song of 17MB to the presentation.
-
-So, the solution is that you need to compress your file size accordingly.
-
-![add music to ppt 1](https://images.wondershare.com/filmora/article-images/2022/02/add-music-to-ppt-1.jpg)
-
-### Steps on how to insert music in PowerPoint presentation
-
-##### Step1 Navigate to your Title slide (or wherever you want your music to start)
-
-##### Step2 Click the Insert tab
-
-##### Step3 Open the Audio drop-down (in the Media group)
-
-##### Step4 Select Audio on My PC
-
-##### Step5 Visit the folder on your computer
-
-##### Step6 Select the Audio file
-
-##### Step7 Hit the Insert tab
-
-Consequently, the audio file gets embedded in your presentation.
-
-![ppt audio options](https://images.wondershare.com/filmora/article-images/2022/02/ppt-audio-options.jpg)
-
-After the music embeds in your presentation, anyone who opens the presentation can access and play the music inside PowerPoint.
-
-Your song will play within the Click Sequence of your presentation by default.
-
-After inserting music into your presentation, you can then convert your entire presentation into a video and share it with your colleagues.
-
-## Part 2 Can I play music automatically on PowerPoint
-
-Yes, you can start the audio in the click sequence or immediately.
-
-<di
-
-##### Step1Click the audio icon on the slide in the Normal view while you edit the slides
-
-##### Step2 Choose Automatically or In Click Sequence in the Start list within the Audio Options of Audio Tools Playback tab
-
-![play automatic ppt](https://images.wondershare.com/filmora/article-images/2022/02/play-automatic-ppt.jpg)
-
-##### Step3 Remember that the In Click Sequence function is only available in PowerPoint 2016 and the latest versions
-
-Click From Beginning to test the sound over the Slide Show tab.
-
-Reminder: It would help if you keep your computer equipped with speakers or sound cards to hear sounds or music.
-
-## Part 3 Get music to play throughout a PowerPoint
-
-You can add music to your PowerPoint and play it across slides in the slide show background.
-
-If you wish to add audio or music from the web, you have to download it to your computer before using it in a presentation.
-
-### Steps to play a song across slides
-
-##### Step1 Select Audio on the Insert tab and choose Audio on My PC
-
-##### Step2 Browse to the music file you want to use within the File Explorer, and then select Insert
-
-##### Step3 Select Play in Background within the audio icon chosen over the slide
-
-![ppt playback](https://images.wondershare.com/filmora/article-images/2022/02/ppt-playback.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-Play in Background helps automatically start the audio file during a slide show and makes the audio play throughout the multiple slides.
-
-## Part 4 Add more songs to a PowerPoint presentation
-
-You can add more songs if your slide show plays longer than one song. Yet, find that you're having difficulty synchronizing the Audio with the PowerPoint slideshow. For this purpose, you can use a third-party audio editing tool, such as Wondershare Filmora, to combine the Audio into one file and enjoy it all together. And, this makes how to insert music in PowerPoint even easier than before. Here, we'd like to show you a tutorial on using Wondershare Filmora to add music to PowerPoint indirectly but more interestingly so that you don't have to work for longer.
-
-##### Step1 Download Filmora and launch it
-
-Click the Free Download button in the Wondershare Filmora to install it on your PC and then launch it.
-
-Before you do a new project, you can select the aspect ratio as per the requirements. And hit the New Project and continue.
-
-##### Step2 Import Photos and Music
-
-You can import music media to the Media Library and then directly drag and drop them to the timeline.
-
-##### Step3 Add Transitions
-
-![add transitions filmora](https://images.wondershare.com/filmora/article-images/filmora9-slideshow-transitions.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-There are multiples of transitions available in Filmora to choose among. You can apply a particular transition between each selected photo or apply random transitions as per your interests.
-
-Filmora features 30 plus transitions, especially for Slideshow or PowerPoint presentations, such as cross split, cross merge, swap, and sweep clockwise. You can also use 3D transition, speed blur, or ripple and dissolve transitions.
-
-Moreover, you can accordingly adjust the duration of the transition.
-
-To make your photos slideshow look amazing, applying filters and overlays effects is highly recommended.
-
-##### Step4 Add background music
-
-You can select the sound effect or background music from the inbuilt audio library in Filmora or drag and drop these media or files to the timeline directly.
-
-Filmora features the voiceover recording tool, which assists you in recording your voice easily.
-
-![add background music filmora](https://images.wondershare.com/filmora/article-images/create-music-slideshow-filmora9.jpg)
-
-##### Step5 Export and Save
-
-Now, it's time to save and export the music slideshow as you see fit. You have several options where you can save the final project within your PC in different formats, or you can share it to various social media platforms directly, or you can burn it to DVD.
-
-Why choose Filmora to add music to the PowerPoint presentation?
-
-● Compatibility with different formats.
-
-● It helps you crop, zoom, and pan the PowerPoint slideshow automatically or manually by applying Pan & Zoom Photo Placement.
-
-● It has a massive library of sound effects, music tracks, stunning transitions, elements presets, and effects.
-
-● Here, you can record your voiceover and apply fade-in and fade-out effects.
-
-### Conclusion
-
-So, we're now concluding on how to add music to PowerPoint along with describing the most straightforward yet proficient way of making things simpler. We've discussed a quick yet straightforward to absorb step-by-step guide on how to put music in PowerPoint. If you wish to add a fully edited video directly into the PowerPoint presentation, try using Wondershare Filmora and enjoy your greatest wonders!
-
-02 [Can I play music automatically on PowerPoint](#Part 2)
-
-03 [Get music to play throughout a PowerPoint](#Part 3)
-
-04 [Add more songs to a PowerPoint presentation](#Part 4)
-
-## Part 1 How to add music to PowerPoint?
-
-Before you add music to PowerPoint, note specific points.
-
-Your presentation size will increase by the size of the MP3 music file you add after the audio files are embedded directly into PPT.
-
-For instance, the size of your presentation will magnify by 17MB if you add a song of 17MB to the presentation.
-
-So, the solution is that you need to compress your file size accordingly.
-
-![add music to ppt 1](https://images.wondershare.com/filmora/article-images/2022/02/add-music-to-ppt-1.jpg)
 
 ### Steps on how to insert music in PowerPoint presentation
 
@@ -597,6 +327,291 @@ Why choose Filmora to add music to the PowerPoint presentation?
 ● It has a massive library of sound effects, music tracks, stunning transitions, elements presets, and effects.
 
 ● Here, you can record your voiceover and apply fade-in and fade-out effects.
+
+### Conclusion
+
+So, we're now concluding on how to add music to PowerPoint along with describing the most straightforward yet proficient way of making things simpler. We've discussed a quick yet straightforward to absorb step-by-step guide on how to put music in PowerPoint. If you wish to add a fully edited video directly into the PowerPoint presentation, try using Wondershare Filmora and enjoy your greatest wonders!
+
+02 [Can I play music automatically on PowerPoint](#Part 2)
+
+03 [Get music to play throughout a PowerPoint](#Part 3)
+
+04 [Add more songs to a PowerPoint presentation](#Part 4)
+
+## Part 1 How to add music to PowerPoint?
+
+Before you add music to PowerPoint, note specific points.
+
+Your presentation size will increase by the size of the MP3 music file you add after the audio files are embedded directly into PPT.
+
+For instance, the size of your presentation will magnify by 17MB if you add a song of 17MB to the presentation.
+
+So, the solution is that you need to compress your file size accordingly.
+
+![add music to ppt 1](https://images.wondershare.com/filmora/article-images/2022/02/add-music-to-ppt-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Steps on how to insert music in PowerPoint presentation
+
+##### Step1 Navigate to your Title slide (or wherever you want your music to start)
+
+##### Step2 Click the Insert tab
+
+##### Step3 Open the Audio drop-down (in the Media group)
+
+##### Step4 Select Audio on My PC
+
+##### Step5 Visit the folder on your computer
+
+##### Step6 Select the Audio file
+
+##### Step7 Hit the Insert tab
+
+Consequently, the audio file gets embedded in your presentation.
+
+![ppt audio options](https://images.wondershare.com/filmora/article-images/2022/02/ppt-audio-options.jpg)
+
+After the music embeds in your presentation, anyone who opens the presentation can access and play the music inside PowerPoint.
+
+Your song will play within the Click Sequence of your presentation by default.
+
+After inserting music into your presentation, you can then convert your entire presentation into a video and share it with your colleagues.
+
+## Part 2 Can I play music automatically on PowerPoint
+
+Yes, you can start the audio in the click sequence or immediately.
+
+<di
+
+##### Step1Click the audio icon on the slide in the Normal view while you edit the slides
+
+##### Step2 Choose Automatically or In Click Sequence in the Start list within the Audio Options of Audio Tools Playback tab
+
+![play automatic ppt](https://images.wondershare.com/filmora/article-images/2022/02/play-automatic-ppt.jpg)
+
+##### Step3 Remember that the In Click Sequence function is only available in PowerPoint 2016 and the latest versions
+
+Click From Beginning to test the sound over the Slide Show tab.
+
+Reminder: It would help if you keep your computer equipped with speakers or sound cards to hear sounds or music.
+
+## Part 3 Get music to play throughout a PowerPoint
+
+You can add music to your PowerPoint and play it across slides in the slide show background.
+
+If you wish to add audio or music from the web, you have to download it to your computer before using it in a presentation.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Steps to play a song across slides
+
+##### Step1 Select Audio on the Insert tab and choose Audio on My PC
+
+##### Step2 Browse to the music file you want to use within the File Explorer, and then select Insert
+
+##### Step3 Select Play in Background within the audio icon chosen over the slide
+
+![ppt playback](https://images.wondershare.com/filmora/article-images/2022/02/ppt-playback.jpg)
+
+Play in Background helps automatically start the audio file during a slide show and makes the audio play throughout the multiple slides.
+
+## Part 4 Add more songs to a PowerPoint presentation
+
+You can add more songs if your slide show plays longer than one song. Yet, find that you're having difficulty synchronizing the Audio with the PowerPoint slideshow. For this purpose, you can use a third-party audio editing tool, such as Wondershare Filmora, to combine the Audio into one file and enjoy it all together. And, this makes how to insert music in PowerPoint even easier than before. Here, we'd like to show you a tutorial on using Wondershare Filmora to add music to PowerPoint indirectly but more interestingly so that you don't have to work for longer.
+
+##### Step1 Download Filmora and launch it
+
+Click the Free Download button in the Wondershare Filmora to install it on your PC and then launch it.
+
+Before you do a new project, you can select the aspect ratio as per the requirements. And hit the New Project and continue.
+
+##### Step2 Import Photos and Music
+
+You can import music media to the Media Library and then directly drag and drop them to the timeline.
+
+##### Step3 Add Transitions
+
+![add transitions filmora](https://images.wondershare.com/filmora/article-images/filmora9-slideshow-transitions.jpg)
+
+There are multiples of transitions available in Filmora to choose among. You can apply a particular transition between each selected photo or apply random transitions as per your interests.
+
+Filmora features 30 plus transitions, especially for Slideshow or PowerPoint presentations, such as cross split, cross merge, swap, and sweep clockwise. You can also use 3D transition, speed blur, or ripple and dissolve transitions.
+
+Moreover, you can accordingly adjust the duration of the transition.
+
+To make your photos slideshow look amazing, applying filters and overlays effects is highly recommended.
+
+##### Step4 Add background music
+
+You can select the sound effect or background music from the inbuilt audio library in Filmora or drag and drop these media or files to the timeline directly.
+
+Filmora features the voiceover recording tool, which assists you in recording your voice easily.
+
+![add background music filmora](https://images.wondershare.com/filmora/article-images/create-music-slideshow-filmora9.jpg)
+
+##### Step5 Export and Save
+
+Now, it's time to save and export the music slideshow as you see fit. You have several options where you can save the final project within your PC in different formats, or you can share it to various social media platforms directly, or you can burn it to DVD.
+
+Why choose Filmora to add music to the PowerPoint presentation?
+
+● Compatibility with different formats.
+
+● It helps you crop, zoom, and pan the PowerPoint slideshow automatically or manually by applying Pan & Zoom Photo Placement.
+
+● It has a massive library of sound effects, music tracks, stunning transitions, elements presets, and effects.
+
+● Here, you can record your voiceover and apply fade-in and fade-out effects.
+
+### Conclusion
+
+So, we're now concluding on how to add music to PowerPoint along with describing the most straightforward yet proficient way of making things simpler. We've discussed a quick yet straightforward to absorb step-by-step guide on how to put music in PowerPoint. If you wish to add a fully edited video directly into the PowerPoint presentation, try using Wondershare Filmora and enjoy your greatest wonders!
+
+02 [Can I play music automatically on PowerPoint](#Part 2)
+
+03 [Get music to play throughout a PowerPoint](#Part 3)
+
+04 [Add more songs to a PowerPoint presentation](#Part 4)
+
+## Part 1 How to add music to PowerPoint?
+
+Before you add music to PowerPoint, note specific points.
+
+Your presentation size will increase by the size of the MP3 music file you add after the audio files are embedded directly into PPT.
+
+For instance, the size of your presentation will magnify by 17MB if you add a song of 17MB to the presentation.
+
+So, the solution is that you need to compress your file size accordingly.
+
+![add music to ppt 1](https://images.wondershare.com/filmora/article-images/2022/02/add-music-to-ppt-1.jpg)
+
+### Steps on how to insert music in PowerPoint presentation
+
+##### Step1 Navigate to your Title slide (or wherever you want your music to start)
+
+##### Step2 Click the Insert tab
+
+##### Step3 Open the Audio drop-down (in the Media group)
+
+##### Step4 Select Audio on My PC
+
+##### Step5 Visit the folder on your computer
+
+##### Step6 Select the Audio file
+
+##### Step7 Hit the Insert tab
+
+Consequently, the audio file gets embedded in your presentation.
+
+![ppt audio options](https://images.wondershare.com/filmora/article-images/2022/02/ppt-audio-options.jpg)
+
+After the music embeds in your presentation, anyone who opens the presentation can access and play the music inside PowerPoint.
+
+Your song will play within the Click Sequence of your presentation by default.
+
+After inserting music into your presentation, you can then convert your entire presentation into a video and share it with your colleagues.
+
+## Part 2 Can I play music automatically on PowerPoint
+
+Yes, you can start the audio in the click sequence or immediately.
+
+<di
+
+##### Step1Click the audio icon on the slide in the Normal view while you edit the slides
+
+##### Step2 Choose Automatically or In Click Sequence in the Start list within the Audio Options of Audio Tools Playback tab
+
+![play automatic ppt](https://images.wondershare.com/filmora/article-images/2022/02/play-automatic-ppt.jpg)
+
+##### Step3 Remember that the In Click Sequence function is only available in PowerPoint 2016 and the latest versions
+
+Click From Beginning to test the sound over the Slide Show tab.
+
+Reminder: It would help if you keep your computer equipped with speakers or sound cards to hear sounds or music.
+
+## Part 3 Get music to play throughout a PowerPoint
+
+You can add music to your PowerPoint and play it across slides in the slide show background.
+
+If you wish to add audio or music from the web, you have to download it to your computer before using it in a presentation.
+
+### Steps to play a song across slides
+
+##### Step1 Select Audio on the Insert tab and choose Audio on My PC
+
+##### Step2 Browse to the music file you want to use within the File Explorer, and then select Insert
+
+##### Step3 Select Play in Background within the audio icon chosen over the slide
+
+![ppt playback](https://images.wondershare.com/filmora/article-images/2022/02/ppt-playback.jpg)
+
+Play in Background helps automatically start the audio file during a slide show and makes the audio play throughout the multiple slides.
+
+## Part 4 Add more songs to a PowerPoint presentation
+
+You can add more songs if your slide show plays longer than one song. Yet, find that you're having difficulty synchronizing the Audio with the PowerPoint slideshow. For this purpose, you can use a third-party audio editing tool, such as Wondershare Filmora, to combine the Audio into one file and enjoy it all together. And, this makes how to insert music in PowerPoint even easier than before. Here, we'd like to show you a tutorial on using Wondershare Filmora to add music to PowerPoint indirectly but more interestingly so that you don't have to work for longer.
+
+##### Step1 Download Filmora and launch it
+
+Click the Free Download button in the Wondershare Filmora to install it on your PC and then launch it.
+
+Before you do a new project, you can select the aspect ratio as per the requirements. And hit the New Project and continue.
+
+##### Step2 Import Photos and Music
+
+You can import music media to the Media Library and then directly drag and drop them to the timeline.
+
+##### Step3 Add Transitions
+
+![add transitions filmora](https://images.wondershare.com/filmora/article-images/filmora9-slideshow-transitions.jpg)
+
+There are multiples of transitions available in Filmora to choose among. You can apply a particular transition between each selected photo or apply random transitions as per your interests.
+
+Filmora features 30 plus transitions, especially for Slideshow or PowerPoint presentations, such as cross split, cross merge, swap, and sweep clockwise. You can also use 3D transition, speed blur, or ripple and dissolve transitions.
+
+Moreover, you can accordingly adjust the duration of the transition.
+
+To make your photos slideshow look amazing, applying filters and overlays effects is highly recommended.
+
+##### Step4 Add background music
+
+You can select the sound effect or background music from the inbuilt audio library in Filmora or drag and drop these media or files to the timeline directly.
+
+Filmora features the voiceover recording tool, which assists you in recording your voice easily.
+
+![add background music filmora](https://images.wondershare.com/filmora/article-images/create-music-slideshow-filmora9.jpg)
+
+##### Step5 Export and Save
+
+Now, it's time to save and export the music slideshow as you see fit. You have several options where you can save the final project within your PC in different formats, or you can share it to various social media platforms directly, or you can burn it to DVD.
+
+Why choose Filmora to add music to the PowerPoint presentation?
+
+● Compatibility with different formats.
+
+● It helps you crop, zoom, and pan the PowerPoint slideshow automatically or manually by applying Pan & Zoom Photo Placement.
+
+● It has a massive library of sound effects, music tracks, stunning transitions, elements presets, and effects.
+
+● Here, you can record your voiceover and apply fade-in and fade-out effects.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -624,5 +639,16 @@ So, we're now concluding on how to add music to PowerPoint along with describing
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-mastering-slides-with-youtube-content/"><u>[New] 2024 Approved Mastering Slides with YouTube Content</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-capture-crop-and-color-correct-with-this-lists-top-5-android-apps/"><u>[New] Capture, Crop, and Color-Correct with This List's Top 5 Android Apps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-excellence-written-segmented-by-film-categories/"><u>[New] Excellence Written, Segmented by Film Categories</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-tune-into-unparalleled-music-video-watching-best-android-vids-for-you/"><u>[New] In 2024, Tune Into Unparalleled Music Video Watching Best Android Vids for You</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-15-pro-max-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 15 Pro Max Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Honor Magic 6 Lite? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-use-kapwing-meme-maker/"><u>In 2024, Use Kapwing Meme Maker</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-the-art-of-discretion-blurring-faces-with-pro-video-editors/"><u>New In 2024, The Art of Discretion Blurring Faces with Pro Video Editors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleashing-the-power-of-preparedness-in-your-streams-for-2024/"><u>Unleashing the Power of Preparedness in Your Streams for 2024</u></a></li>
+</ul></div>
 

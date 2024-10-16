@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Top 15 AE Title Tricks for Dynamic Content Headers"
-date: 2024-09-13T20:37:18.034Z
-updated: 2024-09-18T01:02:11.735Z
+date: 2024-10-15T03:53:33.831Z
+updated: 2024-10-15T22:49:07.627Z
 tags: 
   - screen-recording
   - ai video
@@ -60,22 +60,29 @@ If you want to zoom in and zoom out animation for your text or title, you can us
 
 There are different variations of zoom in and out effect that you can try on your text and title to make animation creative and visually appealing. On the other hand, position refers to the location of the text on the video frame depending on X, Y, and Z axis values.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Blur and Opacity
 
 You must have seen the text animation where the blurry text comes into focus and this can be achieved using Blur parameter. Many people confused Blur with Opacity but blur refers to out of focus while opacity can be understood by fade in and fade out effect. You can adjust the horizontal and vertical blur amount separately and you can come up with stunning text animations by changing Blur value.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Fill and Stroke
 
 When it comes to text formatting in animation, fill color and stroke color play a major role. You can change the fill of the text so that the text animation is about changing color randomly. There are different options available for fill color such as RGB, Hue, Saturation, and likewise.
 
 Similarly, the stroke color can be changed and you can create an animation with changing outline color. At the same time, you can adjust the stroke width to make the text look thick or thin as per your animation requirements.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Skew
 
@@ -92,10 +99,16 @@ Keyframe is like stretching two points into multiple points and for every point,
 Therefore, keyframes are the building blocks for text animations and you have to use keyframes to create all the different online text effects. You can put the keyframes far apart or close and speed up or slow down the animation.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. How to Edit Text Effects in Videos with AE
@@ -111,10 +124,10 @@ Step2 Go to Effects and Presets panel, search for the desired text effect preset
 ![preview effects and presets ae](https://images.wondershare.com/filmora/article-images/2022/09/preview-effects-and-presets-ae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3 Go to Timeline and click on the text layer to expand it. Click on Animate option and select any property that you want to adjust and create animation based on the parameters. Go to Keyframe section and add keyframes and change parameters for different keyframes for the text to animate.
@@ -122,6 +135,13 @@ Step3 Go to Timeline and click on the text layer to expand it. Click on Animate 
 ![add keyframes in after effects](https://images.wondershare.com/filmora/article-images/2022/09/add-keyframes-in-after-effects.jpg)
 
 Apart from the animate option and its parameters, there are several parameters such as transform that you can adjust to edit the text effect as per your preference.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. AE Alternative to Edit Text Effects in Video
 
@@ -138,6 +158,13 @@ Step1 Install Wondershare Filmora on your computer and launch the application. C
 Step2 Drag and drop the video clip onto timeline. Go to Titles option and you will see different categories of text effects on the left panel. Select any one of text effect templates and drop onto the timeline above the background video.
 
 ![select background for text filmora](https://images.wondershare.com/filmora/article-images/2022/09/select-background-for-text-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Double-click on the text layer on the timeline to edit the text preset. You can select any available text style as well as adjust parameters from font and settings sections.
 
@@ -166,10 +193,10 @@ Part 1\. 8 Popular Text Title Effects Types in AE
 There are certain properties and parameters associated with text effects and animations in After Effects. You need to get a complete overview of these types so that you can adjust them and come up with stunning text animations in After Effects.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. 3D Text
@@ -198,16 +225,16 @@ When it comes to text formatting in animation, fill color and stroke color play 
 
 Similarly, the stroke color can be changed and you can create an animation with changing outline color. At the same time, you can adjust the stroke width to make the text look thick or thin as per your animation requirements.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Skew
 
 If you want your text to be distorted and unusual, the skew parameter is there for you in After Effects. Skew means the character will not stay parallel and at right angles. You can adjust the skew value make texts distorted and this is useful in several text animations where distorted texts become normal texts. You can also skew texts in respect to different axis for creative animation.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7\. Tracking
 
@@ -297,5 +324,24 @@ Motion title is a dynamic text effect template available in After Effects throug
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-polity-playlists-the-premier-gamified-elections/"><u>[New] 2024 Approved Polity Playlists The Premier Gamified Elections</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-trendsetting-visualizations-for-the-year-ahead/"><u>[New] 2024 Approved Trendsetting Visualizations for the Year Ahead</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/arning-strategies-with-youtubes-adsense-payout-per-k-viewers/"><u>[New] Earning Strategies with Youtube's AdSense Payout per K Viewers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-5-best-title-maker-online/"><u>[New] In 2024, 5 Best Title Maker Online</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-vlc-versus-mpc-top-free-video-players-showdown/"><u>[New] VLC versus MPC Top Free Video Players Showdown</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-diving-into-the-depths-of-hdr-with-asus-pa32u/"><u>[Updated] 2024 Approved Diving Into the Depths of HDR with ASUS PA32U</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-step-by-step-path-turning-gifs-into-stickers-across-social-media-messaging/"><u>[Updated] 2024 Approved Step-by-Step Path Turning GIFs Into Stickers Across Social Media Messaging</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-smart-explorers-choice-premium-vr-gear-ranked/"><u>[Updated] In 2024, The Smart Explorer's Choice Premium VR Gear Ranked</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unlocking-visual-storytelling-with-ar-and-luts/"><u>[Updated] Unlocking Visual Storytelling with AR & LUTs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/decoding-elgoogs-excellence-a-comprehensive-appraisal-of-the-leading-mirror-platform/"><u>Decoding elgooG's Excellence: A Comprehensive Appraisal of the Leading Mirror Platform</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/essential-skills-in-developing-podcast-xml-feeds/"><u>Essential Skills in Developing Podcast XML Feeds</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-holistic-mobility-inspection-study/"><u>In 2024, Holistic Mobility Inspection Study</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-motorola-moto-g04-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Motorola Moto G04 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-why-does-your-facebook-message-feature-a-blue-emoji-uncovering-its-relevance/"><u>In 2024, Why Does Your FaceBook Message Feature a Blue Emoji? Uncovering Its Relevance</u></a></li>
+<li><a href="https://fox-access.techidaily.com/perfectiphone-podcast-guide-seamlessly-download-from-anywhere/"><u>PerfectiPhone Podcast Guide – Seamlessly Download From Anywhere</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-steps-loading-problems-with-chrome-webpages-made-easy/"><u>Solution Steps: Loading Problems with Chrome Webpages Made Easy</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-for-downloading-and-installing-broadcom-bluetooth-driver-on-win1187/"><u>Step-by-Step Guide for Downloading and Installing Broadcom Bluetooth Driver on Win11/8/7</u></a></li>
+</ul></div>
 

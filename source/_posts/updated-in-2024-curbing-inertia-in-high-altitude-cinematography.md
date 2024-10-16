@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Curbing Inertia in High Altitude Cinematography"
-date: 2024-10-04T21:19:34.990Z
-updated: 2024-10-09T18:08:45.865Z
+date: 2024-10-08T18:56:43.213Z
+updated: 2024-10-15T23:33:57.565Z
 tags: 
   - screen-recording
   - ai video
@@ -38,10 +38,10 @@ When we talk about flight FPV quadcopters then Jello Effect appears like biggest
 First of all we need to discus about the major terms like rolling shutter effect etc. You might be aware of the fact that sensors can be designed with rolling shutter as well as with a global shutter. This rolling shutter is able to capture footage with better scanning on every part of image due to installed CMOS sensor. Generally, the global shutters are capable enough to manage entire frame at the same time but rolling shutters start scanning from top to bottom and hence they leave various visual artefacts in between. In simple words, it is not able to capture top and bottom portion of shot at same moment hence images appear skewed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is Jello Effect
@@ -53,10 +53,10 @@ Now, you might be thinking hard that when global shutters are able to serve with
 Further, global shutters are not able to achieve the DR value same as rolling shutters hence they cannot be applied for handheld recording needs, visual effects or for action scenes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Remove Jello Effect from Drone Videos?
@@ -94,10 +94,16 @@ Check this video tutorial to see how to remove jello effect with Adobe Premiere
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -125,18 +131,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-decoding-the-science-of-captivating-time-lapses-using-gopro/"><u>[New] Decoding the Science of Captivating Time-Lapses Using GoPro</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-pinnacle-12-apps-for-unlimited-screen-recording/"><u>[New] In 2024, Pinnacle 12 Apps for Unlimited Screen Recording</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-steps-to-crossfade-audio-in-logic-pro-x/"><u>[New] In 2024, Steps To Crossfade Audio In Logic Pro X</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-foundation-defining-electronic-storytelling/"><u>[Updated] In 2024, The Foundation Defining Electronic Storytelling</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-understanding-digital-color-with-rgb-and-srgb-analysis/"><u>[Updated] In 2024, Understanding Digital Color with Rgb & Srgb Analysis</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-propel-your-presence-on-tiktok-strategic-application-of-template-videos-for-2024/"><u>[Updated] Propel Your Presence on TikTok Strategic Application of Template Videos for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-photography-tips-for-iphone/"><u>2024 Approved Photography Tips for iPhone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-11-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 11 to iPod touch | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/boosting-views-through-imaginative-video-thumbnails/"><u>Boosting Views Through Imaginative Video Thumbnails</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/easy-setup-routines-to-preserve-gotomeeting-discussions-for-2024/"><u>Easy Setup Routines to Preserve GoToMeeting Discussions for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/full-disclosure-unveiling-all-about-google-podcasts-app/"><u>Full Disclosure Unveiling All About Google Podcasts App</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/mastering-the-art-of-cropping-videos-with-imovie-comprehensive-guide/"><u>Mastering the Art of Cropping Videos with iMovie - Comprehensive Guide</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-ultimate-list-of-no-cost-audio-to-text-transformation-tools-for-multimedia-creators-for-2024/"><u>New The Ultimate List of No-Cost Audio-to-Text Transformation Tools for Multimedia Creators for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-songsyncing-simplified-your-guide-to-turning-tamil-music-into-alerts/"><u>[New] 2024 Approved SongSyncing Simplified Your Guide to Turning Tamil Music Into Alerts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-into-windows-xp-a-filmmakers-companion/"><u>[New] Step Into Windows XP A Filmmaker's Companion</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-seamless-shift-an-introduction-to-crossfades-for-2024/"><u>[New] The Seamless Shift An Introduction to Crossfades for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unifying-media-files-from-desktop-to-iphone/"><u>[New] Unifying Media Files From Desktop to iPhone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-innovative-vr-headsets-transforming-drones/"><u>[Updated] 2024 Approved Innovative VR Headsets Transforming Drones</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-frame-your-shot-ultimate-software-guide-image-editors-for-2024/"><u>[Updated] Frame Your Shot Ultimate Software Guide Image Editors for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-chic-characters-enhancing-facial-photo-appeal-with-picsart-motion-blur/"><u>[Updated] In 2024, Chic Characters Enhancing Facial Photo Appeal with Picsart Motion Blur</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/are-scalping-subscribers-a-viable-strategy-for-2024/"><u>Are Scalping Subscribers a Viable Strategy for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-advanced-guide-to-online-image-sharpening/"><u>In 2024, Advanced Guide to Online Image Sharpening</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-asus-rog-phone-8-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Asus ROG Phone 8 Pro FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-vivo-s18-pro-easily-by-drfone-android/"><u>In 2024, How To Unlock a Vivo S18 Pro Easily?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-google-pixel-8-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Google Pixel 8 Pro FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-city-building-skylines-2-startup-issues/"><u>Troubleshooting City Building: Skylines 2 Startup Issues</u></a></li>
 </ul></div>
 

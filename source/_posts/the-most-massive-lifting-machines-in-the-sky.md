@@ -1,7 +1,7 @@
 ---
 title: "The Most Massive Lifting Machines in the Sky"
-date: 2024-10-03T19:40:44.511Z
-updated: 2024-10-09T17:05:34.280Z
+date: 2024-10-11T21:20:31.320Z
+updated: 2024-10-15T19:21:59.355Z
 tags: 
   - screen-recording
   - ai video
@@ -55,6 +55,13 @@ Here are the best heavy lifting drones available in 2020, broken into over-10 kg
 | [FREEFLY ALTA 8](#freefly)                     | 18kg                                    | 16min       |       |
 | [ONYXSTAR HYDRA-12](#hydra12)                  | 12kg                                    | 30min       |       |
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Heavy lifting Drones: Under-10kg payload
 
 #### 1\. Tarot T-18 Ready To Fly Drone
@@ -95,13 +102,6 @@ With the capability of taking off with a payload of about 6 kg, the DJI Matrice 
 
 The DJI's Matrice 100 combines the benefits of an easy-to-fly quadocpter with the ability to deliver a relatively good sized payload of around 3.6 kg. The X-configuration of the drone provides the perfect support for the on-board 4K camera, as well as space to add a supported third-party camera (like a GoPro.) With a flight time of around 50 min., the DJI's Matrice 100 is the perfect tool for anyone who needs a drone that can handle slightly heavier lifts.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Heavy lifting Drones: Over-10kg payload
 
 #### 1\. Vulcan UAV Airlift
@@ -114,13 +114,6 @@ The Airlift series is one of Vulcan's heaviest lifting drones to date. With the 
 
 ![az 4k uhd camera drone green bee 1200](https://images.wondershare.com/filmora/article-images/az-4k-uhd-camera-drone-green-bee-1200.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As the need for drones that can do some seriously heavy lifting has increased, the AZ 4K UHD Camera Drone Green Bee 1200 has stepped up to fill these needs. Whether you are looking to do some heavy lifting in the realm of photography or cinema, or you need a drone that can move your research and development technology around your indoor or outdoor work area, this drone has you covered. With the ability to carry a payload of up to 20 kg, and a flight time of 20 min. per battery, the AZ 4K UHD Camera Drone Green Bee 1200 is going to allow you to master any heavy lifting work situation with ease.
 
 #### 3\. Vulcan UAV Raven
@@ -128,10 +121,10 @@ As the need for drones that can do some seriously heavy lifting has increased, t
 ![vulcan uav raven](https://images.wondershare.com/filmora/article-images/vulcan-uav-raven.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The Vulcan UAV Raven is an absolute workhorse of a multicopter. Purpose-designed to be able to handle the toughest of jobs, this drone is capable of carrying a payload of up to 20 kg thanks to its high-grade carbon fibre and aluminium frame. This tough design is also one of the most safe drones on the market, as the Vulcan UAV Raven is built to be able to survive within the tough, and demanding worlds of both commercial and personal usage.
@@ -152,13 +145,20 @@ The HYDRA-12 was purpose-designed to be able to help you handle heavy payloads w
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -186,24 +186,14 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-advanced-mobile-mounting-accurate-camera-positioning/"><u>[New] 2024 Approved Advanced Mobile Mounting Accurate Camera Positioning</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-samsung-ubd-k8500-review-2023-update/"><u>[New] 2024 Approved Samsung UBD-K8500 Review - 2023 Update</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-cut-to-zero-download-custom-ending-scenes-effortlessly-for-2024/"><u>[New] Cut to Zero - Download Custom Ending Scenes Effortlessly for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-how-to-properly-terminate-and-delete-your-linkedin-account/"><u>[New] In 2024, How to Properly Terminate and Delete Your LinkedIn Account</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-mastering-high-dynamic-range-in-photoshop-artistry/"><u>[New] In 2024, Mastering High Dynamic Range in Photoshop Artistry</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-unveiling-the-power-of-grading-insights-from-dr-john-doe/"><u>[New] In 2024, Unveiling the Power of Grading Insights From Dr. John Doe</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-sculpting-soundtracks-for-animation-using-movie-maker-tools/"><u>[New] Sculpting Soundtracks for Animation Using Movie Maker Tools</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-start-your-edit-journey-top-tips-for-photo-gurus-in-training/"><u>[Updated] In 2024, Start Your Edit Journey Top Tips for Photo Gurus in Training</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-pinnacle-music-organizer-for-android-users-for-2024/"><u>[Updated] Pinnacle Music Organizer for Android Users for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-gopro-hero5-time-lapse-photography/"><u>2024 Approved The Ultimate Guide to GoPro Hero5 Time-Lapse Photography</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/p-by-step-guide-share-youtube-vids-with-fb-friends-for-2024/"><u>A Step-by-Step Guide Share YouTube Vids with FB Friends for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/bargain-tv-on-walls-understanding-the-dream-md2380/"><u>Bargain TV on Walls: Understanding the Dream MD2380</u></a></li>
-<li><a href="https://facebook.techidaily.com/five-pioneers-dividing-tech-opinions/"><u>Five Pioneers Dividing Tech Opinions</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-nokia-c12-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Nokia C12 Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-prime-chrome-audio-transformers-leading-web-based-text-to-speech-apps/"><u>In 2024, Prime Chrome Audio Transformers Leading Web-Based Text-to-Speech Apps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-revamping-subtitles-from-srt-with-ease/"><u>In 2024, Revamping Subtitles From SRT with Ease</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-puzzle-a-step-by-step-guide-to-overcoming-netflix-error-nw-1-19/"><u>Solving the Puzzle: A Step-by-Step Guide to Overcoming Netflix Error NW-1-19</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-xiaomi-redmi-note-13-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Xiaomi Redmi Note 13 5G Phones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-plug-in-proweries-expert-analysis/"><u>[New] 2024 Approved PLUG-IN PROWERIES Expert Analysis</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-ultimate-guide-to-professional-gopro-filming/"><u>[New] 2024 Approved The Ultimate Guide to Professional GoPro Filming</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-unlocking-the-potential-of-audacitys-audio-features/"><u>[New] 2024 Approved Unlocking the Potential of Audacity's Audio Features</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-decoding-the-art-of-video-production-in-filmora/"><u>[New] Decoding the Art of Video Production in Filmora</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-warrior-spirits-rising-comparable-game-suggestions/"><u>[New] In 2024, Warrior Spirits Rising Comparable Game Suggestions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-find-your-favorite-general-knowledge-quiz-channel-of-the-year-24/"><u>[Updated] In 2024, Find Your Favorite General Knowledge Quiz Channel of the Year, '24</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-nintendo-switchs-ultimate-hd-gameplay/"><u>In 2024, Nintendo Switch's Ultimate HD Gameplay</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-realme-c33-2023-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Realme C33 2023</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-guide-to-screen-capture-via-screencastify/"><u>The Ultimate Guide to Screen Capture via Screencastify</u></a></li>
 </ul></div>
 

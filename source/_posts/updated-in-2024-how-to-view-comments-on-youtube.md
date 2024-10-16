@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How to View Comments on YouTube"
-date: 2024-10-07T19:21:00.975Z
-updated: 2024-10-09T20:50:25.574Z
+date: 2024-10-09T00:03:56.039Z
+updated: 2024-10-15T21:43:50.421Z
 tags: 
   - screen-recording
   - ai video
@@ -41,13 +41,6 @@ Not only does it show your fans followers that you care about what they have to 
 
 For YouTubers who are serious about growing their channel and making their brand profitable, you know by now that there are certain tricks and strategies that you have to apply and put in place to make your YouTube channel what you want it to be.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Advantage of YouTube comments
 
 If you're wondering whether you really need to monitor your YouTube comments, here are three compelling reasons why you should:
@@ -55,6 +48,13 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments can help you gauge customer sentiment: How do your viewers respond to your content? Positively? Negatively? Not at all? Monitoring your comments can help you understand how viewers feel about your brand.
 * YouTube comments present an opportunity for engagement: Responding quickly to negative comments could help you improve your image-not just with an unhappy viewers, but also with other YouTube viewers who see how you respond to conflict.
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Comment on a YouTube Video
 
@@ -91,10 +91,10 @@ Step2 On the YouTube homepage, click on the three horizontal parallel lines in t
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3 From the drop down menu, select “History”.
@@ -102,6 +102,19 @@ Step3 From the drop down menu, select “History”.
 Step4 On the right side under the “Manage all history” section, click on “comments”.
 
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
@@ -114,6 +127,13 @@ Among the comments you see on a video, you might notice some that YouTube has la
 For example, you might click on a notification, and YouTube takes you to a particular video. Then, when somebody else views and leaves a comment on that video, YouTube will often add the “Highlighted Comment” label on the comment to make it easy for you to spot it when you next go back to that video.
 
 Each time YouTube adds the “highlighted comment” or “highlighted reply” tags to a video, they create a unique URL. The version of the comment that you see uses this newly generated URL. Therefore, the only way to make these labels disappear (apart from reading the new comments) is to remove the addition to the URL.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why Deleting YouTube Comments?
 
@@ -132,26 +152,6 @@ Retrieve a comment so that you can share it with others outside of YouTube.
 Comments history also contains the link to the video where you've left the comment along with the date and time when the comment was made. Clicking on this link will open the video page with your comment highlighted at the top of the comment section.
 
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -189,20 +189,20 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-top-picks-amplifying-vhs-pictures-via-computer-software/"><u>[New] 2024 Approved Top Picks Amplifying VHS Pictures via Computer Software</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-a-comprehensive-guide-to-successful-fb-cover-video-strategies/"><u>[New] In 2024, A Comprehensive Guide to Successful FB Cover Video Strategies</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-conquering-video-design-challenges-with-filmora-tips/"><u>[New] In 2024, Conquering Video Design Challenges with Filmora Tips</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-eloquentaiartisan-the-ai-empowered-editor/"><u>[New] In 2024, EloquentAIArtisan The AI-Empowered Editor</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-solo-stream-triumph-strategies-for-clear-consistent-broadcasts/"><u>[New] In 2024, Solo Stream Triumph Strategies for Clear, Consistent Broadcasts</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/electing-the-perfect-online-source-15-best-royalty-free-music-urls/"><u>[New] Selecting the Perfect Online Source 15 Best Royalty-Free Music URLs</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-simplify-collaboration-in-windows-10-effective-use-of-zoom-services/"><u>[New] Simplify Collaboration in Windows 10 Effective Use of Zoom Services</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-soundsnatch-aural-replay-analysis-for-2024/"><u>[New] SoundSnatch Aural Replay Analysis for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-mastering-the-art-of-incorporating-film-into-lessons/"><u>[Updated] In 2024, Mastering the Art of Incorporating Film Into Lessons</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlocking-the-world-of-premium-banners-for-media/"><u>[Updated] Unlocking the World of Premium Banners for Media</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/harnessing-the-power-of-cookiebot-for-effective-digital-advertising-strategies/"><u>Harnessing the Power of Cookiebot for Effective Digital Advertising Strategies</u></a></li>
-<li><a href="https://fox-access.techidaily.com/high-quality-methodology-stitching-gopro-sequences-in-virtual-reality-films/"><u>High-Quality Methodology Stitching GoPro Sequences in Virtual Reality Films</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-realme-v30t-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Realme V30T FRP</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlocking-potential-effective-use-of-zoom-on-win11-pcs/"><u>Unlocking Potential Effective Use of Zoom on Win11 PCs</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/votre-guide-definitif-les-meilleurs-lecteurs-video-4k-uhd-pcmac-installer-and-partager-des-critiques/"><u>Votre Guide Definitif : Les Meilleurs Lecteurs Vidéo 4K UHD PC/Mac - Installer & Partager Des Critiques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-smart-tactics-to-jump-over-online-classroom-screens/"><u>[New] 2024 Approved Smart Tactics to Jump Over Online Classroom Screens</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-voice-memo-grab-and-examine/"><u>[New] 2024 Approved Voice Memo Grab & Examine</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-apple-media-access-and-download-youtube-videos-on-iphoneipad/"><u>[New] In 2024, Apple Media Access and Download YouTube Videos on iPhone/iPad</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-shaping-stories-the-art-of-deformed-photographyvideo-words/"><u>[New] In 2024, Shaping Stories The Art of Deformed Photography/Video Words</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-crafting-soundscape-journeys-with-seamless-audacity-mixes/"><u>[Updated] 2024 Approved Crafting Soundscape Journeys with Seamless Audacity Mixes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-beyond-vlc-a-deep-dive-into-media-players/"><u>[Updated] In 2024, Beyond VLC A Deep Dive Into Media Players</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-template-treasures-to-craft-unique-corporate-emblems/"><u>2024 Approved Explore Template Treasures to Craft Unique Corporate Emblems</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/illuminating-interactions-mastering-animate-texts-in-stories-for-2024/"><u>Illuminating Interactions Mastering Animate Texts in Stories for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-complete-guide-for-seamlessly-linking-content-into-your-tiktok-profile/"><u>In 2024, Complete Guide for Seamlessly Linking Content Into Your TikTok Profile</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Nokia G22? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-top-reddit-threads-ever-the-10-greatest-hits/"><u>In 2024, Top Reddit Threads Ever The 10 Greatest Hits</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/share-with-impact-tiktok-videos-on-twitter-for-2024/"><u>Share with Impact TikTok Videos on Twitter for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/tp-links-most-recent-driver-downloads-optimize-your-network-card-for-windows-10-8-and-n-7/"><u>TP-Link's Most Recent Driver Downloads: Optimize Your Network Card for Windows 10, 8 & N 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-to-get-sounds-working-again-in-anthem-with-windows-11/"><u>Troubleshooting Steps to Get Sounds Working Again in Anthem with Windows 11</u></a></li>
 </ul></div>
 

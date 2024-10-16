@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Future of Drone Control with Syma X8C"
-date: 2024-09-10T18:40:12.666Z
-updated: 2024-09-18T00:42:59.692Z
+date: 2024-10-13T19:54:39.326Z
+updated: 2024-10-16T01:44:54.338Z
 tags: 
   - screen-recording
   - ai video
@@ -78,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/cabed3ff31b82926ba008513e58f8543d937e5a9a
 
 ![syma vs phantom design](https://images.wondershare.com/filmora/article-images/syma-vs-phantom-design.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If we consider the appearance then it looks close to the Phantom drone but no doubt to say that few variations exists and they make it unique. The overall dimension of this drone unit is 20x20x6.5 whereas maximum weight goes up to 450 grams thus it cannot be called as a tiny drone. When weighted with camera and prop guards, then this unit has overall weight of 600 grams. This dimension and weight makes this drone much stable in air.
 
  This device can also be used without propeller guards because they do not have much role to play in its flights but the added benefit is that removal of prop guards leads to reduced weight and hence flight time gets little improved. The overall length of propeller is about 9” and they are designed of very high quality material.
@@ -94,6 +101,13 @@ thumbnail: https://thmb.techidaily.com/cabed3ff31b82926ba008513e58f8543d937e5a9a
 
 ![syma x8c controller](https://images.wondershare.com/filmora/article-images/syma-x8c-controller.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Controller or the transmitter of X8C device is small enough that fits perfectly in user’s hands. Construction is completed with ABS plastic material that leads to light weight structure and this controller makes use of 2.4GHz frequency band to send control signals towards drone in air. The best thing to know about Syma X8C is that it can cover the 100 meter range impressively.
 
 #### 6\.  Camera
@@ -102,11 +116,25 @@ thumbnail: https://thmb.techidaily.com/cabed3ff31b82926ba008513e58f8543d937e5a9a
 
  A drone cannot be complete without a camera mounted on its top; hence Syma has taken care of users need and they developed Syma X8C with a camera that can record everything in air. Although, it is not able to collect video information with HD quality but you will be glad to know that it is detachable and one can also make additional adjustments over its angles to adjust focus. All the recorded videos are stored inside a 4GB MicroSD card. Further, the attached gimbal assists in much stable footage.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
  By considering all above factors, we must say that Syma X8C is a well designed drone unit that can serve with much better results as an entry level aerial shoot recorder. As the price tag keeps it below $100 range so beginners find it most affordable for their learning needs and the gimbal protection leads to highly stable footage that can be shared on social media sites to impress friends. The control mechanisms is rated as highly responsive so will all these satisfactory features it becomes a must buy product for your air flight adventures.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -131,12 +159,21 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-critically-acclaimed-top-8-oculus-rift-games-for-2024/"><u>[New] Critically Acclaimed Top 8 Oculus Rift Games for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-the-comprehensive-guide-to-metaverse-promotion/"><u>[New] In 2024, The Comprehensive Guide to Metaverse Promotion</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-ultimate-gaming-queens-top-10-female-youtubers/"><u>[New] Ultimate Gaming Queens Top 10 Female YouTubers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-gopro-comparison-max-360-vs-hero-11-performance/"><u>[New] Ultimate GoPro Comparison Max 360 vs Hero 11 Performance</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-essential-guide-to-winning-on-spotify-ad-campaigns/"><u>[Updated] Essential Guide to Winning on Spotify Ad Campaigns</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-gotomeeting-precision-capture-across-all-platforms/"><u>[Updated] GoToMeeting Precision Capture Across All Platforms</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-visionary-video-setups-a-filmmakers-guide-to-brilliance-for-2024/"><u>[Updated] Visionary Video Setups A Filmmaker's Guide to Brilliance for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-xsplit-vault-detailed-split-reviews-for-2024/"><u>[Updated] XSplit Vault Detailed Split Reviews for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-current-state-of-vr-hardware/"><u>2024 Approved Current State of VR Hardware</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elon-musk-showcases-grok-artificial-intelligence-what-it-can-do-and-its-market-price/"><u>Elon Musk Showcases Grok Artificial Intelligence - What It Can Do and Its Market Price?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-tomorrow-today-with-samsungs-revolutionary-8k-television-why-you-might-want-to-blink-twice/"><u>Experience Tomorrow Today with Samsung's Revolutionary 8K Television - Why You Might Want to Blink Twice</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-overcome-rainbow-six-extraction-crashes-on-your-personal-computer/"><u>Expert Tips to Overcome Rainbow Six Extraction Crashes on Your Personal Computer</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-mastering-selection-of-top-8-high-quality-free-online-translators/"><u>In 2024, Mastering Selection of Top 8 High-Quality Free Online Translators</u></a></li>
+<li><a href="https://fox-access.techidaily.com/live-stream-showdown-pick-your-favorite-vmix-or-wirecast-for-2024/"><u>Live Stream Showdown Pick Your Favorite, VMix or Wirecast for 2024</u></a></li>
+</ul></div>
 

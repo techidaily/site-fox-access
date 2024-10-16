@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Palette Playbook  The Filmmaker's Guide to Grading for 2024\""
-date: 2024-09-15T22:21:11.760Z
-updated: 2024-09-17T23:16:41.066Z
+date: 2024-10-12T18:00:23.550Z
+updated: 2024-10-15T16:49:51.062Z
 tags: 
   - screen-recording
   - ai video
@@ -75,6 +75,13 @@ Advanced Color Tools icon – click the Advanced Color Tools icon in the toolbar
 
 ![advanced color tools filmora](https://images.wondershare.com/filmora/article-images/2022/08/advanced-color-tools-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Color Panel Window - to perform color correction in Wondershare Filmora, switch to the Color tab. You can modify the white balance, saturation, tint, contrast, temperature, and brightness and apply 3D LUT immediately and quickly in this editing panel. You see the output in the Preview window.
 
 ![edit color grading video fx](https://images.wondershare.com/filmora/article-images/2022/08/edit-color-grading-video-fx.jpg)
@@ -97,6 +104,13 @@ Here, there are two options to select: The Color correction. It offers different
 
 ![open color correction filmora](https://images.wondershare.com/filmora/article-images/2022/08/open-color-correction-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step2Select the specific video portion
 
 #####
@@ -104,6 +118,13 @@ Here, there are two options to select: The Color correction. It offers different
 First, you need to select the specific video portion you want to change the color. Just click the scissor icon or what we call split tool. In this case, I split the 2nd video when I zoom in on the subject.
 
 ![split video into clips fx](https://images.wondershare.com/filmora/article-images/2022/08/split-video-into-clips-fx.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * And I selected the end portion of the video. After that, choose the part of the video.
 
@@ -130,6 +151,13 @@ Once you've finished correcting the video color, press Play and go over the whol
 You can modify the temperature, tint, white balance, contrast, saturation, and brightness and apply 3D LUT directly and quickly in this editing panel.
 
 ![color panel windows filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-panel-windows-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step2Color grading with Wondershare Filmora
 
@@ -203,12 +231,20 @@ Overall, Color grading is the process of video editing to have an excellent look
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-z2-mobile-a-cutting-edge-device-analysis/"><u>[New] 2024 Approved Z2 Mobile A Cutting-Edge Device Analysis</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ree-to-mp3-journey-top-10-online-converters-for-2024/"><u>[New] Free-to-Mp3 Journey Top 10 Online Converters for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-no-money-all-fcp-unveiled-methods/"><u>[New] In 2024, No Money, All FCP – Unveiled Methods</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-a-connoisseurs-guide-to-the-very-best-10-vectors-pix/"><u>[Updated] In 2024, A Connoisseur's Guide to the Very Best 10 Vectors Pix</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-comprehensive-insights-into-polarrs-photo-tools/"><u>[Updated] In 2024, Comprehensive Insights Into Polarr's Photo Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-elite-4k-laptops-for-gamers-1-ranked-list/"><u>[Updated] In 2024, Elite 4K Laptops for Gamers – #1 Ranked List</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unlock-new-speech-potentials-on-chrome-ranked-top-voice-alteration-tools/"><u>[Updated] Unlock New Speech Potentials on Chrome Ranked Top Voice Alteration Tools</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-elevate-your-film-experience-integrating-subtitles-in-wmp/"><u>2024 Approved Elevate Your Film Experience Integrating Subtitles in WMP</u></a></li>
+<li><a href="https://os-tips.techidaily.com/budget-friendly-smartphones-below-1k-with-top-performance-features/"><u>Budget-Friendly Smartphones Below $1K with Top Performance Features!</u></a></li>
+<li><a href="https://win-unique.techidaily.com/diy-technique-for-transferring-data-from-hdd-to-m2-ssd-in-easy-steps/"><u>DIY Technique for Transferring Data From HDD to M.2 SSD in Easy Steps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-a23-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy A23 5G Device</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-lava-yuva-3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Lava Yuva 3 Pro | Dr.fone</u></a></li>
+</ul></div>
 

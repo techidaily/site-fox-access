@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Beat the Sickening of Virtual Reality"
-date: 2024-09-15T23:30:32.918Z
-updated: 2024-09-17T18:05:27.620Z
+date: 2024-10-13T23:18:37.005Z
+updated: 2024-10-16T01:54:34.759Z
 tags: 
   - screen-recording
   - ai video
@@ -55,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 
 **10\. Try not to move your head a lot.** Since motion sickness directly corresponds to movement, reducing your head movement left and right and up and down in one place can help you lower the chances of sickness.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Oculus have done to reduce motion sickness
 
  With the new, innovative VR devices and the head gear technology has taken a huge leap. Oculus Rift has become widely popular among its enthusiastic users. When Oculus released its first Development kit (DevKit 1) the users experienced the symptoms such as nausea, dizziness, sweating and vomiting. Even Oculus CEO Brendan Iribe experienced “motion sickness” with his own product, while using last year’s “DevKit 1” prototype. These sickness issues were so common while using DevKit 1 that its users called it the “Rift Sickness”.
@@ -62,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
  Since Oculus Rift DK1 came to the market, people were really unhappy with the sickness it gave to them. Oculus saw that issue as a big threat, and started to develop DK2 with a much better display. In the original DK1, Oculus Rift used the liquid crystal display (LCD) to display visual in its devices. LCD screen had been of very much advantage because of its brightness, geometric distortion, and less electricity consumption. But it still had been promoting to the sickness issue because of its sluggish motion time response. In replacement of LCD screens, Oculus Rift has introduced OLED (organic light emitting diode) screens which have proved to be a much better idea. Experiments of Oculus Rift with OLED screens have been successful so far in reducing motion sickness to its minimal. OLED has a much faster rate and thus much enhanced positional tracking.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -86,12 +100,21 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-essential-guide-to-the-top-6-head-mounted-gopro-options/"><u>[New] Essential Guide to the Top 6 Head-Mounted GoPro Options</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-learn-to-optimize-your-watchlist-using-dual-screens-on-netflix/"><u>[New] In 2024, Learn to Optimize Your Watchlist Using Dual Screens on Netflix</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-complete-instagram-vlog-flip-handbook-for-2024/"><u>[New] The Complete Instagram Vlog-Flip Handbook for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-elevate-meeting-aesthetics-how-to-add-filters-on-zoom/"><u>[Updated] 2024 Approved Elevate Meeting Aesthetics How to Add Filters on Zoom</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-key-approaches-to-elicit-trust-in-product-reviews-through-videography/"><u>[Updated] 2024 Approved Key Approaches to Elicit Trust in Product Reviews Through Videography</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-installation-problems-enjoy-playing-minecraft-on-windows-11-today/"><u>Banish Installation Problems: Enjoy Playing Minecraft on Windows 11 Today</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-meizu-21-pro-by-drfone-android/"><u>Full Guide to Unlock Your Meizu 21 Pro</u></a></li>
+<li><a href="https://fox-access.techidaily.com/integrate-sound-and-sight-web-studio-for-2024/"><u>Integrate Sound & Sight Web Studio for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/perfect-your-iphone-videographyphoto-expertise-with-add-ons-for-2024/"><u>Perfect Your iPhone Videography/Photo Expertise With Add-Ons for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ram-upgrade-for-enhanced-performance-on-personal-computers/"><u>RAM Upgrade for Enhanced Performance on Personal Computers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-oneplus-offers-on-prime-day-save-big-and-shop-smart/"><u>Top OnePlus Offers on Prime Day: Save Big and Shop Smart!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/understanding-quantum-hdrs-impact-on-photography/"><u>Understanding Quantum HDR's Impact on Photography</u></a></li>
+</ul></div>
 

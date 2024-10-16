@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Cinematic Brilliance  Mastering Video Lighting Techniques\""
-date: 2024-09-11T16:18:19.266Z
-updated: 2024-09-12T16:18:19.266Z
+date: 2024-10-12T00:11:31.110Z
+updated: 2024-10-16T04:29:51.335Z
 tags: 
   - screen-recording
   - ai video
@@ -26,19 +26,6 @@ Therefore, this article will give you a complete guide on how to set up your lig
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1\. How-to Guide
 
@@ -78,13 +65,6 @@ The fill light is used to fill in the shadows created by the key light. It is us
 
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
 
 ##### Step4 Use Practical Lights
@@ -93,13 +73,6 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
@@ -107,13 +80,6 @@ Then, we also have a LED ring light that shines toward the camera. The light add
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After setting up all the lighting above, you can take a look at the comparison below:
 
@@ -132,17 +98,10 @@ We usually set the lights around 50% brightness and a color temperature of 5600K
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Summary
@@ -177,5 +136,24 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-leading-edge-in-online-advertising-fb-insights/"><u>[New] 2024 Approved The Leading Edge in Online Advertising FB Insights</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-canon-image-masters-10plus-luts-some-are-free/"><u>[New] Canon Image Masters - 10+ LUTs, Some Are Free</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-advanced-strategies-for-enhancing-vhs-images-digitally/"><u>[Updated] 2024 Approved Advanced Strategies for Enhancing VHS Images Digitally</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-samsung-outdone-top-cameras-eclipsing-the-gear-360/"><u>[Updated] 2024 Approved Samsung Outdone Top Cameras Eclipsing the Gear 360</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-essential-oculus-rift-adventures-for-gamers/"><u>[Updated] Essential Oculus Rift Adventures for Gamers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-streamlining-picture-shading-with-adobe-tools-for-2024/"><u>[Updated] Streamlining Picture Shading with Adobe Tools for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-swiftly-switch-srt-and-text-files-with-this-easy-guide/"><u>[Updated] Swiftly Switch SRT and Text Files with This Easy Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-mobile-tech-wizardry-how-to-record-and-share-your-snapchat-stories/"><u>2024 Approved Mobile Tech Wizardry How to Record and Share Your Snapchat Stories</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/discover-the-leading-edtech-sites-comparable-to-udemy-our-picks-for-the-best-online-courses/"><u>Discover the Leading EdTech Sites Comparable to Udemy: Our Picks for the Best Online Courses</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-dust-off-the-glare-avoiding-gopro-misting/"><u>In 2024, Dust Off the Glare Avoiding GoPro Misting</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/level-up-in-valorant-with-a-costless-cutting-edge-voice-modification-solution-for-2024/"><u>Level Up in Valorant with a Costless, Cutting-Edge Voice Modification Solution for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/retrieve-your-sales-receipt-from-flipbuilder-a-step-by-steps-guide/"><u>Retrieve Your Sales Receipt From FlipBuilder – A Step-by-Steps Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-runners-wrist-companion-the-garmin-forerunner-45-reviewed/"><u>Top Rated Runner's Wrist Companion: The Garmin Forerunner 45 Reviewed</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/understanding-the-essentials-of-data-integrity-significance-and-implementation-strategies/"><u>Understanding the Essentials of Data Integrity: Significance & Implementation Strategies</u></a></li>
+</ul></div>
 

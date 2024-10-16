@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering iPhone Macro & Microphotography Techniques"
-date: 2024-09-13T19:38:38.960Z
-updated: 2024-09-17T21:19:48.772Z
+date: 2024-10-13T01:41:13.492Z
+updated: 2024-10-15T23:14:23.717Z
 tags: 
   - screen-recording
   - ai video
@@ -74,6 +74,13 @@ With any photo, focus is crucial to an awesome result. But when you're creating 
 
 ![](https://images.wondershare.com/filmora/article-images/close-up-photography-focus.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Image source: PicMonkey
 
 If you're not ready to go fully manual, you could try using the iPhone's locking feature to lock the focus into place and avoid the photo being ruined by a little wobble on your part. To use this, simply tap and hold the screen at the part of the image you want to be in focus, and you'll see AE/EF Lock appear at the bottom. This means both focus and lighting are fixed until you tap elsewhere on the screen to release it.
@@ -116,6 +123,13 @@ iPhone macro photography is all about looking at the world in a different way. T
 
 ![](https://images.wondershare.com/filmora/article-images/macro-photography-angles.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Image source: Flickr
 
 Look for interesting colors and play with the light. Let the sunshine through the leaves of the plant or find a puddle and play with reflections. Line yourself up with a cityscape or countryside landscape, then place the subject dangling in the foreground. Have fun with angles and discover new ways of looking at your surroundings.
@@ -142,7 +156,27 @@ Explore, experiment, and practice, and you'll soon find your own style and be th
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -167,12 +201,20 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-high-definition-showdown-projection-systems-versus-tv-in-4k-world/"><u>[New] 2024 Approved High-Definition Showdown Projection Systems versus TV in 4K World</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-quick-recovery-methods-for-erased-reddit-topics/"><u>[New] Quick Recovery Methods for Erased Reddit Topics</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-breakthrough-in-youtube-saving-technology/"><u>[Updated] 2024 Approved Breakthrough in YouTube Saving Technology</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-inside-out-of-t5-ultimate-sports-and-adventures-recorder-for-2024/"><u>[Updated] Inside Out of T5 Ultimate Sports and Adventures Recorder for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-tips-labeling-footage-with-text-via-photos-app-win-11-for-2024/"><u>[Updated] Tips Labeling Footage with Text via Photos App (Win 11) for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/cultivating-a-loyal-viewership-base-on-youtube/"><u>Cultivating a Loyal Viewership Base on Youtube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-screen-captures-no-cost-pubg-sets/"><u>In 2024, Premier Screen Captures No-Cost PUBG Sets</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-realme-c51-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Realme C51 and Browser | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/smart-shoppers-what-to-evaluate-for-a-4k-lens-for-2024/"><u>Smart Shoppers What to Evaluate for a 4K Lens for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/streamlined-aesthetics-incorporating-visual-effects-in-videos-pcmobile-for-2024/"><u>Streamlined Aesthetics Incorporating Visual Effects in Videos (PC/Mobile) for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-ultimate-checklist-for-transferring-snaps-to-photos-folder-for-2024/"><u>The Ultimate Checklist for Transferring Snaps to Photos Folder for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transform-your-workspace-get-the-immersive-lg-34-inch-499-curved-ultragear-display-today/"><u>Transform Your Workspace: Get the Immersive LG 34-Inch $499 Curved UltraGear Display Today!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-gaming-screens-selecting-the-top-5-ps5/"><u>Ultimate Gaming Screens Selecting the Top 5 (PS5)</u></a></li>
+</ul></div>
 

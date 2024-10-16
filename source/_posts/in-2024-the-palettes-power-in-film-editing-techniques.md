@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Palette's Power in Film Editing Techniques"
-date: 2024-10-05T17:08:58.442Z
-updated: 2024-10-09T16:15:26.333Z
+date: 2024-10-15T05:00:10.469Z
+updated: 2024-10-15T16:44:19.709Z
 tags: 
   - screen-recording
   - ai video
@@ -42,10 +42,10 @@ Color grading and color correction are processes that happen throughout postprod
 To summarize, Color grading can be used to make both technical and creative changes. Colorists use color grading for artistic purposes to ensure that the film's carefully curated color palette conveys a specific atmosphere, style, or emotion.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why is Color Grading Important?
@@ -77,10 +77,10 @@ Then select the New Project to create a new project file and click Import to fin
 ![put video to filmora cd](https://images.wondershare.com/filmora/article-images/2022/08/put-video-to-filmora-cd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step2There are 2 ways to color your video in Wondershare Filmora
@@ -92,6 +92,19 @@ Advanced Color Tools icon – click the Advanced Color Tools icon in the toolbar
 Color Panel Window - to perform color correction in Wondershare Filmora, switch to the Color tab. You can modify the white balance, saturation, tint, contrast, temperature, and brightness and apply 3D LUT immediately and quickly in this editing panel. You see the output in the Preview window.
 
 ![edit color grading video fx](https://images.wondershare.com/filmora/article-images/2022/08/edit-color-grading-video-fx.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Contrast**: is the variance in luminance or color that makes an object identifiable. By modifying this setting, control the dissimilarity in color and brightness in contrary parts of the video image.
 
@@ -119,13 +132,6 @@ First, you need to select the specific video portion you want to change the colo
 
 ![split video into clips fx](https://images.wondershare.com/filmora/article-images/2022/08/split-video-into-clips-fx.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * And I selected the end portion of the video. After that, choose the part of the video.
 
 ![selected end portion video filmora](https://images.wondershare.com/filmora/article-images/2022/08/selected-end-portion-video-filmora.jpg)
@@ -133,13 +139,6 @@ First, you need to select the specific video portion you want to change the colo
 ##### Step3Apply the color correction preset that you want then click ok
 
 ![apply color correction preset](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-correction-preset.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You will notice that the color changes depending on your selected preset.
 
@@ -150,6 +149,19 @@ In the Presets tab, there are different templates, including Common, 3D LUT, Vig
 Once you've finished correcting the video color, press Play and go over the whole video through the previewing window. If satisfied with the result, click the "Export" button to transport your video. Click the Settings button to modify settings if needed. You can save the new videos in different formats under the Format tab. If you want to play the edit file on devices like Tablet, iPad, Kindle Fire, PSP, Xbox, etc., go to the "Devices" tab and select the configured preset for the specific model. You can also upload the video output on Youtube for better preservation.
 
 ![preview and save video filmora](https://images.wondershare.com/filmora/article-images/2022/08/preview-and-save-video-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Using the Color Panel Window**
 
@@ -231,17 +243,20 @@ Overall, Color grading is the process of video editing to have an excellent look
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-quality-and-cost-savings-unite-in-best-asmr-mics/"><u>[New] 2024 Approved Quality and Cost Savings Unite in Best ASMR Mics</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ivestream-titans-clash-facebook-live-and-youtube-vs-twitter-spaces/"><u>[New] Livestream Titans Clash Facebook LIVE & YouTube Vs. Twitter Spaces</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-what-are-the-best-sites-to-download-text-effects/"><u>[Updated] 2024 Approved What Are The Best Sites To Download Text Effects?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-forego-youtube-previews-to-enjoy-live-videos/"><u>[Updated] In 2024, Forego YouTube Previews to Enjoy Live Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-master-strategies-to-stop-windows-10-photos-crashes/"><u>[Updated] In 2024, Master Strategies to Stop Windows 10 Photos Crashes</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-share-and-post-like-a-pro-mastering-instagram-gif-uploads-4-step-method/"><u>2024 Approved Share & Post Like a Pro Mastering Instagram GIF Uploads (4-Step Method)</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/artistic-additions-free-designs-for-youtube-crafting/"><u>Artistic Additions Free Designs for YouTube Crafting</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essential-free-templates-for-mastering-after-effects/"><u>Essential FREE Templates for Mastering After Effects</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/evaluate-the-essential-factors-prior-to-smart-surveillance-camera-setup/"><u>Evaluate the Essential Factors Prior to Smart Surveillance Camera Setup</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-14-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 14 Plus without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-direct-pathway-iphone-files-on-your-desktop/"><u>In 2024, Direct Pathway IPhone Files on Your Desktop</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-unassuming-beast-acer-aspire-c27s-compact-design-and-versatile-performance-for-modern-computing-needs/"><u>The Unassuming Beast: Acer Aspire C27's Compact Design and Versatile Performance for Modern Computing Needs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-amplify-your-brands-message-top-terminology-secrets-for-2024/"><u>[New] Amplify Your Brand’s Message Top Terminology Secrets for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-creating-auditory-immersion-with-canvas-soundscape-tools/"><u>[New] In 2024, Creating Auditory Immersion with Canva's Soundscape Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-ultimate-bundles-for-yi-4k-videographers/"><u>[New] The Ultimate Bundles for YI 4K Videographers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-ultimate-adobe-premiere-soundtrack-guide/"><u>[Updated] 2024 Approved The Ultimate Adobe Premiere Soundtrack Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-unlocking-the-power-of-voice-transcription-in-whatsapp-recording/"><u>[Updated] 2024 Approved Unlocking the Power of Voice Transcription in WhatsApp Recording</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-portrait-perfection-free-official-passport-image-generator-download-for-2024/"><u>[Updated] Portrait Perfection Free, Official Passport Image Generator Download for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-8-online-locations-for-3d-text-psd-downloads/"><u>2024 Approved Best 8 Online Locations for 3D Text PSD Downloads</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-essential-tips-for-navigating-telegram-web/"><u>2024 Approved Essential Tips for Navigating Telegram Web</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-15-pro-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-s24-ultra-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy S24 Ultra to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-nokia-105-classic-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Nokia 105 Classic Device</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-ultimate-guide-top-8-online-places-for-free-3d-text-files-for-2024/"><u>The Ultimate Guide Top 8 Online Places for Free 3D Text Files for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-flashy-game-collection-quick-and-lightweight-for-2024/"><u>Ultimate Flashy Game Collection - Quick and Lightweight for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ultimate-guide-to-mastering-final-cut-pro-essentials/"><u>Ultimate Guide to Mastering Final Cut Pro Essentials</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Navigating Pixiz's Tools for Photo-Video Craftsmanship\""
-date: 2024-09-13T16:17:20.817Z
-updated: 2024-09-17T19:59:51.611Z
+date: 2024-10-10T20:31:00.701Z
+updated: 2024-10-15T22:30:13.866Z
 tags: 
   - screen-recording
   - ai video
@@ -65,20 +65,27 @@ Step3Click on the select photo option and choose a photo.
 
 ![choose a photo](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4You can add more photos, in the same way, one by one (till the maximum number). Check below if the template you've chosen has the option to control the effect and speed (optional). Then, click on the **Go** button.
 
 ![click on go button](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step5Now click on download and then save. Your photo video will be saved in GIF format.
 
 ![click on download and save](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. The best software for creating slideshows - [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -90,13 +97,6 @@ The powerful video editing program Filmora is offered by Wondershare. It offers 
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How do you make photo videos using Filmora?
 
 Step1Download [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) from official website and click the setup wait till it install.
@@ -105,16 +105,16 @@ Step2Now **open** **Filmora** and **click** **new project**.
 
 ![open filmora](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3**Import** photos by **clicking** (import media) and then drag and drop them.
 
 ![import photos](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4 **Double-click the photo** to open options to make your photos fit the screen (in case there is a gap on the sides). A new box will appear. Under the primary option, click the **transform tab**. You can **increase** the **scale** option to make the photo fit.
 
@@ -125,10 +125,10 @@ Step5**Click** on the **Title** option in the top right and select the **title t
 ![click on the title](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step6**Double click the text** to open the box for **making edits in text**, font, color, and other options.
@@ -147,9 +147,29 @@ Step9To make your slideshow more appealing, you can also add transitions or effe
 
 ![add transitions or effects](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-13.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step10After finishing all the editing, you can export your creation to any format you want.
 
 ![export creation to any format](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -181,20 +201,27 @@ Step5**Click** on the **Title** option in the top right and select the **title t
 
 ![click on the title](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step6**Double click the text** to open the box for **making edits in text**, font, color, and other options.
 
 ![double click on the text box](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step7Let's add some music. **Click** the **audio tab** at the top right. Now **choose** some **music** and then **drag and drop** to add.
 
 ![add some music](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step8You can **double-click** the music to open the **settings box** and make changes.
 
@@ -238,5 +265,21 @@ So, Pixiz is an excellent service to make photo videos online by just uploading 
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-efficient-ways-to-terminate-your-discord-membership/"><u>[New] 2024 Approved Efficient Ways to Terminate Your Discord Membership</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-mastering-text-annotation-in-windows-photos-windows-11/"><u>[New] 2024 Approved Mastering Text Annotation in Windows Photos (Windows 11)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-master-your-media-display-with-these-12-videophones/"><u>[New] In 2024, Master Your Media Display with These 12 Videophones</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-ultimate-auditory-performances/"><u>[Updated] 2024 Approved Ultimate Auditory Performances</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-djix-fpv-goggles-usability-test-summary/"><u>[Updated] In 2024, DJiX FPV Goggles Usability Test Summary</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-harnessing-light-and-motion-for-gopro-time-lapse-magic/"><u>[Updated] In 2024, Harnessing Light and Motion for GoPro Time-Lapse Magic</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-multi-lens-modifiers-for-creative-video-effects/"><u>[Updated] Multi-Lens Modifiers for Creative Video Effects</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-accelerate-your-adrenaline-the-ultimate-5-racing-game-list/"><u>2024 Approved Accelerate Your Adrenaline The Ultimate 5 Racing Game List</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-15-after-ios-update-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Lost Data from iPhone 15 After iOS Update? | Stellar</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-interactive-communication-enhancing-your-youtube-presence/"><u>In 2024, Interactive Communication Enhancing Your YouTube Presence</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-steps-for-clean-startup/"><u>Mastering Windows 11: Steps for Clean Startup</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-background-extraction-in-figma-designs-easily/"><u>Navigating Background Extraction in Figma Designs Easily</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/navigating-through-endless-streams-of-data-how-companies-can-tackle-the-challenge-lessons-by-abbyy-experts/"><u>Navigating Through Endless Streams of Data: How Companies Can Tackle the Challenge - Lessons by ABBYY Experts</u></a></li>
+<li><a href="https://driver-download.techidaily.com/speedy-and-straightforward-how-to-get-the-newest-surface-dock-driver/"><u>Speedy & Straightforward: How to Get the Newest Surface Dock Driver</u></a></li>
+</ul></div>
 

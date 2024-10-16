@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Proiphone Techniques  Capturing Perfect Close-Up and Macro Shots\""
-date: 2024-10-04T17:22:25.765Z
-updated: 2024-10-09T21:53:00.855Z
+date: 2024-10-10T19:11:04.297Z
+updated: 2024-10-15T23:33:33.054Z
 tags: 
   - screen-recording
   - ai video
@@ -55,10 +55,10 @@ There is, so if you're looking to get to grips with this type of photography, yo
 With your iPhone macro photography and close-up shooting are both possible and can bring great results if you know what you're doing. However, for the really professional touch, an investment in a macro lens or specialist app will certainly kick your photography skills into high gear.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Section 2. iPhone Macro Photography Tips
@@ -70,13 +70,6 @@ Taking great photos in macro mode isn't always as easy as it looks. Novice users
 Shooting in the macro range requires decent lighting, so consider when and how you are positioning your images. Early morning and midafternoon are great times of day to plan a shoot, as the soft, natural light is ideal for macro photography. Taking photos in the blazing midday sun can cause overexposure, and your iPhone may struggle to focus too.
 
 ![](https://images.wondershare.com/filmora/article-images/close-up-photography-light.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Image source: Urdu-Mag.com
 
@@ -110,13 +103,6 @@ When you're shooting macro images with your iPhone, the intention is to make the
 
 ![](https://images.wondershare.com/filmora/article-images/macro-photography-distance.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Image source: GCFLearnFree
 
 Make the subject center stage by positioning your composition to give the least cluttered background possible. Use the sky if you can, or experiment with textured backgrounds such as a wall or fence. Think about how far your subject is from the background, as the further away the background is, the more blurry it will become and the greater the contrast of focus on your subject will appear.
@@ -126,6 +112,13 @@ Make the subject center stage by positioning your composition to give the least 
 If you've researched photography in general, you'll already have heard of the ‘rule of thirds'. This rule is super simple to apply when using an iPhone and is just as relevant in macro photography as it is when shooting landscapes or any other composition.
 
 ![](https://images.wondershare.com/filmora/article-images/macro-photography-composition.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Image source: SmashingHub
 
@@ -163,13 +156,20 @@ Explore, experiment, and practice, and you'll soon find your own style and be th
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -197,18 +197,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-boosting-views-through-imaginative-video-thumbnails/"><u>[New] 2024 Approved Boosting Views Through Imaginative Video Thumbnails</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-complete-handbook-enhancing-productivity-using-mobizen-recorder/"><u>[New] 2024 Approved Complete Handbook Enhancing Productivity Using Mobizen Recorder</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-ultimate-visuals-with-the-top-18-4k-cameras-reviewed/"><u>[New] 2024 Approved Ultimate Visuals with the Top 18 4K Cameras Reviewed</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-mastering-text-annotation-in-windows-photos-windows-11/"><u>[New] In 2024, Mastering Text Annotation in Windows Photos (Windows 11)</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-innovative-approaches-to-social-media-video-making-for-2024/"><u>[New] Innovative Approaches to Social Media Video Making for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-7-best-video-player-for-mac-for-2024/"><u>[Updated] 7 Best Video Player for Mac for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/concurrent-capture-masterclass-webcam-and-desktop-for-2024/"><u>Concurrent Capture Masterclass Webcam & Desktop for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-guide-to-updating-logitech-m510-driver-software-instructions/"><u>Easy Guide to Updating Logitech M510 - Driver Software Instructions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-honor-x7b-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Honor X7b</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Vivo S18e? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/photographers-guide-to-effective-watermarking/"><u>Photographers' Guide to Effective Watermarking</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-ideas-into-greatness-the-role-of-chatgpt-in-enhancing-content-and-creativity/"><u>Transforming Ideas Into Greatness: The Role of ChatGPT in Enhancing Content & Creativity</u></a></li>
-<li><a href="https://fox-access.techidaily.com/useful-tips-and-apps-for-taking-amazing-android-photography/"><u>Useful Tips and Apps for Taking Amazing Android Photography</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-exploring-new-dimensions-choose-the-best-vr-headsets-for-metaverse/"><u>[New] Exploring New Dimensions Choose the Best VR Headsets for Metaverse</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-unlocking-youtubes-viewer-count-secret-weights/"><u>[New] In 2024, Unlocking YouTube's Viewer Count Secret Weights</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-kickstarting-with-gopro-the-top-10-list-of-perks/"><u>[New] Kickstarting with GoPro The Top 10 List of Perks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-top-10-cinemagraphic-cameras-a-guide-from-novices-to-experts/"><u>[Updated] In 2024, Top 10 Cinemagraphic Cameras A Guide From Novices to Experts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-uniting-realms-a-comparative-study-of-mr-ar-and-vr-technologies-for-2024/"><u>[Updated] Uniting Realms A Comparative Study of MR, AR, and VR Technologies for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-hacks-for-hassle-free-podcast-streaming/"><u>In 2024, Hacks for Hassle-Free Podcast Streaming</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-perfected-audio-chain-guidebook/"><u>In 2024, Perfected Audio Chain Guidebook</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/simple-android-voice-capture-no-root-access-for-2024/"><u>Simple Android Voice Capture - No Root Access for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-dilemma-what-to-do-when-rockaldlldll-is-missing-or-not-found/"><u>Solving the Dilemma: What to Do when rockaldll.dll Is Missing or Not Found?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-ultimate-playbook-seamless-hulu-saving-on-winmacmobile-for-2024/"><u>The Ultimate Playbook Seamless Hulu Saving on Win/Mac/Mobile for 2024</u></a></li>
 </ul></div>
 

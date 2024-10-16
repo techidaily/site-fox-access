@@ -1,7 +1,7 @@
 ---
 title: "Swift Solutions for the Window's 10 Photos App Stability Woes for 2024"
-date: 2024-09-10T17:45:03.774Z
-updated: 2024-09-17T22:00:42.116Z
+date: 2024-10-09T05:08:07.365Z
+updated: 2024-10-16T02:15:30.177Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 
 ## How to fix Windows 10 Photos app crashes
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 1: Use the Troubleshooter
 
 The Windows Troubleshooter is an inbuilt troubleshooting feature embedded with Windows 10 computers. It allows a simple interface to help you choose any application for troubleshooting. Windows Troubleshooter resolves basic issues with the Windows computer so that users can seamlessly use all Windows 10 system features and functionalities.
@@ -72,13 +79,20 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 3: Reset it
@@ -90,19 +104,6 @@ Here is how can you reset it –
 1. Go to ‘Windows 10 Start Menu’ and then click ‘Settings’. Now, click the ‘Apps (Apps & Features)’ option followed by the ‘Photos’ app.
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 4: Repair Photos App package
 
@@ -134,6 +135,13 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -157,5 +165,24 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-logo-magic-sprucing-up-your-podcasts-visual-appeal/"><u>[New] 2024 Approved Logo Magic Sprucing Up Your Podcast's Visual Appeal</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-syncopated-syntax-showcase/"><u>[New] 2024 Approved Syncopated Syntax Showcase</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-analyzing-the-latest-in-facetune-a-comprehensive-review-for-2024/"><u>[New] Analyzing the Latest in Facetune - A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-pros-5-virtual-helmets-a-drone-racers-choice/"><u>[New] In 2024, Pro's 5 Virtual Helmets A Drone Racer's Choice</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-from-doodles-to-success-your-guide-to-a-flourishing-design-career/"><u>[Updated] From Doodles to Success Your Guide to a Flourishing Design Career</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-top-15-film-enhancing-luts-for-gopro-cameras/"><u>[Updated] In 2024, Top 15 Film-Enhancing LUTs for GoPro Cameras</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mastering-video-privacy-the-art-of-concealing-details-for-2024/"><u>[Updated] Mastering Video Privacy The Art of Concealing Details for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-real-world-usability-of-photoshops-motion-reduction-for-2024/"><u>[Updated] The Real-World Usability of Photoshop’s Motion Reduction for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-unmatched-streaming-excellence-top-1enas-comparative-analysis-for-2024/"><u>[Updated] Unmatched Streaming Excellence Top 1Enas Comparative Analysis for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-creativity-build-logos-using-free-template-inspiration/"><u>2024 Approved Unleash Creativity Build Logos Using Free Template Inspiration</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/expert-tips-for-linking-your-youtube-and-tiktok-video-sources/"><u>Expert Tips for Linking Your YouTube & TikTok Video Sources</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-realme-note-50-screen-sharing-drfone-by-drfone-android/"><u>How To Do Realme Note 50 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-11-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Realme 11 Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-samsung-galaxy-a14-4g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Samsung Galaxy A14 4G FRP</u></a></li>
+<li><a href="https://fox-access.techidaily.com/rhythm-discoveries-at-your-fingertips-free-online-for-2024/"><u>Rhythm Discoveries at Your Fingertips (Free, Online) for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seamless-podcast-experience-for-iphone-users-for-2024/"><u>Seamless Podcast Experience for iPhone Users for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unveiling-facebooks-video-ratio-options-and-tweaks-for-2024/"><u>Unveiling Facebook's Video Ratio Options & Tweaks for 2024</u></a></li>
+</ul></div>
 

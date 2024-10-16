@@ -1,7 +1,7 @@
 ---
 title: "Mastering Quick Windows Documentation Checks for 2024"
-date: 2024-09-16T17:40:27.665Z
-updated: 2024-09-17T22:24:36.690Z
+date: 2024-10-11T19:39:47.480Z
+updated: 2024-10-15T20:27:44.388Z
 tags: 
   - screen-recording
   - ai video
@@ -45,6 +45,13 @@ Step3 After successfully installing QuickLook, head to File Explorer and select 
 
 Unfortunately, you won’t preview the content inside the document file. Instead, you’ll only see details like the file type/format, size, image name, and more. You can also directly choose the opening app. As for videos and audio, the media file will automatically play on the QuickLook media player. But don’t fret because the following section will teach you to read your documents, presentations, PDFs, and other files on QuickLook without opening the file.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Get the App on GitHub
 
 If you can’t find QuickLook on Microsoft Store for one reason or another, download the program from GitHub. It’s an open-source community where millions of software developers converge to distribute and share their work. Here, you can download and install multiple desktop programs and plugins for free. However, you must be a registered member to contribute any content.
@@ -54,6 +61,13 @@ So, without wasting time, let’s go through the steps to download the QuickLook
 Step1 Visit the [QuickLook GitHub](https://github.com/QL-Win/QuickLook) page and then navigate to Releases. Click the latest version.
 
 ![click the latest quicklook for windows version](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 Scroll down and download the .msi file. After downloading the installation file successfully, install it on your computer.
 
@@ -67,6 +81,13 @@ Step4 After a successful installation, find the file you want to preview and sel
 
 **Pro tip**: We recommend installing the QuickLook OfficeViewer plugin to rip open your Office files and view the content inside. This method is recommended if you haven’t installed Microsoft Office on your PC. However, you might notice that the OfficeViewer plugin isn’t supported on your Windows PC. So to install OfficeViewer, select the file and click the space bar to preview it on QuickLook. Then, tap the “Click here to install this plugin” button. Now restart QuickLook and view all your office documents without opening them on their respective programs.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Should We Expect Built-in Quick Look on Windows in the Future?
 
 Mac users have enjoyed the powerful QuickLook capabilities for at least 15 years. But are we going to see QuickLook coming to Windows 10/11 anytime soon? According to sources, plans are already underway to add this feature to Microsoft Windows and rename it Peek. After selecting a file on Explorer, simply tap the Shift + Space bar to preview the content. Like the macOS version, you can preview PDFs, Excels, Words, images, videos, audio, and pretty much anything.
@@ -76,16 +97,10 @@ Meanwhile, it’s expected that QuickLook will come with a small preview screen.
 In other related news, Microsoft will be answering the prayers of their loyal patrons to get tabbed browsing. This is another feature similar to what you currently have on macOS, where you can open new tabs for numerous file locations. In return, this makes moving and copying files more straightforward. This easy-to-navigate addition will definitely make Microsoft Windows users more productive than before.
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: Frequently Asked Questions
@@ -101,19 +116,6 @@ Unfortunately, Microsoft QuickLook doesn’t offer native support for E-books. B
 #### 3\. Can QuickLook for Mac edit files?
 
 Now this is one of the primary advantages of using the Mac QuickLook. You can trim video and audio clips, rotate photos, and use markups directly on the program. We hope that the Windows version will add these convenient features as well.
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -147,5 +149,21 @@ This guidepost is another testament that your PC has massive hidden abilities. W
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-techniques-to-combat-unsteady-shot-dynamics/"><u>[New] 2024 Approved Techniques to Combat Unsteady Shot Dynamics</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-elevate-your-stream-with-these-5-top-tier-cams/"><u>[Updated] Elevate Your Stream with These 5 Top-Tier Cams</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-secrets-of-effortless-online-video-downloading-on-pinterest/"><u>[Updated] In 2024, Secrets of Effortless Online Video Downloading on Pinterest</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-best-screen-recorder-apowersoft-vs-others/"><u>[Updated] In 2024, The Best Screen Recorder Apowersoft vs Others</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-smart-shopping-for-cloud-storages-best-price-secrets-revealed/"><u>[Updated] Smart Shopping for Cloud Storages Best Price Secrets Revealed</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/best-web-conversion-solutions-for-direct-hassle-free-gif-to-video-for-2024/"><u>Best Web Conversion Solutions For Direct, Hassle-Free GIF To Video for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-circumventing-edgenuity-effortlessly-a-students-guide/"><u>In 2024, Circumventing Edgenuity Effortlessly A Student's Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-vimeo-recorder-tips-effective-screen-and-camera-capturing-techniques/"><u>In 2024, Vimeo Recorder Tips Effective Screen & Camera Capturing Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/lost-and-found-30-free-speech-to-text-mac-hits/"><u>Lost and Found 30 Free Speech-to-Text Mac Hits</u></a></li>
+<li><a href="https://fox-access.techidaily.com/monitor-mastery-understanding-the-benefits-of-ultrawide-vs-uhd-4k/"><u>Monitor Mastery Understanding the Benefits of UltraWide vs UHD 4K</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-cut-trim-and-tailor-audio-files-in-seconds-using-these-top-7-web-based-tools/"><u>New Cut, Trim, and Tailor Audio Files in Seconds Using These Top 7 Web-Based Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/secrets-revealed-streamlined-importation-on-windows-10-os/"><u>Secrets Revealed Streamlined Importation on Windows 10 OS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-great-gimbal-debate-hero-black-vs-km-170/"><u>The Great Gimbal Debate HERO Black vs KM-170</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-critical-errors-the-ultimate-fix-for-gobi-fatal-error-in-back-4-blood/"><u>Troubleshooting Critical Errors: The Ultimate Fix for 'Gobi Fatal Error in Back 4 Blood'</u></a></li>
+</ul></div>
 
