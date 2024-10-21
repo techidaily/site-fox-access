@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Illuminated Influence  Elevating Your Cinematic Presentations\""
-date: 2024-09-11T16:10:33.165Z
-updated: 2024-09-12T16:10:33.165Z
+date: 2024-10-16T17:34:31.012Z
+updated: 2024-10-21T17:43:45.697Z
 tags: 
   - screen-recording
   - ai video
@@ -26,13 +26,6 @@ Therefore, this article will give you a complete guide on how to set up your lig
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1\. How-to Guide
 
@@ -66,25 +59,11 @@ The key light is the main light that illuminates the subject. You can place it i
 
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
 ##### Step3 Set the Backlight
 
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
 
@@ -94,13 +73,6 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
@@ -109,25 +81,11 @@ Finally, we have a few other small LED lights like this unicorn to put in the ba
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After setting up all the lighting above, you can take a look at the comparison below:
 
 **Using Key Light only**
 
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Using Key Light + Fill + Backlight**
 
@@ -138,6 +96,13 @@ After setting up all the lighting above, you can take a look at the comparison b
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -171,5 +136,22 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-diy-digital-footprint-creating-youtube-thumbnails-from-mobile-devices/"><u>[Updated] 2024 Approved DIY Digital Footprint Creating YouTube Thumbnails From Mobile Devices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-audiovisual-speed-adjustment-arsenal-list/"><u>2024 Approved Audiovisual Speed Adjustment Arsenal List</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-boundless-playlist-public-domain-music-for-games/"><u>2024 Approved Boundless Playlist Public Domain Music for Games</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-breakdown-of-essential-features-in-movie-maker-for-windows-8/"><u>2024 Approved Breakdown of Essential Features in Movie Maker for Windows 8</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-dual-task-perfection-iphones-single-action-capture/"><u>2024 Approved Dual-Task Perfection IPhone's Single Action Capture</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-intro-magic-unmatched-editors-across-all-tech/"><u>2024 Approved Intro Magic Unmatched Editors Across All Tech</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-premium-scenery-selections-for-streams/"><u>2024 Approved Premium Scenery Selections for Streams</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipating-the-new-google-extravaganza-insights-on-speculations-and-fresh-disclosures/"><u>Anticipating the New Google Extravaganza - Insights on Speculations & Fresh Disclosures</u></a></li>
+<li><a href="https://fox-access.techidaily.com/crafting-transitional-beats-with-cross-sound-blending-for-2024/"><u>Crafting Transitional Beats with Cross-Sound Blending for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-for-playing-fallout-3-without-crashes-on-windows-10-systems/"><u>Expert Advice for Playing Fallout 3 Without Crashes on Windows 10 Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guia-facil-para-converter-voz-de-whatsapp-a-formato-mp3-y-sin-costo/"><u>Guía Fácil Para Converter Voz De WhatsApp a Formato MP3 Y Sin Costo</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xs-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XS to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-best-of-the-best-10-free-whiteboard-animation-software-for-pc-and-mac/"><u>New In 2024, Best of the Best 10 Free Whiteboard Animation Software for PC and Mac</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/simplified-methods-to-close-unused-social-media-linkedin-account/"><u>Simplified Methods to Close Unused Social Media (LinkedIn) Account</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-6-pillars-of-effective-facebook-live-website-integration/"><u>The 6 Pillars of Effective Facebook Live Website Integration</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, How To Remove Background In Figma  A Comprehensive Guide\""
-date: 2024-10-13T01:47:23.852Z
-updated: 2024-10-15T18:37:11.011Z
+date: 2024-10-16T18:32:25.661Z
+updated: 2024-10-21T17:08:45.952Z
 tags: 
   - screen-recording
   - ai video
@@ -38,10 +38,10 @@ As aforementioned, **Figma** does not offer a **Background Remover** tool but co
 Since you want to remove the image's background, there is no better plugin than [Wondershare PixCut](https://pixcut.wondershare.com/), a free tool that helps you erase your picture's BG instantly. With this plugin, you can edit up to files per day, and that too in high-quality resolution.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why Use The PixCut Tool?
@@ -72,13 +72,6 @@ Step1 First, open a browser, visit the [Figma website](https://www.figma.com), a
 
 ![importing image to figma to remove background](https://images.wondershare.com/filmora/article-images/2023/03/importing-image-to-figma-to-remove-background.png)
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Once the import process is complete, click **"Done"** in the pop-up window and open your image. Now, click the "**Main Menu"** icon and choose **"Plugins" > "Find More Plugins"** from the drop-down menu.
 
 Step2 Next, search for **"**[**PixCut Background Remover**](https://www.figma.com/community/plugin/990188175789012011)**"** using the search option and select it from the result. Click **"Run,"** choose the **"Select App key"** option from the drop-down menu, and you will be asked for your **"Appkey."**
@@ -96,10 +89,10 @@ The program will start running the plugin, and the background of your image will
 Apart from using PixCut Plugin in Figma, there are some alternatives that you can use to remove the image's background in Figma:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### (1) When Images Are With Transparent or Solid Colour Backgrounds
@@ -108,6 +101,13 @@ Follow these tips to remove the background of images with transparent or solid c
 
 * When saving your images from programs like Photoshop, make sure to save them with transparent background. This way, when you import it to Figma, the BG will be removed automatically.
 * If your image has a solid background, import it to Figma and use the **"Edit Color"** tool to change the BG to transparent.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### (2) 3 Other Figma Plugins
 
@@ -137,6 +137,13 @@ Another alternative is to use any tool that **removes the image background onlin
 
 To use the Remove BG tool, visit its website, drop your image file, or click the **"Upload"** option to import your file. Now, wait for the program to process your image and then click **"Download"** to save your picture. Afterward, you can import it to Figma for further editing.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Video Tutorial - How to remove background from images in Figma in 2minutes
 
 Hopefully, you have found an ideal solution by now. To help you remove the image's background in Figma with more ease, we have prepared a video for you. You can combine the video content with the guidance above:
@@ -162,10 +169,10 @@ Step3 Select **"Find More Plugins"** and use the search option in the pop-up win
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### (3) Using Online Removers
@@ -177,13 +184,6 @@ To use the Remove BG tool, visit its website, drop your image file, or click the
 ## Video Tutorial - How to remove background from images in Figma in 2minutes
 
 Hopefully, you have found an ideal solution by now. To help you remove the image's background in Figma with more ease, we have prepared a video for you. You can combine the video content with the guidance above:
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -217,22 +217,18 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-convincing-openers-stellar-podcast-entries/"><u>[New] Convincing Openers Stellar Podcast Entries</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-crafting-visual-wonders-the-art-of-3d-text-in-psartwork/"><u>[New] Crafting Visual Wonders The Art of 3D Text in PSArtwork</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/1716069399367-new-easy-way-to-establish-collaborative-conversations-on-skype-regardless-of-your-operating-system-for-2024/"><u>[New] Easy Way to Establish Collaborative Conversations on Skype, Regardless of Your Operating System. For 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-filtering-the-truth-in-your-insta-network-for-2024/"><u>[New] Filtering the Truth in Your Insta Network for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-layer-chords-over-ppt-slides/"><u>[New] In 2024, Layer Chords over PPT Slides</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-iphone-hdr-masterclass-from-basics-to-brilliance-for-2024/"><u>[New] IPhone HDR Masterclass From Basics to Brilliance for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-ending-static-audio-in-obs-streams-for-2024/"><u>[Updated] Ending Static Audio in OBS Streams for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-depth-analysis-of-the-lightroom-app-for-android-users/"><u>[Updated] In-Depth Analysis of the Lightroom App for Android Users</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-youtube-link-building-strategies/"><u>[Updated] Mastering YouTube Link-Building Strategies</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-discovering-the-ultimate-set-of-text-tools-for-ae-artistry/"><u>2024 Approved Discovering the Ultimate Set of Text Tools for AE Artistry</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/extracting-music-tracks-from-fb-for-2024/"><u>Extracting Music Tracks From Fb for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/from-raw-footage-crafting-engaging-videos-on-windows-11/"><u>From Raw Footage Crafting Engaging Videos on Windows 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-vivo-y56-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Vivo Y56 5G Lock Screen Password</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-motorola-moto-g-stylus-2023-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Motorola Moto G Stylus (2023)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-top-5-avant-garde-creators-in-digital-media/"><u>In 2024, Top 5 Avant-Garde Creators in Digital Media</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/samsung-55-inch-ru7300-4k-smart-tv-review-worth-the-curves/"><u>Samsung 55-Inch RU7300 4K Smart TV Review: Worth the Curves</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-blind-faith-in-ai-can-be-risky-top-6-concerns/"><u>Why Blind Faith in AI Can Be Risky: Top 6 Concerns</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-graphicgrind-studio/"><u>[New] In 2024, GraphicGrind Studio</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-discover-a-world-of-creative-slide-show-patterns-at-no-cost/"><u>2024 Approved Discover a World of Creative Slide Show Patterns at No Cost</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-guffaw-generator-cyborg-comic-coders/"><u>2024 Approved Guffaw Generator Cyborg Comic Coders</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-effortlessly-run-apps-and-videos-together-in-chrome/"><u>2024 Approved How to Effortlessly Run Apps & Videos Together In Chrome</u></a></li>
+<li><a href="https://fox-access.techidaily.com/background-beats-guide-tunes-for-visuals-for-2024/"><u>Background Beats Guide Tunes for Visuals for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/best-audio-picks-high-quality-sites-compilation-for-2024/"><u>Best Audio Picks High-Quality Sites Compilation for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-tips-for-forced-deletion-of-resistant-folders-in-modern-windows-os-using-revo-uninstaller-tool/"><u>Expert Tips for Forced Deletion of Resistant Folders in Modern Windows OS Using Revo Uninstaller Tool</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oneplus-open-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to OnePlus Open Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-note-30-vip-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Note 30 VIP</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-poco-c51-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Poco C51 to iPad | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-instantaneous-youtube-audiences-trackers/"><u>In 2024, Instantaneous YouTube Audiences Trackers</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-get-origin-browser-working-again-in-windows-n-version-11/"><u>Resolved: How to Get Origin Browser Working Again in Windows N Version 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-setting-up-wi-fi-calling-for-smartphones-and-laptops/"><u>Step-by-Step Guide: Setting up Wi-Fi Calling for Smartphones and Laptops</u></a></li>
 </ul></div>
 

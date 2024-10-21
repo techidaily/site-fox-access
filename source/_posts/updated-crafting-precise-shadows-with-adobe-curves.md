@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Crafting Precise Shadows with Adobe Curves"
-date: 2024-09-11T16:16:06.816Z
-updated: 2024-09-12T16:16:06.816Z
+date: 2024-10-19T18:12:13.949Z
+updated: 2024-10-21T18:44:45.371Z
 tags: 
   - screen-recording
   - ai video
@@ -39,31 +39,11 @@ After creating the new document, open the image that you want to curve. You may 
 
 ![place image in photoshop](https://images.wondershare.com/filmora/article-images/2022/09/place-image-in-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step3Warp the Image
 
 Now we'll curve the image using the Warp Tool. Select the Warp Tool by clicking and holding on the Transform Tool in the toolbar. The Warp Tool is located at the bottom of the Transform Tool's fly-out menu. Alternatively, you may press Ctrl+T or Command+T on your keyboard to open the Transform Tool's fly-out menu and then select the Warp Tool from there.
 
 ![wrap image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/wrap-image-photoshop.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 With the Warp Tool selected, hover your cursor over the image. You'll see a grid appear over the image. Click and drag one of the middle nodes in the horizontal direction to begin curving the image. As you drag, you'll see the image curve along with your cursor. If you want to increase or decrease the amount of curvature, simply press and hold the Shift key while dragging the node.
 
@@ -75,51 +55,30 @@ Play around with the settings in the options bar. There are quite a few differen
 
 ![change horizontal distortion photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-horizontal-distortion-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Vertical Distortion** makes the image look as if it's leaning backward.
 
 ![verticle distortion image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/verticle-distortion-image-photoshop.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The **Bend Direction** option rotates the angle of the bend.
 
 ![bend direction image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/bend-direction-image-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
 
 ![flip effect image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/flip-effect-image-photoshop.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step4Save the Image
 
 Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved
 
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -153,5 +112,26 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-can-you-afford-to-exclude-itop-from-your-setup/"><u>[New] 2024 Approved Can You Afford to Exclude ITop From Your Setup?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-image-savers-optimizing-video-graphics/"><u>[New] 2024 Approved FREE Image Savers Optimizing Video Graphics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-elevate-your-cinematography-mastering-transitions-in-kinemaster-for-2024/"><u>[New] Elevate Your Cinematography Mastering Transitions in Kinemaster for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-top-10-best-text-plugins-for-ae-users/"><u>[New] Top 10 Best Text Plugins for AE Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-apply-stunning-radial-blur-to-enhance-digital-images/"><u>[Updated] 2024 Approved Apply Stunning Radial Blur to Enhance Digital Images</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-dive-deep-into-video-creation-with-these-top-12-vlogger-friendly-cameras/"><u>[Updated] 2024 Approved Dive Deep Into Video Creation with These Top 12 Vlogger-Friendly Cameras</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-focal-flares-amplifying-your-footage-visually/"><u>[Updated] 2024 Approved Focal Flares Amplifying Your Footage Visually</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-high-performance-graphics-displayed-by-asus-proart/"><u>[Updated] 2024 Approved High-Performance Graphics Displayed by ASUS ProArt</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-analyzing-the-precision-of-yis-4k-actioncam-for-2024/"><u>[Updated] Analyzing the Precision of Yi's 4K ActionCam for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-crashes-in-total-war-three-kingdoms-a-comprehensive-guide/"><u>Fixing Crashes in Total War - Three Kingdoms: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-effective-wellness-ads-on-social-media-platforms/"><u>In 2024, Effective Wellness Ads on Social Media Platforms</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-lava-yuva-3-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Lava Yuva 3 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-mastering-youtube-settings-to-eliminate-video-skips/"><u>In 2024, Mastering YouTube Settings to Eliminate Video Skips</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-smooth-file-migration-to-computer-5-proven-techniques/"><u>In 2024, Smooth File Migration to Computer – 5 Proven Techniques</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-subscribe-like-a-pro-true-or-false/"><u>In 2024, Subscribe Like a Pro True or False?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/pros-and-cons-of-inshot-is-it-the-ultimate-editor/"><u>Pros and Cons of InShot Is It the Ultimate Editor?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-kernel32dll-problems-on-your-pc-a-comprehensive-guide/"><u>Resolving Kernel32.dll Problems on Your PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/visual-virtuosity-the-ultimate-collection-of-11-expert-tutorials/"><u>Visual Virtuosity The Ultimate Collection of 11 Expert Tutorials</u></a></li>
+</ul></div>
 
