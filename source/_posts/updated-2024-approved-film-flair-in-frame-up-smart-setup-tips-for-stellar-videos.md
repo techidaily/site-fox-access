@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Film Flair in Frame-Up  Smart Setup Tips for Stellar Videos\""
-date: 2024-09-11T16:07:36.407Z
-updated: 2024-09-12T16:07:36.407Z
+date: 2024-10-22T16:40:11.777Z
+updated: 2024-10-27T16:34:36.420Z
 tags: 
   - screen-recording
   - ai video
@@ -26,13 +26,6 @@ Therefore, this article will give you a complete guide on how to set up your lig
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1\. How-to Guide
 
@@ -66,13 +59,6 @@ The key light is the main light that illuminates the subject. You can place it i
 
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
 ##### Step3 Set the Backlight
@@ -91,42 +77,15 @@ Then, we also have a LED ring light that shines toward the camera. The light add
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After setting up all the lighting above, you can take a look at the comparison below:
 
 **Using Key Light only**
 
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Using Key Light + Fill + Backlight**
 
@@ -139,16 +98,10 @@ We usually set the lights around 50% brightness and a color temperature of 5600K
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Summary
@@ -183,5 +136,22 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-how-to-enhance-networked-stream-quality-with-vlc/"><u>[New] How to Enhance Networked Stream Quality with VLC</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-instant-luxury-iphones-extended-shutter-mastery-for-2024/"><u>[New] Instant Luxury IPhone's Extended Shutter Mastery for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-amplifying-photos-through-acoustics-internet-based/"><u>[Updated] 2024 Approved Amplifying Photos Through Acoustics, Internet-Based</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-mastering-the-art-of-adding-linktree-to-your-tiktok-info/"><u>[Updated] 2024 Approved Mastering the Art of Adding Linktree to Your TikTok Info</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-diy-iphone-photography-learn-to-smudge-images-on-no-budget/"><u>[Updated] DIY iPhone Photography Learn to Smudge Images on No Budget</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-enhancing-googles-speech-to-text-capabilities-effectively/"><u>[Updated] Enhancing Google's Speech-to-Text Capabilities Effectively</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-from-novices-to-vectors-grasping-the-basics-and-choices-for-2024/"><u>[Updated] From Novices to Vectors Grasping the Basics and Choices for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-elevate-your-pc-screenshots-with-apowersofts-tool/"><u>[Updated] In 2024, Elevate Your PC Screenshots with Apowersoft’s Tool</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-quicktime-stop-screen-recording-guide/"><u>[Updated] Quicktime Stop Screen Recording (Guide)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-battle-for-yggdrasil-ragnarok-begins/"><u>In 2024, Battle for Yggdrasil Ragnarok Begins</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-discover-the-leading-15-cost-effective-online-photo-editors-2023/"><u>In 2024, Discover the Leading 15 Cost-Effective Online Photo Editors, 2023</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/masterclass-choosing-the-top-fps-games/"><u>Masterclass Choosing the Top FPS Games</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swiftly-settle-m-track-driver-problems/"><u>Swiftly Settle M-Track Driver Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-obs-why-is-my-screen-recording-no-longer-working/"><u>Troubleshooting OBS: Why Is My Screen Recording No Longer Working?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Splendid Scenery  Crafting Visuals with Strategic Lighting for 2024\""
-date: 2024-09-11T16:08:54.308Z
-updated: 2024-09-12T16:08:54.308Z
+date: 2024-10-21T16:05:58.307Z
+updated: 2024-10-27T16:25:14.254Z
 tags: 
   - screen-recording
   - ai video
@@ -53,13 +53,6 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
 ##### Step2 Set the Fill Light
@@ -84,23 +77,9 @@ Then, we also have a LED ring light that shines toward the camera. The light add
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After setting up all the lighting above, you can take a look at the comparison below:
 
@@ -108,23 +87,9 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Using Key Light + Fill + Backlight**
 
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **_3) Pro Tips: The light setting_**
 
@@ -133,10 +98,10 @@ We usually set the lights around 50% brightness and a color temperature of 5600K
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Summary
@@ -171,5 +136,21 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-transform-your-videos-with-simple-inshot-techniques/"><u>[New] 2024 Approved Transform Your Videos with Simple Inshot Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-drones-decoded-an-owners-primer-for-first-time-buyers/"><u>[New] Drones Decoded An Owner's Primer for First-Time Buyers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-expert-roundup-videonix-editors-capabilities/"><u>[New] In 2024, Expert Roundup Videonix Editor's Capabilities</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-innovative-cameras-for-high-stakes-athletics/"><u>[Updated] 2024 Approved Innovative Cameras for High-Stakes Athletics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-instant-reddit-history-retrieval-for-deleted-threads-for-2024/"><u>[Updated] Instant Reddit History Retrieval for Deleted Threads for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-tier-extended-reality-experience-makers-for-2024/"><u>[Updated] Top-Tier Extended Reality Experience Makers for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/collabcanvas-pro-instagram-video-mosaics-unite-for-2024/"><u>CollabCanvas Pro Instagram Video Mosaics Unite for 2024</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/convert-trp-files-to-mp4-streaming-no-cost-with-movavi-tool/"><u>Convert TRP Files to MP4 Streaming: No Cost with Movavi Tool</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-most-inspiring-movies-ranked-1-11-for-personal-empowerment/"><u>Discover the Most Inspiring Movies Ranked #1-#11 for Personal Empowerment</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-s24-ultra-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy S24 Ultra Phones with/without a PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ios-16-update-unveiled-enhance-your-iphone-experience-with-expert-lock-screen-hacks/"><u>IOS 16 Update Unveiled: Enhance Your iPhone Experience with Expert Lock Screen Hacks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/navigating-kinemaster-wisely-skills-and-top-ranked-digital-counterparts/"><u>Navigating KineMaster Wisely Skills and Top-Ranked Digital Counterparts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/viewing-instagrams-shared-moments-without-creating-an-account/"><u>Viewing Instagram's Shared Moments without Creating an Account</u></a></li>
+</ul></div>
 

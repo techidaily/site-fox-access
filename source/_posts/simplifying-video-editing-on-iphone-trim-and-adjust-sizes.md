@@ -1,7 +1,7 @@
 ---
 title: "\"Simplifying Video Editing on iPhone  Trim & Adjust Sizes\""
-date: 2024-09-11T16:07:58.373Z
-updated: 2024-09-12T16:07:58.373Z
+date: 2024-10-24T16:27:02.437Z
+updated: 2024-10-27T16:07:01.975Z
 tags: 
   - screen-recording
   - ai video
@@ -50,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
 
 ![iphone photo](https://images.wondershare.com/filmora/article-images/iPhone_video_edit_default.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 2. [iMovie](https://itunes.apple.com/us/app/imovie/id377298193?mt=8&ign-mpt=uo%3D8)
 
  iMovie is another simple application to use. Solid design, simple usage and intuitive multi-touch gesture makes this app an all time winner. Especially when you are answering " how to shorten a video on iPhone? Despite its editing capabilities, we will keep our focus on video resizing. It's a video size reducer, that can import file directly from iPhone. There are many options to trim, rotate, duplicate, split or delete clip. By default a photo in a timeline will be a clip for 6 to 12 seconds of onscreen time. Trimming photo will mean cutting the on-screen duration.
@@ -67,21 +60,7 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
 
 ![imoive](https://images.wondershare.com/filmora/article-images/iMovie-shorten.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  But, it can be, that you don't want to delete parts at all. Instead you want to make "large" size a little bit more manageable. For that sake, another way to trim video, iPhone camera roll has ,is, by resizing. But resizing and compressions are tricky. You need to consider video dimension (pixels), aspect ratio and resolution. Above all resizing doesn't mean sacrificing quality. One best way to do that is to use Desqueeze.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to resize a video on iPhone
 
@@ -99,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
 ![desqueeze](https://images.wondershare.com/filmora/article-images/desqueeze.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 2. Video Compressor
@@ -119,10 +98,17 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
 ![video compressor](https://images.wondershare.com/filmora/article-images/video-compressor.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -134,10 +120,10 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -163,5 +149,20 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-curated-list-14-captivating-text-animation-showcases/"><u>[New] 2024 Approved Curated List 14 Captivating Text Animation Showcases</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-maximizing-social-media-roi-with-judicious-facebook-hash-usage/"><u>[New] 2024 Approved Maximizing Social Media ROI with Judicious Facebook Hash Usage</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-ultimate-guide-to-free-premiere-pro-template-hacks/"><u>[New] 2024 Approved The Ultimate Guide to Free Premiere Pro Template Hacks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-enhancing-gaming-experience-with-steam-switch-control-for-2024/"><u>[New] Enhancing Gaming Experience with Steam Switch Control for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-video-storage-hours-to-gb-estimation/"><u>[Updated] 2024 Approved Video Storage Hours to GB Estimation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-best-free-open-source-video-conferencing-software-ranked-by-industry/"><u>[Updated] Best Free Open Source Video Conferencing Software Ranked by Industry</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-combining-rotating-and-fine-tuning-videos-with-android-tools/"><u>[Updated] Combining, Rotating & Fine-Tuning Videos with Android Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-expert-selection-the-top-11-kid-friendly-waterproof-camcorders/"><u>[Updated] Expert Selection The Top 11 Kid-Friendly, Waterproof Camcorders</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-transformative-strategies-in-creating-engaging-fb-content-for-2024/"><u>[Updated] Transformative Strategies in Creating Engaging FB Content for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminating-low-brightness-lenovo-issue/"><u>Eliminating Low-Brightness Lenovo Issue</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/insta360-x2-pro-capture-your-adventures-anywhere-even-wet/"><u>Insta360 X2 Pro: Capture Your Adventures Anywhere, Even Wet!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/navigate-lifes-challenges-with-these-15-engaging-activities-while-listening-to-podcasts/"><u>Navigate Life's Challenges with These 15 Engaging Activities While Listening to Podcasts</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211977275-solved-laptop-keys-not-working-hp-quickly-and-easily/"><u>SOLVED: Laptop Keys Not Working HP. Quickly & Easily!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Eliminate Discomfort  Quick Tips to Beat VR Sickness for 2024\""
-date: 2024-09-11T16:00:32.309Z
-updated: 2024-09-12T16:00:32.309Z
+date: 2024-10-21T16:53:52.651Z
+updated: 2024-10-27T16:48:43.948Z
 tags: 
   - screen-recording
   - ai video
@@ -26,22 +26,21 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What HTC does to reduce motion sickness
 
  HTC Vive is aiming at giving its customers the virtual reality experience so real and sick-free that they can fully have fun with the technology and make their money and time spent well. In spite of improvements to game technology in recent years, HTC is focusing heavily these days on making sure users feel correctly oriented. HTC is also at work on boosting the frame rate to match with the body movements and to clear up that nausea-inducing mismatch. The game developers are coming up with a variety of solutions to solve the problem, or at least minimize it. A new technology introduced by the Mayo Clinic is a good hope for HTC Vive to bring its headsets to a whole new level. The hospital has developed algorithms that, when paired with galvanic vestibular stimulation (GVS), can trick the brain into syncing what you're seeing in VR with physical stimulation within a tenth of a second.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8 Tips to reduce motion sickness
@@ -62,16 +61,10 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -97,5 +90,22 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-next-level-gameplay-capturing-applications/"><u>[New] In 2024, Next-Level Gameplay Capturing Applications</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-audiovisual-adventures-unleashed-by-polaroid-camplus-cubeplus/"><u>[Updated] Audiovisual Adventures Unleashed by Polaroid Cam+ Cube+</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-eliminating-noise-in-photos-using-photopeas-tools-for-2024/"><u>[Updated] Eliminating Noise in Photos Using Photopea's Tools for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-expert-advice-on-acquiring-royalty-free-high-quality-graphics/"><u>[Updated] Expert Advice on Acquiring Royalty-Free, High-Quality Graphics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-comprehensive-guide-to-advanced-fcp-features/"><u>[Updated] In 2024, Comprehensive Guide to Advanced FCP Features</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-android-tools-for-video-recording/"><u>[Updated] In 2024, Essential Android Tools for Video Recording</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-step-by-step-guide-to-creating-a-video-channel-reviewing-tech-accessories/"><u>[Updated] Step-by-Step Guide to Creating a Video Channel Reviewing Tech Accessories</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-art-of-playback-anarchy-youtube-playlists-unordered-again/"><u>2024 Approved The Art of Playback Anarchy YouTube Playlists Unordered Again</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-future-of-drone-control-with-syma-x8c/"><u>2024 Approved The Future of Drone Control with Syma X8C</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mastering-titles-in-fcpx-a-step-by-step-guide/"><u>Mastering Titles in FCPX A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/perfect-pixels-a-guide-to-using-photoshops-eraser-for-2024/"><u>Perfect Pixels A Guide to Using Photoshop's Eraser for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-screen-technology-165hz-speed/"><u>Superior Screen Technology - 165Hz Speed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/transform-your-imagination-into-visual-masterpieces-on-windows-10-for-2024/"><u>Transform Your Imagination Into Visual Masterpieces on Windows 10 for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-your-astro-a50-headset-is-unresponsive/"><u>Troubleshooting Steps When Your Astro A50 Headset Is Unresponsive</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722970537692-update-your-intel-nuc-drives-with-ease-and-enhance-your-computers-speed/"><u>Update Your Intel NUC Drives with Ease and Enhance Your Computer's Speed</u></a></li>
+</ul></div>
 

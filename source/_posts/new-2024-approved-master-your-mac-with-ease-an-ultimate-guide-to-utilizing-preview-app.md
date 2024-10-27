@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Master Your Mac with Ease  An Ultimate Guide to Utilizing Preview App\""
-date: 2024-10-15T20:03:13.348Z
-updated: 2024-10-21T16:13:45.935Z
+date: 2024-10-23T16:18:50.411Z
+updated: 2024-10-27T16:32:10.800Z
 tags: 
   - screen-recording
   - ai video
@@ -41,6 +41,13 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -56,10 +63,10 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Show Markup Tools in Preview on Mac
@@ -92,13 +99,6 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -110,6 +110,13 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -126,6 +133,13 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 **Step 3: Format the Text**
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
 
@@ -158,19 +172,6 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 **Step 3: Combine the Images**
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Save Images in Different Formats
 
@@ -218,13 +219,6 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -250,14 +244,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-avoiding-unwanted-image-ripples-for-2024/"><u>[New] Avoiding Unwanted Image Ripples for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-powerdirectors-latest-revolution-compre-point-by-point-review-and-tutorial/"><u>[New] PowerDirector's Latest Revolution Compre Point-by-Point Review & Tutorial</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-reflection-photography-tips-for-iphone/"><u>[Updated] 2024 Approved Reflection Photography Tips for iPhone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-how-to-effortlessly-record-movies-on-win10/"><u>[Updated] In 2024, How to Effortlessly Record Movies on Win10</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-art-of-narrative-on-film/"><u>[Updated] In 2024, The Art of Narrative on Film</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-magnify-marvel-the-ultimate-10-camera-lens-guide-for-2024/"><u>[Updated] Magnify Marvel The Ultimate 10 Camera Lens Guide for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-resolving-fps-confusion-30vs60-for-high-quality-recordings/"><u>[Updated] Resolving FPS Confusion 30Vs.60 For High-Quality Recordings</u></a></li>
-<li><a href="https://fox-that.techidaily.com/brighten-up-top-1ntricies-for-fixing-an-iphone-flashlight-that-wont-light-12-methods/"><u>Brighten Up: Top 1Ntricies for Fixing an iPhone Flashlight That Won’t Light (12 Methods)</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-mastering-the-art-of-capturing-dynamic-images-on-ios-devices/"><u>In 2024, Mastering the Art of Capturing Dynamic Images on iOS Devices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-gold-medal-glory-olympic-speed-skating-short-track-highlights-for-2024/"><u>[New] Gold Medal Glory Olympic Speed Skating Short Track Highlights for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-discover-the-top-10-iosandroid-vr-games/"><u>[New] In 2024, Discover the Top 10 iOS/Android VR Games</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-staying-grounded-in-vr-worlds/"><u>[New] In 2024, Staying Grounded in VR Worlds</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-top-5-kung-fu-games-just-like-sifu/"><u>[New] In 2024, Top 5 Kung Fu Games Just Like Sifu</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-music-making-magic-selecting-background-beats-for-vids/"><u>[New] Music Making Magic Selecting Background Beats for Vids</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-to-show-or-not-to-display-off-facebook-activities-for-2024/"><u>[New] To Show or Not to Display Off-Facebook Activities for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-ultimate-reddit-winners-a-collection-of-best-posts-for-2024/"><u>[New] Ultimate Reddit Winners A Collection of Best Posts for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-master-list-of-premier-game-broadcasting-apps/"><u>[Updated] 2024 Approved Master List of Premier Game Broadcasting Apps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-mastery-of-video-sharing-a-guide-to-utilizing-zoom-on-the-youtube-platform/"><u>[Updated] 2024 Approved Mastery of Video Sharing A Guide to Utilizing Zoom on the YouTube Platform</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-achieve-viral-fame-crafting-engaging-instagram-unboxing-videos/"><u>[Updated] Achieve Viral Fame Crafting Engaging Instagram Unboxing Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-bestiary-of-ios-ps2-game-simulators-for-2024/"><u>[Updated] Bestiary of iOS PS2 Game Simulators for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-3-ipad-speech-capture-methods-for-2024/"><u>[Updated] Top 3 iPad Speech Capture Methods for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-xr-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone XR</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-14-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 14?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/cket-subscribers-and-engagement-top-12-video-promotion-tactics-for-2024/"><u>Skyrocket Subscribers and Engagement - Top 12 Video Promotion Tactics for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-your-creativity-with-photoshops-radial-blur-and-shadow-tools/"><u>Unlock Your Creativity with Photoshop's Radial Blur & Shadow Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-simplify-4k-video-post-production-the-top-proxy-video-editing-apps/"><u>Updated Simplify 4K Video Post-Production The Top Proxy Video Editing Apps</u></a></li>
 </ul></div>
 
