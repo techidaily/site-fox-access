@@ -1,7 +1,7 @@
 ---
 title: "[New] Transforming Movies to Still Moments with Windows 10 Photo Viewer for 2024"
-date: 2024-10-21T16:45:31.681Z
-updated: 2024-10-27T16:28:20.535Z
+date: 2024-10-28T08:38:11.017Z
+updated: 2024-11-01T18:16:32.561Z
 tags: 
   - screen-recording
   - ai video
@@ -74,28 +74,15 @@ We are explaining the solutions here –
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Sign in a different account in Microsoft Store
 
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Alternative way to save photo from video
 
@@ -110,20 +97,26 @@ Here comes the guide –
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -131,6 +124,13 @@ Here comes the guide –
 We provided you some knowledge on how to save a photo from video Windows 10 Photos. Out of the multiple ways to save photos from videos, you can try what suits you best. If you want to go for a desktop based application, then Windows Photos serves you best. But, when you want to get things done online, you can pick ScreenShot for that matter. Hope you liked our efforts!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -157,20 +157,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-cost-outline-for-composing-sounds-to-screen-titles/"><u>[New] 2024 Approved Cost Outline for Composing Sounds to Screen-Titles</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-iphones-prime-camera-utilities-for-2024/"><u>[New] IPhone's Prime Camera Utilities for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-transformative-versat-cookies-creative-edition/"><u>[New] Transformative Versat Cookies Creative Edition</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-how-to-add-filters-to-video-pc-and-mobile/"><u>[Updated] 2024 Approved How to Add Filters to Video [PC & Mobile]</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-craft-unique-logos-using-complimentary-stock-graphics-for-2024/"><u>[Updated] Craft Unique Logos Using Complimentary Stock Graphics for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-mastering-green-screen-shooting-made-simple/"><u>[Updated] In 2024, Mastering Green Screen Shooting Made Simple</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-memetic-mayhem-the-20-most-shared-gems/"><u>[Updated] In 2024, Memetic Mayhem The 20 Most Shared Gems</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-maximizing-photo-quality-for-commercial-use/"><u>[Updated] Maximizing Photo Quality for Commercial Use</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-premiere-pros-guide-to-avoiding-overlit-iphone-hdr-videos-for-2024/"><u>[Updated] Premiere Pro's Guide to Avoiding Overlit iPhone HDR Videos for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversion-nef-a-linea-sin-coste-metodo-eficiente-con-movavi/"><u>Conversión NEF a Línea Sin Coste: Método Eficiente Con Movavi</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-best-in-show-a-compreeved-list-of-top-18-4k-recording-devices/"><u>In 2024, Best in Show A Compreeved List of Top 18 4K Recording Devices</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-poco-x6-pro-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Poco X6 Pro</u></a></li>
-<li><a href="https://facebook.techidaily.com/upcoming-verdict-from-facebooks-governance-board-on-trump-ban/"><u>Upcoming Verdict From Facebook's Governance Board on Trump Ban</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-how-to-use-picture-in-picture-pip-on-microsoft-edge/"><u>[New] 2024 Approved How to Use Picture in Picture (PIP) on Microsoft Edge</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-strategies-for-harvesting-fb-status-video-archives/"><u>[New] 2024 Approved Strategies for Harvesting FB Status Video Archives</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-ultimate-rank-5-premium-android-image-editing-tools/"><u>[New] 2024 Approved The Ultimate Rank 5 Premium Android Image Editing Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-optimal-sonic-selections-android-centric/"><u>[Updated] 2024 Approved Optimal Sonic Selections, Android-Centric</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-cut-costs-enhance-visuals-free-banners-for-video-makers/"><u>[Updated] Cut Costs, Enhance Visuals – Free Banners for Video Makers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-essential-iphone-handbook-for-gif-enthusiasts/"><u>[Updated] The Essential iPhone Handbook for GIF Enthusiasts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/chromeos-top-free-screen-capture-software/"><u>ChromeOS Top Free Screen Capture Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elite-cameras-for-pixel-perfect-stop-motion/"><u>Elite Cameras for Pixel-Perfect Stop Motion</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-latest-msi-sound-card-drivers-on-windows-computers/"><u>Get Your Latest MSI Sound Card Drivers on Windows Computers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/ideal-approaches-to-mobile-content-preservation/"><u>Ideal Approaches to Mobile Content Preservation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-itel-p55plus-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Itel P55+ Phone?</u></a></li>
+<li><a href="https://article-files.techidaily.com/proven-approaches-for-large-media-file-transfers-from-iphones-to-macs/"><u>Proven Approaches for Large Media File Transfers From iPhones to Macs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resetting-your-phones-memory-the-ultimate-cache-deletion-guide-for-android/"><u>Resetting Your Phone's Memory: The Ultimate Cache Deletion Guide for Android</u></a></li>
+<li><a href="https://fox-access.techidaily.com/stepwise-adjustment-fins-speech-on-win-os-devices-for-2024/"><u>Stepwise Adjustment Fins Speech on Win-OS Devices for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-curious-case-of-instavideos-turned-sideways/"><u>The Curious Case of InstaVideos Turned Sideways</u></a></li>
 </ul></div>
 

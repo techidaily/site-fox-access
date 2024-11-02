@@ -1,7 +1,7 @@
 ---
 title: "[New] The Role of Extras in Creating Dynamic Storytelling for 2024"
-date: 2024-10-25T16:09:58.588Z
-updated: 2024-10-27T16:40:48.225Z
+date: 2024-10-27T17:34:03.883Z
+updated: 2024-11-02T01:37:52.948Z
 tags: 
   - screen-recording
   - ai video
@@ -53,13 +53,6 @@ We'll examine the top 5 uses for B rolls across a variety of video genres and di
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Visual detail b roll footage
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
@@ -68,15 +61,22 @@ Including archival material in your video allows your audience to experience a p
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Atmospheric b roll footage
@@ -86,10 +86,10 @@ When you are sharing a narrative that has been told in the past or that has hist
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Pick-up shots
@@ -98,16 +98,16 @@ A pick-up is a tiny shot added to previously captured material. Re-shoots involv
 
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -143,14 +143,24 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-list-of-the-top-software-for-audio-speed-changing-mobile-and-desktop-for-2024/"><u>[Updated] List of the Top Software for Audio Speed Changing (Mobile and Desktop) for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-tutorial-for-effective-free-timer-management/"><u>[Updated] The Ultimate Tutorial for Effective FREE Timer Management</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-choices-for-comprehensive-movement-recording/"><u>2024 Approved Ideal Choices for Comprehensive Movement Recording</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-best-toy-drones-for-kids/"><u>2024 Approved The Ultimate Guide to Best Toy Drones for Kids</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-digital-picks-free-alarm-ringtones-download/"><u>2024 Approved Top Digital Picks Free Alarm Ringtones Download</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-oppo-reno-10-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo Reno 10 Pro 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-mastering-lut-applications-in-premiere-pro/"><u>In 2024, Mastering LUT Applications in Premiere Pro</u></a></li>
-<li><a href="https://fox-access.techidaily.com/next-gen-editing-experience-reviewed-magix-video-pro-x/"><u>Next-Gen Editing Experience Reviewed Magix Video Pro X</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/be-shorts-success-top-10-steps-to-stand-out/"><u>Youtube Shorts Success - Top 10 Steps to Stand Out</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-capturing-the-cloud-proven-methods-for-perfecting-drones-in-post-production-for-2024/"><u>[New] Capturing the Cloud Proven Methods for Perfecting Drones in Post-Production for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-unveiling-the-future-of-marketing/"><u>[New] In 2024, Unveiling the Future of Marketing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-basic-routes-to-sync-obs-with-zoom-for-2024/"><u>[New] The Basic Routes to Sync OBS with Zoom for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-transforming-doubt-into-action-channeling-vlogger-excellence/"><u>[New] Transforming Doubt Into Action Channeling Vlogger Excellence</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-streamlining-audio-interpretation-a-comprehensive-guide-for-google/"><u>[Updated] 2024 Approved Streamlining Audio Interpretation A Comprehensive Guide for Google</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-how-to-turnout-video-on-your-android-device/"><u>[Updated] How to Turnout Video on Your Android Device</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-assemble-and-build-your-own-google-vr-viewing-device/"><u>[Updated] In 2024, Assemble and Build Your Own Google VR Viewing Device</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-the-ultimate-guide-to-vimeo-gif-conversion-magic/"><u>[Updated] In 2024, The Ultimate Guide to Vimeo-Gif Conversion Magic</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-make-quick-cash-on-reddit-with-these-no-experience-techniques/"><u>[Updated] Make Quick Cash on Reddit with These No Experience Techniques</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-vdx-quickcapture-evaluation-guide-comprehensive-review-for-2024/"><u>[Updated] VDX QuickCapture Evaluation Guide Comprehensive Review for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audience-engagement-trends-to-master-on-instagram-for-2024/"><u>Audience Engagement Trends to Master on Instagram for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convertir-des-fichiers-vob-en-multiples-formats-video-y-compris-mp4-et-mkv-avec-movavi/"><u>Convertir Des Fichiers VOB en Multiples Formats Vidéo, Y Compris MP4 Et MKV Avec Movavi</u></a></li>
+<li><a href="https://fox-access.techidaily.com/discovering-6-premium-apps-master-linkedin-video-downloads-for-2024/"><u>Discovering 6 Premium Apps Master LinkedIn Video Downloads for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-oppo-reno-10-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Oppo Reno 10 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-your-pcs-persistent-boot-screen-issue-heres-what-works/"><u>Overcome Your PC's Persistent Boot Screen Issue – Here’s What Works</u></a></li>
+<li><a href="https://fox-access.techidaily.com/top-8-iphonecomputer-apps-for-seamless-video-editing/"><u>Top 8 iPhone/Computer Apps for Seamless Video Editing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-the-legacy-how-usb-composite-devices-shaped-modern-connectivity/"><u>Understanding the Legacy: How USB Composite Devices Shaped Modern Connectivity</u></a></li>
+<li><a href="https://fox-access.techidaily.com/unlock-your-potential-with-expert-picked-video-stabilization-tools/"><u>Unlock Your Potential with Expert-Picked Video Stabilization Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/vampire-vignette-virtuoso-for-2024/"><u>Vampire Vignette Virtuoso for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Expertise for Selective Zooming in Online Conferencing (Google Meet)"
-date: 2024-10-23T17:12:34.253Z
-updated: 2024-10-27T17:16:38.471Z
+date: 2024-10-26T19:05:17.110Z
+updated: 2024-11-02T06:31:40.888Z
 tags: 
   - screen-recording
   - ai video
@@ -44,32 +44,25 @@ Step1 Set up a video conferencing setup and start a conference in your web brows
 ![setup google meet](https://images.wondershare.com/filmora/article-images/2022/07/setup-google-meet.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step2 Hover over the shared screen and click the Pin symbol to save it. Go to the "Webcam Settings" window, pick the "Camera Control" option at the top, then select the webcam from the drop-down list.
 
 ![google meeting settings panel](https://images.wondershare.com/filmora/article-images/2022/07/google-meeting-settings-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 The "Layout" option is next to the slider; click it. Adjust it in the direction the zoom-in zooms in using the slider. The "Ok" button may assist you in making all of your decisions. Select the Minimize icon while your cursor is on your own picture.
 
 ![layout options google meet](https://images.wondershare.com/filmora/article-images/2022/07/layout-options-google-meet.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step4 Change your Layout to "Focus" in the Meet Menu (three dots). By repeatedly hitting CTRL+ minus (-), you can zoom out (!). The Meet controls at the bottom get smaller as a result. With CTRL+0, you may subsequently reverse your zoom.
@@ -79,10 +72,10 @@ Step5 To turn off the browser UI, press F11\. By hitting F11 once again, full sc
 ![full screen mode google meet](https://images.wondershare.com/filmora/article-images/2022/07/full-screen-mode-google-meet.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3\. Tips and tricks to use Google Meet
@@ -97,6 +90,19 @@ Those who have a Google Account are able to start a meeting. It's simple to make
 * For added convenience, Google Meet lets you cast a meeting to another screen. The TV in your living room or conference room may be projected from your laptop or desktop, in other words.
 * Similar to the subtitle feature seen on other applications like Skype, this feature allows you to have the dialogue show in text on your screen in real-time so that you can more easily understand what is being said during video chats. It is exclusively offered in English. Click Turn on Captions in the Meet's bottom right corner to turn it on.
 * Users of Google Meet will be able to pin many individuals to the top of their tiled screen. This will be especially useful if you have meetings where two or three people talk the majority of the time.
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -132,19 +138,24 @@ You may show additional information on your Google Meet by zooming in and out. O
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-first-steps-to-successful-vlogging-essentials/"><u>[New] 2024 Approved First Steps to Successful Vlogging Essentials</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-innovative-8th-generation-photographic-fusion-app/"><u>[New] Innovative 8Th Generation Photographic Fusion App</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-precise-practices-streamlined-capturing-for-dell-devices/"><u>[Updated] 2024 Approved Precise Practices Streamlined Capturing for Dell Devices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-digital-resurrection-breathing-life-into-old-vhs-images-for-2024/"><u>[Updated] Digital Resurrection Breathing Life Into Old VHS Images for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-compreenhensive-review-djis-new-drone-the-inspire-1/"><u>[Updated] In 2024, Compreenhensive Review DJI's New Drone, The Inspire 1</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-lighting-setup-tips-to-make-great-videos-for-2024/"><u>[Updated] Lighting Setup Tips to Make Great Videos for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-subtitle-conversion-at-your-fingertips-top-8-software-for-windowsmacos-srt-transition/"><u>2024 Approved Seamless Subtitle Conversion at Your Fingertips - Top 8 Software for Windows/MacOS SRT Transition</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-understanding-control-over-sound-attenuation-within-audacity/"><u>2024 Approved Understanding Control Over Sound Attenuation Within Audacity</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-oppo-find-x6-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Oppo Find X6 Pro Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/elevate-your-drone-game-with-these-top-mods-for-2024/"><u>Elevate Your Drone Game with These Top Mods for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-analysis-of-the-anker-super-bright-tactical-flashlight-for-unmatched-adventure-illumination/"><u>Expert Analysis of the Anker Super Bright Tactical Flashlight for Unmatched Adventure Illumination</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1723808226860-get-the-latest-asus-aura-software-update-windows-11-edition-download-here/"><u>Get the Latest ASUS Aura Software Update – Windows 11 Edition Download Here</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/nombre-de-bichos-en-espanol-60-puntos-clave/"><u>Nombre De Bichos en Español: 60 Puntos Clave</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/top-9-androidios-video-chat-platforms-ranked/"><u>Top 9 Android/iOS Video Chat Platforms Ranked</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-digital-paintbrushes-at-your-fingertips-explore-11-color-correction-essentials/"><u>[New] In 2024, Digital Paintbrushes at Your Fingertips Explore 11 Color Correction Essentials</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-perfecting-iphone-photography-mastery-of-macro-and-close-up-details-for-2024/"><u>[New] Perfecting iPhone Photography Mastery of Macro and Close-Up Details for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-subaquatic-spectacites-tips-to-enrich-underwater-videos-using-gopro/"><u>[New] Subaquatic Spectacites Tips to Enrich Underwater Videos Using GoPro</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-superior-audio-options-for-video-makers/"><u>[New] Superior Audio Options for Video Makers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-transform-photos-and-videos-with-these-androidiphone-montage-apps/"><u>[New] Transform Photos & Videos with These Android/iPhone Montage Apps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-your-photo-archives-new-eden-mix-no-fee-infinite-with-paid-cloud-spaces/"><u>[New] Your Photo Archive's New Eden Mix No-Fee Infinite with Paid Cloud Spaces</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-compile-of-free-high-quality-sound-clips-for-videos/"><u>[Updated] 2024 Approved Compile of Free, High-Quality Sound Clips for Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-from-amateurs-to-pros-mastering-mac-audio-in-audacity/"><u>[Updated] 2024 Approved From Amateurs to Pros Mastering Mac Audio in Audacity</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-lively-captions-how-to-add-motion-to-instagram-posts/"><u>[Updated] Lively Captions How to Add Motion to Instagram Posts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-luxurious-asmr-sound-priced-right-top-picks-listed-here-for-2024/"><u>[Updated] Luxurious ASMR Sound, Priced Right - Top Picks Listed Here for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-master-the-art-of-subtitling-a-brief-blueprint-for-your-fb-video-uploads/"><u>[Updated] Master the Art of Subtitling A Brief Blueprint for Your FB Video Uploads</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-8-screen-recording-apps-in-windows-11-revealed/"><u>2024 Approved Top 8 Screen Recording Apps in Windows 11 Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-proxies-on-windows-11-pc/"><u>Configuring Proxies on Windows 11 PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-battle-between-ipad-mini-and-ipad-air-performance-design-and-more/"><u>Decoding the Battle Between iPad Mini and iPad Air – Performance, Design, and More</u></a></li>
+<li><a href="https://fox-access.techidaily.com/fixing-silent-pc-how-to-restore-audio-on-windows-11-computers/"><u>Fixing Silent PC: How to Restore Audio on Windows 11 Computers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-infinix-note-30-vip-racing-edition-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Infinix Note 30 VIP Racing Edition to New Phone | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-eraser-guru-expert-tips-for-psx-users/"><u>In 2024, The Eraser Guru Expert Tips for PSX Users</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/ottimowinx-editing-videografico-intelligente-per-conversione-stabilita-e-modifica-rapida-dei-video/"><u>OttimoWinX: Editing Videografico Intelligente per Conversione, Stabilità E Modifica Rapida Dei Video</u></a></li>
+<li><a href="https://games-able.techidaily.com/tailored-guide-to-buying-a-steam-deck/"><u>Tailored Guide to Buying a Steam Deck</u></a></li>
 </ul></div>
 

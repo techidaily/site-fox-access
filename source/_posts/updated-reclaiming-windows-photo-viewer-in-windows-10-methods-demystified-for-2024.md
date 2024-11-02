@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Reclaiming Windows Photo Viewer in Windows 10 - Methods Demystified for 2024\""
-date: 2024-10-24T16:42:14.026Z
-updated: 2024-10-27T16:47:43.733Z
+date: 2024-10-30T01:07:57.016Z
+updated: 2024-11-02T06:19:17.189Z
 tags: 
   - screen-recording
   - ai video
@@ -63,10 +63,10 @@ Here is why they want to restore Windows Photo Viewer –
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 1 to restore Windows Photo Viewer
@@ -77,15 +77,22 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
@@ -102,35 +109,22 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
 From the above article, we found out that restoring Windows Photo Viewer on your system is not a tough task. But, without having the proper knowledge you shouldn’t play around with your Photos app. So, this article guides you through a reliable method for restoring Windows Photo Viewer and view your photos like you always loved to. We hope you liked our efforts of enlightening you about Windows Photo Viewer and got the necessary information. Plus, if none of these work, you can use [Windows 10 Photos app alternatives](https://tools.techidaily.com/wondershare/filmora/download/). Thanks for reading! Do comment us below to let us know your views.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
@@ -159,24 +153,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-hope-on-the-big-screen-top-10-cinematic-power-ups-for-2024/"><u>[New] Hope on the Big Screen Top 10 Cinematic Power-Ups for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-10-best-free-selfie-apps-for-iphone-x87-plus/"><u>[New] In 2024, 10 Best Free Selfie Apps for iPhone X/8/7 Plus</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-tailoring-game-recording-features-for-windows-11-gamers/"><u>[New] In 2024, Tailoring Game Recording Features for Windows 11 Gamers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-television-or-projector-for-peak-4k-performance-for-2024/"><u>[New] Television or Projector for Peak 4K Performance for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-the-perfect-dj-template-video-download-for-your-events/"><u>[Updated] 2024 Approved Finding the Perfect DJ Template Video Download for Your Events</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-maximizing-your-iphones-creative-capabilities/"><u>[Updated] 2024 Approved Maximizing Your iPhone's Creative Capabilities</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-guiding-principles-for-swapping-gender-on-instagram-facebook-and-snapchat-pics-for-2024/"><u>[Updated] Guiding Principles for Swapping Gender on Instagram, Facebook & Snapchat Pics for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-unlock-the-full-potential-of-zoom-meetings-for-win10-users/"><u>2024 Approved Unlock the Full Potential of Zoom Meetings for WIN10 Users</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-htc-u23-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix HTC U23 System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/exploring-the-seven-superior-water-tough-cams-guide/"><u>Exploring the Seven Superior Water-Tough Cams Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-announce-a-donation-drive-a-step-by-step-guide/"><u>In 2024, How to Announce a Donation Drive A Step-by-Step Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-instantaneous-ease-in-podcast-broadcasts/"><u>In 2024, Instantaneous Ease in Podcast Broadcasts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/ios-and-android-perfecting-your-chat-tone-with-whatsapp-ringtones-for-2024/"><u>IOS & Android Perfecting Your Chat Tone with WhatsApp Ringtones for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/simple-steps-to-great-videos-crafting-10-basic-concepts-easily-for-2024/"><u>Simple Steps to Great Videos Crafting 10 Basic Concepts Easily for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/snap-into-action-a-compelling-ig-gallery-of-inspiration-for-2024/"><u>Snap Into Action! A Compelling IG Gallery of Inspiration for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-finest-5-android-image-boosters/"><u>The Finest 5 Android Image Boosters</u></a></li>
-<li><a href="https://fox-access.techidaily.com/top-tips-for-keeping-your-iphones-memories-in-order-and-backed-up-on-icloud-for-2024/"><u>Top Tips for Keeping Your iPhone's Memories in Order and Backed Up on iCloud for 2024</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/top-rated-dvd-ripper-tool-convert-your-dvds-to-mobile-friendly-avimp4-files-with-this-no-cost-program-for-any-device/"><u>Top-Rated DVD Ripper Tool: Convert Your DVDs to Mobile-Friendly AVI/MP4 Files with This No-Cost Program for Any Device</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-dji-inspire-2-full-review-for-2024/"><u>[New] DJI Inspire 2 Full Review for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-full-scrutiny-the-dji-inspire-1-experience/"><u>[New] In 2024, Full Scrutiny The DJI Inspire 1 Experience</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-cutting-edge-the-6-leading-video-apps-for-macos-big-sur/"><u>[Updated] 2024 Approved Cutting Edge The 6 Leading Video Apps for macOS Big Sur</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-enhance-video-subtitles-with-these-essential-online-resources-and-apps-for-2024/"><u>[Updated] Enhance Video Subtitles with These Essential Online Resources & Apps for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-free-speech-finesse-in-online-combat-for-2024/"><u>[Updated] Free Speech Finesse in Online Combat for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-viewers-delight-discovering-top-6-engaging-content-formats/"><u>[Updated] In 2024, Viewer's Delight Discovering Top 6 Engaging Content Formats</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-sculpting-success-in-visual-communications/"><u>[Updated] Sculpting Success in Visual Communications</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-stepwise-strategy-editing-multi-snap-chats-with-ease/"><u>[Updated] Stepwise Strategy Editing Multi-Snap Chats with Ease</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/st-popular-beauty-gurus-on-youtube-for-2024/"><u>10 Most Popular Beauty Gurus on YouTube for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-next-level-mp4-experience-integrating-advanced-srt-audio/"><u>2024 Approved Next-Level MP4 Experience Integrating Advanced SRT Audio</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-strategies-to-secure-best-youtube-collaborative-pairs/"><u>2024 Approved Strategies to Secure Best YouTube Collaborative Pairs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tapping-into-asmrs-potential-for-self-improvement/"><u>2024 Approved Tapping Into ASMR's Potential for Self-Improvement</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-fixes-for-eradicating-image-retention-from-electronic-panels/"><u>Effective Fixes for Eradicating Image Retention From Electronic Panels</u></a></li>
+<li><a href="https://fox-access.techidaily.com/exploring-facetune-features-your-ultimate-guide-to-better-images/"><u>Exploring Facetune Features Your Ultimate Guide to Better Images</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-tecno-camon-30-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Tecno Camon 30 Pro 5G FRP Bypass</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-looking-for-subtitle-edit-mac-alternative-here-are-the-best-options-for-2024/"><u>New Looking for Subtitle Edit Mac Alternative? Here Are the Best Options for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-preventing-unwanted-command-window-activation/"><u>Tips for Preventing Unwanted Command Window Activation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transformez-vos-videos-mp4-en-animations-gif-facilement-avec-movavi-gratuit-and-off-line/"><u>Transformez Vos Vidéos MP4 en Animations GIF Facilement Avec Movavi, Gratuit & Off-Line</u></a></li>
+<li><a href="https://fox-access.techidaily.com/unlocking-free-secure-vlc-player-access-on-apple-devices-for-2024/"><u>Unlocking Free, Secure VLC Player Access on Apple Devices for 2024</u></a></li>
 </ul></div>
 
