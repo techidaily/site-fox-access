@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Audiovisual Harmony  Perfecting Voiceover in Videos\""
-date: 2024-10-26T22:23:47.124Z
-updated: 2024-11-02T09:11:44.922Z
+date: 2024-11-07T06:23:18.179Z
+updated: 2024-11-07T23:53:01.317Z
 tags: 
   - screen-recording
   - ai video
@@ -55,6 +55,19 @@ So the easiest way to add narration is directly to a project. The benefit of thi
 
 ![add narration to project](https://images.wondershare.com/filmora/guide/stt-tts-srt-09.png)
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 A good example of this would be narrating a story on top of some still images and video clips from a recent vacation. (In most cases you would want to turn off the sound of the video clip, or at least use ducking to help the viewer focus on the narration.)
 
 You put the playhead where you want to start recording and hit the microphone icon under the preview window.
@@ -62,10 +75,10 @@ You put the playhead where you want to start recording and hit the microphone ic
 ![hit microphone icon](https://images.wondershare.com/filmora/guide/stt-tts-srt-08.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 A 3-second countdown will pop up and start recording immediately after this countdown.
@@ -73,13 +86,6 @@ A 3-second countdown will pop up and start recording immediately after this coun
 You can record your narration and click stop.
 
 After recording, you can trim and edit your narration, you can delete it and record it again, and can move it and edit it like any other feature.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Some Tips for Recording Narration
 
@@ -100,10 +106,10 @@ Practice adding it to your videos to see how it adds depth and dimension to your
 It can also help make a connection with your audience because you can be relating to the images on the screen as they watch them. This is effective in building your YouTube audience.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Always use a good mic
@@ -115,10 +121,16 @@ When adding voiceover or narration to your project, be sure to use a good USB mi
 Also, be sure to check that your external microphone is selected when you start recording. There's nothing worse than nailing the perfect narration and realizing it was recorded with the built-in mic, not your USB microphone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should you use narration in your next project?
@@ -159,22 +171,14 @@ Filmora makes it easy to add narration of voice-overs to your video projects. Do
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-in-depth-examination-of-videoshow-24/"><u>[New] 2024 Approved In-Depth Examination of VideoShow '24</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-ultimate-guide-to-basic-hdr-imaging/"><u>[New] 2024 Approved The Ultimate Guide to Basic HDR Imaging</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-global-leaderboard-top-subscribers-by-youtube-star/"><u>[New] In 2024, Global Leaderboard Top Subscribers by YouTube Star</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-rhythm-for-rings-how-to-download-and-cut-tamil-melodies/"><u>[New] In 2024, Rhythm for Rings How To Download and Cut Tamil Melodies</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-unlocking-your-digital-cameras-potential/"><u>[New] In 2024, Unlocking Your Digital Camera's Potential</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-essential-zooming-skills-for-clearer-google-meets-for-2024/"><u>[Updated] Essential Zooming Skills for Clearer Google Meets for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-definitive-guide-to-post-production-perfection-on-instagram/"><u>[Updated] In 2024, The Definitive Guide to Post-Production Perfection on Instagram</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-prime-sites-to-propel-youtube-content-reach/"><u>[Updated] Prime Sites to Propel YouTube Content Reach</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-seal-of-credibility-writing-journalisms-finale-for-2024/"><u>[Updated] Seal of Credibility Writing Journalism's Finale for 2024</u></a></li>
-<li><a href="https://win-hot.techidaily.com/aomei-partition-assistant-pro-le-meilleur-logiciel-de-sauvegarde-pour-les-utilisateurs-windows-11-8-et-7-gratuit/"><u>AOMEI Partition Assistant Pro : Le Meilleur Logiciel De Sauvegarde Pour Les Utilisateurs Windows 11, 8 Et 7 - Gratuit</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/best-6-web-based-music-segmentation-tools-for-2024/"><u>Best 6 Web-Based Music Segmentation Tools for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/grasping-core-principles-in-narrative-designs/"><u>Grasping Core Principles in Narrative Designs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-update-hdmi-driver-on-windows-10-11/"><u>How to Update HDMI Driver on Windows 10, 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-s23plus-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy S23+ to Outlook | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-leading-cloud-capacity-options-reviewed/"><u>In 2024, Leading Cloud Capacity Options Reviewed</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/instagrams-best-but-unseen-your-guide-for-2024/"><u>Instagram's Best, But Unseen - Your Guide for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-google-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Google Phone? Unlock It Now</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-from-overflow-to-order-edited-strategies-for-huge-tiktoks/"><u>[New] In 2024, From Overflow to Order Edited Strategies for Huge TikToks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-smartphones-meet-virtual-reality-best-10-models/"><u>[New] In 2024, Smartphones Meet Virtual Reality Best 10 Models</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-total-motion-analysis-2023/"><u>[New] In 2024, Total Motion Analysis 2023</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-experts-choice-11-premium-video-extractors/"><u>[Updated] 2024 Approved Expert's Choice 11 Premium Video Extractors</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Honor X8b? | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96489564-9781578592869-real-vampires-night-stalkers-and-creatures-from-the-darkside/"><u>Real Vampires, Night Stalkers and Creatures from the Darkside | Free Book</u></a></li>
+<li><a href="https://fox-access.techidaily.com/sound-enriched-photography-web-presence-for-2024/"><u>Sound-Enriched Photography Web Presence for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-creating-your-new-x-platform-profile/"><u>Step-by-Step Guide: Creating Your New X Platform Profile</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-5-best-monitors-to-complement-your-ps5-xbox-series-x/"><u>The 5 Best Monitors to Complement Your PS5, Xbox Series X</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Tints, Shades & Tones  Practical Application in Art for 2024\""
-date: 2024-10-31T06:52:50.822Z
-updated: 2024-11-01T21:19:17.636Z
+date: 2024-11-02T01:06:36.032Z
+updated: 2024-11-07T20:35:35.111Z
 tags: 
   - screen-recording
   - ai video
@@ -33,20 +33,39 @@ Color theory consists of many elements that could fill a library on its own but 
 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Color Wheel
 
 Using red, green and blue as primary colors we can mix the colors to one another to get our secondary colors giving us yellow, magenta and cyan. We can mix these to one another to create our tertiary colors which are raspberry, orange, sprig green, turquoise, ocean and violet giving us something which looks like this
 
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Color Harmony
 
@@ -63,10 +82,10 @@ The blue lines represent what is known as split contrasting colors and these wil
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## But How Do I Use This
@@ -82,20 +101,13 @@ As you can see from this example the base color for the scene is a dark blue/pur
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -131,22 +143,21 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-laptop-editing-beyond-inshot-tools/"><u>[New] In 2024, Laptop Editing Beyond Inshot Tools</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-pro-tips-to-enhance-your-use-of-instagrams-query-symbol/"><u>[New] In 2024, Pro Tips to Enhance Your Use of Instagram's Query Symbol</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-is-itop-a-screencast-contender-worth-endorsing-for-2024/"><u>[New] Is ITop a Screencast Contender Worth Endorsing for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/astering-youtube-video-transformation-into-animated-gifs-no-save/"><u>[New] Mastering YouTube Video Transformation Into Animated GIFs (No Save)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-thorough-reconnaissance-the-full-review-for-bublcams-panoramic-masterpiece-for-2024/"><u>[New] Thorough Reconnaissance The Full Review for Bublcam's Panoramic Masterpiece for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-unveiling-the-top-5-virtual-pilots-helmets-for-2024/"><u>[New] Unveiling the Top 5 Virtual Pilot's Helmets for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-elevate-your-storytelling-skills-transforming-images-into-engaging-videos-with-pixiz-for-2024/"><u>[Updated] Elevate Your Storytelling Skills Transforming Images Into Engaging Videos with Pixiz for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-recordevaluator-critique/"><u>2024 Approved RecordEvaluator Critique</u></a></li>
-<li><a href="https://blog-min.techidaily.com/converting-dvds-seamlessly-to-3gp-files-a-guide-for-mobile-compatibility/"><u>Converting DVDs Seamlessly to 3GP Files – A Guide for Mobile Compatibility</u></a></li>
-<li><a href="https://fox-access.techidaily.com/ig-tik-combined-expertise-for-smooth-integration/"><u>IG-Tik Combined Expertise for Smooth Integration</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-8-ultimate-free-3d-players-perfect-for-pcmac-users-out-there/"><u>In 2024, 8 Ultimate Free 3D Players Perfect for PC/Mac Users Out There</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-a-practical-guide-elevating-your-podcast-with-an-iconic-title/"><u>In 2024, A Practical Guide Elevating Your Podcast with an Iconic Title</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-fine-tuning-windows-photos-app-incorporate-filters-and-sync-music-streaming/"><u>In 2024, Fine-Tuning Windows Photos App Incorporate Filters & Sync Music Streaming</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-how-much-footage-does-instagram-allow/"><u>In 2024, How Much Footage Does Instagram Allow?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-unbox-and-discover-samsungs-ue590-4k-freesync-marvel/"><u>In 2024, Unbox and Discover Samsung's UE590 4K, FreeSync Marvel</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96261011-9781788172714-lucid-dreaming-made-easy/"><u>Lucid Dreaming Made Easy | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solutions-for-resolving-windows-setup-hanging-issues-on-your-laptop-or-desktop/"><u>Solutions for Resolving Windows Setup Hanging Issues on Your Laptop or Desktop</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-20-visionary-metaverse-projects-with-educational-value/"><u>[New] 2024 Approved 20 Visionary Metaverse Projects with Educational Value</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-fan-favorite-films-reimagined-7-replacements/"><u>[New] 2024 Approved Fan-Favorite Films Reimagined - #7 Replacements</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-foremost-10-video-subtitling-services-online/"><u>[New] Foremost 10 Video Subtitling Services Online</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-power-of-the-podium-mastering-audio-in-videography/"><u>[New] In 2024, The Power of the Podium Mastering Audio in Videography</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-maximizing-b-roll-creative-uses-and-integration-for-2024/"><u>[New] Maximizing B-Roll Creative Uses and Integration for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-a-laugh-away-in-time-the-goofy-movie-remastered/"><u>[Updated] In 2024, A Laugh Away in Time The 'Goofy Movie' Remastered</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-latest-on-youtube-income-framework/"><u>[Updated] In 2024, Latest on YouTube Income Framework</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-seamlessly-blend-music-with-visuals-in-premiere-pro/"><u>[Updated] In 2024, Seamlessly Blend Music with Visuals in Premiere Pro</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-art-of-shots-discover-the-best-camera-angles-for-iphones/"><u>[Updated] In 2024, The Art of Shots Discover the Best Camera Angles for iPhones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discovering-instant-transit-mastering-the-teleport-feature-in-minecraft-gaming/"><u>Discovering Instant Transit: Mastering the Teleport Feature in Minecraft Gaming</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-vivo-y78-5g-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Vivo Y78 5G</u></a></li>
+<li><a href="https://fox-access.techidaily.com/haptic-feedback-in-e-commerce-trials/"><u>Haptic Feedback in E-Commerce Trials</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-expand-your-photoshop-workspace-fixing-scratch-disk-full-mishaps/"><u>How to Expand Your Photoshop Workspace: Fixing 'Scratch Disk Full' Mishaps</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-nokia-xr21-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/maximizing-aerial-excellence-with-optimal-motor-selections-for-2024/"><u>Maximizing Aerial Excellence with Optimal Motor Selections for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successful-fix-tips-for-overcoming-the-absence-of-hardware-drivers-in-windows-7-setup/"><u>Successful Fix Tips for Overcoming the Absence of Hardware Drivers in Windows 7 Setup</u></a></li>
 </ul></div>
 

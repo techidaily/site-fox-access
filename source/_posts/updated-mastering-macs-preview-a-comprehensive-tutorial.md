@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Mac's Preview  A Comprehensive Tutorial\""
-date: 2024-11-01T01:59:55.938Z
-updated: 2024-11-01T17:00:37.626Z
+date: 2024-11-01T02:34:42.438Z
+updated: 2024-11-08T04:58:57.142Z
 tags: 
   - screen-recording
   - ai video
@@ -41,13 +41,6 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -61,13 +54,6 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Show Markup Tools in Preview on Mac
 
@@ -99,6 +85,13 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -112,10 +105,10 @@ Use the method explained above to open the photo in Preview.
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
@@ -133,6 +126,13 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 **Step 3: Format the Text**
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
 
@@ -178,13 +178,6 @@ After opening an image, click **File** from the menu bar at the top, and click *
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Part 2: FAQs About Preview App on Mac
 
 #### What is the Preview App?
@@ -219,6 +212,19 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -244,21 +250,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-navigating-the-riches-of-stardews-ginger-isle/"><u>[New] 2024 Approved Navigating the Riches of Stardew’s Ginger Isle</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-face-editing-showdown-polaroid-cube-vs-gopro-hero-series-for-2024/"><u>[New] Face-Editing Showdown Polaroid Cube Vs. GoPro Hero Series for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/itching-your-video-trailers-to-youtube-success-for-2024/"><u>[New] Hitching Your Video Trailers to YouTube Success for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-how-to-rewind-a-twitch-live-stream/"><u>[New] How to Rewind A Twitch Live Stream</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-charting-the-course-to-youtube-livestream-mastery/"><u>[New] In 2024, Charting the Course to YouTube Livestream Mastery</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-leading-action-cameras-front-faced-views-available/"><u>[New] Leading Action Cameras Front-Faced Views Available</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-optimizing-video-zoom-on-the-youtube-stage-for-2024/"><u>[New] Optimizing Video Zoom on the YouTube Stage for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-echoes-of-the-past-understanding-sound-overlaps/"><u>[Updated] 2024 Approved Echoes of the Past Understanding Sound Overlaps</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-elevate-your-chat-game-whatsapps-best-kept-secrets/"><u>[Updated] 2024 Approved Elevate Your Chat Game WhatsApp's Best-Kept Secrets</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-craft-an-engaging-solo-auditory-adventure/"><u>[Updated] How to Craft an Engaging Solo Auditory Adventure</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-virtual-chuckles-await-tips-and-tricks-to-metaverse-meme-magic-for-2024/"><u>[Updated] Virtual Chuckles Await Tips & Tricks to Metaverse Meme Magic for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-perfecting-your-youtube-experience-stop-previews/"><u>2024 Approved Perfecting Your YouTube Experience - Stop Previews</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/boost-cinematic-excellence-with-final-cuts-best-10-plugins/"><u>Boost Cinematic Excellence with Final Cut’s Best 10 Plugins</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-realme-note-50-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Realme Note 50 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-this-device-is-missing-error-codes-24-on-windows-1087/"><u>Troubleshooting Guide: Resolving 'This Device Is Missing' Error Codes (24) on Windows 10/8/7</u></a></li>
-<li><a href="https://fox-access.techidaily.com/tunetrekker-venturing-past-dacast/"><u>TuneTrekker Venturing Past DaCast</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-uniting-zoom-and-skype-techniques-to-maximize-video-call-quality/"><u>[New] 2024 Approved Uniting Zoom and Skype Techniques to Maximize Video Call Quality</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-a-comprehensive-list-of-8-budget-friendly-srt-services/"><u>[New] In 2024, A Comprehensive List of 8 Budget-Friendly SRT Services</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-pinnacle-of-video-top-5-slow-motion-cams/"><u>[New] In 2024, Pinnacle of Video Top 5 Slow Motion Cams</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/erfect-pixels-in-a-minute-quick-fixes-with-studio-editor-for-2024/"><u>[New] Perfect Pixels in a Minute Quick Fixes with Studio Editor for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-supercharge-your-online-sales-strategy-with-the-best-15-social-media-insight-apps-for-2024/"><u>[New] Supercharge Your Online Sales Strategy with the Best 15 Social Media Insight Apps for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-step-by-step-download-and-personalize-whatsapp-ringtones-on-mobile/"><u>[Updated] 2024 Approved Step-by-Step Download & Personalize WhatsApp Ringtones on Mobile</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-unlocking-network-transmission-power-with-vlc/"><u>[Updated] 2024 Approved Unlocking Network Transmission Power with VLC</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-push-the-limits-a-review-of-lgs-27uhd68-freesync-display/"><u>[Updated] Push the Limits A Review of LG’s 27UHD68 FreeSync Display</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-10-best-meme-generator-apps-for-android-and-ios/"><u>In 2024, 10 Best Meme Generator Apps for Android and iOS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-innovating-with-3d-text-effects-in-adobe-photoshop/"><u>In 2024, Innovating with 3D Text Effects in Adobe Photoshop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-if-your-torrent-download-fails/"><u>Troubleshooting Steps if Your Torrent Download Fails</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-teslas-battery-efficiency-deciphering-car-range-predictions/"><u>Understanding Tesla's Battery Efficiency: Deciphering Car Range Predictions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/visionenhance-pro-high-fidelity-video-upgrade/"><u>VisionEnhance Pro - High Fidelity Video Upgrade</u></a></li>
 </ul></div>
 

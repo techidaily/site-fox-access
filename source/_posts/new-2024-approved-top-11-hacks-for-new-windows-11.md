@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Top 11 Hacks for New Windows 11\""
-date: 2024-10-29T21:30:09.818Z
-updated: 2024-11-02T04:00:44.534Z
+date: 2024-11-05T04:52:55.235Z
+updated: 2024-11-07T23:23:37.545Z
 tags: 
   - screen-recording
   - ai video
@@ -34,10 +34,10 @@ In 2015, Microsoft announced that Windows 10 would be the last version number fo
 After years of small updates, the biggest and most popular operating system in the world finally has some great news for you. At last, Windows fans have something they should get excited about. The following section of this article will share Windows 11 tips and tricks with you that are hidden and secret.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Turn off the Notifications
@@ -46,6 +46,20 @@ With the increased number of notifications in Windows 11, you might get annoyed.
 
 ![turn off unnecessary notifications](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Minimize Applications
 
 Minimizing Applications allows you to minimize the extra tabs as a whole rather than doing it individually. You have to hold the tab that you are using by left-clicking and shaking it. It will minimize all extra tabs. The same process can be done to restore the minimized windows.
@@ -53,6 +67,13 @@ Minimizing Applications allows you to minimize the extra tabs as a whole rather 
 This feature can be activated through Windows Settings and then by clicking on ‘Multi-Tasking.' Switch on the toggle switch next to ‘Title Bar Window Shake,' and it is ready to use.
 
 ![minimize applications by shaking](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Shortcut Keys
 
@@ -66,13 +87,6 @@ The biggest Windows 11 tip and trick is the placement of Taskbar and Start Menu.
 
 ![align taskbar to the left](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Remove Unwanted Ads on Apps
 
 The updated technology allows you to have better control over the privacy of your data and device from personalized ads. For this, go to the ‘Settings’ panel and then move over to the 'Privacy and Security’ section. From the right panel, hit the ‘General’ settings. Now you can select whether you want the apps or websites to show ads based on your interests.
@@ -80,10 +94,10 @@ The updated technology allows you to have better control over the privacy of you
 ![disable unwanted ads](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Voice Typing Feature
@@ -91,26 +105,6 @@ The updated technology allows you to have better control over the privacy of you
 The coolest thing about Windows 11 that most people don’t know is the ‘Voice Typing’ feature. You might have experienced this before in your iPhones or Android devices, but this is new for Windows to have voice typing built-in. Press ‘Windows Key + H’ when you are in a text box and then start speaking. By using the mic button from the pop-out menu, you can start using the feature.
 
 ![windows 11 voice typing feature](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 7\. Widgets and Chat Customization
 
@@ -121,10 +115,10 @@ However, some people do not like using this kind of stuff. They don’t even pre
 ![disable widgets and other items](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 8\. Block Trackers and Pop-up
@@ -132,6 +126,26 @@ However, some people do not like using this kind of stuff. They don’t even pre
 Another brilliant Windows 11 tip and trick is that it lets you block the pop-ups and also the tracking. For that, open Microsoft Edge and head over to the 3 dots on the top right corner to open 'Settings.' From the left panel in Settings, look for 'Privacy, Search and Services.' By default, it is set to 'Balanced.' You are suggested to select the 'Strict' option so that all the harmful trackers are blocked.
 
 ![secure your browsing on windows 11](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 9\. Change your Geolocation
 
@@ -171,21 +185,7 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 ![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -211,21 +211,22 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-gopro-face-off-a-detailed-comparison-guide/"><u>[New] 2024 Approved GoPro Face-Off A Detailed Comparison Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-the-decades-guide-to-superior-social-media-management-smm/"><u>[New] In 2024, The Decade's Guide to Superior Social Media Management (SMM)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-essential-tips-for-magix-video-pro-x-users/"><u>[Updated] 2024 Approved Essential Tips for Magix Video Pro X Users</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-muting-the-youtube-video-peek-mechanism/"><u>[Updated] 2024 Approved Muting the YouTube Video Peek Mechanism</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-complete-guide-to-crafting-killer-youtube-outros/"><u>[Updated] In 2024, Complete Guide to Crafting Killer YouTube Outros</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-top-ten-windows-phones-for-seamless-video-streaming/"><u>[Updated] In 2024, Top Ten Windows Phones for Seamless Video Streaming</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-orbital-design-kit/"><u>[Updated] Orbital Design Kit</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-tips-and-tricks-adjusting-the-tempo-of-your-snapchat-videos-for-2024/"><u>[Updated] Tips and Tricks Adjusting the Tempo of Your Snapchat Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-breeze-through-your-latest-fb-watches-2023-edition/"><u>2024 Approved Breeze Through Your Latest FB Watches 2023 Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-first-flight-journey-with-syma-x5c-best-start-to-uav-hobbies/"><u>2024 Approved First Flight Journey with Syma X5C Best Start to UAV Hobbies</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Honor 90 Lite? | Dr.fone</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/guia-facil-para-crear-programas-de-respaldo-automatico-al-disco-duro-exterior-desde-windows-11/"><u>Guía Fácil Para Crear Programas De Respaldo Automático Al Disco Duro Exterior Desde Windows 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-tecno-spark-10c-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Tecno Spark 10C to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/instant-mirth-mastery-your-shortcut-to-ifunny-memes/"><u>Instant Mirth Mastery Your Shortcut to iFunny Memes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/leading-edge-slow-motion-capture-software-phones-iosandroid-for-2024/"><u>Leading Edge Slow Motion Capture Software, Phones iOS/Android for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-essential-handbook-for-incorporating-music-into-ppt-for-2024/"><u>The Essential Handbook for Incorporating Music Into PPT for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-fresh-perspectives-picture-perfect-collages-for-lifes-highlights/"><u>[New] 2024 Approved Fresh Perspectives Picture-Perfect Collages for Life's Highlights</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-best-practices-in-converting-videos-for-twitter/"><u>[New] Best Practices in Converting Videos for Twitter</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-breaking-barriers-instagrams-trailblazing-25-stars/"><u>[New] Breaking Barriers Instagram's Trailblazing 25 Stars</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-innovative-vr-headsets-transforming-drones-for-2024/"><u>[New] Innovative VR Headsets Transforming Drones for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-scene-stealers-archive-responses-await-for-2024/"><u>[New] Scene Stealers Archive Responses Await for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamsavvy-exploring-alternatives-to-dacast/"><u>[New] StreamSavvy Exploring Alternatives to DaCast</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-synthesize-silliness-in-visual-gifs-with-giphy/"><u>[Updated] 2024 Approved Synthesize Silliness in Visual Gifs with Giphy</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-discovering-the-quintessential-5-title-creators-online-for-2024/"><u>[Updated] Discovering The Quintessential 5 Title Creators Online for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-elite-srs-conversions-maximum-benefits-for-tech-enthusiasts/"><u>[Updated] In 2024, Elite SRS Conversions Maximum Benefits for Tech Enthusiasts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-navigating-sponsorships-partnering-effectively-with-brands-live/"><u>[Updated] In 2024, Navigating Sponsorships Partnering Effectively with Brands Live</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-key-methods-from-pin-based-tunes-to-audio-downloads/"><u>2024 Approved Key Methods From Pin-Based Tunes to Audio Downloads</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/boost-creativity-with-free-audio-effects-online-in-2024/"><u>Boost Creativity with Free Audio Effects Online, In 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-xiaomi-redmi-note-13-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Xiaomi Redmi Note 13 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-itel-a70-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Itel A70? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-gopro-hero5-black-evolution-from-hero4-silver/"><u>In 2024, GoPro Hero5 Black Evolution From Hero4 Silver</u></a></li>
+<li><a href="https://fox-access.techidaily.com/polishing-pixels-8-pro-photo-frames-for-images-online-for-2024/"><u>Polishing Pixels 8 Pro Photo Frames for Images Online for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/voice-activated-data-collection-on-ios-ranking-the-top-10-apps-for-2024/"><u>Voice-Activated Data Collection on iOS Ranking the Top 10 Apps for 2024</u></a></li>
 </ul></div>
 
