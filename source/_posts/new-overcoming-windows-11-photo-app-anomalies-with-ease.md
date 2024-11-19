@@ -1,7 +1,7 @@
 ---
 title: "[New] Overcoming Windows 11 Photo App Anomalies with Ease"
-date: 2024-11-01T21:18:03.790Z
-updated: 2024-11-08T02:18:32.974Z
+date: 2024-11-17T18:08:22.104Z
+updated: 2024-11-18T23:58:14.159Z
 tags: 
   - screen-recording
   - ai video
@@ -58,14 +58,21 @@ Here is how to troubleshoot –
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 2: Restore Default Libraries
@@ -78,13 +85,6 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
    4. Tap ‘Restore Defaults’ from the bottom-right portion of the screen.
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
@@ -99,10 +99,10 @@ Here is how can you reset it –
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 4: Repair Photos App package
@@ -117,10 +117,10 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 4. Now, the Windows 10 Photos App won’t crash.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 5: Reinstall Windows 10 Photos app
@@ -167,22 +167,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-clearview-techniques-for-superior-video-with-vce-2-written-by-john-doe-phd/"><u>[New] 2024 Approved ClearView Techniques for Superior Video with VCE 2 Written by John Doe, PhD</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-exclusive-insights-viewing-nba-games-remotely-for-2024/"><u>[New] Exclusive Insights Viewing NBA Games Remotely for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-highest-qp-for-gradual-video-playback/"><u>[New] In 2024, Highest QP for Gradual Video Playback</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-streamlining-your-drone-footage-with-advanced-techniques/"><u>[New] Streamlining Your Drone Footage with Advanced Techniques</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-ultimate-pathway-from-webp-files-to-jpegs-for-2024/"><u>[New] The Ultimate Pathway From WebP Files to JPEGs for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-elucidating-techniques-in-user-motion-detection-for-2024/"><u>[Updated] Elucidating Techniques in User Motion Detection for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-exclusive-top-quintessential-4k-hd-gear-list/"><u>[Updated] In 2024, Exclusive Top Quintessential 4K HD Gear List</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-value-capture-budget-cam-essentials/"><u>[Updated] Value Capture Budget Cam Essentials</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/accessing-the-freshly-unveiled-openai-tailored-gpt-platform-a-step-by-step-walkthrough/"><u>Accessing the Freshly Unveiled OpenAI Tailored GPT Platform: A Step-by-Step Walkthrough</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/desktop-icon-disappearance-issue-resolved-for-windows-10-users/"><u>Desktop Icon Disappearance Issue Resolved for Windows 10 Users</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-your-iphones-rotation-issues-landscape-orientation-not-working/"><u>Fixing Your iPhone's Rotation Issues - Landscape Orientation Not Working?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-15-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone 15 to Windows PC With Ease? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-realme-gt-neo-5-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Realme GT Neo 5 in Minutes | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/innovative-tips-for-navigating-windows-11-widgets/"><u>Innovative Tips for Navigating Windows 11 Widgets</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-correcting-virtualboxs-0x80004005-error/"><u>Mastering the Art of Correcting VirtualBox's 0X80004005 Error</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211236418-9798989828623-the-art-of-mindkeeping/"><u>The Art of Mindkeeping | Free Book</u></a></li>
-<li><a href="https://blog-min.techidaily.com/unlocking-the-secrets-of-ape-files-a-comprehensive-guide-on-using-apes-player/"><u>Unlocking the Secrets of APE Files: A Comprehensive Guide on Using APES Player</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-ensuring-seamless-entry-for-your-show/"><u>[New] 2024 Approved Ensuring Seamless Entry for Your Show</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-hdr-mastery-for-home-and-professional-pcs/"><u>[New] 2024 Approved HDR Mastery for Home and Professional PCs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-converting-moments-into-art-gopro-studios-time-lapse-blueprint/"><u>[New] Converting Moments Into Art GoPro Studio's Time Lapse Blueprint</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-covert-creativity-easy-photo-fixes-for-starters-for-2024/"><u>[New] Covert Creativity Easy Photo Fixes for Starters for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-hustle-smart-listen-hard-top-tasks-for-podcast-enthusiasts/"><u>[Updated] 2024 Approved Hustle Smart, Listen Hard Top Tasks for Podcast Enthusiasts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-elevate-your-digital-artistry-with-these-free-tools-for-2024/"><u>[Updated] Elevate Your Digital Artistry with These Free Tools for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-getting-started-with-itunes-podcasts-on-ios-devices-for-2024/"><u>[Updated] Getting Started with iTunes Podcasts on iOS Devices for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-capturing-the-extremes-adobes-hdr-creation-in-lightroom/"><u>[Updated] In 2024, Capturing the Extremes Adobe's HDR Creation in Lightroom</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-comprehensive-guide-to-free-os-compatible-players/"><u>[Updated] In 2024, Comprehensive Guide to Free OS Compatible Players</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-unleash-creativity-androids-leading-drawing-software-selection/"><u>[Updated] Unleash Creativity Android's Leading Drawing Software Selection</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-acid-pro-alternatives-the-ultimate-review-series/"><u>2024 Approved ACID Pro Alternatives The Ultimate Review Series</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/basic-framework-of-tech-driven-narratives/"><u>Basic Framework of Tech-Driven Narratives</u></a></li>
+<li><a href="https://extra-support.techidaily.com/1723010114825-cyberpunk-2077-not-loading-here-are-the-solutions/"><u>Cyberpunk 2077 Not Loading? Here Are the Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/disentangling-same-account-issues-on-a-device/"><u>Disentangling Same-Account Issues on a Device</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nokia-g42-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nokia G42 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-pova-6-pro-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Pova 6 Pro 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-zootopias-freshest-startup-ideas/"><u>In 2024, Zootopia’s Freshest Startup Ideas</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/reimagining-time-flow-a-thorough-2024-app-review/"><u>Reimagining Time Flow A Thorough 2024 App Review</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-ranker-top-15-free-online-photo-enhancement-tools/"><u>The Ultimate Ranker Top 15 Free Online Photo Enhancement Tools</u></a></li>
 </ul></div>
 

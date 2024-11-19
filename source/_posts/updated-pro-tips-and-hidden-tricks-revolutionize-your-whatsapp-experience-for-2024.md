@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Pro Tips and Hidden Tricks  Revolutionize Your WhatsApp Experience for 2024\""
-date: 2024-11-02T16:56:11.841Z
-updated: 2024-11-07T22:35:17.972Z
+date: 2024-11-17T17:43:32.122Z
+updated: 2024-11-19T00:39:44.070Z
 tags: 
   - screen-recording
   - ai video
@@ -103,6 +103,13 @@ While typing a WhatsApp message if you need to cross-check certain areas with so
 
 ![Whatsapp Typing Trick](https://images.wondershare.com/filmora/article-images/whatsapp-typing-trick.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What are the Hidden Features of WhatsApp?
 
 Since most of the above-mentioned are owing to the tricks and trades of texting via WhatsApp, let us now jot down a WhatsApp hidden feature list that applies for general usability of the wonder-app. There are useful privacy settings and chat features that can make your user experience a lot more peaceful.
@@ -129,13 +136,6 @@ As long as you have the chat history intact you can search specific words to tra
 
 ![Whatsapp Search Old Chat](https://images.wondershare.com/filmora/article-images/whatsapp-search-old-chat.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 5.Restore Your Chat History, and Deleted Chats
 
 Sometimes you can restore deleted chat history if you have switched sims or mistakenly deleted a special conversation thread. Doesn’t take too much, just uninstall and reinstall your app. On opening it, you will get the prompt to restore your chats and media. The restoration process takes about a minute depending on internet speed. Then tap NEXT when the prompt appears. Remember this trick only works on messages that are run under backup when you are using a new phone. WhatsApp runs a backup every day at 2 am.
@@ -145,13 +145,6 @@ Sometimes you can restore deleted chat history if you have switched sims or mist
 Sometimes you just need to hush your WhatsApp for just a while. Perhaps you have to lend your phone to someone but don’t want them bumping into any of your private incoming messages. While other social media allow “logging off”, WhatsApp is always there in your face! Though high-fidelity phones allow fingerprint and face locking, not everyone owns a compatible device right now. Yet you don’t have to delete the app or go Aeroplane Mode, just force stop it. Though it is not an inbuilt WhatsApp feature, you can control the gamut by going to Settings>> Apps and Notifications >> WhatsApp >> Disable. Then in the same section go to Data Settings and disable Background Data. If you do this, your messages will come but you won’t’ get them until you open the app, meanwhile, keep receiving calls and all use your phone full-fledged.
 
 ![Whatsapp Hidden Feature Snooze Whatsapp](https://images.wondershare.com/filmora/article-images/whatsapp-hidden-feature-snooze-whatsapp.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### 7.Automatically Delete Messages After 7 Days
 
@@ -165,6 +158,19 @@ If it is annoying to open a loved one’s story and then automatically sliding i
 
 ![Mute Whatsapp Stories](https://images.wondershare.com/filmora/article-images/mute-whatsapp-stories.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 9.Reply Privately to Recipients in a WhatsApp Group
 
 This is as simple as it sounds. Tap and hold to select a message in a group and then open the 3-dot button at the top right to access the feature.
@@ -174,19 +180,6 @@ This is as simple as it sounds. Tap and hold to select a message in a group and 
 Manage how you are notified of messages from specific contacts and groups. Go to the main page of the contact or group you wish to customize, and there you will find Custom Notifications. Activate the mode to open a wide range of options - notification tones, pop up, preview, etc.
 
 ![Whatsapp Hidden Feature Custom Notification](https://images.wondershare.com/filmora/article-images/whatsapp-hidden-feature-custom-notification.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Source: beebom.com
 
@@ -209,10 +202,10 @@ For this WhatsApp Video Editing Trick, you would need to have a third-party scre
 You can create an instant GIF out of the video file within WhatsApp. Do this, let the video download, and then freshly share it from Attach >> Gallery >> Videos. Before sending, the video editing panel would open, there, you can see the GIF option at the top right. It will shorten your video to 6 seconds, adjust the cursor to the portion you wish to use.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -222,6 +215,13 @@ When it comes to WhatsApp Tricks and Trades, you always have to look forward to 
 **You may also like:**[Best Bio for Whatsapp](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -248,16 +248,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-best-video-equipment-for-documenting-dynamic-musical-performances/"><u>[New] In 2024, Best Video Equipment for Documenting Dynamic Musical Performances</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-crafting-compelling-podcast-teasers/"><u>[Updated] 2024 Approved Crafting Compelling Podcast Teasers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-harness-the-power-of-youtube-and-facebook-streaming-old-video-content/"><u>[Updated] 2024 Approved Harness the Power of YouTube & Facebook Streaming Old Video Content</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-exploring-the-latest-advancements-in-lgs-all-round-360-camera/"><u>[Updated] Exploring the Latest Advancements in LG's All-Round 360 Camera</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-prime-frames-per-second-for-high-impact-slow-motion-videos/"><u>[Updated] In 2024, Prime Frames Per Second For High-Impact Slow Motion Videos</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-motorola-g24-power-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Motorola G24 Power</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-realme-v30t-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-5-premier-drone-engines-to-supercharge-your-qxp/"><u>In 2024, 5 Premier Drone Engines to Supercharge Your QXP</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gleeful-loginsign-up-step-guide/"><u>In 2024, Gleeful Login/Sign Up Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016917304-onikuma-mic-malfunction-heres-how-to-restore-audio-functionality/"><u>Onikuma Mic Malfunction? Here's How to Restore Audio Functionality</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-ensuring-privacy-for-your-phone-number-on-an-android-device/"><u>Step-by-Step: Ensuring Privacy for Your Phone Number on an Android Device</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-optimal-live-streaming-scenery-ideas/"><u>[New] 2024 Approved Optimal Live Streaming Scenery Ideas</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-cut-the-clutter-iphones-best-photo-editing-techniques-object-removal-for-2024/"><u>[New] Cut the Clutter IPhone's Best Photo Editing Techniques (Object Removal) for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-sky-battle-drone-racing-fundamentals-and-top-5-fpv-titans/"><u>[New] The Ultimate Sky Battle Drone Racing Fundamentals & Top 5 FPV Titans</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-screenplay-genius-weaving-compelling-narratives-and-dialogues/"><u>[Updated] In 2024, Screenplay Genius Weaving Compelling Narratives and Dialogues</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-masterful-zoom-techniques-simple-iphone-solutions-for-2024/"><u>[Updated] Masterful Zoom Techniques Simple iPhone Solutions for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-prodigious-editing-power-utilizing-inshot-on-devices/"><u>[Updated] Prodigious Editing Power Utilizing Inshot on Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-optical-stabilization-advantage-in-mobile-cinematography/"><u>2024 Approved Optical Stabilization Advantage in Mobile Cinematography</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipating-innovation-details-emerging-on-tesla-phones-launch-day-price-forecasts-and-speculated-specifications/"><u>Anticipating Innovation: Details Emerging on Tesla Phone's Launch Day, Price Forecasts, and Speculated Specifications</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-13-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 13 Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-arctic-acrobatics-2022s-olympians/"><u>In 2024, Arctic Acrobatics 2022'S Olympians</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-tvs-for-ps5-and-xbox-series-x-gamers-dreams/"><u>In 2024, Premium TVs for PS5 & Xbox Series X Gamers' Dreams</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/leading-vr-video-player-apps-for-cross-platform-use-on-pcmacandroidiphone-in-2018/"><u>Leading VR Video Player Apps for Cross-Platform Use on PC/Mac/Android/iPhone in 2018</u></a></li>
+<li><a href="https://games-able.techidaily.com/meta-in-gaming-decoded-what-it-is-and-should-you-comply/"><u>Meta in Gaming Decoded: What It Is & Should You Comply?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/understanding-magixs-acid-pro-and-its-market-rivals-for-2024/"><u>Understanding Magix's ACID Pro and Its Market Rivals for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/unveiling-the-security-of-googles-find-my-device-feature/"><u>Unveiling the Security of Google's Find My Device Feature</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Into Another Realm  The VR Timeline\""
-date: 2024-11-06T20:21:39.154Z
-updated: 2024-11-08T02:05:53.806Z
+date: 2024-11-16T23:15:21.723Z
+updated: 2024-11-18T23:01:45.595Z
 tags: 
   - screen-recording
   - ai video
@@ -45,10 +45,10 @@ _[Virtual Reality Technology: Current State and Future Challenges](https://tools
 In Pygmalions Spectacles, Stanley G. Weinbaum explains a goggle based game in which individuals can watch a holographic recording of virtual stories including touch and smell. This amazing vision of the future would actually turn into what we think of as virtual-reality today. While it's difficult to introduce touch and smell elements into the average virtual-reality experience, these are visions that creators have in mind for the very near future of virtual-reality experiences. It's amazing to think that 85+ years ago, people were already thinking about creating simulation experiences using technology. We still think of these types of plans as we look towards the future of VR. With rapidly changing technology however, these improvements to the VR simulation experience may be far closer than decades away.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VR development in 1960s
@@ -56,32 +56,26 @@ In Pygmalions Spectacles, Stanley G. Weinbaum explains a goggle based game in wh
 VR headsets actually started development in the 1960s. Just 30 years from the original thought of a VR headset, Ivann Sutherland created the very first VR headset for use with military applications. Using a specialized military software as well as a motion control platform, the first VR headsets were designed for use in training exercises. These VR training tools have now become the standard in the military for training for flight exercises, combat situations and more. An immersive experience is definitely required to push military personnel and prepare them in a safe training environment before they enter into the field. Many air forces around the world require an extensive amount of VR training simulations before they will even let a pilot into one of their aircraft. With the initial development using specialized software and motion controls, VR research would continue to pave the way for training in the military and beyond. Today’s military VR headsets are far more advanced, compact and immersive and these training programs as well as the technology will continue to develop a little bit faster than some of the products that we might find as regular consumers.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VR development in 1990s
 
 VR headsets begin to make their way into a few arcade games for simulations and Nintendo announced the first home VR system. Virtual Boy was one of the first home systems available for use with a widespread appeal. Sega also introduced a Sega VR headset for the Sega Genesis console in the year 1993\. These wraparound prototypes had stereo sound, LCD screens and head tracking. Technical development in this VR headset doom the project and the cost of the headset was extensive making it a massive flop for Sega. The Virtual Boy however was a 3-D game console that experienced a little more success. Virtual Boy was released in North America at a price of $180\. The games were entirely made in red and black and there were only a few pieces of software available with the device. Users would wear a VR headset and control the action on a regular Nintendo controller. Unfortunately the console was very uncomfortable to use and because of the lack of games as well as the lack of color, it didn't present the same strong sales as the other Nintendo consoles out at the time.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## VR development in 2014
 
 Oculus VR represents the latest revolution in VR technology. When Facebook officially acquired the Oculus VR system, this showed that virtual-reality was becoming a huge concern for many of the world's top developers. Although the Oculus Rift was formed out of a kickstarter campaign in 2012, the deal in 2014 represented a huge boost in their funding and confidence. Later in 2015, Oculus began to acquire other companies like Surreal Vision and built partnerships with Samsung to develop the Samsung gear VR. As one of the leading companies in VR development, Oculus has fully functioning VR systems for consumers to purchase and use at home. With support for a wide range of applications and further applications being developed for specific use with their VR systems, this was a huge leap forward for VR. After gaining international attention with the demand after the Facebook deal, this would propel many other developers into creating their own VR development firms. Oculus in a way started a brand-new VR renaissance with a call to create immersive and simulated experiences for the average consumer. Previous VR headsets were very technical and inaccessible for the average computer user, but with plug-and-play compatibility and a wide host of supported applications, Oculus gave the average consumer hope that they can enjoy VR again.
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VR development in 2016 and beyond
 
@@ -92,10 +86,10 @@ The future of VR looks very bright and with so many new devices in development i
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -123,22 +117,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-integrating-zooms-features-for-enhanced-facebook-live/"><u>[New] 2024 Approved Integrating Zoom's Features for Enhanced Facebook LIVE</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-curated-list-top-5-engaging-book-trailers-for-2024/"><u>[New] Curated List Top 5 Engaging Book Trailers for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-premier-5-high-resolution-film-makers/"><u>[New] In 2024, Premier 5 High-Resolution Film Makers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-the-fancy-filter-fest-snapping-with-snapchats-colorful-cartoons/"><u>[New] In 2024, The Fancy Filter Fest Snapping with Snapchat's Colorful Cartoons</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-clandestine-call-collectors-discreet-voice-capture-tools-list/"><u>[Updated] 2024 Approved Clandestine Call Collectors Discreet Voice Capture Tools List</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-solo-art-of-personalized-instagram-ringtone-making/"><u>[Updated] 2024 Approved The Solo Art of Personalized Instagram Ringtone Making</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-enhance-creativity-with-ios-camera-techniques/"><u>[Updated] Enhance Creativity with iOS Camera Techniques</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-pubg-voice-transformation-hacks/"><u>[Updated] In 2024, PUBG Voice Transformation Hacks</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-streaming-beyond-streamlabs-a-comparative-study/"><u>[Updated] Streaming Beyond StreamLabs A Comparative Study</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-top-10-budget-friendly-jpeg-to-gif-conversion-tools-online-for-2024/"><u>[Updated] Top 10 Budget-Friendly JPEG to GIF Conversion Tools Online for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-ultimate-sound-selection-for-social-media-stars-for-2024/"><u>[Updated] Ultimate Sound Selection for Social Media Stars for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ners-guide-adding-text-overlays-on-youtube-for-2024/"><u>Beginner's Guide Adding Text Overlays on YouTube for 2024</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/enhanced-web-traffic-management-through-smart-analytics-experience-the-efficiency-of-cookiebot-technology/"><u>Enhanced Web Traffic Management Through Smart Analytics: Experience the Efficiency of Cookiebot Technology</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-vivo-y56-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Vivo Y56 5G FRP Bypass</u></a></li>
-<li><a href="https://fox-access.techidaily.com/key-sites-for-enhancing-youtube-video-popularity/"><u>Key Sites for Enhancing YouTube Video Popularity</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-shrinking-down-videos-before-uploading-to-whatsapp/"><u>The Ultimate Guide to Shrinking Down Videos Before Uploading to WhatsApp</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-vivo-y100i-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Vivo Y100i</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-tangoing-turquoise-toucan/"><u>[New] 2024 Approved Tangoing Turquoise Toucan</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-art-of-cinematic-dying-in-pro/"><u>[New] 2024 Approved The Art of Cinematic Dying in Pro</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-beating-the-heat-substitutes-for-xsplit-for-2024/"><u>[New] Beating the Heat Substitutes for XSplit for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-virality-voyage-navigating-newsfeeds-with-noteworthy-posts/"><u>[New] In 2024, Virality Voyage Navigating Newsfeeds with Noteworthy Posts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-beginner-to-expert-a-comprehensive-guide-to-looping-your-favorite-vids/"><u>[Updated] From Beginner to Expert A Comprehensive Guide to Looping Your Favorite Vids</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-pinpointing-precision-with-minecrafts-zoom-feature/"><u>[Updated] In 2024, Pinpointing Precision with Minecraft's Zoom Feature</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-penning-perfectly-captivating-podcast-descriptions/"><u>[Updated] Penning Perfectly Captivating Podcast Descriptions</u></a></li>
+<li><a href="https://win-web.techidaily.com/1728491619560-windows/"><u>發現Windows系列內損失分割區文件的最有效恢復方法</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-most-innovative-and-user-friendly-smart-speakers-launching/"><u>Discover the Most Innovative and User-Friendly Smart Speakers Launching</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-playflixapp-user-feedback-synopsis/"><u>In 2024, PlayFlixApp User Feedback Synopsis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-insiders-guide-to-smartwatch-technology-and-its-uses/"><u>The Insider's Guide to Smartwatch Technology and Its Uses</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-17-graphic-design-programs-your-ultimate-guide/"><u>Top 17 Graphic Design Programs: Your Ultimate Guide</u></a></li>
 </ul></div>
 
