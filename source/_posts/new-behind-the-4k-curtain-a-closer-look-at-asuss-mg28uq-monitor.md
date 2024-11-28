@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Behind the 4K Curtain  A Closer Look at ASUS's MG28UQ Monitor\""
-date: 2024-11-17T16:32:40.270Z
-updated: 2024-11-18T19:41:24.791Z
+date: 2024-11-21T08:29:59.109Z
+updated: 2024-11-28T12:12:20.735Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ASUS MG28UQ 4K Monitor Pros and Cons
 
  The ASUS MG28UQ monitor has many great features worth highlighting. For starters, it comes with a TN Liquid Crystal Display screen that boasts an excellent 1ms response rate. It gets even better. This monitor also has AMD FreeSync. At its peak refresh rate, it provides consistently tear-free visuals when paired with compatible graphics cards.
@@ -46,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
  Another significant downside to this otherwise fantastic gaming monitor is its 60Hz peak refresh rate while in 4k UHD mode. The fact is that hardcore gaming increasingly requires a 144Hz refresh rate and gamers who play at this high refresh rate experience a significant drop in the quality of video gaming at lesser rates. While this 4k UHD monitor can perform at 144Hz theoretically, it’s unable to do so in reality due to the limited bandwidth of its input ports.
 
  While this shortfall is significant, it is also true that the majority of average gamers use systems whose graphic cards can do no better than 60Hz. This means that for many average gamers, this monitor’s 60Hz limit is not a very serious problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Hardware Design
 
@@ -61,23 +69,9 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 
 ![asus-mg28uq-gaming-monitor-ports](https://images.wondershare.com/filmora/article-images/asus-mg28uq-gaming-monitor-ports.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It’s hard to fault the ASUS MG28UQ 4K monitor for input connectivity since it features a total of 8 input ports. It includes one HDMI 2.0 port, two HDMI 1.4 ports, one DisplayPort 1.2, three USB 3.0 ports and a 3.5mm headphone jack. This monitor has enough connectivity options to support robust gaming data transfer as well as external media devices like a keyboard, mouse, camera and smartphone. Along with its AMD FreeSync technology, this monitor is built to support a fully-equipped game station for optimal gaming performance.
 
  It’s also great that while the input panel is located at the lowest side of the monitor, it can easily be reached by pivoting the monitor towards portrait mode. Most non-pivot monitors that have theirs similarly placed can be a hassle to set up. To reach their input panels, gamers must bend themselves uncomfortably or worse, upset the balance of their monitors by tilting them dangerously outward. With its effective pivoting stand, the ASUS MG28UQ is quite easy to set up and use.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Features and Performance
 
@@ -107,19 +101,6 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 
 ![asus-mg28uq-gaming-monitor-game-visual-settings](https://images.wondershare.com/filmora/article-images/asus-mg28uq-gaming-monitor-game-visual-settings.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ASUS claims their MG28HQ 4K monitor is “built for victory in the gaming arena”. With their exclusive GamePlus and GameVisual technologies, it’s hard to dispute their claim.
 
  GamePlus lets users set on-screen timers and custom crosshairs that can significantly improve their gaming precision. The crosshairs or reticules can be activated even if the feature is not native to the video game in use. It’s a neat addition that’s sure to play well with most gamers.
@@ -127,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
  GameVisual is a set of inbuilt presets designed to optimize users’ viewing experience. There’s a Racing mode, a Scenery mode, and an sRGB mode. GameVisual also has a Cinema Mode that’s perfect for watching 4K UHD movies and TV Shows. Its black level, cool hues and optimal saturation make for a great movie watching experience.
 
  The ASUS MG28UQ 4K monitor also has inbuilt 2 watt speakers that support a 3.5mm headphone jack. While many testers agree they’re not sufficient for gaming purposes, it’s a feature that makes this monitor a solid entertainment device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -143,19 +128,14 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://download.wondershare.com/filmora-scrn%5Ffull3236.exe)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -182,20 +162,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-advanced-mobile-mounting-accurate-camera-positioning/"><u>[New] In 2024, Advanced Mobile Mounting Accurate Camera Positioning</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-leading-tools-to-uncover-trending-tags-on-fb-twt-and-ig-sites-for-2024/"><u>[New] Leading Tools to Uncover Trending Tags on FB, Twt & IG Sites for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-ultimate-compendium-ios-gif-apps-reviewed-for-2024/"><u>[New] The Ultimate Compendium IOS GIF Apps Reviewed for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-unlock-productivity-selecting-the-top-5-mac-snippers-for-2024/"><u>[New] Unlock Productivity Selecting the Top 5 Mac Snippers for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-chortle-calls-greatest-funny-ringtone-hubs/"><u>[Updated] 2024 Approved Chortle Calls Greatest Funny Ringtone Hubs</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-upgrading-your-tiktok-presence-mastering-number-adjustments/"><u>[Updated] 2024 Approved Upgrading Your TikTok Presence Mastering Number Adjustments</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-top-techniques-to-preserve-and-store-mov-files-on-windows-pcs/"><u>[Updated] Top Techniques to Preserve and Store Mov Files on Windows PCs</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-portable-battery-packs-to-keep-recording-longer/"><u>2024 Approved Portable Battery Packs to Keep Recording Longer</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/a-deep-dive-into-sns-hdr-does-it-justify-its-cost-in-2024/"><u>A Deep Dive Into SNS HDR Does It Justify Its Cost, In 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/cure-your-game-glitch-ultimate-guide-to-resolving-among-us-crashes/"><u>Cure Your Game Glitch: Ultimate Guide to Resolving 'Among Us' Crashes</u></a></li>
-<li><a href="https://fox-access.techidaily.com/enhancing-your-video-conferencing-essential-tips-for-using-zoom-in-win10-for-2024/"><u>Enhancing Your Video Conferencing Essential Tips for Using Zoom in Win10 for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-s17t-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo S17t Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-helmet-to-high-definition-top-5-cams-for-riders-23-edition/"><u>In 2024, Helmet to High Definition Top 5 Cams for Riders, '23 Edition</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-12-proplus-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Realme 12 Pro+ 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://fox-access.techidaily.com/unlock-quick-filming-techniques-your-5-best-home-hacks-list-for-2024/"><u>Unlock Quick Filming Techniques – Your 5 Best Home Hacks List for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-daylight-deployment-for-increased-indoor-comfort-for-2024/"><u>[New] Daylight Deployment for Increased Indoor Comfort for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-pro-iphone-hdr-photos-made-easy/"><u>[Updated] 2024 Approved Pro iPhone HDR Photos Made Easy</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-essential-15-film-look-up-tables-for-gopro-videos/"><u>[Updated] Essential 15 Film Look-Up Tables for GoPro Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-quick-start-zooming-into-success-with-win11/"><u>[Updated] Quick Start Zooming Into Success with Win11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/conversational-prowess-top-17-commonplace-spanish-idioms/"><u>Conversational Prowess: Top 17 Commonplace Spanish Idioms</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/funniest-memes-to-download-iphone-for-2024/"><u>Funniest Memes to Download (iPhone) for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-essential-online-hubs-for-got-audio-download/"><u>In 2024, Essential Online Hubs for GoT Audio Download</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-from-blurry-to-sharp-mastering-vce-version-22/"><u>In 2024, From Blurry to Sharp Mastering VCE Version 2.2</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-the-smallest-webcam-on-earth-a-compact-powerhouse-of-versatility-uncovered-by-tech-guru-at-zdnet/"><u>Review: The 'Smallest Webcam on Earth' - A Compact Powerhouse of Versatility, Uncovered by Tech Guru at ZDNET</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-vivo-y100-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Vivo Y100</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/shockingly-satisfactory-the-ring-spotlight-cam-pro-slashes-price-for-labor-day-tech-insights-zdnet/"><u>Shockingly Satisfactory: The Ring Spotlight Cam Pro Slashes Price for Labor Day - Tech Insights | ZDNet</u></a></li>
 </ul></div>
 

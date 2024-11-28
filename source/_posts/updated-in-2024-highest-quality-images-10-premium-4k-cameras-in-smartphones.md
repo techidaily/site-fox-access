@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Highest Quality Images  10 Premium 4K Cameras in Smartphones\""
-date: 2024-09-06T05:06:00.592Z
-updated: 2024-09-07T05:06:00.592Z
+date: 2024-11-21T00:29:05.578Z
+updated: 2024-11-28T06:07:46.686Z
 tags: 
   - screen-recording
   - ai video
@@ -59,12 +59,6 @@ In terms of photography, Sony is one of those respected names in the industry. T
 
 ![Huawei P10](https://images.wondershare.com/filmora/article-images/huawei-p10-full-color-range.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Check P10 at Amazon](https://www.amazon.com/gp/product/B06XY74463/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B06XY74463&linkId=7531f8fc07ef1629ff22b01c39267bf2)
 
 One of the best partnerships Huawei did in the last few years was with Leica. And now, you can take advantage of their amazing cameras. The Huawei P10 comes with one front camera with 8Mp and two back cameras: one with 12MP and another one with 20MP. Just like it already happened with the previous Huawei models, you can use the 20MP one to take black-and-white photos. However, when you use both rear cameras, your photos will have a better clarity. Although the Huawei P10 comes with the feature that allows you to shoot 4K videos, the fact is that it doesn't offer any [stabilization](https://tools.techidaily.com/wondershare/filmora/download/) when you're recording at this resolution. As if this wasn't enough, if you use Windows, you won't be able to open them by using Windows's 10 Photos app, VLC, and you won't even be able to upload it directly to YouTube. Another thing that we notice is that the Huawei P10 camera doesn't deal very well with low light. Even though you'll have fun playing with the different modes of the Huawei P10 camera, the truth is that there are better smartphone cameras in the market these days.
@@ -85,12 +79,6 @@ Samsung has been a leader in what comes to the cameras they use on their smartph
 
 ![Google Pixel XL 4K Phone](https://images.wondershare.com/filmora/article-images/google-pixel-xl-4k-phone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Check Pixel XL at Amazon](https://www.amazon.com/gp/product/B01M0PADR4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M0PADR4&linkId=081b7999011d308daca1275227511832)
 
 While the Google Pixel XL already has one year, it continues to have one of the best cameras on the market. The Google Pixel XL includes a front camera with 8Mp and a rear camera with 12.3Mp. Although you might find some excessive sharpness on some of your photos, most people seem to like it. One of the things that allow the Google Pixel XL to remain as one of the best on the market until today is the fact that the smartphone features the Snapdragon 821\. And since it is so powerful, the Google Pixel XL is able to run HDR+ all the time. If there is something we love about the Google Pixel XL camera is the ability it has to combine different "raw" images and produce a high-quality JPG without any ghosting or blurring. In the 4K videos, you can count with some pretty smooth and nice videos although it doesn't include optical stabilization. The difference is that Google chose to use gyro-based stabilization instead. The Google Pixel XL camera also works pretty well not only with low light photos as well as selfies that come with a lot of detail.
@@ -99,12 +87,6 @@ While the Google Pixel XL already has one year, it continues to have one of the 
 
 ![LG G6 4K Phone](https://images.wondershare.com/filmora/article-images/lg-g6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Check LG G6 at Amazon](https://www.amazon.com/gp/product/B06XYRS7CT/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B06XYRS7CT&linkId=44347bd672e6af95f2b757babbfcce13)
 
 Featuring a front camera with 5Mp and two rear cameras with 13Mp each, you are able to take photos with a normal field or with a wider angle. Plus, you can shoot 4K videos with the one that you choose. One of the best things about the LG G6 is the fact that it is water-proof. So, if you like outdoor activities, you can take some photos or shoot videos in the rain or around the pool. However, the LG G6 isn't easy to mount and it's not rugged, making it a bit difficult to use when compared with other smartphones on the market. Overall, the camera of the LG G6 isn't that good. Although you can take pretty good photos in bright light and the phase detection autofocus is pretty accurate and quick, you won't have any depth effect. So, you'll always see some kind of blurring in the background. In case you decide to use the wider lens, you should expect to see some kind of distortion. However, what we really don't like is the lack of detail on the photos. However, if you decide to take a photo in a low light environment, the quality of the images is quite remarkable. Although you'll still see some noise, they are quite good. In what concerns to 4K videos, we can only say they are ok. Although the audio is great, there is no stabilization on the LG G6\. So, if you're shooting something that is moving quickly you won't even get an ok 4K video.
@@ -113,12 +95,6 @@ Featuring a front camera with 5Mp and two rear cameras with 13Mp each, you are a
 
 ![OnePlus 5 4K Phone](https://images.wondershare.com/filmora/article-images/oneplus-5-4k-phone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Check OnePlus 5 at Amazon](https://www.amazon.com/gp/product/B0732YHKBX/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0732YHKBX&linkId=abebbdc69a97ac3dc59dbf2c32243a8e)
 
 The OnePlus 5 comes with a double rear camera - one with 16Mp and the other one with 20Mp, and a front camera with 16Mp. When you're taking photos in a low light, they will be incredibly detailed and sharp. Even though the OnePlus 5 doesn't have any stabilization, as long as you're taking a photo to a non-moving subject and you keep your hands steady, you can expect great results. Even though the lack of stabilization doesn't affect photos very much, the truth is that affects the quality of your 4K videos a lot. This is, indeed, one of the main weaknesses of the OnePlus 5\. In what concerns the front camera, the OnePlus 5 features one of the highest resolutions we have seen so far on the market. So, if you're planning to take out many selfies, you can be sure the OnePlus 5 is perfect for you. One of the things we most like about the OnePlus 5 camera is their app interface. It's simple, intuitive, and easy to use. You can play with all the settings you want with ease. The only drawback is really the video.
@@ -127,12 +103,6 @@ The OnePlus 5 comes with a double rear camera - one with 16Mp and the other one 
 
 ![HTC U11 4K Phone](https://images.wondershare.com/filmora/article-images/htc-u11-design.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Check HTC U11 at Amazon](https://www.amazon.com/gp/product/B07144ZQ87/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07144ZQ87&linkId=904935237c80d28c01866b82ef2345aa)
 
 When you're looking for a smartphone that has a great camera, one of the things that you really need to look at is how are the images they produce with low light. And in what comes to this, the HTC U11 is definitely the winner. Featuring a front camera with 16Mp and a rear camera with 12Mp, the HTC U11 is perfect if you like to take "normal" photos. Since it includes the "dual-pixel" feature (just like the Samsung S8) that allows you to quickly focus, you can view them in every screen size that they will look amazing. In what concerns to video, although the default is set to 1080p, you can easily select the 4K option. One of the good things is that the HTC U11 includes image stabilization; one bad thing is that it doesn't really work well when you're using the 4K resolution (it works best when you're using the default resolution - 1080p). Overall, the HTC U11 doesn't disappoint at all. Yes, it could be better, especially in what concerns with 4K video shooting. However, the photos you get, especially with low light, are pretty amazing.
@@ -147,18 +117,6 @@ One of the most attractive things about the Xiaomi Mi 6 is the price. It's about
 
 ![iPhone 7 Plus 4K Phone](https://images.wondershare.com/filmora/article-images/iphone-7-plus-4k-smartphone.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Featuring a 7Mp camera in the front and 2 back cameras, both with 12Mp, the iPhone 7 Plus was the first Apple smartphone to include 2 cameras in the back. The only feature added to the camera of the iPhone 7 Plus is the telephoto lens. This feature allows you to have a 2x optical zoom and it works pretty well. However, rather than that, the features continue to be all the same that was already included on the previous versions of the iPhone. One of the things that we really don't like is the fact that the video resolution settings aren't where they were supposed to be. Instead, you need to open the Setting's app of the smartphone and scroll until you find the Photos & Camera. Other than this, we are quite happy with the iPhone experience. The main camera photos are absolutely great in terms of color accuracy, sharpness, focus, and contrast. After all, it enables the HDR by default and it works pretty quickly. In what concerns to 4K videos, we are happy to say that they are detailed and sharp, just like the photos we already mentioned. The audio is high-quality and the stabilization is impressive. But not all is good with the iPhone 7 Plus camera. Low light photos may show you a low-quality level, especially when compared with these top smartphones. They will look very noisy.
 
 #### 10. MOTO Z2 Play
@@ -172,17 +130,9 @@ Featuring a 5MP camera on the front and a 12Mp camera on the back, we can say th
 Check[MOTO Z2 Play 4K Smartphone Complete Review >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Recommended Video Editor App for Your New 4K Camera Phones
 
 After unboxing your favorite 4K camera phone, it is time to install various apps. No matter you are looking for an App to create funny videos or make an aesthetic photo collage, it is necessary to install an easy-to-use yet versatile video editor. Luckily, [Wondershare Filmora](https://filmorago.onelink.me/4M4O/34b09bf4) is a great choice considering its powerful features and numerous video effects to match your needs.
@@ -195,17 +145,13 @@ After unboxing your favorite 4K camera phone, it is time to install various apps
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 So, which smartphone should you get? Which one has the best camera? Which one is the best to shoot 4K videos? There isn't a single model that is the best one to take photos and to shoot 4K videos. So, simply put, you need to prioritize your needs, what you really appreciate more, and choose the best smartphone for you according to that. However, what we can say is that, according to our opinion, if you're looking for the best smartphone for low light photos, your best choice is the HTC U11\. But if you intend to take most of your photos with good and vibrant light, then you should really go for the Samsung Galaxy S8\. If your major need is concerned with 4K videos, there's no question that your best choice at the moment is the Google Pixel.
@@ -216,7 +162,15 @@ So, which smartphone should you get? Which one has the best camera? Which one is
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -241,4 +195,19 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/-visual-hook-creating-captivating-youtube-thumbnails-to-drive-traffic-for-2024/"><u>[New] A Visual Hook Creating Captivating YouTube Thumbnails to Drive Traffic for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-expertly-edited-entries-anywhere-at-the-tap-of-a-finger-in-2e23/"><u>[New] In 2024, Expertly Edited Entries, Anywhere at the Tap of a Finger in 2E23</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-from-bland-to-brilliant-elevate-your-images-in-canva/"><u>[New] In 2024, From Bland to Brilliant Elevate Your Images in Canva</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-top-ten-frame-enhancers-for-visual-artistry/"><u>[Updated] 2024 Approved Top Ten Frame Enhancers for Visual Artistry</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-top-free-android-video-call-apps-compared/"><u>[Updated] In 2024, Top Free Android Video Call Apps Compared</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-is-monetization-a-feature-in-review-blogs/"><u>[Updated] Is Monetization a Feature in Review Blogs?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-channel-identity-made-simple-discover-the-10-best-banner-maker-apps/"><u>2024 Approved Channel Identity Made Simple Discover the 10 Best Banner Maker Apps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/change-screenshot-saving-location-on-mac/"><u>Change Screenshot Saving Location on Mac</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/complete-tutorial-on-converting-wmv-videos-to-avi-for-optimal-playback/"><u>Complete Tutorial on Converting WMV Videos to AVI for Optimal Playback</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-solving-the-issue-of-elevated-cpu-consumption-by-audio-services-in-windows/"><u>Diagnosing and Solving the Issue of Elevated CPU Consumption by Audio Services in Windows</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-capture-and-conserve-top-picks-for-affordable-cloud-photo-storage/"><u>In 2024, Capture and Conserve Top Picks for Affordable Cloud Photo Storage</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-streamlining-your-spotify-to-youtube-music-library-transition/"><u>In 2024, Streamlining Your Spotify to YouTube Music Library Transition</u></a></li>
+</ul></div>
 

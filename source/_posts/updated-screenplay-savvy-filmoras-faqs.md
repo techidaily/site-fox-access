@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Screenplay Savvy  Filmora's FAQs\""
-date: 2024-11-16T20:37:22.638Z
-updated: 2024-11-18T23:42:59.843Z
+date: 2024-11-27T10:59:35.233Z
+updated: 2024-11-28T06:08:42.038Z
 tags: 
   - screen-recording
   - ai video
@@ -49,6 +49,10 @@ Step2 Select one text title from the “Titles” tab, and drag-n-drop the text 
 
 ![drag text to timeline](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Double-click it. In the text editor and then click animation.
 
 ![click on animation](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-5.jpg)
@@ -58,13 +62,6 @@ Step4 Here you can choose a bunch of preset animations for your texts.
 ![choose any preset animation](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-6.jpg)
 
 Another fantastic addition to Filmora is 3D plug-ins. You can also use NewBlue FX, which includes titler pro. These allow you to create your own text animation, even in 3D.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Question 2: Video editing skills
 
@@ -104,6 +101,10 @@ Then in the mask tab, click on the invert mask option. You can play around with 
 
 ![clean up the mask](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-14.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, play around with these tabs to clean up the mask to refine the shot. Finally, play your edited clip and see if it looks good.
 
 ![play your edited clip](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-15.gif)
@@ -128,22 +129,13 @@ Step2 Double-click the clip you want to denoise. And click the audio at the top.
 
 ![click audio at the top](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-19.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Now select the denoise button and choose between weak, medium, and strong intensity to remove background noises.
 
 ![select denoise button](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-20.gif)
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You can also use the equalizer to remove background noises and improve your audio manually. The steps you have to follow are given below.
 
@@ -161,10 +153,7 @@ Step4 Start moving dials up and down and find the right balance for your clip.
 ![find the right balance for your clip](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-23.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step5 Find the spot where your clip sounds the best and relisten to your clip.
@@ -174,13 +163,6 @@ Step5 Find the spot where your clip sounds the best and relisten to your clip.
 Step6 Export your clip, and you will notice a major difference in the audio quality after editing.
 
 ![export clip](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-25.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Question 4: About Filmora settings
 
@@ -194,6 +176,10 @@ These features include 4K video export, keyframing, speed ramping, and many more
 
 ![will next versions of filmora be valid on the lifetime license](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-27.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you bought Filmora 9 lifetime license years ago, you can upgrade to Filmora X and use the same license. However, since Filmora X, there is no lifetime license anymore. Instead, a perpetual license is made for a specific version of Filmora. It includes minor updates continually with payment of a single fee, but for major upgrades, like Filmora 11 to Filmora 12, there will be an additional fee. Therefore, the answer is no.
 
 ## Final Words
@@ -205,13 +191,6 @@ We hope you have found the answer to your question. If you still have any querie
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 ![titles from wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 And you can also customize titles on your own. So, let us go ahead and show you how to do it.
 
@@ -245,6 +224,10 @@ First, record your shot from a slightly lower angle if the string is tied from a
 
 ![record your clip from a slightly lower angle](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-8.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Remove the object and string from the shot and record the background for about 10 seconds.
 
 ![record empty background](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-9.jpg)
@@ -254,13 +237,6 @@ Remove the object and string from the shot and record the background for about 1
 Now, launch the video editing software Wondershare Filmora. Drag and drop your empty background clip on the first video track.
 
 ![import clip with empty background](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-10.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now drag the other clip with the object and string on the second video track.
 
@@ -274,19 +250,6 @@ Move the mask around until the string is in the mask box.
 
 ![move the mask](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-13.gif)
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Then in the mask tab, click on the invert mask option. You can play around with these tabs to clean up the mask to refine the shot.
 
 ![clean up the mask](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-14.gif)
@@ -295,9 +258,17 @@ Now, play around with these tabs to clean up the mask to refine the shot. Finall
 
 ![play your edited clip](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-15.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Export the clips to your computer.
 
 ![export clip](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-16.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Question 3: Audio quality improvement
 
@@ -334,6 +305,10 @@ Step4 Start moving dials up and down and find the right balance for your clip.
 
 ![find the right balance for your clip](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-23.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step5 Find the spot where your clip sounds the best and relisten to your clip.
 
 ![find the best spot and relisten](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-24.png)
@@ -350,16 +325,13 @@ It is a great question. You might have noticed a crown icon next to some feature
 
 These features include 4K video export, keyframing, speed ramping, and many more. Purchase a Filmora license from their official website and enjoy these beautiful features.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Question 5: Filmora purchase
 
 ![will next versions of filmora be valid on the lifetime license](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-27.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you bought Filmora 9 lifetime license years ago, you can upgrade to Filmora X and use the same license. However, since Filmora X, there is no lifetime license anymore. Instead, a perpetual license is made for a specific version of Filmora. It includes minor updates continually with payment of a single fee, but for major upgrades, like Filmora 11 to Filmora 12, there will be an additional fee. Therefore, the answer is no.
 
@@ -393,24 +365,22 @@ We hope you have found the answer to your question. If you still have any querie
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-droning-shadows-action-camera-analysis/"><u>[New] In 2024, Droning Shadows Action Camera Analysis</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-navigate-high-speed-stories-on-instagram-effectively/"><u>[New] In 2024, Navigate High-Speed Stories on Instagram Effectively</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-precision-in-podcast-promotion-timelines/"><u>[Updated] 2024 Approved Precision in Podcast Promotion Timelines</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-chip-synchrony-the-new-era-of-fluid-video-editing-experience/"><u>[Updated] Chip Synchrony The New Era of Fluid Video Editing Experience</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-enhancing-visual-interest-utilizing-secondary-footage-wisely/"><u>[Updated] In 2024, Enhancing Visual Interest Utilizing Secondary Footage Wisely</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-integrating-comfort-with-efficiency-modern-approaches-to-office-design/"><u>[Updated] Integrating Comfort with Efficiency Modern Approaches to Office Design</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-seamless-network-broadcast-adopting-the-vlc-way-for-2024/"><u>[Updated] Seamless Network Broadcast Adopting the VLC Way for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/celebrating-creativity-otu-samples-freepaid-for-2024/"><u>Celebrating Creativity OTU Samples (Free/Paid) for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/cultural-heritage-without-copyright-boundaries/"><u>Cultural Heritage Without Copyright Boundaries</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-discover-budget-friendly-superior-asmr-mics/"><u>In 2024, Discover Budget-Friendly, Superior ASMR Mics</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-samsung-galaxy-z-flip-5-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Samsung Galaxy Z Flip 5 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-professional-video-intros-no-cost/"><u>In 2024, Professional Video Intros, No Cost</u></a></li>
-<li><a href="https://fox-access.techidaily.com/maximizing-capabilities-upgrading-to-macos-sierra-for-2024/"><u>Maximizing Capabilities Upgrading to macOS Sierra for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/money-saving-drones-reviewed-top-5-under-100-models-for-2024/"><u>Money-Saving Drones Reviewed Top 5 Under $100 Models for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-silence-a-how-to-for-fixing-pc-microphone-issues-during-zoom-sessions/"><u>Overcoming Silence: A How-To for Fixing PC Microphone Issues During Zoom Sessions</u></a></li>
-<li><a href="https://windows11.techidaily.com/prolific-tools-in-windows-11-top-7-productivity-widgets/"><u>Prolific Tools in Windows 11: Top 7 Productivity Widgets</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-sx740-hs-compact-camera-versatile-photographer/"><u>The SX740 HS: Compact Camera, Versatile Photographer</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-using-vlc-for-mp4-and-format-shifting/"><u>The Ultimate Guide to Using VLC for MP4 & Format Shifting</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-tricks-for-a-successful-ipad-battery-upgrade/"><u>Ultimate Tricks for a Successful iPad Battery Upgrade</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-mastering-virtual-realities-unleash-power-in-kinemaster-and-its-leading-rivals-for-2024/"><u>[New] Mastering Virtual Realities Unleash Power in KineMaster & Its Leading Rivals for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-the-ultimate-guide-to-finding-the-right-youtube-keywords/"><u>[Updated] 2024 Approved The Ultimate Guide to Finding the Right YouTube Keywords</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-navigating-thumbnail-sizes-for-youtube-content-excellence/"><u>2024 Approved Navigating Thumbnail Sizes for YouTube Content Excellence</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-14-pro-max-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 14 Pro Max to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clock-comeback-strategies-repair-missing-windows-time-service/"><u>Clock Comeback Strategies: Repair Missing Windows Time Service</u></a></li>
+<li><a href="https://fox-access.techidaily.com/elevated-cinematography-mastering-drone-use/"><u>Elevated Cinematography Mastering Drone Use</u></a></li>
+<li><a href="https://fox-access.techidaily.com/elevating-listeners-a-comprehensive-guide-to-podcast-seo/"><u>Elevating Listeners A Comprehensive Guide to Podcast SEO</u></a></li>
+<li><a href="https://fox-access.techidaily.com/elevating-your-video-game-choosing-a-gimbal-for-drones/"><u>Elevating Your Video Game Choosing a Gimbal for Drones</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723009297740-enhancing-your-experience-of-playing-tiny-tinas-wonderlands-on-pc-crash-no-more/"><u>Enhancing Your Experience of Playing Tiny Tina's Wonderlands on PC: Crash No More!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ensuring-accuracy-correcting-your-tiktok-profiles-age/"><u>Ensuring Accuracy Correcting Your TikTok Profile's Age</u></a></li>
+<li><a href="https://fox-access.techidaily.com/eradicating-flutter-phenomenon-from-drones-footage-for-2024/"><u>Eradicating Flutter Phenomenon From Drones' Footage for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/experts-selection-ideal-sierra-dvd-creators-for-2024/"><u>Expert’s Selection Ideal Sierra DVD Creators for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/exploring-why-photo-booth-videos-freeze-suddenly-for-2024/"><u>Exploring Why Photo Booth Videos Freeze Suddenly for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/from-idea-to-reality-explore-these-12-inspirational-free-image-websites/"><u>From Idea to Reality – Explore These 12 Inspirational Free Image Websites</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-jokester-jukebox-selecting-sources-for-funny-ringtones/"><u>In 2024, Jokester Jukebox Selecting Sources for Funny Ringtones</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-seize-control-of-your-viewing-experience-these-top-6-free-youtube-short-downloaders/"><u>In 2024, Seize Control of Your Viewing Experience These Top 6 Free YouTube Short Downloaders</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-uk-dramas-and-comedies-to-watch-on-netflix-right-now/"><u>Top UK Dramas and Comedies to Watch on Netflix Right Now</u></a></li>
 </ul></div>
 

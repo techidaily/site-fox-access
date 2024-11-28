@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Symphony of Silence Breakers  Crafting Your Own Custom Alerts & Sounds on Android\""
-date: 2024-11-14T18:37:48.536Z
-updated: 2024-11-18T22:20:00.516Z
+date: 2024-11-22T05:17:26.732Z
+updated: 2024-11-28T11:41:22.938Z
 tags: 
   - screen-recording
   - ai video
@@ -62,32 +62,20 @@ Step2 Click on the **"Import"** option to add an MP3 file.
 
 ![adding an mp3 file in filmora](https://images.wondershare.com/filmora/article-images/2023/03/adding-an-mp3-file-in-filmora.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Drag the MP3 file and drop it into the **"Timeline Panel"** present at the bottom.
 
 ![adding an mp3 file to the timeline](https://images.wondershare.com/filmora/article-images/2023/03/adding-an-mp3-file-to-the-timeline.png)
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4 Click the MP3 file, and a double arrow will appear. Drag the double arrow on the MP3 file to select a part that you want to trim. Now, click the **"Split"** option to delete the selected part.
 
 ![select and trim the mp3 file](https://images.wondershare.com/filmora/article-images/2023/03/select-and-trim-the-mp3-file.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step5 Click the **"Export"** option and export the newly created MP3 file in MP3 format.
@@ -95,10 +83,11 @@ Step5 Click the **"Export"** option and export the newly created MP3 file in MP3
 ![export the mp3 file in mp3 format](https://images.wondershare.com/filmora/article-images/2023/03/export-the-mp3-file-in-mp3-format.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set an MP3 File as a Ringtone on Android?
@@ -114,10 +103,7 @@ Step2 Open **"Settings"** on your Android phone. Scroll below and tap the **"Sou
 ![open settings and tap sound option](https://images.wondershare.com/filmora/article-images/2023/03/open-settings-and-tap-sound-option.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3 Scroll below and tap the **"Phone Ringtone"** option.
@@ -164,27 +150,21 @@ Step2 Tap the **"Edit"** option available at the bottom.
 
 ![tap edit option](https://images.wondershare.com/filmora/article-images/2023/03/tap-edit-option.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Tap the **"Ringtone"** option.
 
 ![tap ringtone option](https://images.wondershare.com/filmora/article-images/2023/03/tap-ringtone-option.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step4 A list of default ringtones will appear. If you want to add a customized ringtone, tap the **"+"** button on top.
 
 ![tap + button to add trimmed mp3 file](https://images.wondershare.com/filmora/article-images/2023/03/tap-button-to-add-trimmed-mp3-fille.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5 Select the customized MP3 file from **"Sound Picker,"** and you are done.
 
@@ -237,13 +217,6 @@ Step5 Click the **"Export"** option and export the newly created MP3 file in MP3
 
 ![export the mp3 file in mp3 format](https://images.wondershare.com/filmora/article-images/2023/03/export-the-mp3-file-in-mp3-format.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Set an MP3 File as a Ringtone on Android?
 
 After learning about how to make keen ringtones by yourself, it’s time to set the MP3 file as your Android ringtone. You can set a trimmed MP3 file as a ringtone on your Android phone by doing these steps:
@@ -268,6 +241,10 @@ Step5 Select the customized ringtone from **"Sound Picker"** and tap **"Done,"**
 
 ![select customized mp3 file from sound pickerr](https://images.wondershare.com/filmora/article-images/2023/03/select-customized-mp3-file-from-sound-pickerr.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Set an MP3 File as a Notification Sound?
 
 Apart from setting ringtone, you are also supported to set customized notification sound. If you want to use an MP3 file as a notification sound on Android, follow the below-mentioned steps:
@@ -275,6 +252,10 @@ Apart from setting ringtone, you are also supported to set customized notificati
 Step1 Launch **"Settings"** on your phone and tap the **"Sound"** option.
 
 ![open settings and tap sound option](https://images.wondershare.com/filmora/article-images/2023/03/open-settings-and-tap-sound-option.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 Now scroll below and tap the **"Notification Sound"** option.
 
@@ -296,6 +277,10 @@ Step1 Open **"Contacts"** on your Android phone and select the contact number yo
 
 ![open contacts and select](https://images.wondershare.com/filmora/article-images/2023/03/open-contacts-and-select.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Tap the **"Edit"** option available at the bottom.
 
 ![tap edit option](https://images.wondershare.com/filmora/article-images/2023/03/tap-edit-option.PNG)
@@ -313,13 +298,6 @@ Step5 Select the customized MP3 file from **"Sound Picker,"** and you are done.
 Repeat the above steps to set MP3 ringtones for other contacts on your Android phone.
 
 ![select customized mp3 file from sound picker](https://images.wondershare.com/filmora/article-images/2023/03/select-customized-mp3-file-from-sound-picker.PNG)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -353,19 +331,21 @@ Hopefully, you will find our article helpful, and you can now add customized rin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-navigating-the-complexities-of-color-correction-using-luts/"><u>[New] 2024 Approved Navigating the Complexities of Color Correction Using LUTs</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-fast-track-turning-zip-into-professional-quality-srt-files/"><u>[New] Fast Track Turning ZIP Into Professional-Quality Srt Files</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/he-hidden-truths-about-youtube-earnings-for-2024/"><u>[New] The Hidden Truths About YouTube Earnings for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-masterclass-for-srt-editing-in-macos/"><u>[Updated] 2024 Approved Masterclass for SRT Editing in macOS</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-script-crafting-basics/"><u>[Updated] 2024 Approved Script Crafting Basics</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-decoding-the-mystery-of-where-are-my-youtube-comments-in-2024/"><u>[Updated] Decoding the Mystery of Where Are My YouTube Comments, In 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-no-copyrights-required-best-10-melodies-for-zen-practice/"><u>[Updated] In 2024, No Copyrights Required - Best 10 Melodies for Zen Practice</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/hidden-gems-top-8-private-video-downloaders/"><u>Hidden Gems Top 8 Private Video Downloaders</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-huawei-nova-y91-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Huawei Nova Y91</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-pop-7-pro-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Pop 7 Pro using Video Repair Utility on Windows?</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/vs-youtube-unveiling-key-distinctions-and-best-platform-for-sharing/"><u>IGTV Vs. YouTube Unveiling Key Distinctions & Best Platform for Sharing</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-15-pro-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 15 Pro?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-turbocharging-fb-media-speed-techniques-revealed/"><u>In 2024, Turbocharging FB Media Speed Techniques Revealed</u></a></li>
-<li><a href="https://blog-min.techidaily.com/leading-dvd-to-video-format-transformer-for-windows-users/"><u>Leading DVD to Video Format Transformer for Windows Users</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-best-student-focused-historical-yt-series-for-2024/"><u>[New] Best Student-Focused Historical YT Series for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-convert-songs-to-calls-essential-websites-for-youtubetones-extraction/"><u>[New] Convert Songs to Calls Essential Websites for YoutubeTones Extraction</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-strategies-to-soar-effective-chats-on-google-meet/"><u>[Updated] 2024 Approved Strategies to Soar Effective Chats on Google Meet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-ace-your-editing-skills-video-enhancer-v22-masterclass/"><u>[Updated] Ace Your Editing Skills Video Enhancer v2.2 Masterclass</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-remote-recording-excellence-best-9-webmicrone-capture-systems-23/"><u>[Updated] In 2024, Remote Recording Excellence Best 9 Webmicrone Capture Systems ('23)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-budget-friendly-sky-vault-optimal-large-file-haven/"><u>2024 Approved Budget-Friendly Sky Vault Optimal Large File Haven</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-creative-commons-soothing-scenes/"><u>2024 Approved Creative Commons Soothing Scenes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-enhance-your-videos-with-free-intros/"><u>2024 Approved Enhance Your Videos with Free Intros</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-explore-the-top-5-resources-for-innovative-text-designs/"><u>2024 Approved Explore the Top 5 Resources for Innovative Text Designs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-mastering-macs-preview-a-comprehensive-tutorial/"><u>2024 Approved Mastering Mac's Preview A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-unlocking-image-potential-the-importance-of-luts/"><u>2024 Approved Unlocking Image Potential The Importance of LUTs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-zoomed-in-filming-with-precision-and-clarity/"><u>2024 Approved Zoomed In Filming with Precision and Clarity</u></a></li>
+<li><a href="https://network-issues.techidaily.com/apex-hack-proofing-guide-instant-troubleshooting/"><u>Apex Hack-Proofing Guide: Instant Troubleshooting</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/recording-power-20plus-best-practices-for-skype-chats-on-windowsmac-pcs-for-2024/"><u>Recording Power 20+ Best Practices for Skype Chats on Windows/Mac PCs for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-iphone-vpn-providers-unveiled-by-professionals-comprehensive-guide/"><u>Top-Rated iPhone VPN Providers Unveiled by Professionals – Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transformacion-de-webm-a-wav-sin-gastos-guia-completa-para-la-conversion-en-linea-sin-complicaciones-mediante-movavi/"><u>Transformación De WEBM a WAV Sin Gastos: Guía Completa Para La Conversión en Línea Sin Complicaciones Mediante Movavi</u></a></li>
 </ul></div>
 

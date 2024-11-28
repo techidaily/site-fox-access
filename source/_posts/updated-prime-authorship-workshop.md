@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Prime Authorship Workshop"
-date: 2024-11-17T19:43:36.903Z
-updated: 2024-11-18T18:59:44.366Z
+date: 2024-11-23T07:53:15.509Z
+updated: 2024-11-27T21:32:24.109Z
 tags: 
   - screen-recording
   - ai video
@@ -27,6 +27,10 @@ But don't worry! There still are a lot of approaches to getting past this frustr
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. Best 4 free websites to write scripts
 
 If you're a filmmaker at any level, you know there are many scriptwriting software and websites out there to aid your writing process.
@@ -34,13 +38,6 @@ If you're a filmmaker at any level, you know there are many scriptwriting softwa
 Why should you use screenplay software? To be taken seriously as a screenwriter, you must adhere to the standard screenplay format. Screenwriting software handles formatting so you can concentrate on the words, characters, and story — the creative work of writing. All you must worry about is creating engaging scenes.
 
 We've compiled a comprehensive list of script writing software and websites. Analyze these options, choose what works best for you, and begin writing your screenplay right away.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. [The Black List Loglines.](https://blcklst.com/)
 
@@ -59,36 +56,28 @@ This site gets it - coming up with an original and exciting idea for a movie or 
 Logline This is the only scripting website we know of that is dedicated exclusively to loglines. Post your own, get feedback on them, and view other writers' logs. It's the perfect place to refine your ideas and come up with new and better ones.
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. [Nicholl Winners' Scripts & Formatting Sample.](https://www.oscars.org/nicholl/screenwriting-resources)
 
 ![nicholl winners' scripts and formatting sample](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Want to see what a script good enough to win a Nicholl competition looks like? Here is a list of some of the past winners who will do so.
 
 And if you're confused about script formatting, you can also download this PDF that gives instructions on how to do it in a short scene.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. [Screenwriting.io.](https://screenwriting.io/)
 
 ![screenwriting.io](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 John August, the author of Go, Charlie's Angels, and Big Fish has created one of the best online screenwriting websites for answering basic questions about the craft and business of writing.
 
@@ -102,18 +91,15 @@ But since I don't work in a studio, I must find them online and the search can b
 
 Let's go through them together.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. [IMSDB– Internet Movie Screenplay Database](https://imsdb.com/)
 
 This is the first place I go for scripted stuff. They have an extensive catalog and have proven to be a valuable resource for researching film crews, actors, and trivia. IMSDB is equally useful for those looking for screenplays of all kinds and genres, which they have listed in categories.
 
 ![imsdb](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. [Go Into the Story](https://gointothestory.blcklst.com/)
 
@@ -121,18 +107,15 @@ This is the first place I go for scripted stuff. They have an extensive catalog 
 
 I'm a huge fan of Scott Myers. He gives everything to the writer. Go Into the Story is the official blog for The **_Black List,_** the screenwriting community known for its annual list of the top ten unproduced screenplays in Hollywood. There is always a bank of scripts that you can filter.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. [Simply Scripts](https://www.simplyscripts.com/)
 
 ![simply scripts](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-7.jpg)
 
 Simply Scripts has a large and diverse library that includes Tennessee Williams' plays, classics, and even non-English screenplays. It's also constantly updated, so the most recent scripts are always available.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. [Screenplays For You](https://sfy.ru/)
 
@@ -146,14 +129,11 @@ Again, there is not much difference between these pages. You can search by genre
 
 The script database is another useful resource with a large selection of scripts to choose from. If you're interested in a certain type of movie, the site also lets you search its library by genre, allowing you to browse the window displays and find something you didn't even know you were looking for.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3\. Best 5 free websites to grace your scripts
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. [Go Into The Story](https://gointothestory.blcklst.com/)
 
@@ -177,15 +157,16 @@ John August's blog has become the place people go for screenwriting news and adv
 
 ![studiobinder](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Inspiration is half the battle in writing, but what if you hit writer's block and just can't move forward? The StudioBinder blog is dedicated to helping aspiring and experienced filmmakers achieve their dreams, but the StudioBinder platform is where you can shine.
 
 It can help you not only inspire your script but also help you with production. Once you've finished writing your masterpiece, you can upload the script to StudioBinder. You can check the formatting of your script and even help the production by connecting with an assistant director to mark each of the elements of your story.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. [Internet Movie Script Database](https://imsdb.com/)
@@ -200,6 +181,10 @@ Life is an endless journey of learning. And the site's vast inventory of scripts
 
 You can learn about character development and how to create a solid story structure just by reading. New scripts are added every day, so chances are what you're looking for is inside.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. [The Black List](https://blcklst.com/)
 
 ![the black list](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-14.jpg)
@@ -209,13 +194,6 @@ From the website, Blacklist is "...a closed network that connects script buyers,
 The Blacklist appropriated the term from the McCarthy era of the 1950s and has since become a place where industry figures vote on their favorite projects of the year.
 
 It has since expanded to an online database where users can submit their scripts for coverage and be ranked among competitors.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4\. Make your scripts come true by using Filmora
 
@@ -265,20 +243,24 @@ To write a video script quickly, you should use templates, which are designed to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-20-freepaid-luts-for-dji-mini-2air-2s-drone/"><u>[New] 2024 Approved 20 Free/Paid LUTS for DJI Mini 2/Air 2S Drone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-unleash-your-humor-with-excellent-zero-cost-memes/"><u>[New] 2024 Approved Unleash Your Humor with Excellent Zero-Cost Memes</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-hit-top-rank-firstrow-pursuits-outside-sports/"><u>[New] Hit Top Rank Firstrow Pursuits Outside Sports</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-chromatic-confluence-blending-colors-with-flair/"><u>[New] In 2024, Chromatic Confluence Blending Colors with Flair</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-visualize-vigor-capture-chuckles-kapwing-maker/"><u>[New] In 2024, Visualize Vigor, Capture Chuckles – Kapwing Maker</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-unboxing-pureaudiofinder-a-look-into-the-latest-release/"><u>[New] Unboxing PureAudioFinder A Look Into the Latest Release</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-your-one-stop-resource-for-best-free-3d-text-psds/"><u>[New] Your One-Stop Resource for Best FREE 3D Text PSDs</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-inventory-a-multitude-of-video-recorders/"><u>[Updated] 2024 Approved Inventory A Multitude of Video Recorders</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-best-8-linux-programs-for-media-makers-for-2024/"><u>[Updated] Best 8 Linux Programs for Media Makers for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-innovative-visual-storytelling-applying-advanced-techniques-with-luts-in-after-effects-for-2024/"><u>[Updated] Innovative Visual Storytelling Applying Advanced Techniques with LUTs in After Effects for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-rewind-the-recordings-streamlined-playlist-reversal/"><u>[Updated] Rewind the Recordings Streamlined Playlist Reversal</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/busting-major-android-legends-the-five-greatest-fallacies-revealed/"><u>Busting Major Android Legends: The Five Greatest Fallacies Revealed</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-oneplus-nord-n30-se-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from OnePlus Nord N30 SE to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-vivo-y100t-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Vivo Y100t</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-blue-screen-error-code-0x0000003b-explained/"><u>Resolved: Blue Screen Error Code 0X0000003B Explained</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-beyond-playfulness-unveiling-the-subtext-in-snapchat-symbols/"><u>[New] In 2024, Beyond Playfulness Unveiling the Subtext in Snapchat Symbols</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-stop-chrome-from-skipping-playback-of-facebook-videos/"><u>[Updated] 2024 Approved Stop Chrome From Skipping Playback of Facebook Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-embark-on-a-journey-through-augmented-space/"><u>2024 Approved Embark on a Journey Through Augmented Space</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-expert-advice-on-editing-away-backgrounds/"><u>2024 Approved Expert Advice on Editing Away Backgrounds</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-superb-culmination-for-vr-journeys/"><u>2024 Approved Superb Culmination for VR Journeys</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-understanding-facebook-messengers-signaling-with-a-blue-splash/"><u>2024 Approved Understanding Facebook Messenger's Signaling With a Blue Splash</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-visionary-film-titles-that-inspire-and-invigorate/"><u>2024 Approved Visionary Film Titles That Inspire and Invigorate</u></a></li>
+<li><a href="https://techtrends.techidaily.com/9-prime-destinations-offering-free-educational-entertainment-for-toddlers/"><u>9 Prime Destinations Offering Free Educational Entertainment for Toddlers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/a-gamers-guide-to-lgs-360-degree-vr-experience/"><u>A Gamer's Guide to LG's 360-Degree VR Experience</u></a></li>
+<li><a href="https://fox-access.techidaily.com/beginners-backstage-pass-to-photo-tricks-for-2024/"><u>Beginner's Backstage Pass to Photo Tricks for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-apple-watch-s-evaluation-is-it-the-right-choice-for-you/"><u>Budget-Friendly Apple Watch S Evaluation: Is It The Right Choice For You?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/champion-steadicams-for-uav-filmmaking-excellence-for-2024/"><u>Champion Steadicams for UAV Filmmaking Excellence for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/cinematic-close-ups-elevating-your-work-with-kinemaster-for-2024/"><u>Cinematic Close-Ups Elevating Your Work with Kinemaster for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/comprehensive-guide-to-top-sd-cards-with-gopro-hero-cameras-for-2024/"><u>Comprehensive Guide to Top SD Cards with GoPro HERO Cameras for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-se-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone SE</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/page-unavailable-error-404-detected/"><u>Page Unavailable: Error 404 Detected</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/purging-faulty-windows-11-recycle-bin-messages/"><u>Purging Faulty Windows 11 Recycle Bin Messages</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlock-more-views-the-art-of-editing-your-youtube-content-for-2024/"><u>Unlock More Views The Art of Editing Your YouTube Content for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/online-wifi-tiff-jpg/"><u>오픈 원(Online)용 무세금 WiFi TIFF-JPG 변환 서비스 - 모바이브아이</u></a></li>
 </ul></div>
 

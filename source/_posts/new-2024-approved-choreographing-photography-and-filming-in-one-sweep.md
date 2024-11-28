@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Choreographing Photography and Filming in One Sweep\""
-date: 2024-11-14T19:23:14.799Z
-updated: 2024-11-18T18:39:58.532Z
+date: 2024-11-21T10:58:07.292Z
+updated: 2024-11-28T08:35:43.653Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to shoot a still photo and record a video simultaneously on your iPhone
 
  The feature of simultaneous photo and video recording had begun since the coming of iPhone 5\. So, iPhone 5 and later model users can enjoy taking photos while recording videos while if we talk about other iOS devices, iPad makes this feature available with its fourth generation as well as iPod touch sixth generation started supporting the feature of capturing stills when recording videos.
@@ -45,21 +49,16 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 
 ![](https://images.wondershare.com/filmora/article-images/take-photo-while-recording-videos-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: igeeksblog.com
 
 * Now, to take a still, just tap on the white 'take picture' button that can be noticed at the left of the red button. The screen will flicker each time you press the button to take the photo.
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The drawbacks of taking photos and videos simultaneously
@@ -78,22 +77,12 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 | **iPhone 7 series**  | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Extract frames from video
 
  If you are one of those who wish to **take photos while recording videos** without compromising the quality, we are glad to inform you that there is a solution for this. You can easily extract a specific frame from the recorded video keeping the standard resolution quality via Wondershare Filmora and will never be bothered about missing anything interesting from the video.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Why Choose Wondershare Filmora?
 
@@ -106,10 +95,7 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
@@ -139,19 +125,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-novice-to-viewer-keeper-top-10-basic-yet-captivating-video-ideas-for-2024/"><u>[New] From Novice to Viewer-Keeper Top 10 Basic Yet Captivating Video Ideas for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-get-the-edge-with-a-premier-zero-cost-voice-change-software-for-2024/"><u>[New] Get the Edge with a Premier, Zero-Cost Voice Change Software for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-automated-methods-for-adding-photo-dates/"><u>[New] In 2024, Automated Methods for Adding Photo Dates</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-professional-gopro-footage-in-3-simple-steps/"><u>[New] Professional Gopro Footage in 3 Simple Steps</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-explore-the-best-8-web-sites-for-accessing-3d-text-psds/"><u>[Updated] 2024 Approved Explore the Best 8 Web Sites for Accessing 3D Text PSDs</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-drone-species-and-their-traits/"><u>[Updated] Drone Species & Their Traits</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-elevating-your-twitters-with-a-snapchat-integration/"><u>[Updated] In 2024, Elevating Your Twitters with a Snapchat Integration</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-top-6-facebook-lite-video-downloaders/"><u>[Updated] In 2024, Top 6 Facebook Lite Video Downloaders</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-invisible-intensity-covert-volume-reduction-in-garageband/"><u>2024 Approved Invisible Intensity Covert Volume Reduction in Garageband</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comparing-the-future-of-wearables-will-apple-watch-series-8-outshine-its-predecessor-the-series-10-a-deep-dive/"><u>Comparing the Future of Wearables: Will Apple Watch Series 8 Outshine Its Predecessor, the Series 10? A Deep Dive</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/empower-your-wrist-tech-discover-chatgpts-revolutionary-effects-on-smartwatches/"><u>Empower Your Wrist Tech: Discover ChatGPT's Revolutionary Effects on Smartwatches</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-itelfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your ItelFRP Lock</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/logitech-g29-driver-download-for-windows-11117/"><u>Logitech G29 Driver Download for Windows 11/11/7</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-compressing-and-enhancing-audio-transforming-ape-into-high-quality-compact-mp3-files/"><u>Ultimate Guide: Compressing and Enhancing Audio – Transforming APE Into High-Quality, Compact MP3 Files</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-avoiding-compression-larger-youtube-videos/"><u>[New] 2024 Approved Avoiding Compression Larger YouTube Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-launch-a-creative-vision-start-xps-moviemaker-suite/"><u>[New] 2024 Approved Launch a Creative Vision, Start Xp’s Moviemaker Suite</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-elite-selection-of-must-see-vr-films/"><u>[New] In 2024, Elite Selection of Must-See VR Films</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-prime-picks-the-top-6-online-networks-for-corporate-success-for-2024/"><u>[New] Prime Picks The Top 6 Online Networks for Corporate Success for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unseen-content-exposure-a-video-sharing-roadmap/"><u>[New] Unseen Content Exposure A Video-Sharing Roadmap</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-capturing-timeless-moments-iphones-prolonged-shots-guide/"><u>[Updated] In 2024, Capturing Timeless Moments IPhone’s Prolonged Shots Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-license-free-mcb-video-backgrounds/"><u>[Updated] License-Free MCB Video Backgrounds</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/are-you-falling-behind-with-outdated-ap-automation-discover-how-with-our-insightful-infographic/"><u>Are You Falling Behind with Outdated AP Automation? Discover How With Our Insightful Infographic</u></a></li>
+<li><a href="https://fox-access.techidaily.com/making-online-gaming-more-intimate-via-xbox-zoom/"><u>Making Online Gaming More Intimate via Xbox Zoom</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-gopro-quik-for-computer-top-picks-and-alternatives/"><u>New In 2024, GoPro Quik for Computer Top Picks and Alternatives</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/top-techniques-pour-proteger-et-restaurer-votre-ordinateur-portable-asus-sous-windows-1110/"><u>Top Techniques Pour Protéger Et Restaurer Votre Ordinateur Portable ASUS Sous Windows 11/10</u></a></li>
 </ul></div>
 

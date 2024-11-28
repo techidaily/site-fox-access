@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, What Is a Drone and How Does It Work"
-date: 2024-11-11T16:19:08.766Z
-updated: 2024-11-18T22:43:59.464Z
+date: 2024-11-22T09:42:57.341Z
+updated: 2024-11-27T22:16:50.891Z
 tags: 
   - screen-recording
   - ai video
@@ -43,6 +43,14 @@ thumbnail: https://thmb.techidaily.com/b91466317b7eccd6ee21d430979cabf5463805ed4
 
 ![history of drones](https://images.wondershare.com/filmora/article-images/history-of-drones.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Does a Drone Work?
 
  The working procedure of a drone may appear simple to most of you but the device is actually carrying a complex technology inside. Before we discuss the concept of drones' working you must know the fact that differentiate between drones and its ancestors- helicopters. The former one can fly independently whereas later needs pilot for directions.
@@ -50,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/b91466317b7eccd6ee21d430979cabf5463805ed4
  Actually it is a specially designed multi propeller system inside a drone that makes this device highly independent and also assists in reduction of failures. One important thing to note about this multi propeller system is that even if any motor inside this device stops working; it will keep on flying as it gets support from propellers that are working in group. Drones that possess large number of motors inside are able to gain more control over their elevation and hence can carry more loads during flight. These propellers get their power from a dedicated source and most of these devices contain removable batteries so that it can stay in air for long run. The flight time can be extended with use of powerful batteries in design.
 
 ![how does drones work](https://images.wondershare.com/filmora/article-images/how-does-drone-work.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How does it fly?
 
@@ -63,23 +75,9 @@ thumbnail: https://thmb.techidaily.com/b91466317b7eccd6ee21d430979cabf5463805ed4
 
 ![dji drone logo](https://images.wondershare.com/filmora/article-images/dji-logo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2\. [Yuneec >>](http://www.yuneec.com/products )
 
 ![yuneec drone logo](https://images.wondershare.com/filmora/article-images/yuneec-logo.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3\. [Parrot >>](http://www.parrot.com/ )
 
@@ -93,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/b91466317b7eccd6ee21d430979cabf5463805ed4
 
 ![hubsan drone logo](https://images.wondershare.com/filmora/article-images/hubsan-logo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6\. [Syma Toy >>](http://www.symatoys.com/ )
 
 ![syma toy drone logo](https://images.wondershare.com/filmora/article-images/syma-toy-logo.jpg)
@@ -100,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/b91466317b7eccd6ee21d430979cabf5463805ed4
  7\. [Autel Robotics >>](https://www.autelrobotics.com )
 
 ![Autel logo](https://images.wondershare.com/filmora/article-images/autel-robotics-logo.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  8\. [Xiro >>](http://xirodrone.com/ )
 
@@ -116,35 +111,12 @@ thumbnail: https://thmb.techidaily.com/b91466317b7eccd6ee21d430979cabf5463805ed4
 
 ![vantage drone logo](https://images.wondershare.com/filmora/article-images/vantage-robotics-logo.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  10\. [Horizon Hobby >>](http://www.horizonhobby.com/category/multirotor )
 
 ![Horizon Hobby logo](https://images.wondershare.com/filmora/article-images/horizon-hobby-logo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Summary
@@ -152,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/b91466317b7eccd6ee21d430979cabf5463805ed4
  There is no doubt to say that drones are one of the most wonderful and precious advancement of technology. Presently almost all countries are developing their drones for different applications. There are still some clauses for improvements and many professionals are continuously working on it. Drone carrying camera units inside them are more useful for commercial as well as military applications and they are being developed by almost all top companies in the world. It is a combination of all advanced technologies like micro controllers, GPS, Wi-Fi and sensor units- they all work in perfect coherence to deliver awesome performance for different applications. Most of the countries these days have decided their specific rule set for drone flights and few restrictions are poses on their weight carrying capacity. If you want to use drones for commercial applications then it is important to take permission from CAA.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -178,24 +154,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-screen-shot-ease-premium-free-software-for-desktop-recording-on-pcmac/"><u>[New] 2024 Approved Screen Shot Ease Premium FREE Software for Desktop Recording on PC/Mac</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-discover-the-most-compelling-5-iphone-friendly-podcast-services-for-2024/"><u>[New] Discover the Most Compelling 5 iPhone-Friendly Podcast Services for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-parrots-drone-redesign-advanced-edition-review/"><u>[New] Parrot's Drone Redesign - Advanced Edition Review</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-transition-your-tunes-transferring-collections-between-services/"><u>[New] Transition Your Tunes Transferring Collections Between Services</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-essential-tips-for-high-quality-audacity-recording/"><u>[Updated] 2024 Approved Essential Tips for High-Quality Audacity Recording</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-pre-upgrade-knowledge-key-elements-explained/"><u>[Updated] 2024 Approved Pre-Upgrade Knowledge Key Elements Explained</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-clipcrafter-window-edition/"><u>[Updated] ClipCrafter Window Edition</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-simplifying-audio-transcription-insights-into-azures-speech-recognition/"><u>[Updated] Simplifying Audio Transcription Insights Into Azure's Speech Recognition</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/5ywo6z2i5oyh5y2x77ya5aac5l2v5pyj5pwi5yiq6zmk5zuplus54mh5bm256gu5lplusd5lin5yplusv5asn5y6f5ocn77yf/"><u>全面指南：如何有效刪除图片并确保不可复原性？</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-motorola-defy-2-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Motorola Defy 2</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-royalty-free-clip-art-strategies-and-sources/"><u>In 2024, Royalty-Free Clip Art Strategies and Sources</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-motorola-moto-g14-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Motorola Moto G14 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/perfect-your-video-pacing-with-these-snapchat-tips/"><u>Perfect Your Video Pacing with These Snapchat Tips</u></a></li>
-<li><a href="https://fox-access.techidaily.com/proven-techniques-for-perfecting-video-aspect-ratios/"><u>Proven Techniques for Perfecting Video Aspect Ratios</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ltimate-guide-to-the-top-5-youtube-link-reducers/"><u>The Ultimate Guide to the Top 5 YouTube Link Reducers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-essential-steps-after-unboxing-your-new-pc-or-laptop/"><u>Top 5 Essential Steps After Unboxing Your New PC or Laptop</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-chuckles-and-pixels-suite-for-2024/"><u>Ultimate Chuckles and Pixels Suite for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unleash-your-audio-potential-pazeras-free-tool-review/"><u>Unleash Your Audio Potential Pazera's Free Tool Review</u></a></li>
-<li><a href="https://os-tips.techidaily.com/why-go-grayscale-understanding-the-benefits-of-a-black-and-white-iphone-interface/"><u>Why Go Grayscale? Understanding the Benefits of a Black & White iPhone Interface</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-adjusting-sound-settings-gently-in-windowsmacos/"><u>[New] In 2024, Adjusting Sound Settings Gently in Windows/macOS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-superior-smartphones-that-dominate-in-video-recording/"><u>[New] In 2024, Superior Smartphones That Dominate in Video Recording</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-premium-software-selection-upload-videos-for-twitter/"><u>[New] Premium Software Selection Upload Videos for Twitter</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-decoding-chroma-techniques-from-raw-footage-to-final-cut/"><u>[Updated] 2024 Approved Decoding Chroma Techniques From Raw Footage to Final Cut</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-quick-and-simple-methods-integrating-clownfish-sounds-into-pc-speech/"><u>[Updated] 2024 Approved Quick & Simple Methods Integrating Clownfish Sounds Into PC Speech</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-unleashing-potential-learning-steams-switch-controller/"><u>[Updated] 2024 Approved Unleashing Potential Learning Steam's Switch Controller</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-streamline-your-cloud-strategy-expert-recommendations-for-top-20-free-providers/"><u>[Updated] In 2024, Streamline Your Cloud Strategy Expert Recommendations for Top 20 Free Providers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/exploring-the-depths-of-darkness-with-j5-tacticals-v1-pro-flashlight-a-review-on-its-robust-build-quality-and-high-performance-night-vision-technology/"><u>Exploring the Depths of Darkness with J5 Tactical's V1 Pro Flashlight - A Review on Its Robust Build Quality and High-Performance Night Vision Technology</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-copy-contacts-from-apple-iphone-7-plus-to-sim-drfone-by-drfone-transfer-from-ios/"><u>How to Copy Contacts from Apple iPhone 7 Plus to SIM? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-y78plus-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo Y78+</u></a></li>
+<li><a href="https://fox-access.techidaily.com/masterful-motion-secrets-from-a-pro-canon-time-lapse-viewer/"><u>Masterful Motion Secrets From a Pro Canon Time-Lapse Viewer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/max-360-and-hero-11-gopro-comparison-which-reigns-supreme/"><u>Max 360 and Hero 11 GoPro Comparison - Which Reigns Supreme?</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-best-emoji-removers-to-remove-emojis-from-pictures/"><u>New 2024 Approved Best Emoji Removers to Remove Emojis From Pictures</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Understanding the Use of Burst Feature in GoPros"
-date: 2024-09-06T05:05:23.226Z
-updated: 2024-09-07T05:05:23.226Z
+date: 2024-11-26T10:39:34.290Z
+updated: 2024-11-27T16:21:03.358Z
 tags: 
   - screen-recording
   - ai video
@@ -16,24 +16,12 @@ keywords: "GoPro Burst Mode Guide,Burst Photography with GoPro,GoPro Video Recor
 thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa50ced6b44ad4148b7b19bd91.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Understanding the Use of Burst Feature in GoPros
 
 # Explaining the GoPro Burst Mode
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Max Wales
 
  Mar 27, 2024• Proven solutions
@@ -42,20 +30,12 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
 
 ![文字](https://images.wondershare.com/filmora/article-images/gopro-hero5-black-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Turning the burst mode on your GoPro on
 
 1. First you have to switch on your camera and press the 'mode' to see the shooting mode menu
@@ -74,11 +54,9 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
 6. The 'mode' button has to be clicked once more to turn on/off the ProTune You don't have to bother about ProTune unless you are considering creating a video out of the images. If you just want to view your clips then there is no reason to turn on ProTune. ProTune is known to affect some of the factors linked with the captured images such as colour, FOV, sharpness etc. It allows the professional editors to play with a number of editing options for adjusting the footage.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Burst Mode in your GoPro is all ready to use
 
  Now that you have learned everything about using the Burst Mode on your GoPro, you just need to select the 'exit' button or click on the 'setting tag' button (which is just to the left of the 'mode' button) for saving the present settings and then exit. The GoPro Burst Mode is now all set up in your camera. All you need to do is select your resolution, speed and the metering before you hit the shutter. Now that you know everything about the Burst Mode on your action camera all you have to do is hit the road and keep shooting.
@@ -86,17 +64,9 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -120,4 +90,24 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-reliable-storage-solutions-our-1-to-10-gopro-cases/"><u>[New] 2024 Approved Reliable Storage Solutions Our #1 to #10 GoPro Cases</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-fast-track-your-periscope-broadcasting/"><u>[New] Fast-Track Your Periscope Broadcasting</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-excellent-20-anime-opening-anthems/"><u>[New] In 2024, Excellent 20 Anime Opening Anthems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-power-of-apples-m1-max-clip/"><u>[New] In 2024, The Power of Apple’s M1 Max Clip</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-overcoming-instagram-video-errors-solutions-now/"><u>[New] Overcoming Instagram Video Errors Solutions Now</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-strategies-for-crafting-intriguing-vlog-storylines/"><u>[Updated] 2024 Approved Strategies for Crafting Intriguing Vlog Storylines</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-transform-your-instagram-vids-with-advanced-editing-skills/"><u>[Updated] 2024 Approved Transform Your Instagram Vids with Advanced Editing Skills</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-efficient-spotify-listening-safe-speed-adjustment/"><u>[Updated] Efficient Spotify Listening Safe Speed Adjustment</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-rapid-assembly-of-google-image-mosaics/"><u>[Updated] In 2024, Rapid Assembly of Google Image Mosaics</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-top-8-immersive-titles-with-oculus-support/"><u>[Updated] In 2024, Top 8 Immersive Titles with Oculus Support</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-x9b-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor X9b Phones with/without a PC</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-lava-yuva-3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/immersive-illusions-how-vr-transforms-media-consumption/"><u>Immersive Illusions How VR Transforms Media Consumption</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-transforming-srt-files-into-text-a-speedy-expertise-guide/"><u>In 2024, Transforming SRT Files Into Text A Speedy Expertise Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/labor-day-bargain-alert-get-your-hands-on-the-apple-pencil-2nd-gen-for-just-95-dollars-shop-now-with-zdnet-exclusive-offer/"><u>Labor Day Bargain Alert: Get Your Hands on the Apple Pencil (2Nd Gen) for Just 95 Dollars – Shop Now with ZDNET Exclusive Offer!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-definitive-troubleshooter-how-to-resurrect-an-iphone-with-a-blackened-screen/"><u>The Definitive Troubleshooter: How to Resurrect an iPhone with a Blackened Screen</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-a2-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi A2 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+</ul></div>
 

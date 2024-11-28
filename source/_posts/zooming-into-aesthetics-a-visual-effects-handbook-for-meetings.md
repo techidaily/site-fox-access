@@ -1,7 +1,7 @@
 ---
 title: "\"Zooming Into Aesthetics  A Visual Effects Handbook for Meetings\""
-date: 2024-11-11T23:43:04.775Z
-updated: 2024-11-18T19:08:53.838Z
+date: 2024-11-26T12:30:17.063Z
+updated: 2024-11-27T19:06:20.445Z
 tags: 
   - screen-recording
   - ai video
@@ -41,9 +41,17 @@ Step3From the menu, click on Choose Video Filter option. This will open a new Wi
 
 ![choose video filter zoom desktop](https://images.wondershare.com/filmora/article-images/2022/08/choose-video-filter-zoom-desktop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4You will see different video filters under Video Filters tab, and select the one to serve your purpose. Scroll down to find different video filters including color filters.
 
 ![bg and filters zoom desktop](https://images.wondershare.com/filmora/article-images/2022/08/bg-and-filters-zoom-desktop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5Click on Studio Effects on the right side to add different elements to your face such as eyebrows, facial hair and likewise.
 
@@ -68,39 +76,16 @@ Step3A pop-up menu will appear and tap on Background and Filters option.
 ![background and filters zoom mobile](https://images.wondershare.com/filmora/article-images/2022/08/background-and-filters-zoom-mobile.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step4Tap on Filters tab and select a desired filter from the available filters.
 
 ![select desired filter zoom mobile](https://images.wondershare.com/filmora/article-images/2022/08/select-desired-filter-zoom-mobile.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step5The last filter you tap on will be applied to your video. Finally, tap on “X” icon to close the filters overlay window.
 
 ![apply filter zoom and close](https://images.wondershare.com/filmora/article-images/2022/08/apply-filter-zoom-and-close.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Extra Info: How to Add Filters to Videos with Filmora
 
@@ -113,6 +98,10 @@ Step1Download and install Wondershare Filmora on your computer based on your ope
 Step2Launch Filmora and click on New Project option on the welcome screen.
 
 ![launch filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3Drag and drop the video that you want to edit into Project Media folder and thereafter, on the Timeline.
 
@@ -127,15 +116,16 @@ Step5Drag and drop the desired filter on the Timeline to apply to your video. Yo
 ![timeline](https://images.wondershare.com/filmora/guide/filters-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can also use multiple video filters of different durations for one video clip. You can even customize the video filter by clicking on the applied filter.
 
 Step6Once you are satisfied with the editing, click on Export to save the edited video in desired file format.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The Bottom Line
 
@@ -171,18 +161,20 @@ You must have heard that Zoom lets you use a virtual background to make your vid
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-going-back-in-time-your-android-movie-method/"><u>[New] Going Back in Time Your Android Movie Method</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-ultimate-selection-of-cameras-for-film-production/"><u>[New] Ultimate Selection of Cameras for Film Production</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-video-editors-unite-learn-image-upload-on-youtube/"><u>[New] Video Editors Unite! Learn Image Upload on YouTube</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-navigating-full-screen-in-ppro-for-2024/"><u>[Updated] Navigating Full Screen in PPro for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-optimal-mov-recording-settings-for-windows-11-for-2024/"><u>[Updated] Optimal MOV Recording Settings for Windows 11 for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-transform-your-reddit-presence-with-these-tactics-for-2024/"><u>[Updated] Transform Your Reddit Presence with These Tactics for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-nokia-c32-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia C32</u></a></li>
-<li><a href="https://fox-search.techidaily.com/bulk-download-convert-worldwide-newscasts-into-multiple-formats-mp4-wmv-avi-etc/"><u>Bulk Download: Convert Worldwide Newscasts Into Multiple Formats (MP4, WMV, AVI, Etc.)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/from-glitches-to-gains-revitalizing-windows-astro-experience/"><u>From Glitches to Gains: Revitalizing Windows Astro Experience</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-f34-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Samsung Galaxy F34 5G</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-tecno-spark-go-2023-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Tecno Spark Go (2023) in Minutes | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Oppo Find X6 | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-breakdown-of-ad-revenue-average-income-for-youtube-vids-for-2024/"><u>[Updated] Breakdown of Ad Revenue Average Income for YouTube Vids for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-editorial-expertise-counteract-dimness-in-iphone-hdr-with-four-premiere-techniques/"><u>2024 Approved [Editorial Expertise] Counteract Dimness in iPhone HDR with Four Premiere Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-clear-water-footage-pro-techniques-for-gopro-underwater-scenes/"><u>2024 Approved Clear Water Footage Pro Techniques for GoPro Underwater Scenes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-final-30-free-and-paid-blu-ray-solutions-for-pcmac-users/"><u>2024 Approved Final 30 Free & Paid Blu-Ray Solutions for PC/Mac Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-your-way-in-graphic-design-careers/"><u>2024 Approved Navigating Your Way in Graphic Design Careers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-sony-bdp-s3700-review/"><u>2024 Approved Sony BDP- S3700 Review</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-ultimate-guide-to-vr-and-ar-game-apps-for-phones/"><u>2024 Approved The Ultimate Guide to VR and AR Game Apps for Phones</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-unleashing-potential-with-the-powerful-polaroid-xs-100i/"><u>2024 Approved Unleashing Potential with the Powerful Polaroid XS 100I</u></a></li>
+<li><a href="https://fox-access.techidaily.com/a-leap-forward-in-mobile-photography-iphone-x-unveiled-for-2024/"><u>A Leap Forward in Mobile Photography IPhone X Unveiled for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-google-pixel-8-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Google Pixel 8 Pro Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-best-8-filter-packs-for-dynamic-video-streaming/"><u>In 2024, Best 8 Filter Packs for Dynamic Video Streaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-avis-into-gifs-a-step-by-step-filmora-guide-for-pc-and-mac/"><u>In 2024, Transform AVIs Into GIFs A Step-by-Step Filmora Guide for PC and Mac</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210454243-9781088001738-new-earth-prophecies/"><u>New Earth Prophecies | Free Book</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-infinix-smart-8-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Infinix Smart 8 Black and White | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-ideas-to-video-content-a-chatgpt-approach/"><u>Transforming Ideas to Video Content: A ChatGPT Approach</u></a></li>
 </ul></div>
 

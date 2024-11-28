@@ -1,7 +1,7 @@
 ---
 title: "\"Maximizing B-Roll  Effective Techniques for Enhancing Videos\""
-date: 2024-11-17T20:09:40.571Z
-updated: 2024-11-18T22:37:40.855Z
+date: 2024-11-21T12:22:13.970Z
+updated: 2024-11-28T11:41:30.565Z
 tags: 
   - screen-recording
   - ai video
@@ -37,13 +37,6 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Methods to use b roll
 
 Now that there are so many stock footage platforms, you have a lot of choices when you need just the right scene for your project. Most of the time, filmmakers don't use B roll footage. One good way to use it is to use it as a way to move from one scene to the next. It can also be used to set the mood for an event or show what time of day it is when filming.
@@ -51,6 +44,10 @@ Now that there are so many stock footage platforms, you have a lot of choices wh
 The ideal way to use B roll is to put it behind interviews. This kind of footage can be used in three ways: as establishing shots, cutaways, and transitions. Most of the time, the first few minutes of an interview or video help set the scene with "establishing shots."
 
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. What types of b roll are there?
 
@@ -64,21 +61,16 @@ Aerial B roll is the solution when you like to show your viewers where your film
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Undirected b roll footage
@@ -86,10 +78,7 @@ B roll footage can be used to tell a story that supports the narrative of your v
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Atmospheric b roll footage
@@ -109,10 +98,7 @@ If flaws were discovered during primary photography, the directors could have re
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -149,18 +135,24 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-advanced-techniques-for-efficient-media-navigation/"><u>[Updated] 2024 Approved Advanced Techniques for Efficient Media Navigation</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-best-value-top-6-discounted-4k-hd-projectors-for-2024/"><u>[Updated] Best Value Top 6 Discounted 4K HD Projectors for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-capture-every-angle-how-to-create-dynamic-viewpoint-driven-reaction-vids-for-youtube-success/"><u>[Updated] In 2024, Capture Every Angle – How to Create Dynamic, Viewpoint-Driven Reaction Vids for YouTube Success</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-uncovering-elite-instagram-ringtones-and-crafting-an-astute-alarm-for-2024/"><u>[Updated] Uncovering Elite Instagram Ringtones and Crafting an Astute Alarm for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-7-plus-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 7 Plus Randomly Asking for Apple ID Password</u></a></li>
-<li><a href="https://blog-min.techidaily.com/encode-your-videos-with-av1-using-handbrake-step-by-step-tutorial/"><u>Encode Your Videos with AV1 Using HandBrake - Step-by-Step Tutorial</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-15-pro-max-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 15 Pro Max</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209588706-9781684034185-i-dont-want-to-be-an-empath-anymore/"><u>I Don't Want to Be an Empath Anymore | Free Book</u></a></li>
-<li><a href="https://fox-access.techidaily.com/ideal-steadicam-pairings-with-premium-dslr-cameras-for-2024/"><u>Ideal Steadicam Pairings with Premium DSLR Cameras for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-beyond-the-screen-top-periscope-substitutes-for-smartphones/"><u>In 2024, Beyond the Screen Top Periscope Substitutes for Smartphones</u></a></li>
-<li><a href="https://fox-access.techidaily.com/integrating-media-files-for-direct-transfer-to-iphone/"><u>Integrating Media Files for Direct Transfer to iPhone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2250930-9781844038121-living-with-time-to-think/"><u>Living with Time to Think | Free Book</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ring-youtube-video-free-transcription-techniques-for-2024/"><u>Mastering YouTube Video Free Transcription Techniques for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rom-content-maker-to-cash-magnet-youtubes-guide-to-ad-revenue/"><u>[New] From Content Maker to Cash Magnet Youtube's Guide to Ad Revenue</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-4k-perfection-selecting-youtubes-best-video-tools/"><u>[New] In 2024, 4K Perfection Selecting YouTube's Best Video Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-exposing-concealed-viewers-feedback-on-videos/"><u>[New] In 2024, Exposing Concealed Viewers' Feedback on Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-instant-verbal-to-written-conversion-for-nothing/"><u>[New] Instant Verbal to Written Conversion for Nothing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-streamline-your-audio-content-with-googles-tools/"><u>[New] Streamline Your Audio Content with Google’s Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-capturing-crystal-clear-photos-without-spending/"><u>[Updated] In 2024, Capturing Crystal Clear Photos Without Spending</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-revealed-the-10-most-reliable-android-and-ios-countdown-clocks-for-marriage-bliss/"><u>[Updated] In 2024, Revealed The 10 Most Reliable Android and iOS Countdown Clocks for Marriage Bliss</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-inside-the-updates-movavi-editors-new-release-2024/"><u>[Updated] Inside the Updates Movavi Editor’s New Release, 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-screencapture-revolution-examining-camstudio/"><u>[Updated] ScreenCapture Revolution Examining CamStudio</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-visionary-verdicts-expert-picks-for-the-top-10-cameras-for-2024/"><u>[Updated] Visionary Verdicts Expert Picks for the Top 10 Cameras for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-zoomed-into-the-core-of-action-films/"><u>2024 Approved Zoomed Into the Core of Action Films</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beware-of-cyber-swindles-understanding-the-seven-major-warning-signs-from-internet-merchants/"><u>Beware of Cyber Swindles: Understanding the Seven Major Warning Signs From Internet Merchants</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-nokia-xr21-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Nokia XR21.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, Fixing Foneazy MockGo Not Working On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-evolutionary-stride-from-m1-pro-to-m1-max-a-comparison/"><u>In 2024, The Evolutionary Stride From M1 Pro to M1 Max - A Comparison</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014789080-nvidia-hd-audio-not-working-heres-how-to-restore-your-sound/"><u>NVIDIA HD Audio Not Working? Here’s How to Restore Your Sound!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/quick-fix-guide-adding-a-flip-tone-to-your-pcs-vocal-array-for-2024/"><u>Quick-Fix Guide Adding a Flip Tone to Your PC's Vocal Array for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-on-overcoming-installation-hurdles-in-windows-os/"><u>Tips on Overcoming Installation Hurdles in Windows OS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-k70e-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi K70E Users</u></a></li>
 </ul></div>
 
