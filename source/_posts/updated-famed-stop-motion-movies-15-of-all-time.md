@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Famed Stop-Motion Movies #15 of All Time\""
-date: 2024-11-24T12:47:31.171Z
-updated: 2024-11-28T00:15:18.018Z
+date: 2024-12-02T18:50:10.958Z
+updated: 2024-12-07T17:35:19.092Z
 tags: 
   - screen-recording
   - ai video
@@ -45,6 +45,10 @@ Consuming Spirits is an animated movie about three residents who lead interconne
 
 ![consuming spirits](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. [Coraline](https://www.imdb.com/title/tt0327597/)
 
 Movie Name: Coraline
@@ -58,10 +62,6 @@ Quote: "When you're scared, but you still do it anyway, that's brave."
 Coraline is a film stop motion where an adventurous girl finds a secret door in her new house and knows some sinister secrets about the family.
 
 ![coraline](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. [Fantastic Mr. Fox](https://www.imdb.com/title/tt0432283/)
 
@@ -78,7 +78,7 @@ Fantastic Mr. Fox is an animated film about Mr. Fox, a family man who gets into 
 ![fantastic mr.fox](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. [Wallace & Gromit: The Curse of the Were-Rabbit](https://www.imdb.com/title/tt0312004/)
@@ -95,10 +95,6 @@ The famous animated stop motion film is about Lady Tottington and Wallace, who g
 
 ![wellace & gromit in the curse of the were-rabbit](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. [Early Man](https://www.imdb.com/title/tt4701724/)
 
 Movie Name: Early Man
@@ -114,7 +110,7 @@ Early Man is yet another stop motion film that got considerable fame. The story 
 ![early man](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. [Kubo and Two Strings](https://www.imdb.com/title/tt4302938/)
@@ -132,7 +128,11 @@ Kubo and Two Strings is one of the best stop motion films. The movie is about Ku
 ![kubo and two strings](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. [My Life as a Zucchini](https://www.imdb.com/title/tt2321405/)
@@ -149,10 +149,6 @@ My Life as a Zucchini is about an orphan who is sent to the orphanage where he l
 
 ![my life as a zucchini](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. [Corpse Bride](https://www.imdb.com/title/tt0121164/)
 
 Movie Name: Corpse Bride
@@ -166,10 +162,6 @@ Quote: "I was a bride. My dreams were taken from me. But now I've stolen them fr
 Corpse Bride is one of the best stop motion films in the industry. The story is about Victor practicing his wedding vows in the forest where he accidentally marries skeleton-shaped Emily.
 
 ![corpse bride](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 9\. [Chicken Run](https://www.imdb.com/title/tt0120630/)
 
@@ -199,6 +191,10 @@ Mary and Max is a story about two unlikely people who befriended each other in a
 
 ![mary and max](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 11\. [ParaNorman](https://www.imdb.com/title/tt1623288/)
 
 Movie Name: ParaNorman
@@ -212,14 +208,6 @@ Quote: "You can't stop bullying - it's part of human nature. If you were bigger 
 ParaNorman is a film stop motion with a fun supernatural story. Norman had a unique ability to talk to ghosts, and he was expected to save the town from a curse.
 
 ![paranorman](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 12\. [Missing Link](https://www.imdb.com/title/tt6348138/)
 
@@ -236,7 +224,7 @@ As the best stop motion film, Missing Link is about Mr.Link, who hired a private
 ![missing link](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-12.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 13\. [The Pirates! In An Adventure With Scientists](https://www.imdb.com/title/tt1430626/)
@@ -267,6 +255,14 @@ The Boxtrolls is an animated film stop motion where Eggs and Winnie befriend eac
 
 ![the boxtrolls](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 15\. [The LEGO](https://www.imdb.com/title/tt1490017/)
 
 Movie Name: The LEGO
@@ -280,6 +276,10 @@ Quote: "You don't have to be the bad guy. You are the most talented, interesting
 The LEGO movie is about a LEGO construction worker recruited to stop an evil tyrant from destroying the world of LEGO. Emmet is a lead character in this best stop motion film.
 
 ![the lego](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -309,20 +309,15 @@ The creative industry needs to offer strong animation to bring the audience on t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-tap-into-the-latest-gaming-and-app-splash-of-win11/"><u>[New] 2024 Approved Tap Into the Latest Gaming and App Splash of Win11</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-creative-collage-companions-the-top-8-smartphone-apps-for-2024/"><u>[New] Creative Collage Companions The Top 8 Smartphone Apps for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-side-by-side-hero4-vs-hero5-analysis/"><u>[New] Side by Side Hero4 vs Hero5 Analysis</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/in-and-mac-mp3-converter-unlock-your-music-from-youtube/"><u>[New] Win & Mac MP3 Converter Unlock Your Music From YouTube</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-how-to-easily-and-quickly-draw-on-photos-app-in-windows-10/"><u>[Updated] 2024 Approved How to Easily and Quickly Draw on Photos App in Windows 10</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-crafting-unique-360-degree-videos-on-an-iphone/"><u>[Updated] In 2024, Crafting Unique 360-Degree Videos on an iPhone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/amd-hardware-install-blockchain-ready-drivers-on-your-pc-with-windows-os/"><u>AMD Hardware: Install Blockchain-Ready Drivers on Your PC with Windows OS</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/automatic-data-backup-schedule/"><u>Automatic Data Backup Schedule</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-solutions-for-overcoming-pc-hiccups-with-the-last-epoch-proven-fixes-of-2024/"><u>Effective Solutions for Overcoming PC Hiccups with the Last Epoch - Proven Fixes of 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/effizientes-migrationswissen-wie-man-daten-von-windows-7-auf-windows-11-ubertragen/"><u>Effizientes Migrationswissen: Wie Man Daten Von Windows 7 Auf Windows 11 Übertragen</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-how-much-money-can-a-podcaster-make/"><u>In 2024, How Much Money Can a Podcaster Make?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-htc-u23-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on HTC U23 Pro Devices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-quick-launch-checklist-essential-tasks-for-bringing-your-review-channel-to-life/"><u>In 2024, Quick Launch Checklist Essential Tasks for Bringing Your Review Channel to Life</u></a></li>
-<li><a href="https://win-help.techidaily.com/recover-lost-files-effortlessly-from-sd-cardusbssd-using-sandisk-recovery-software/"><u>Recover Lost Files Effortlessly From SD Card/USB/SSD Using SanDisk Recovery Software</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-most-engaging-ar-games-for-phones-revealed-for-2024/"><u>The Most Engaging AR Games for Phones Revealed for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-precision-in-speech-synthesis-converting-text-formats-to-srt/"><u>[New] 2024 Approved Precision in Speech Synthesis Converting Text Formats to SRT</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-aesthetic-adjustments-after-effects-titles/"><u>[New] Aesthetic Adjustments After Effects Titles</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-photography-tutorial-how-to-shoot-and-create-impressive-hdr-portraits/"><u>[New] In 2024, Photography Tutorial How to Shoot and Create Impressive HDR Portraits</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-why-are-my-photo-booth-videos-pausing/"><u>[New] Why Are My Photo Booth Videos Pausing?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-navigating-small-business-video-markets/"><u>[Updated] 2024 Approved Navigating Small Business Video Markets</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-design-humor-in-frames-picgenius-for-2024/"><u>[Updated] Design Humor in Frames PicGenius for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-lunapic-essentials-starting-with-simple-edits/"><u>[Updated] In 2024, LunaPic Essentials Starting with Simple Edits</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-replacements-gone-wrong-a-list-of-6-to-skip-immediately/"><u>ChatGPT Replacements Gone Wrong: A List of 6 to Skip Immediately</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-grandest-picture-tweaker-suite/"><u>In 2024, Grandest Picture Tweaker Suite</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-strategies-for-persistent-hibernate-issues/"><u>Win Strategies for Persistent Hibernate Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Amplify Your Windows Photos Viewing  Incorporating Artistic Filters and Music\""
-date: 2024-11-22T08:25:34.231Z
-updated: 2024-11-28T08:25:36.712Z
+date: 2024-12-04T18:31:05.122Z
+updated: 2024-12-07T17:55:33.131Z
 tags: 
   - screen-recording
   - ai video
@@ -38,10 +38,6 @@ Having Windows 10 Photos app is an advantage for you. This is not like any other
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to add filters on Windows 10 Photos App
 
 If you have got Windows 10 Photos app and wish to add filters, though, it is by default a photo viewing app, its editing features are worth to mention. This step by step guide is your perfect savior in that case.
@@ -55,7 +51,7 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: Now, you will be in an video editing page. You can name your video at start or later.
@@ -65,10 +61,14 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 5**: Just select one you like. Preview it and then click Done.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
 
@@ -83,18 +83,18 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
-**Step 5**: Hit the ‘Done’ button.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Step 5**: Hit the ‘Done’ button.
 
 ## Conclusion
 
@@ -127,21 +127,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-behind-the-scenes-samsungs-s8-and-4k-technology/"><u>[New] 2024 Approved Behind the Scenes Samsung's S8 and 4K Technology</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-a-comprehensible-list-of-the-leading-5-online-title-innovators-for-2024/"><u>[New] A Comprehensible List of The Leading 5 Online Title Innovators for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-crafting-illusions-simulating-time-jumps-and-space-hopping-for-2024/"><u>[New] Crafting Illusions Simulating Time Jumps & Space Hopping for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-snapedit-101-simple-steps-to-stunning-photos-for-2024/"><u>[New] Snapedit 101 Simple Steps to Stunning Photos for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-seamless-switching-between-screens-with-chromes-pip/"><u>[Updated] In 2024, Seamless Switching Between Screens with Chrome's PIP</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-prime-time-podcasting-release-patterns/"><u>[Updated] Prime Time Podcasting Release Patterns</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-huawei-nova-y71-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Huawei Nova Y71 | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-audio-tempo-control-gear-guide-mobile-pc/"><u>In 2024, Audio Tempo Control Gear Guide (Mobile, PC)</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-guide-to-microsoft-surface-ergonomic-keyboard-unpacking-its-superior-quality/"><u>In-Depth Guide to Microsoft Surface Ergonomic Keyboard – Unpacking Its Superior Quality</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/logitech-g923-repair-manual-diagnosing-and-fixing-disconnection-problems/"><u>Logitech G923 Repair Manual: Diagnosing & Fixing Disconnection Problems</u></a></li>
-<li><a href="https://article-helps.techidaily.com/mastering-tiktok-bios-adding-linktree-seamlessly/"><u>Mastering TikTok Bios Adding Linktree Seamlessly</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-from-script-to-screen-a-kids-guide-to-movie-making/"><u>New 2024 Approved From Script to Screen A Kids Guide to Movie Making</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723013374118-paladins-game-crash-solutions-and-optimizations-players/"><u>Paladins Game Crash Solutions and Optimizations Players.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transform-your-mp4-files-into-crystal-clear-mp3-audio-for-zero-cost-a-guide-to-premium-conversion/"><u>Transform Your MP4 Files Into Crystal Clear MP3 Audio for Zero Cost: A Guide to Premium Conversion</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-breaking-language-barriers-with-these-top-20-video-translators/"><u>[New] 2024 Approved Breaking Language Barriers with These Top 20 Video Translators</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-exploring-the-distinctions-of-srgb-and-rgb/"><u>[New] 2024 Approved Exploring the Distinctions of Srgb and Rgb</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-revolutionary-approaches-to-share-fb-videos-on-whatsapp/"><u>[New] 2024 Approved Revolutionary Approaches to Share FB Videos on WhatsApp</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-advanced-psd-color-grading/"><u>[New] Advanced PSD Color Grading</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elevate-views-a-guide-to-best-youtube-hash-tags-for-2024/"><u>[New] Elevate Views A Guide to Best YouTube Hash Tags for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-from-live-to-recorded-simplifying-facebook-broadcasting-for-2024/"><u>[New] From Live to Recorded Simplifying Facebook Broadcasting for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-best-tech-in-cards-for-4k-video-editing/"><u>[Updated] 2024 Approved Best Tech in Cards For 4K Video Editing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-dslr-and-mirrorless-excellence-with-ideal-gimbals/"><u>[Updated] 2024 Approved DSLR & Mirrorless Excellence with Ideal Gimbals</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-how-to-create-a-google-meet-account/"><u>[Updated] 2024 Approved How to Create a Google Meet Account</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-cutting-edge-content-summit-for-2024/"><u>[Updated] Cutting-Edge Content Summit for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-mastering-the-nuances-of-video-sound-design/"><u>[Updated] Mastering the Nuances of Video Sound Design</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-ultimate-gear-for-action-cams-a-shoppers-companion/"><u>[Updated] Ultimate Gear for Action Cams A Shopper's Companion</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-to-get-your-corsair-icue-up-and-running-on-the-latest-version-of-windows-11/"><u>Expert Tips to Get Your Corsair iCUE Up & Running on the Latest Version of Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915175275-exploring-the-giants-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>Exploring the Giants of Social Networking - Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-comprehensive-review-of-slomo-video-capture-tool/"><u>In 2024, Comprehensive Review of SloMo Video Capture Tool</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-tech-face-off-begins-how-dysons-latest-ontrac-headphones-could-eclipse-the-dominance-of-airpod-maxes-zdnet/"><u>The Tech Face-Off Begins: How Dyson's Latest OnTrac Headphones Could Eclipse the Dominance of AirPod Maxes | ZDNet</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/al-diary-dos-and-donts-for-consistent-content-for-2024/"><u>Virtual Diary Dos & Don'ts for Consistent Content for 2024</u></a></li>
 </ul></div>
 

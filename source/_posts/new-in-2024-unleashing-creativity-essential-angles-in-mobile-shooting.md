@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Unleashing Creativity  Essential Angles in Mobile Shooting\""
-date: 2024-09-01T14:51:27.211Z
-updated: 2024-09-02T14:51:27.211Z
+date: 2024-12-02T20:04:44.967Z
+updated: 2024-12-07T19:00:00.509Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 
 ![low-angle-shot-photography](https://images.wondershare.com/filmora/article-images/low-angle-shot-photography.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: google
 
  Even though we often don't think about it, our field of vision strongly influences the way we think about pictures. The most common way to take a photo is to place the camera at the height of your eye level, and for that reason, any camera position that is located below this point is considered a low-angle shot.
@@ -57,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 #### 3\.  Straight Up - Take Pictures of things above you
 
 ![straight-shots-iphone](https://images.wondershare.com/filmora/article-images/straight-shots-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image resource: Digital Photography Review
 
@@ -73,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 #### 5\.  Bird's Eye View
 
 ![bird-eye-view-shots](https://images.wondershare.com/filmora/article-images/bird-eye-view-shots.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image resource: Google
 
@@ -94,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 
 ![shoot-trought-another-subject](https://images.wondershare.com/filmora/article-images/shoot-trought-another-subject.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: Digital Photo Secrets
 
  You don't have to know anything about camera lens filters in order to use them. Your sunglasses, glasses of water or any other transparent or reflecting surface can be used as a filter through which you take pictures.
@@ -101,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
  If you take a photo through a glass of water you'll be able to create a distorted image of the view behind the glass. Taking photos through transparent objects can be a lot of fun, but it is often more complicated than it seems. Controlling aperture, exposure or focus manually from your iPhone may help you get better results because you'll be able to decide where the focal point of the photo will be or fine-tune the amount of light your iPhone camera can pick up.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -125,8 +145,20 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-conquer-xbox-gameplay-with-efficient-recording-tools/"><u>[New] 2024 Approved Conquer Xbox Gameplay with Efficient Recording Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-drone-vfx-essentials-free-luts-for-dji-drones-available/"><u>[New] 2024 Approved Drone VFX Essentials - Free LUTS for DJI Drones Available</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-synchronizing-airwaves-for-audience-gain/"><u>[New] In 2024, Synchronizing Airwaves for Audience Gain</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-must-watch-live-games-top-nine-sites/"><u>[Updated] In 2024, Must-Watch Live Games Top Nine Sites</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-optimal-performance-desktops-today/"><u>2024 Approved Optimal Performance Desktops Today</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/decoding-facebooks-absence-of-personalized-video-content-for-2024/"><u>Decoding Facebook's Absence of Personalized Video Content for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-7-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 7 to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-cutting-edge-video-player-apps-for-iphone-and-ipad-top-10/"><u>In 2024, Cutting-Edge Video Player Apps for iPhone and iPad (Top 10)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mp3-from-twitter-media-simple-extraction-techniques/"><u>In 2024, MP3 From Twitter Media Simple Extraction Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/shining-through-hd-is-it-a-wise-pick-for-hdr-for-2024/"><u>Shining Through HD Is It a Wise Pick for HDR for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-xiaomi-redmi-note-12r-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Xiaomi Redmi Note 12R to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/e-conversation-starters-for-streaming/"><u>Unique Conversation Starters for Streaming</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

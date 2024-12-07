@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] A Complete Guide To Soundtracks  Instagram’s Legalities Explained for 2024\""
-date: 2024-09-01T14:54:56.047Z
-updated: 2024-09-02T14:54:56.047Z
+date: 2024-12-05T18:26:15.006Z
+updated: 2024-12-07T18:39:38.408Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,10 @@ Here’s what happens to your Instagram account if the system detects copyrighte
 
 ![instagram copyright notification](https://images.wondershare.com/filmora/article-images/2023/01/copyright-music-on-instagram-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Instagram Music Copyright Rules
 
 Below are the three general copyright principles you should keep in mind when using music on Instagram:
@@ -45,8 +49,9 @@ Below are the three general copyright principles you should keep in mind when us
 * **Unlimited Music For Your Instagram Stories:** If you share a story on Instagram, the platform allows you to add unlimited copyrighted music to it from its built-in music library.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### (1) How To Use Copyright Music On Instagram
 
 There are several workarounds for using **copyrighted music on Instagram:**
@@ -56,6 +61,10 @@ There are several workarounds for using **copyrighted music on Instagram:**
 * **Pay For The Copyrighted Music:** You can opt to pay for royalty-free music on your IG posts, live streams, or IGTV from various online libraries, such as [Pixaby,](https://pixabay.com/) [SoundCloud](https://soundcloud.com/), and [Apple Music](https://www.apple.com/apple-music/).
 * **Give Credit In Your Caption:** To use copyrighted music on your IG content, make sure to give credit to the original creator in your post’s caption.
 * **Post Instagram Reel Videos:** Reels are short videos of about 15 seconds with a built-in music feature that applies a sticker to your content with the song's details and can save you from Instagram copyright music issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### (2) Using Filmora To Avoid Copyright Issue And Post Your Videos On Instagram
 
@@ -80,10 +89,6 @@ Here are some exceptions where you don’t need to ask for permission to use cop
 
 ![open music archive for public domain songs for instagram](https://images.wondershare.com/filmora/article-images/2023/01/copyright-music-on-instagram-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 * **Royalty-Free Music:** It’s a type of music content where you have to give credit to the creator or pay some upfront for using their songs in your content. To learn more about this, [click here!](https://tools.techidaily.com/wondershare/filmora/download/)
 * **Creative Commons Music Licensing**: Generally speaking, music in the Creative Commons still has some copyright protection. However, artists who publish under this license usually permit anyone to use their work for free. You can find CC-Music Licensing content on [TakeTones.](https://taketones.com/track/experience)
 
@@ -92,18 +97,20 @@ Here are some exceptions where you don’t need to ask for permission to use cop
 Below, you’ll find answers to common questions Instagram users ask about copyrighted music.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Does Instagram Have Its Own Copyright Music?
 
 Yes, Instagram offers a comprehensive library of royalty-free music you can use on your Stories and Reels. Simply click the “**Music**” icon while editing your post and find the soundtrack you want to add. This will, however, add a music sticker to your content.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### Can I Use Copyright Music On Instagram Stories?
 
 Yes, you can use Live or recorded performances and music from the catalog in your IG Stories.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Can You Play Music On Instagram Live?
 
@@ -114,8 +121,9 @@ There are some conditions to playing music on your Instagram Live. For instance,
 Unfortunately, there's no simple rule on Instagram that says using 5, 15, or 30 seconds of a song is always an acceptable use. So using 30 seconds of copyrighted music on Instagram is not considered a safe bet.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Do You Do When Instagram Blocks Your Video?
 
 Since Instagram uses an automated copyright detection system, your content might get blocked, muted, or removed. To avoid this from happening, you can place an appeal on the platform by following these steps:
@@ -130,9 +138,6 @@ Step2 Read the notice that says you have permission to share the content in the 
 
 Step3 Tap the **“Appeal”** button. You can anticipate a decision within 24 hours. If you have adhered to the rules and possess the authority to use copyrighted music in your content, Instagram should lift all limitations.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 In this article, we’ve discussed **Instagram’s rules about copyrighted music,** how the platform detects copyrighted music, and some exceptions in which you don’t have to ask permission to use the music in your posts. We’ve also recommended using the Filmora app to avoid these issues.
@@ -148,8 +153,9 @@ When you use FilmoragGo, you can be sure that your content will be safe to post 
 ![filmorago for editing instagram videos](https://images.wondershare.com/filmora/article-images/2023/01/copyright-music-on-instagram-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### (3) Exceptions For Asking Permission To Use The Music
 
 Here are some exceptions where you don’t need to ask for permission to use copyrighted music in your IG posts, reels, or Livestreams:
@@ -162,9 +168,6 @@ Here are some exceptions where you don’t need to ask for permission to use cop
 * **Royalty-Free Music:** It’s a type of music content where you have to give credit to the creator or pay some upfront for using their songs in your content. To learn more about this, [click here!](https://tools.techidaily.com/wondershare/filmora/download/)
 * **Creative Commons Music Licensing**: Generally speaking, music in the Creative Commons still has some copyright protection. However, artists who publish under this license usually permit anyone to use their work for free. You can find CC-Music Licensing content on [TakeTones.](https://taketones.com/track/experience)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## Common Questions About Copyright Music On Instagram
 
 Below, you’ll find answers to common questions Instagram users ask about copyrighted music.
@@ -177,20 +180,18 @@ Yes, Instagram offers a comprehensive library of royalty-free music you can use 
 
 Yes, you can use Live or recorded performances and music from the catalog in your IG Stories.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Can You Play Music On Instagram Live?
 
 There are some conditions to playing music on your Instagram Live. For instance, you can stream live artists' performances, play your own music, or add royalty-free soundtracks.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Can I Use 30 Seconds Of Copyright Music On Instagram?
 
 Unfortunately, there's no simple rule on Instagram that says using 5, 15, or 30 seconds of a song is always an acceptable use. So using 30 seconds of copyrighted music on Instagram is not considered a safe bet.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## What Do You Do When Instagram Blocks Your Video?
 
 Since Instagram uses an automated copyright detection system, your content might get blocked, muted, or removed. To avoid this from happening, you can place an appeal on the platform by following these steps:
@@ -203,11 +204,12 @@ Step2 Read the notice that says you have permission to share the content in the 
 
 ![making appeal on instagram](https://images.wondershare.com/filmora/article-images/2023/01/copyright-music-on-instagram-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Tap the **“Appeal”** button. You can anticipate a decision within 24 hours. If you have adhered to the rules and possess the authority to use copyrighted music in your content, Instagram should lift all limitations.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 In this article, we’ve discussed **Instagram’s rules about copyrighted music,** how the platform detects copyrighted music, and some exceptions in which you don’t have to ask permission to use the music in your posts. We’ve also recommended using the Filmora app to avoid these issues.
@@ -238,4 +240,18 @@ Hopefully, you’ve found this article helpful and can now understand the dos an
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-step-by-step-strategies-how-to-create-stellar-youtube-shorts/"><u>[New] 2024 Approved Step-by-Step Strategies How to Create Stellar YouTube Shorts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-a-stepwise-journey-converting-smartphones-into-vr-hubs/"><u>[New] A Stepwise Journey Converting Smartphones Into VR Hubs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-beginners-blueprint-optimal-gopro-extras/"><u>[New] Beginner’s Blueprint Optimal GoPro Extras</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-expert-tips-on-basic-color-correction-in-photos-for-2024/"><u>[New] Expert Tips on Basic Color Correction in Photos for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-fine-tune-your-visual-storytelling-in-videoleap-footage/"><u>[New] Fine-Tune Your Visual Storytelling in Videoleap Footage</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/os-compatibility-unable-to-connect-to-hp-print-service-on-windows/"><u>[OS Compatibility] - Unable to Connect to HP Print Service on Windows</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-building-bonds-youtube-and-brands-in-unity/"><u>[Updated] 2024 Approved Building Bonds YouTube and Brands in Unity</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-essentials-for-optimal-zoom-use-on-win10/"><u>[Updated] 2024 Approved Essentials for Optimal Zoom Use on WIN10</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-navigate-to-fun-with-tiktok-download-and-setup-for-macbook-for-2024/"><u>[Updated] Navigate to Fun with TikTok Download & Setup for MacBook for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-screen-recorder-showdown-experts-take-on-popular-tools/"><u>[Updated] The Screen Recorder Showdown Experts' Take on Popular Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Asus ROG Phone 8? | Dr.fone</u></a></li>
+</ul></div>
 

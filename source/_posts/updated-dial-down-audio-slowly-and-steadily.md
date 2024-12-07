@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Dial Down Audio, Slowly and Steadily"
-date: 2024-09-01T14:53:14.284Z
-updated: 2024-09-02T14:53:14.284Z
+date: 2024-11-30T17:24:14.741Z
+updated: 2024-12-07T16:49:51.333Z
 tags: 
   - screen-recording
   - ai video
@@ -32,11 +32,19 @@ Step1 The first and foremost task to do is the successful installation of FL Stu
 
 ![open fl studio](https://images.wondershare.com/filmora/article-images/2022/07/open-fl-studio.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Open your FL Studio window on your pc or mac. Then, choose the right volume parameter for the creation of automation in your FL studio. You can do it using the mixer channel method.
 
 Step3 After getting the volume parameter, now you will need to create automation. For this, you will have to click right in the volume layer and then tap on ‘Create Automation Clip’.
 
 ![create automation clips fl studio](https://images.wondershare.com/filmora/article-images/2022/07/create-automation-clips-fl-studio.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After selecting that, there will be an addition of a new automation clip to the playlist.
 
@@ -67,19 +75,17 @@ No matter which audio editing software, what matters is the learning outcome. Le
 ## Related FAQs of FL Studio Audio Editing
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. How to fade out FL studio mobile?
 
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. How to crescendo in FL studio?
 
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
@@ -94,32 +100,28 @@ Step1 The first thing you have to do is successfully install the Filmora softwar
 
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
 
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Step3 If you want your audio to fade out, again go to the audio setting. Then drag the pointer to the fade-out option. Now set your duration and see the fade-out effect.
 
 No matter which audio editing software, what matters is the learning outcome. Learn the features of different editing software and choose what is suitable for you. If you are a beginner, then watch some tutorial videos on YouTube and read some Quora on google. Those who are just interested in audio editing and want to learn more should first try out [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), whereas if you have a basic idea about FL Studio then you can definitely go for it.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Related FAQs of FL Studio Audio Editing
 
 ### 1\. How to fade out FL studio mobile?
 
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. How to crescendo in FL studio?
 
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
@@ -150,4 +152,21 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-ace-your-adventures-with-gopro-tips/"><u>[New] In 2024, Ace Your Adventures with GoPro Tips</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-journey-to-seamless-entertainment-free-for-both-pcmacos/"><u>[New] In 2024, Journey to Seamless Entertainment, Free for Both PC/MacOS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-score-free-adventures-tiktoks-hidden-background-gemstones/"><u>[New] In 2024, Score-Free Adventures TikTok's Hidden Background Gemstones</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-journey-to-visual-vigor-a-beginners-guidebook/"><u>[Updated] 2024 Approved Journey to Visual Vigor A Beginner's Guidebook</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-comprehensive-guide-to-applying-and-customizing-filters-in-video-editing/"><u>[Updated] Comprehensive Guide to Applying and Customizing Filters in Video Editing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-easy-steps-to-hassle-free-high-dynamic-range-imaging/"><u>[Updated] Easy Steps to Hassle-Free High Dynamic Range Imaging</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-lgs-65-inch-4k-uhd-c9-oled-television-a-dream-viewing-experience/"><u>Comprehensive Analysis of LG's 65-Inch 4K UHD C9 OLED Television – A Dream Viewing Experience</u></a></li>
+<li><a href="https://win-superb.techidaily.com/configuring-your-pc-setting-apowerpdf-as-the-preferred-pdf-application/"><u>Configuring Your PC: Setting ApowerPDF as the Preferred PDF Application</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-dominating-instagrams-social-scene-5-proven-tips-and-success-stories/"><u>In 2024, Dominating Instagram's Social Scene 5 Proven Tips & Success Stories</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-canon-mg36-driver-software-updates-for-smooth-printing-experience/"><u>Latest Canon MG36# Driver Software Updates for Smooth Printing Experience</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/localiser-et-recuperer-automatiquement-vos-fichiers-de-videos-manquants-sur-mac-windows-et-ios-conseils-doptimisation-pour-google/"><u>Localiser Et Récupérer Automatiquement Vos Fichiers De Vidéos Manquants Sur Mac, Windows Et iOS - Conseils D'Optimisation Pour Google</u></a></li>
+<li><a href="https://article-tips.techidaily.com/masterful-viewing-for-artists-best-monitor-guide/"><u>Masterful Viewing for Artists – Best Monitor Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-5-and-windows-combo-a-handy-guide-for-controllers/"><u>PlayStation 5 & Windows Combo: A Handy Guide for Controllers</u></a></li>
+<li><a href="https://win-great.techidaily.com/superduper-alternatif-optimal-pour-systeme-dexploitation-windows-11-10-ou-7/"><u>SuperDuper Alternatif Optimal Pour Système D'Exploitation Windows 11, 10 Ou 7</u></a></li>
+</ul></div>
 

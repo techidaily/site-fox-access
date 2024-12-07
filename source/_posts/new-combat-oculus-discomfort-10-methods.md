@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Combat Oculus Discomfort  10 Methods\""
-date: 2024-09-01T14:57:18.197Z
-updated: 2024-09-02T14:57:18.197Z
+date: 2024-12-06T18:22:25.297Z
+updated: 2024-12-07T17:05:52.378Z
 tags: 
   - screen-recording
   - ai video
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/151496d9a19ba95beb3641cc868ae237a3532fbd9
 ##### Benjamin Arango
 
  Mar 27, 2024• Proven solutions
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10 ways to prevent Oculus Rift motion sickness
 
@@ -50,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/151496d9a19ba95beb3641cc868ae237a3532fbd9
 
 **10\. Try not to move your head a lot.** Since motion sickness directly corresponds to movement, reducing your head movement left and right and up and down in one place can help you lower the chances of sickness.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Oculus have done to reduce motion sickness
 
  With the new, innovative VR devices and the head gear technology has taken a huge leap. Oculus Rift has become widely popular among its enthusiastic users. When Oculus released its first Development kit (DevKit 1) the users experienced the symptoms such as nausea, dizziness, sweating and vomiting. Even Oculus CEO Brendan Iribe experienced “motion sickness” with his own product, while using last year’s “DevKit 1” prototype. These sickness issues were so common while using DevKit 1 that its users called it the “Rift Sickness”.
@@ -57,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/151496d9a19ba95beb3641cc868ae237a3532fbd9
  Since Oculus Rift DK1 came to the market, people were really unhappy with the sickness it gave to them. Oculus saw that issue as a big threat, and started to develop DK2 with a much better display. In the original DK1, Oculus Rift used the liquid crystal display (LCD) to display visual in its devices. LCD screen had been of very much advantage because of its brightness, geometric distortion, and less electricity consumption. But it still had been promoting to the sickness issue because of its sluggish motion time response. In replacement of LCD screens, Oculus Rift has introduced OLED (organic light emitting diode) screens which have proved to be a much better idea. Experiments of Oculus Rift with OLED screens have been successful so far in reducing motion sickness to its minimal. OLED has a much faster rate and thus much enhanced positional tracking.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -81,8 +93,26 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-pixels-to-power-top-photo-editing-strategies-unlocked/"><u>[New] 2024 Approved Pixels to Power Top Photo Editing Strategies Unlocked</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-unplugged-thrills-10-best-screen-free-gaming-on-android-devices/"><u>[New] 2024 Approved Unplugged Thrills 10 Best Screen-Free Gaming on Android Devices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-perfectly-shot-episodes-top-webcams-for-podcast-producers/"><u>[New] In 2024, Perfectly Shot Episodes Top Webcams for Podcast Producers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-tunefabs-cutting-edge-approach-to-live-streaming/"><u>[New] Tunefab's Cutting-Edge Approach to Live Streaming</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-color-grading-techniques-unraveling-the-mystery-of-luts/"><u>[Updated] In 2024, Color Grading Techniques Unraveling the Mystery of LUTs</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-discovering-ffmpegs-potency-in-original-sound-format-retention/"><u>[Updated] In 2024, Discovering FFmpeg's Potency in Original Sound Format Retention</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-navigating-figma-erase-background-elements-seamlessly/"><u>[Updated] In 2024, Navigating Figma Erase Background Elements Seamlessly</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-xiaomis-aerial-camera-test-in-full-hd/"><u>[Updated] In 2024, Xiaomi's Aerial Camera Test in Full HD</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-the-art-of-extracting-fb-gifs-for-all-platforms/"><u>[Updated] Mastering the Art of Extracting FB GIFs for All Platforms</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-prime-stories-school-leaders-list/"><u>[Updated] Prime Stories School - Leaders List</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-snapshot-speaks-the-leading-captioning-apps-iosandroid/"><u>[Updated] Snapshot Speaks The Leading Captioning Apps (iOS/Android)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-5-ways-to-record-facetime-calls/"><u>2024 Approved 5 Ways to Record FaceTime Calls</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-on-the-superior-features-of-samsung-galaxy-tab-s3-for-android-aficionados/"><u>Expert Analysis on the Superior Features of Samsung Galaxy Tab S^3 for Android Aficionados</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/fuhren-sie-ihre-unternehmensdaten-sicher-mit-der-kostenfreien-backuplosung-von-aomei-bei-cyber-sicherheit/"><u>Führen Sie Ihre Unternehmensdaten Sicher Mit Der Kostenfreien Backuplösung Von AOMEI Bei | Cyber-Sicherheit</u></a></li>
+<li><a href="https://fox-access.techidaily.com/go-big-or-go-home-selecting-the-most-satisfying-1tbplus-cloud-services/"><u>Go Big or Go Home - Selecting the Most Satisfying 1TB+ Cloud Services</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/professional-stability-essentials-for-youtube-videographers-for-2024/"><u>Professional Stability Essentials for YouTube Videographers for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-trending-devices-and-reading-materials-laptops-phones-and-literary-treasures/"><u>Top Trending Devices & Reading Materials: Laptops, Phones, & Literary Treasures!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

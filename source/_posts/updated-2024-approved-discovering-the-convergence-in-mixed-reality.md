@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Discovering the Convergence in Mixed Reality\""
-date: 2024-11-25T05:47:23.286Z
-updated: 2024-11-28T13:10:39.518Z
+date: 2024-12-01T20:05:28.423Z
+updated: 2024-12-07T18:53:19.684Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Definition of MR
@@ -41,21 +41,21 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 
  In mixed reality, the user is given the ability to explore the virtual environment and the real world seamlessly at the same time. Through the use space and coordinates, the virtual objects will be positioned on the real world and whenever you move towards the virtual objects, they become larger while moving away from them makes them smaller. Moving around the virtual objects will also give you different angles and perspectives. Additionally, mixed reality will allow users to manipulate the virtual objects and interact with them as if they were with them in the same place.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How does Mixed Reality work
 
  With the development of the technology is shrouded in secrecy by the major players, all that is known on the operations of the technology is that it uses virtual reality and augmented reality as well as space and coordinates. Magic Leap is the company at the forefront in the development of mixed reality and they have remained tight lipped about the finer details of what they are doing or developing. The scanty details we know however, suggests that just like Hololens, mixed reality will use a projector for displaying images on semi transparent materials which will then be reflected to the eye with the help of beam-splitting technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Applications of Mixed Reality
 
  Due to the unique features and experiences offered by mixed reality, businesses, developers and the world in general is beginning to explore the various ways to utilize the technology for the best possible results. Currently, fields such as medicine, architecture and urban planning and education and training appear to be the greatest beneficiary of mixed reality technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mixed Reality for sharing real-world virtual workspaces
 
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
  Sharing real world virtual spaces through mixed reality can be especially beneficial for sales team when making a pitch for a new offer. For instance, a pharmaceutical sales rep can carry along two mixed reality devices to an appointment with the doctor. The doctor and the sales rep can then both wear the devices and see a model of the new drug as explained by the sales rep. Through this, they can then visualize the chemical composition of the drug and also simulate how the drug will move in the body to fight diseases. Through such a shared experience, the sales rep will not only build deeper connections with the doctor, but also offer a more detailed explanation on the product being offered.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mixed reality for remote experts – over the shoulder coaching
@@ -82,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -110,17 +110,15 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-building-a-visual-story-on-facebook-with-slideshows/"><u>[New] In 2024, Building a Visual Story on Facebook with Slideshows</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-setting-the-price-for-higher-youtube-engagement-for-2024/"><u>[New] Setting the Price for Higher YouTube Engagement for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-unveiling-the-true-income-potential-in-podcasting/"><u>[New] Unveiling the True Income Potential in Podcasting</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-diversify-your-laptop-editing-beyond-inshot-for-2024/"><u>[Updated] Diversify Your Laptop Editing Beyond Inshot for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-sparks-endgame-dji-mavic-air-challenges-its-successor-for-2024/"><u>[Updated] Spark's Endgame DJI Mavic Air Challenges Its Successor for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-understanding-instagrams-privacy-controls/"><u>2024 Approved Understanding Instagram's Privacy Controls</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ace-story-creation-using-chatgpt-insider-secrets-and-strategies-unveiled/"><u>Ace Story Creation Using ChatGPT: Insider Secrets and Strategies Unveiled</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-phantom-v-flip-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Phantom V Flip?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-assessment-parrot-ar-drone-20-enhanced-edition/"><u>In 2024, Assessment Parrot AR Drone 2.0 Enhanced Edition</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-enabling-effortless-speech-translation-to-text-within-powerpoint-slides/"><u>In 2024, Enabling Effortless Speech Translation to Text Within PowerPoint Slides</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ts-to-pull-out-parts-from-any-youtube-clip/"><u>Secrets to Pull Out Parts From Any YouTube Clip</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-missing-hp-print-drivers-unfound/"><u>Windows Missing: HP Print Drivers Unfound</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-efficient-tools-for-xmlssattml-to-srt-conversion/"><u>[New] Efficient Tools for XML/SSA/TTML to SRT Conversion</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-youtubes-photo-publishing/"><u>[New] Navigating YouTube's Photo Publishing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-journey-into-cinematic-precision-with-windows-high-dynamic-range-support/"><u>[Updated] 2024 Approved Journey Into Cinematic Precision with Windows High-Dynamic Range Support</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-choosing-game-bar-substitutes/"><u>[Updated] 2024 Approved The Ultimate Guide to Choosing Game Bar Substitutes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-htcs-masterpiece-in-vr-the-immersive-experience-for-2024/"><u>[Updated] HTC's Masterpiece in VR The Immersive Experience for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-igtv-to-fb-broadcast-optimal-sharing-strategies/"><u>[Updated] IGTV to FB Broadcast Optimal Sharing Strategies</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-secrets-to-the-ultimate-5-free-pinterest-video-loader-for-2024/"><u>[Updated] Secrets to the Ultimate 5-Free Pinterest Video Loader for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/fiendish-film-pause-techniques/"><u>Fiendish Film Pause Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-complication-windows-11-plus-nvidia-x0001/"><u>Rectifying Complication: Windows 11 + Nvidia X0001</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/secure-your-network-with-the-powerhouse-tp-link-archer-a9-an-in-depth-guide-for-less-than-100-routers/"><u>Secure Your Network with the Powerhouse TP-Link Archer A9: An In-Depth Guide for Less than $100 Routers</u></a></li>
 </ul></div>
 

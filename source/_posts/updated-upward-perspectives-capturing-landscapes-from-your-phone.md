@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Upward Perspectives  Capturing Landscapes From Your Phone\""
-date: 2024-09-01T14:52:05.802Z
-updated: 2024-09-02T14:52:05.802Z
+date: 2024-12-02T19:06:45.821Z
+updated: 2024-12-07T18:09:07.319Z
 tags: 
   - screen-recording
   - ai video
@@ -48,14 +48,19 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 
 ![](https://images.wondershare.com/filmora/article-images/iphone-panorama-mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image source: mac-fusion
 
 * Begin to go along with the upward arrow on the screen to capture the desired vertorama.
 * Once finished and satisfied, just tap on "Done" option.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### For Android users
 
  To capture vertical panorama on Android, the steps are given just below.
@@ -66,9 +71,9 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 ![](https://images.wondershare.com/filmora/article-images/vertical-panorama-android.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Image source: mac-fusion
 
 * To shoot picture, keep holding the target circle on the gray dot until it vanishes.
@@ -76,8 +81,9 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 * Tap on "Done" when completed.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Some Beneficial Tips for shooting vertical panorama photo
 
 * Firstly, we would suggest you using a tripod when you need to take **vertical panorama on iPhone** or Android smoothly i.e. to avoid shakiness.
@@ -88,8 +94,9 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -113,4 +120,23 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-avoid-the-void-strategies-for-non-black-screens-in-obs-recordings/"><u>[New] 2024 Approved Avoid the Void Strategies for Non-Black Screens in OBS Recordings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-pc-playback-protocol-for-consoles-an-instructive-path/"><u>[New] 2024 Approved PC Playback Protocol for Consoles An Instructive Path</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-picture-perfect-pairings-expert-comparison-of-top-8k-televisions/"><u>[New] Picture Perfect Pairings Expert Comparison of Top 8K Televisions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-streamline-your-gameplay-win10-screen-record-tech-for-2024/"><u>[New] Streamline Your Gameplay Win10 Screen Record Tech for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-premier-select-affordable-youtube-sbs-extraction/"><u>[Updated] 2024 Approved Premier Select Affordable YouTube SBS Extraction</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-navigating-the-speed-control-interface-on-snapchat/"><u>[Updated] Navigating The Speed Control Interface on Snapchat</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-srt-demystified-in-depth-analysis-and-tips/"><u>[Updated] SRT Demystified In-Depth Analysis and Tips</u></a></li>
+<li><a href="https://fox-access.techidaily.com/gaming-mastery-the-ultimate-speed-controller-guidebook-for-2024/"><u>Gaming Mastery The Ultimate Speed Controller Guidebook for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-step-by-step-guide-to-creating-a-peak-vr-environment/"><u>In 2024, Step-by-Step Guide to Creating a Peak VR Environment</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-stepping-into-filmmaking-learning-the-basics-of-key-shots/"><u>In 2024, Stepping Into Filmmaking Learning the Basics of Key Shots</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-itel-a60-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/reviewing-the-unseen-facebooks-privacy-and-security-guide/"><u>Reviewing the Unseen Facebook's Privacy and Security Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/tailoring-your-virtual-reality-with-ps-vr2-extras/"><u>Tailoring Your Virtual Reality with PS VR2 Extras</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/top-highlight-reel-creators-desktop-and-mobile-apps-for-2024/"><u>Top Highlight Reel Creators Desktop and Mobile Apps for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/virtual-groove-hunt-try-this-online-software-for-2024/"><u>Virtual Groove Hunt – Try This Online Software for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/your-blueprint-for-downloading-youtube-srt-in-3-steps/"><u>Your Blueprint for Downloading YouTube SRT in 3 Steps</u></a></li>
+</ul></div>
 

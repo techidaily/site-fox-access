@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  5 Quick Hacks to Sharpen Your Indie Filmmaking Skills\""
-date: 2024-11-25T06:56:28.958Z
-updated: 2024-11-27T21:21:04.308Z
+date: 2024-12-02T16:54:24.220Z
+updated: 2024-12-07T16:08:36.785Z
 tags: 
   - screen-recording
   - ai video
@@ -37,14 +37,6 @@ You can buy it from a nearby stationery store. Ensure the cardboard is not too b
 
 ![cardboard used for diy flag](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. A Black T-shirt
 
 For the black t-shirt, you can use an old t-shirt that you don't wear anymore. You can also find these shirts at your local thrift shop.
@@ -55,6 +47,10 @@ After managing all the required things, you must wrap and secure the t-shirt aro
 
 ![process for making diy flag](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 With this DIY flag, you can now easily give shape and block the light while filming at home. **Warnings:** Some fabrics are not fireproof, so always keep an eye on the flag.
 
 ### Final Results for the Flag Light Shaping
@@ -64,7 +60,7 @@ After filming the video, see the precise results before using the flag, when the
 ![results after using diy flag for lighting control](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. Hack. DIY Black Wrap or Cinewrap
@@ -80,7 +76,7 @@ You can take any LED bulb present at our home. Ensure that the bulb size is mana
 ![lightbulb used for cinewrap](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Foil Paper
@@ -98,7 +94,7 @@ Step2 Then, you need to install the bulb on the lamp.
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** During wrapping, you don't have to allow the foil to touch the bottom part of the bulb.
@@ -109,7 +105,15 @@ Step4 Ensure the lamp switch is off, and install the light bulb.
 
 ![process of creating a black wrap](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When you turn on the lamp, the light has been shaped into a smaller light source.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Final Results for the Black Wrap or Cinewrap
 
@@ -119,10 +123,6 @@ You can observe that the light is only at the required place, with no dispersion
 
 After experimenting with light shaping and blocking hacks, we will move toward the light reflector hack!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3\. Hack. DIY Light Reflector
 
 A reflector is a spontaneous or specialized reflective surface that diverts the light to our subject or object. Professional filming setups usually use a large reflector to get a glowing effect on a subject or even more than two.
@@ -130,7 +130,7 @@ A reflector is a spontaneous or specialized reflective surface that diverts the 
 ![light reflector used in a professional setup](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 When applied to flat surfaces, the foil has a reflective surface. It makes it the best alternative to a professional reflector. To make your one, you will need
@@ -154,16 +154,18 @@ When applied to flat surfaces, the foil has a reflective surface. It makes it th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-filmmakers-guide-to-the-top-10-essential-camera-brands/"><u>[New] 2024 Approved Filmmaker's Guide to the Top 10 Essential Camera Brands</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-ultimate-buzz-generating-tie/"><u>[New] 2024 Approved Ultimate Buzz-Generating Tie</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-transforming-novices-into-reddit-masterminds-for-maximum-engagement/"><u>[New] In 2024, Transforming Novices Into Reddit Masterminds for Maximum Engagement</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-navigating-beginners-vlogging-landscape/"><u>2024 Approved Navigating Beginner's Vlogging Landscape</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/creating-engaging-quizzes-two-simple-methods/"><u>Creating Engaging Quizzes: Two Simple Methods</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/dial-up-drama-simple-steps-for-ps-coloring/"><u>Dial Up Drama Simple Steps for PS Coloring</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-warzone-how-to-enable-gpu-usage-in-windows-10/"><u>Fixing Warzone: How to Enable GPU Usage in Windows 10</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-the-complete-beginners-guide-to-creating-impressive-macro-videos/"><u>In 2024, The Complete Beginner's Guide to Creating Impressive Macro Videos</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-se-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone SE i Do? Get Answers here | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/record-desktop-on-windows-3-simple-cost-free-methods/"><u>Record Desktop on Windows 3 Simple, Cost-Free Methods</u></a></li>
-<li><a href="https://fox-access.techidaily.com/unleash-the-power-of-natural-and-artificentic-lights-on-iphone/"><u>Unleash the Power of Natural and Artificentic Lights on iPhone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-a-closer-look-at-vlc-critiques-and-options/"><u>[New] A Closer Look at VLC Critiques and Options</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-a-comprehensive-guide-to-mastering-zoom-win10-for-2024/"><u>[New] A Comprehensive Guide to Mastering Zoom (Win10) for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-color-keying-simplified-an-all-inclusive-beginners-manual-on-green-screens-for-2024/"><u>[New] Color Keying Simplified An All-Inclusive Beginner's Manual on Green Screens for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-converters-cornerstone-for-srt-transformations/"><u>[New] The Converter's Cornerstone for SRT Transformations</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-future-of-home-entertainment-tv-or-projection-for-4k-in-2024/"><u>[New] The Future of Home Entertainment TV or Projection for 4K, In 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-visual-storytelling-pro-mastering-the-use-of-luts-in-ae/"><u>[Updated] 2024 Approved Visual Storytelling Pro Mastering the Use of LUTs in AE</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-follow-the-leaders-on-igtv-for-inspiration-for-2024/"><u>[Updated] Follow the Leaders on IGTV for Inspiration for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-complete-scrutiny-of-camstudio-screencapture-tech-for-2024/"><u>[Updated] The Complete Scrutiny of CamStudio ScreenCapture Tech for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1-installing-linux-on-your-microsoft-surface-go-a-quick-one-hour-guide-zdnet/"><u>1. Installing Linux on Your Microsoft Surface Go: A Quick One-Hour Guide - ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Vivo S17e? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-fix-for-hp-notebooks-keyboard-issues-quick-and-easy-troubleshooting-steps-article-title-article-with-phase-descriptions406-chars/"><u>Step-by-Step Fix for HP Notebook's Keyboard Issues — Quick & Easy Troubleshooting Steps (Article Title) – Article with Phase Descriptions—406 Chars</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-how-to-upgrading-and-improving-your-intel-imacs-hardware/"><u>The Ultimate How-To: Upgrading and Improving Your Intel iMac’s Hardware</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-oppo-find-n3-flip-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Oppo Find N3 Flip Phones</u></a></li>
 </ul></div>
 

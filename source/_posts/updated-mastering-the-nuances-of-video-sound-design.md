@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering the Nuances of Video Sound Design"
-date: 2024-11-22T12:13:02.634Z
-updated: 2024-11-28T02:51:18.581Z
+date: 2024-12-04T17:01:56.004Z
+updated: 2024-12-07T19:06:32.262Z
 tags: 
   - screen-recording
   - ai video
@@ -30,7 +30,7 @@ I'll be demonstrating how to add voiceovers and narrations in [Filmora](https://
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Voiceover or Narration?
@@ -53,19 +53,11 @@ But here's the good news: the way you add either option is the same in Filmora.
 
 ![add either option](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to add narration
 
 So the easiest way to add narration is directly to a project. The benefit of this is that you can record your narration inside Filmora while you watch the preview of your edited video.
 
 ![add narration to project](https://images.wondershare.com/filmora/guide/stt-tts-srt-09.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 A good example of this would be narrating a story on top of some still images and video clips from a recent vacation. (In most cases you would want to turn off the sound of the video clip, or at least use ducking to help the viewer focus on the narration.)
 
@@ -73,15 +65,15 @@ You put the playhead where you want to start recording and hit the microphone ic
 
 ![hit microphone icon](https://images.wondershare.com/filmora/guide/stt-tts-srt-08.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 A 3-second countdown will pop up and start recording immediately after this countdown.
 
 You can record your narration and click stop.
 
 After recording, you can trim and edit your narration, you can delete it and record it again, and can move it and edit it like any other feature.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Some Tips for Recording Narration
 
@@ -93,6 +85,10 @@ You can edit pauses or weak parts out of the voiceover to trim it up. But if it 
 
 Fortunately, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) comes equipped with video b-roll which is another great option. When using b-roll, it's better to use multiple shorter clips than one longer clip in most cases. But adding the same b-roll clip near the beginning and another section of the same b-roll clip, later on, should help you match the length of your narration to the video timeline.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Narration is a great storytelling device
 
 Narration is a fantastic tool to have in your arsenal as a young filmmaker. It allows you to quickly communicate feelings, backstory, and context quickly and effectively.
@@ -101,17 +97,21 @@ Practice adding it to your videos to see how it adds depth and dimension to your
 
 It can also help make a connection with your audience because you can be relating to the images on the screen as they watch them. This is effective in building your YouTube audience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Always use a good mic
 
 When adding voiceover or narration to your project, be sure to use a good USB microphone. A good quality sound will elevate your entire project and just requires a little planning.
 
 ![use good microphone](https://images.wondershare.com/filmora/article-images/2022/11/use-good-microphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Also, be sure to check that your external microphone is selected when you start recording. There's nothing worse than nailing the perfect narration and realizing it was recorded with the built-in mic, not your USB microphone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should you use narration in your next project?
 
@@ -151,20 +151,19 @@ Filmora makes it easy to add narration of voice-overs to your video projects. Do
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-into-every-detail-a-deep-dive-into-dji-phantom-4/"><u>[New] 2024 Approved Into Every Detail A Deep Dive Into DJI Phantom 4</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-nikon-j5-unleashed-embracing-4k-camera-technology/"><u>[New] 2024 Approved Nikon J5 Unleashed Embracing 4K Camera Technology</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-perfecting-canva-tunes-adding-and-cropping-sound-effectively/"><u>[New] In 2024, Perfecting Canva Tunes Adding and Cropping Sound Effectively</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-most-popular-5-ios-photoshooting-apps-x-7-8/"><u>[New] Most Popular 5 iOS Photoshooting Apps (X, 7, 8)</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-youtube-crafting-made-easy-with-free-templates/"><u>[Updated] 2024 Approved YouTube Crafting Made Easy with FREE Templates</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-beginning-participating-in-and-organizing-group-video-calls-zoom-for-android-devices/"><u>[Updated] In 2024, Beginning, Participating in, and Organizing Group Video Calls (Zoom) for Android Devices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-ultimate-vr-showdown-scoring-the-best-oculus-models-for-2024/"><u>[Updated] Ultimate VR Showdown Scoring the Best Oculus Models for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/freedom-in-editing-the-top-free-fx-websites-for-2024/"><u>Freedom in Editing The Top Free FX Websites for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722968763174-get-started-with-your-brother-hl-l2340dw-printer-on-windows-free-downloads-available/"><u>Get Started with Your Brother HL-L2340DW Printer on Windows - Free Downloads Available!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/harnessing-light-and-motion-for-gopro-time-lapse-magic/"><u>Harnessing Light and Motion for GoPro Time-Lapse Magic</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-samsung-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Samsung</u></a></li>
-<li><a href="https://fox-access.techidaily.com/lightweight-travel-bags-with-camera-integration-for-2024/"><u>Lightweight Travel Bags with Camera Integration for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/optimal-voice-processing-software-solutions/"><u>Optimal Voice Processing Software Solutions</u></a></li>
-<li><a href="https://techidaily.com/will-mov-files-play-on-samsung-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Samsung ?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1726226884742-m4aogg-movavi/"><u>オンラインで無料M4AとOGGフォーマットの直接変換ツール - Movavi</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-best-signature-background-remover-online-6-incredible-tools/"><u>[New] Best Signature Background Remover Online - 6 Incredible Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-how-to-digitize-your-old-photos-and-turn-them-into-videos-for-2024/"><u>[New] How to Digitize Your Old Photos and Turn Them Into Videos for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-strategies-for-smooth-clear-sound-in-zoom-powered-podcasts/"><u>[New] In 2024, Strategies for Smooth, Clear Sound in Zoom-Powered Podcasts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-art-of-piecing-together-digital-images/"><u>[New] In 2024, The Art of Piecing Together Digital Images</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-comprehensive-breakdown-exploring-lgs-widescreen-uhd-display-for-2024/"><u>[Updated] Comprehensive Breakdown Exploring LG's Widescreen UHD Display for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-cutting-edge-tactics-for-flawless-iphones-and-podcast-downloads-for-2024/"><u>[Updated] Cutting-Edge Tactics for Flawless iPhones and Podcast Downloads for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-swap-periscope-for-success-best-replacements-for-iphoneandroid-for-2024/"><u>[Updated] Swap Periscope for Success Best Replacements for iPhone/Android for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-ultimate-playbook-for-splitting-views-in-facebook-livestreams/"><u>2024 Approved The Ultimate Playbook for Splitting Views in Facebook Livestreams</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>How to Fix Pokemon Go Route Not Working On Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-understanding-macos-11-big-sur-transition-tips/"><u>In 2024, Understanding macOS 11 Big Sur Transition Tips</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-iphone-13-pro-max-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile iPhone 13 Pro Max Before the Plan Expires</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-boost-security-with-vboxs-secure-boot/"><u>Step-by-Step: Boost Security with VBox's Secure Boot</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-your-creative-potential-without-spending/"><u>Unlocking Your Creative Potential Without Spending</u></a></li>
 </ul></div>
 

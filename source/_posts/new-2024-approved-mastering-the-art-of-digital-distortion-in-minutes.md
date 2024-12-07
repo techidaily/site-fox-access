@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Mastering the Art of Digital Distortion in Minutes\""
-date: 2024-09-01T14:52:09.463Z
-updated: 2024-09-02T14:52:09.463Z
+date: 2024-12-06T19:24:39.633Z
+updated: 2024-12-07T18:17:11.783Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ In this Photoshop tutorial, we're going to carve an image using four simple step
 
 ![curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/curve-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Simple Steps to Curve an Image in Photoshop
 
 ##### Step1Create a New Document
@@ -33,6 +37,10 @@ To keep things simple, let's start with a white canvas. Let's open a new documen
 After creating the new document, open the image that you want to curve. You may do so by going to File > Open in the menu bar or pressing Ctrl+O or Command+O on your keyboard. Once the image is open, go to Edit in the menu bar and select Place Embedded from the drop-down menu that appears. Select your image and click Place. The image will be placed on the canvas. If the document's size does not match that of the image, you will see a transformation box surrounding the image.
 
 ![place image in photoshop](https://images.wondershare.com/filmora/article-images/2022/09/place-image-in-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step3Warp the Image
 
@@ -58,6 +66,10 @@ The **Bend Direction** option rotates the angle of the bend.
 
 ![bend direction image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/bend-direction-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
 
 ![flip effect image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/flip-effect-image-photoshop.jpg)
@@ -67,6 +79,14 @@ Flip any of these effects in the opposite direction by placing a negative sign i
 Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved
 
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -100,8 +120,20 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-mastering-the-art-of-twitters-live-video-engagement/"><u>[New] 2024 Approved Mastering the Art of Twitter's Live Video Engagement</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-developers-guide-to-top-10-android-apps-for-facebook-video-downloading/"><u>[New] In 2024, Developer's Guide to Top 10 Android Apps for Facebook Video Downloading</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-sjcam-s6-legend-action-camera-complete-review/"><u>[New] In 2024, SJCam S6 Legend Action Camera Complete Review</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-fundamental-furnishings-in-mc-the-basics-of-homesteading-for-2024/"><u>[Updated] Fundamental Furnishings in MC The Basics of Homesteading for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-how-do-green-screens-work-a-complete-beginners-guide/"><u>[Updated] In 2024, How Do Green Screens Work? [A Complete Beginner's Guide]</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-the-art-of-live-streams-merge-obs-zoom/"><u>[Updated] Mastering the Art of Live Streams Merge OBS, Zoom</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-art-and-technique-of-professional-android-time-lapses/"><u>[Updated] The Art and Technique of Professional Android Time-Lapses</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/code-crafting-conundrum-github-copilot-versus-gpt-3/"><u>Code Crafting Conundrum: GitHub Copilot Versus GPT-3?</u></a></li>
+<li><a href="https://win-trending.techidaily.com/documentos-descartados-accidentalmente-recupere-rapidamente-sua-pasta-meus-documentos-agora/"><u>Documentos Descartados Accidentalmente? Recupere Rapidamente Sua Pasta 'Meus Documentos' Agora!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-reviving-past-joy-on-fb-the-look-back-video-editing-path/"><u>In 2024, Reviving Past Joy on FB The Look Back Video Editing Path</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-streamlining-your-podcast-for-apple-platform-access/"><u>In 2024, Streamlining Your Podcast for Apple Platform Access</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-lava-yuva-3-pro-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Lava Yuva 3 Pro Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-honor-magic-5-lite-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Honor Magic 5 Lite to PC- Detailed Steps | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
