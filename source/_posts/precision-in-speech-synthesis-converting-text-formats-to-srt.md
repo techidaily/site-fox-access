@@ -1,7 +1,7 @@
 ---
 title: "\"Precision in Speech Synthesis  Converting Text Formats to SRT\""
-date: 2024-12-02T17:12:30.269Z
-updated: 2024-12-07T17:39:01.125Z
+date: 2024-12-06T20:32:43.840Z
+updated: 2024-12-13T21:02:05.421Z
 tags: 
   - screen-recording
   - ai video
@@ -113,10 +113,6 @@ Step1 Visit [VEED.IO Subtitle Editor](https://www.veed.io/subtitle-tools/edit) a
 
 ![select the srt](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Now select the “.srt” as the output format from the top left corner of the screen
 
 ![upload your subtitle file](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-7.jpg)
@@ -126,10 +122,6 @@ Step3 After that; you just have to click the “Download” button on the bottom
 ![click the download](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-9.jpg)
 
 Now that we know how to convert SSA subtitle format to SRT format, let’s convert XML format into SRT this time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Convert XML to SRT
 
@@ -209,6 +201,10 @@ Step3 After selecting the language of the VOB file, hit “Start Transcribing No
 
 ![click on the import media](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-22.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Once done, the audio in the VOB file will be automatically converted to SRT format within a few minutes.
 
 ![wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-20.jpg)
@@ -221,6 +217,10 @@ Step6 Now select the “SubRip Subtitle file(.srt)” from there and click “Ex
 
 ![upload vob file](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Finally, the SRT version of your VOB file will be saved.
 
 Congratulations!
@@ -232,6 +232,10 @@ What? You don't know how to add these SRT subtitles to your movie? No worries be
 Many users ask questions like “How do I open the SRT file with a video player so that the subtitles will play along with the movie?”
 
 If that is your case then here's a bonus tip for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Tips: The Best Way to Edit the Styling of SRT Subtitles for Videos
 
@@ -269,6 +273,10 @@ Step3 After that, click on the "Import Media" or drag and drop the video as well
 
 ![convert stl to srt](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 nce done, first drag the video file to the video tract below and then the SRT subtitle file.
 
 ![select the type](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-28.jpg)
@@ -295,17 +303,21 @@ Step4 Now drag and drop the imported video file on the video track below.
 
 ![converted to srt format](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step5 Go to the "Titles" from the top toolbar and then click on the "Subtitles."
 
 ![start transcribing now](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-16.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ect the type you want by clicking on the "+" sign or by drag-n-drop on the bottom video track.
 
 ![type the text](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-29.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step7 Now, type the text you want to add as a subtitle, and change other settings like color or text style as you want. You can also go to the advanced settings for more control over your subtitle.
 
@@ -323,15 +335,15 @@ If you still have questions in your mind, leave them in the comment section belo
 
 ## What does SRT, SSA, XML, etc., look like?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. SRT
 
 First, there’s a section for subtitle number, which is followed by the time at which the subtitle appears and ends. Then comes the subtitle that will appear.
 
 ![subRip subtitle file](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-19.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. SSA
 
@@ -398,10 +410,6 @@ Step3 After that; you just have to click the “Download” button on the bottom
 
 Now that we know how to convert SSA subtitle format to SRT format, let’s convert XML format into SRT this time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Convert XML to SRT
 
 As XML subtitle format is used in marker language, so many video players don't support this type of format. While most of the video players easily support SRT files that are specialized for videos and movies.
@@ -458,15 +466,7 @@ Step4 Now you have to wait patiently until the process completes and then you ca
 
 ![click on the new project](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-21.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The last subtitle format we’ll be converting into SRT is the VOB format. Let’s see how to do it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Convert VOB to SRT
 
@@ -488,10 +488,6 @@ Step3 After selecting the language of the VOB file, hit “Start Transcribing No
 
 ![click on the import media](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-22.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 Once done, the audio in the VOB file will be automatically converted to SRT format within a few minutes.
 
 ![wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-20.jpg)
@@ -500,9 +496,17 @@ Step5 After that, hit the “Export” button and a dropdown will appear.
 
 ![vob subtitle file appearance](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step6 Now select the “SubRip Subtitle file(.srt)” from there and click “Export.”
 
 ![upload vob file](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Finally, the SRT version of your VOB file will be saved.
 
@@ -557,7 +561,7 @@ nce done, first drag the video file to the video tract below and then the SRT su
 ![select the type](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-28.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 "<https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-26.jpg>" alt="drag and drop" />
@@ -565,10 +569,6 @@ nce done, first drag the video file to the video tract below and then the SRT su
 Step5 Lastly, hit the "Export" button to save the video having subtitles.
 
 ![go to the titles](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-27.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now on adding manual subtitles to your video.
 
@@ -630,19 +630,24 @@ If you still have questions in your mind, leave them in the comment section belo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-avoiding-common-pitfalls-in-youtube-sponsorships-according-to-famebit/"><u>[New] 2024 Approved Avoiding Common Pitfalls in YouTube Sponsorships, According to FameBit</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-melody-migration-transitioning-playlists-across-platforms/"><u>[New] In 2024, Melody Migration Transitioning Playlists Across Platforms</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-next-gen-universe-expedition-metaverse-vs-omniverse-taken-into-account/"><u>[New] The Next-Gen Universe Expedition Metaverse Vs. Omniverse Taken Into Account</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-top-value-panoramic-recording-equipment-for-savvy-shoppers/"><u>[New] Top Value Panoramic Recording Equipment for Savvy Shoppers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-beyond-clickbait-whats-real-about-instagram-reels/"><u>[Updated] 2024 Approved Beyond Clickbait What's Real About Instagram Reels?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-craft-your-logo-legacy-affordable-and-flexible-templates-for-customization/"><u>[Updated] Craft Your Logo Legacy Affordable & Flexible Templates for Customization</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-your-path-to-perfect-iphone-hdr-photos/"><u>[Updated] In 2024, Your Path to Perfect iPhone HDR Photos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-srt-revelation-transforming-computer-performance/"><u>[Updated] SRT Revelation Transforming Computer Performance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-no-signal-on-your-monitor-a-comprehensive-guide/"><u>How To Resolve 'No Signal' On Your Monitor - A Comprehensive Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-streamitsimple-your-first-guide-to-live-podcasting/"><u>In 2024, StreamItSimple Your First Guide to Live Podcasting</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-choice-top-android-3d-players/"><u>In 2024, Ultimate Choice Top Android 3D Players</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/limited-time-offer-grab-your-black-friday-bargain-with-a-staggering-700-savings-on-the-high-performance-dell-xps-15-exclusive-deals-await-at-zdnet/"><u>Limited Time Offer: Grab Your Black Friday Bargain with a Staggering $700 Savings on the High-Performance Dell XPS 15 - Exclusive Deals Await at ZDNet!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/surprisingly-strong-top-notch-laptops-available-under-700-reviewed-by-zdnet/"><u>Surprisingly Strong: Top-Notch Laptops Available Under $700 Reviewed by ZDNet</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/dits-made-easy-a-newbies-guide-to-video-trimming-and-enhancing-for-2024/"><u>Top Edits Made Easy A Newbie's Guide to Video Trimming & Enhancing for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-expert-guidelines-to-improve-zoom-on-chromeos/"><u>[New] Expert Guidelines to Improve Zoom on ChromeOS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-how-to-make-picture-in-picture-videos-on-mac-os-sierra/"><u>[New] In 2024, How to Make Picture in Picture Videos on Mac OS Sierra</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-zero-dollars-to-end-every-movie-right/"><u>[New] In 2024, Zero Dollars to End Every Movie Right</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-metaverse-race-begins-dont-miss-these-7-essential-tools/"><u>[New] The Metaverse Race Begins Don't Miss These 7 Essential Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-custom-your-youtube-channel-url-super-easy/"><u>[Updated] 2024 Approved How to Custom Your YouTube Channel URL – Super Easy</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-ideal-steadicams-to-enhance-dslr-video-production-quality/"><u>[Updated] 2024 Approved Ideal Steadicams to Enhance DSLR Video Production Quality</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-identifying-premium-free-online-tools-for-efficient-srt-translations/"><u>[Updated] Identifying Premium Free Online Tools for Efficient SRT Translations</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-vivo-t2-pro-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Vivo T2 Pro 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-xiaomi-13t-pro-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Xiaomi 13T Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-y55s-5g-2023-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Vivo Y55s 5G (2023)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-a-complete-rundown-reels-vs-stories-on-instagram/"><u>In 2024, A Complete Rundown Reels vs Stories on Instagram</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-12-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 12 with a Broken Screen?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-discovering-the-magic-in-pixelated-photographic-tapestries/"><u>In 2024, Discovering the Magic in Pixelated Photographic Tapestries</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ntly-boost-youtube-performance-master-render-and-upload/"><u>Instantly Boost YouTube Performance - Master Render and Upload</u></a></li>
+<li><a href="https://fox-access.techidaily.com/mastering-media-with-extraearsound-for-2024/"><u>Mastering Media with ExtraEarSound for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/revolutionize-your-movie-experience-with-free-apps/"><u>Revolutionize Your Movie Experience with Free Apps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/storage-analysis-videography-on-64128gb-hardware/"><u>Storage Analysis Videography on 64/128GB Hardware</u></a></li>
+<li><a href="https://fox-access.techidaily.com/tricks-for-capturing-video-tweets-and-converting-to-audible-format-for-2024/"><u>Tricks for Capturing Video Tweets and Converting to Audible Format for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-meizu-21-by-drfone-android/"><u>Universal Unlock Pattern for Meizu 21</u></a></li>
 </ul></div>
 

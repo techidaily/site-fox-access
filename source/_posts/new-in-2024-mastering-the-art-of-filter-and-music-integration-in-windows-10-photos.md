@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Mastering the Art of Filter & Music Integration in Windows 10 Photos"
-date: 2024-12-05T18:33:47.140Z
-updated: 2024-12-07T16:23:05.284Z
+date: 2024-12-12T16:12:08.106Z
+updated: 2024-12-13T19:08:26.140Z
 tags: 
   - screen-recording
   - ai video
@@ -38,10 +38,6 @@ Having Windows 10 Photos app is an advantage for you. This is not like any other
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to add filters on Windows 10 Photos App
 
 If you have got Windows 10 Photos app and wish to add filters, though, it is by default a photo viewing app, its editing features are worth to mention. This step by step guide is your perfect savior in that case.
@@ -54,6 +50,10 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**: Now, you will be in an video editing page. You can name your video at start or later.
 
 **Step 4**: Click Filters at tool bar. Microsoft Photos has 14 filters you can use, including classic, adventure, sepia and so on.
@@ -61,13 +61,13 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
@@ -82,25 +82,25 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
-**Step 5**: Hit the ‘Done’ button.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Step 5**: Hit the ‘Done’ button.
 
 ## Conclusion
 
 From the above article, we conclude that Windows 10 Photos app is an amazing app when it comes to photo editing and screen capturing from a video. While there are numerous options out there, you can **_add filters using Windows 10 Photos app_** in the best way possible. Moreover, this application enables you enable to even add music to videos using Windows 10 Photos app. The advantages of Windows 10 are innumerable, and with the right tools, you can get the best out of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -127,16 +127,14 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-from-novice-to-vlogger-professional-video-making-on-mobile-devices/"><u>[New] From Novice to Vlogger Professional Video Making on Mobile Devices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-astonishing-critique-and-substitutes-guide/"><u>[New] In 2024, Astonishing Critique & Substitutes Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-experience-unparalleled-reality-top-10-pc-headsets-for-in-depth-vr-video/"><u>[New] In 2024, Experience Unparalleled Reality Top 10 PC Headsets for In-Depth VR Video</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-preventing-htc-vive-disorientation-and-nausea-for-2024/"><u>[New] Preventing HTC Vive Disorientation and Nausea for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-top-voice-modification-tools-essential-choices-for-vtuber-creators/"><u>[New] Top Voice Modification Tools Essential Choices for VTuber Creators</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-unlocking-the-full-capabilities-of-zoom-on-windows-10-pcs/"><u>[New] Unlocking The Full Capabilities of Zoom on Windows 10 PCs</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-unveiling-the-concealed-cause-for-non-video-alerts-on-fb/"><u>[New] Unveiling the Concealed Cause for Non-Video Alerts on FB</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/expert-tips-for-fixing-persistent-rtc-connection-errors-on-discord-a-step-by-step-solution-guide/"><u>Expert Tips for Fixing Persistent RTC Connection Errors on Discord: A Step-by-Step Solution Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-insert-signature-in-excel-2019-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert signature in Excel 2019 files</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-apples-newest-smartphone-the-iphone-cu/"><u>In-Depth Review of Apple's Newest Smartphone, the iPhone Cu</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/abbyy-idpai/"><u>カールスバーググループ：世界最大ビールメーカーがABBYY IDP/AI認識ソフトウェア選定</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-unlocking-secure-periscope-streaming-techniques-and-strategies/"><u>[New] 2024 Approved Unlocking Secure Periscope Streaming Techniques & Strategies</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-iphone-screen-recording-made-simple/"><u>[New] Iphone Screen Recording Made Simple</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-you-rely-on-chatgpt-for-consistent-health-information/"><u>Can You Rely on ChatGPT for Consistent Health Information?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mx492-driver-update-and-download-enhance-your-printers-performance-on-windows-systems/"><u>Canon MX492 Driver Update & Download: Enhance Your Printer's Performance on Windows Systems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/giggle-generators-online-for-2024/"><u>Giggle Generators Online for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-breakthrough-visuals-top-10-monitors-for-your-macbook/"><u>In 2024, Breakthrough Visuals Top 10 Monitors For Your MacBook</u></a></li>
+<li><a href="https://article-posts.techidaily.com/innovative-techniques-for-unique-canon-timelapse-vids-for-2024/"><u>Innovative Techniques for Unique Canon Timelapse Vids for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-installation-hurdles-how-to-enjoy-tiny-tinas-wonderlands-flawlessly-on-pc/"><u>Overcoming Installation Hurdles - How to Enjoy Tiny Tina's Wonderlands Flawlessly on PC</u></a></li>
+<li><a href="https://fox-access.techidaily.com/skys-dynamic-range-masterpieces-website-roundup-for-2024/"><u>Sky's Dynamic Range Masterpieces - Website Roundup for 2024</u></a></li>
 </ul></div>
 

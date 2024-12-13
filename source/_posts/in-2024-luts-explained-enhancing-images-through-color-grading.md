@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, LUTs Explained  Enhancing Images Through Color Grading\""
-date: 2024-08-28T11:16:29.569Z
-updated: 2024-08-29T11:16:29.569Z
+date: 2024-12-10T19:14:35.288Z
+updated: 2024-12-13T16:57:17.968Z
 tags: 
   - screen-recording
   - ai video
@@ -58,6 +58,10 @@ LUTs come pre-installed with programs, but you may also purchase them online and
 
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Choose Adjustment Layer
 
 1. Opt for Color Lookup.
@@ -65,6 +69,10 @@ Choose Adjustment Layer
 3. Select Load 3D LUT. A list of LUTs that come with Photoshop will appear.
 
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 load 3d lut
 
@@ -75,12 +83,9 @@ load 3d lut
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Here's the first method
 
 1. It would be best to unzip the LUT before using it in your project. This is relatively simple, and you may either use specialized software or the built-in unzipping utility in Windows.
@@ -89,8 +94,9 @@ No advertising on the website.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Here's the second one
 
 1. Open the LUT folder, which changes the version to your version.
@@ -108,8 +114,9 @@ Grow Together
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Closing Thoughts:
 
 LUTs are extremely useful since they allow photographers to save time by using the same LUTs or a set of LUTs for several photographs. Instead of making individual modifications to your photographs, you may color grade them all with the same LUTs. This gives a series a more unified vibe. You can even put them up as Actions in Photoshop.
@@ -120,9 +127,6 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Closing Thoughts:
 
 LUTs are extremely useful since they allow photographers to save time by using the same LUTs or a set of LUTs for several photographs. Instead of making individual modifications to your photographs, you may color grade them all with the same LUTs. This gives a series a more unified vibe. You can even put them up as Actions in Photoshop.
@@ -151,4 +155,21 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-elite-screen-hunt-10-monitors-for-your-mac/"><u>[New] 2024 Approved The Elite Screen Hunt #10 Monitors for Your Mac</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-film-crafting-from-script-to-screen/"><u>[New] Film Crafting From Script to Screen</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-seamless-integration-combining-b-roll-and-main-scenes/"><u>[New] Seamless Integration Combining B-Roll and Main Scenes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-ultimate-screenplay-treasures-for-each-movie-division/"><u>[New] Ultimate Screenplay Treasures for Each Movie Division</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-art-and-technique-of-professional-android-time-lapses-for-2024/"><u>[Updated] The Art and Technique of Professional Android Time-Lapses for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-method-changing-account-numbers-on-tiktok/"><u>[Updated] The Ultimate Method Changing Account Numbers on TikTok</u></a></li>
+<li><a href="https://article-helps.techidaily.com/ace-the-art-of-editing-say-goodbye-to-overflowing-tiktok-drafts-for-2024/"><u>Ace the Art of Editing Say Goodbye to Overflowing TikTok Drafts for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-solved-obs-full-screen-not-working/"><u>In 2024, [Solved] OBS Full Screen Not Working</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-a-list-of-the-best-8-sites-for-free-3d-text-psd-downloads/"><u>In 2024, A List of the Best 8 Sites for Free 3D Text PSD Downloads</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-creating-seamless-split-screen-visuals-on-sierra-systems/"><u>In 2024, Creating Seamless Split-Screen Visuals on Sierra Systems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-mastering-whatsapp-key-tricks-and-invisible-functions/"><u>In 2024, Mastering WhatsApp Key Tricks & Invisible Functions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-cutting-room-floor-experts-share-tips-on-video-editing/"><u>In 2024, The Cutting Room Floor Experts Share Tips on Video Editing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-guide-reverting-your-iphone-x-to-a-previous-backup/"><u>Step-by-Step Guide: Reverting Your iPhone X to a Previous Backup</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-greenness-dilemma-assessing-the-ecological-footprint-of-electric-vehicles/"><u>The 'Greenness' Dilemma: Assessing the Ecological Footprint of Electric Vehicles</u></a></li>
+</ul></div>
 

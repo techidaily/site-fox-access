@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Diving Into Advanced Exposure Techniques  Auto, Smart HDR 3 & 4 Explained\""
-date: 2024-12-01T16:40:31.953Z
-updated: 2024-12-07T16:46:51.627Z
+date: 2024-12-10T17:52:03.800Z
+updated: 2024-12-13T19:25:28.138Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,10 @@ But what are HDR modes, exactly? How do they work? In this article, we’ll expl
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the HDR Feature for iPhone Photos?
 
 HDR is a feature that allows you to take better photos in low-light situations and at night. It works by taking multiple pictures at different exposures and then combining them into one photo. This results in a photo with more detail and less noise.
@@ -45,10 +49,6 @@ HDR is a feature that allows you to take better photos in low-light situations a
 Because of computational photography, the iPhone automatically adjusts color, sunlight, contrast, skin, saturation, and background blur.
 
 The iPhone has had this feature for a few years now and it keeps getting better with every new release.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Camera Comparison: Different Versions of Smart HDR Vs Previous HDR in iPhone
 
@@ -61,6 +61,10 @@ The table below shows different HDR and their details;
 | **First Appeared**            | 2022                                                                                                                       | 2021                                  | 2018                | 2017               |
 | **Available on**              | iPhone 12 line, iPhone 13 line                                                                                             | iPhone 11 lineup and iPhone 12 lineup | iPhone Xs and later | iPhone X and newer |
 | **Photo types it works with** | smart HDR works with Portrait and Portrait Lighting modes, panoramic shots, bursts, frames in Live Photos and action shots | single high dynamic range (HDR) image |                     |                    |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Smart HDR 4 (iPhone 13)
 
@@ -75,6 +79,10 @@ In smart HDR 4 Apple offers improved night mode quality, end-to-end HDR video, s
 For example, a picture of the sun may show more detail in the cloudless sky while simultaneously preserving details in the shadows of buildings that would otherwise be too dark to see.
 
 ![smart hdr 4](https://images.wondershare.com/filmora/article-images/2022/07/what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Smart HDR 3 (iPhone 12)
 
@@ -101,11 +109,7 @@ Smart HDR is embedded in the iPhone 11 and iPhone 11 Pro that promises to bring 
 ![smart hdr](https://images.wondershare.com/filmora/article-images/2022/07/what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Auto HDR (iPhone X)
@@ -121,6 +125,14 @@ This feature is designed to improve the quality of your photos by automatically 
 * It's enabled by default in iOS 11 so you don't have to do anything.
 
 ![auto hdr](https://images.wondershare.com/filmora/article-images/2022/07/what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should you Lookout for the HDR feature on iPhone 14?
 
@@ -152,10 +164,6 @@ Because of computational photography, the iPhone automatically adjusts color, su
 
 The iPhone has had this feature for a few years now and it keeps getting better with every new release.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Camera Comparison: Different Versions of Smart HDR Vs Previous HDR in iPhone
 
 When you compare the latest Smart HDR technology used in iPhone to the prior HDR, Smart HDR wins in every aspect. From giving your photos better color to enhancing their highlights and shadow details. Besides, Smart HDR is not supported on older iPhone models that lack faster sensors, zero shutter lag, and other developments.
@@ -167,10 +175,6 @@ The table below shows different HDR and their details;
 | **First Appeared**            | 2022                                                                                                                       | 2021                                  | 2018                | 2017               |
 | **Available on**              | iPhone 12 line, iPhone 13 line                                                                                             | iPhone 11 lineup and iPhone 12 lineup | iPhone Xs and later | iPhone X and newer |
 | **Photo types it works with** | smart HDR works with Portrait and Portrait Lighting modes, panoramic shots, bursts, frames in Live Photos and action shots | single high dynamic range (HDR) image |                     |                    |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Smart HDR 4 (iPhone 13)
 
@@ -186,10 +190,6 @@ For example, a picture of the sun may show more detail in the cloudless sky whil
 
 ![smart hdr 4](https://images.wondershare.com/filmora/article-images/2022/07/what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Smart HDR 3 (iPhone 12)
 
 Apple's computational photography system "smart HDR 3" is available on iPhone 12\. The feature has been upgraded with a new algorithm to create more natural-looking images by removing some of the artifacts that have been found in previous iterations of the technology.
@@ -203,7 +203,7 @@ In this, we can get A preview of the final image shown as you capture an image a
 ![smart hdr 3](https://images.wondershare.com/filmora/article-images/2022/07/what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Smart HDR (iPhone 11)
@@ -218,6 +218,10 @@ Smart HDR is embedded in the iPhone 11 and iPhone 11 Pro that promises to bring 
 
 ![smart hdr](https://images.wondershare.com/filmora/article-images/2022/07/what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Auto HDR (iPhone X)
 
 Auto HDR is a feature in the camera of the iPhone X series that takes multiple pictures at different exposures and then combines them to create one well-exposed photo. One of the things that make the iPhone camera so great is computational photography.
@@ -231,10 +235,6 @@ This feature is designed to improve the quality of your photos by automatically 
 * It's enabled by default in iOS 11 so you don't have to do anything.
 
 ![auto hdr](https://images.wondershare.com/filmora/article-images/2022/07/what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Should you Lookout for the HDR feature on iPhone 14?
 
@@ -282,22 +282,24 @@ Auto HDR will make sure both shadows and highlights are in focus, while Smart HD
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-introductory-handbook-on-video-quality-and-size-for-2024/"><u>[New] Introductory Handbook on Video Quality and Size for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-unlock-new-speech-potentials-on-chrome-ranked-top-voice-alteration-tools/"><u>[New] Unlock New Speech Potentials on Chrome Ranked Top Voice Alteration Tools</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-10-passport-photo-generator-download-print-for-free/"><u>[Updated] 2024 Approved 10 Passport Photo Generator Download, Print for Free</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-navigating-new-horizinas-in-the-world-of-srt/"><u>[Updated] 2024 Approved Navigating New Horizinas in the World of SRT</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-streamers-guide-validating-your-channels-income/"><u>[Updated] 2024 Approved Streamer's Guide Validating Your Channel's Income</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-unveiling-the-top-10-drawing-apps-for-chromebooks/"><u>[Updated] 2024 Approved Unveiling the Top 10 Drawing Apps for Chromebooks</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-opening-doors-creating-an-account-on-youtube/"><u>[Updated] In 2024, Opening Doors Creating an Account on YouTube</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-power-up-storage-ultimate-ps5-hard-drives-compared-for-2024/"><u>[Updated] Power Up Storage Ultimate PS5 Hard Drives Compared for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/celebrating-soundtracks-the-ultimate-anime-list/"><u>Celebrating Soundtracks The Ultimate Anime List</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722974750765-expert-tips-and-fixes-for-hp-beats-audio-drivers-on-windows-platforms-windows-10-8-and-7-now-resolved/"><u>Expert Tips and Fixes for HP Beats Audio Drivers on Windows Platforms (Windows 10, 8 & 7) - Now Resolved</u></a></li>
-<li><a href="https://fox-access.techidaily.com/funniest-faces-learning-kinemaster-for-2024/"><u>Funniest Faces Learning KineMaster for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-elevating-your-audacity-skills-for-professional-audio-capture/"><u>In 2024, Elevating Your Audacity Skills for Professional Audio Capture</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-iphone-14-pro-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab iPhone 14 Pro Backup Unlocker Top 4 Alternatives</u></a></li>
-<li><a href="https://fox-access.techidaily.com/navigating-complex-projects-on-magix-video-pro-x-for-2024/"><u>Navigating Complex Projects on Magix Video Pro X for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-ultimate-tutorial-adding-whimsy-with-snapchat-cartoons/"><u>The Ultimate Tutorial Adding Whimsy with Snapchat Cartoons</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-gionee-f3-pro-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Gionee F3 Pro Device</u></a></li>
-<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-beyond-reality-comparing-vr-augmented-and-mixed-tech/"><u>[New] 2024 Approved Beyond Reality Comparing VR, Augmented & Mixed Tech</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-guide-to-progressive-audio-diminishment-via-lumafusion/"><u>[New] Guide to Progressive Audio Diminishment via Lumafusion</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-superior-psd-filters-galore/"><u>[New] In 2024, Superior PSD Filters Galore</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/uick-hands-turning-photos-into-compelling-youtube-thumbnails/"><u>[New] Quick Hands Turning Photos Into Compelling YouTube Thumbnails</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-twitch-revival-tactics-for-forgotten-sessions/"><u>[New] Twitch Revival Tactics for Forgotten Sessions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-funny-faces-and-posts-your-adobe-way/"><u>[Updated] 2024 Approved Funny Faces and Posts Your Adobe Way</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-facebooks-essential-steps-smoothly-uploading-videos-via-pc-iosandroid-for-2024/"><u>[Updated] Facebook's Essential Steps Smoothly Uploading Videos via PC, iOS/Android for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-premiere-pro-streamline-for-online-video-uploads-for-2024/"><u>[Updated] Premiere Pro Streamline for Online Video Uploads for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-snapshot-sophistication-expert-advice-on-editing-magic/"><u>[Updated] Snapshot Sophistication Expert Advice on Editing Magic</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-model-duel-pinpointing-the-breakthroughs-of-gpt-4/"><u>AI Model Duel: Pinpointing the Breakthroughs of GPT-4</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-stop-start-saga-common-fixes-to-uncover/"><u>Facebook's Stop-Start Saga: Common Fixes to Uncover</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-tecno-spark-10-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-beginners-guide-to-windows-11-audible-recording/"><u>In 2024, Beginner's Guide to Windows 11 Audible Recording</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-macos-sierra-installation-procedures/"><u>In 2024, Mastering macOS Sierra Installation Procedures</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-guide-installing-and-exploring-ifunnys-meme-app/"><u>In 2024, Quick Guide Installing & Exploring iFunny's Meme App</u></a></li>
+<li><a href="https://fox-access.techidaily.com/perfecting-the-art-of-audio-in-audacity-professionally/"><u>Perfecting the Art of Audio in Audacity Professionally</u></a></li>
+<li><a href="https://fox-access.techidaily.com/shoot-with-clarity-capture-immersive-experiences-9-essentials/"><u>Shoot with Clarity, Capture Immersive Experiences (9 Essentials)</u></a></li>
+<li><a href="https://facebook.techidaily.com/telegram-notifies-tracking-upholds-user-friendly-features/"><u>Telegram Notifies: Tracking Upholds User-Friendly Features</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-complete-how-to-for-mac-obs-plus-streamlabs-integration/"><u>The Complete How-To for Mac OBS + Streamlabs Integration</u></a></li>
 </ul></div>
 

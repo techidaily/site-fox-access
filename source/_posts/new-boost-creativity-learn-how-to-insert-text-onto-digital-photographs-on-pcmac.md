@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Boost Creativity  Learn How to Insert Text Onto Digital Photographs on PC/Mac\""
-date: 2024-12-03T19:08:45.427Z
-updated: 2024-12-07T19:47:13.555Z
+date: 2024-12-10T18:08:43.606Z
+updated: 2024-12-13T19:01:19.039Z
 tags: 
   - screen-recording
   - ai video
@@ -40,7 +40,7 @@ Step2Click the edit button there at the top.
 ![click edit button](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3Now click the More icon, which is at the top right portion of it (it usually looks like an ellipsis), and then in the dropdown menu, click on the Markup option.
@@ -51,9 +51,21 @@ Step4Now click on the text button at the top left corner of the screen to add a 
 
 ![click on the text button](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step5You can drag this text box and place it wherever you want it in your image. Also, to choose the font style, size, and color, you can click on the Text Style icon and save your changes.
 
 ![place text box](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1.2 Add writing to photos on Windows 10/11
 
@@ -87,10 +99,6 @@ Step8Click any Save or Save as button to save the edited image.
 
 ![click save button](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5 Methods to add text on photos online
 
 ### 1\. [Wondershare PixStudio](https://tools.techidaily.com/wondershare/fotophire/download/)
@@ -110,7 +118,7 @@ Step1First, you have to open the image on which you want to add text in Pix Stud
 ![create a new design](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-12.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2Now click on the **Text Button**, which will appear on your sidebar at the left.
@@ -139,6 +147,10 @@ Step7Moreover, if you want to change the size of the **Text Box**, drag its bord
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Important Note:** Remember that what changes you have done using the right sidebar menu will be applied to the whole text inside the selected text box.
 
 Pros
@@ -154,6 +166,10 @@ Cons
 
 * You need to have a premium account to use the more advanced features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. [Kapwing](https://www.kapwing.com/tools/add-text-to-image)
 
 **Introduction:**
@@ -161,6 +177,10 @@ Cons
 Kapwing is another photo editing website where you can professionally edit your photos for free. You can also add text to images using it. It is easy to use also and has approximately 10 million users currently.
 
 ![kapwing](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-19.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Pros
 
@@ -195,10 +215,6 @@ Cons
 * You must purchase their premium plans to access more professional features.
 * There are some errors in previewing when you are using certain functions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. [Pixlr](https://pixlr.com/x/)
 
 **Introduction:**
@@ -206,10 +222,6 @@ Cons
 Pixlr is also an alternative to the above all. It is a cloud-based online photo editor which allows you to edit your photos skillfully. It has a very interactive and easy-to-understand interface. Pixlr is also an excellent choice to add text to your photos easily. It has more than 16 million users on the web.
 
 ![pixlr](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-21.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Pros
 
@@ -222,6 +234,10 @@ Cons
 * It does not have too many advanced features in the free version. You have to pay for them.
 * The result of the edited photo is not good enough as in Photoshop and other editors.
 * There are some bugs causing errors.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. [Fotor](https://www.fotor.com/features/text.html)
 
@@ -246,10 +262,6 @@ Cons
 
 ## Best 5 Programs for adding text on photos
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. [Photoshop](https://www.adobe.com/products/photoshop.html)
 
 **Introduction:**
@@ -271,10 +283,6 @@ Cons
 * There is not any progress bar for some features in it.
 * To acquire more advanced features, you must purchase its premium version.
 * A few problems sometimes occur due to the bugs in its newly updated versions or beta versions if you are using them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. [PhotoDirector](https://www.cyberlink.com/downloads/trials/photodirector-photo-editing-software/download%5Fen%5FUS.html)
 
@@ -307,7 +315,7 @@ If you still do not find any software to add text to your photos, you should als
 ![gimp](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-25.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Pros
@@ -342,10 +350,6 @@ Cons
 * It is not too good in exporting formats.
 * Its interface is simple but not too much friendly. Therefore, you have to read or watch some tutorials first regarding it to understand its interface completely.
 * The startup screen doesn't have any close, minimize or maximize buttons.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. [Phoxo](http://www.phoxo.com/en/download/)
 
@@ -542,10 +546,6 @@ Cons
 You can use Inkscape for this purpose as it is also fully open source and free software for graphics editing. It is used for editing and creating vector graphics, but you can still use it to add text to your photos. It also has a large number of users.
 
 ![inkscape](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-26.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Pros
 
@@ -609,24 +609,18 @@ The last words for today's topic here is that there are numerous solutions avail
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-exploring-the-yuneec-typhoon-h-expert-drone-review/"><u>[New] 2024 Approved Exploring the Yuneec Typhoon H Expert Drone Review</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-streamline-photo-editing-key-pixlr-insights/"><u>[New] In 2024, Streamline Photo Editing Key Pixlr Insights</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-mirthful-montage-mastering-7-comical-video-vignettes/"><u>[New] Mirthful Montage Mastering 7 Comical Video Vignettes</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-portrait-perfection-free-official-passport-image-generator-download-for-2024/"><u>[New] Portrait Perfection Free, Official Passport Image Generator Download for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-pushing-boundaries-in-image-editing-for-2024/"><u>[New] Pushing Boundaries in Image Editing for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-rhythmic-convergence-crossfade-explained-simply-for-2024/"><u>[New] Rhythmic Convergence Crossfade Explained Simply for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-transform-photos-and-videos-with-these-androidiphone-montage-apps/"><u>[Updated] 2024 Approved Transform Photos & Videos with These Android/iPhone Montage Apps</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-effortless-srt-conversion-the-ultimate-txt-solution-in-a-flash-for-2024/"><u>[Updated] Effortless SRT Conversion The Ultimate TXT Solution in a Flash for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-innovators-behind-vr-spectacles/"><u>[Updated] In 2024, Innovators Behind VR Spectacles</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-megadron-mastery-industrys-top-heavy-loaders/"><u>[Updated] In 2024, Megadron Mastery Industry's Top Heavy Loaders</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-future-at-your-fingertips-testing-the-latest-in-virtual-reality-by-lg/"><u>[Updated] In 2024, The Future at Your Fingertips Testing the Latest in Virtual Reality by LG</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-future-of-advertising-in-the-metaverse/"><u>2024 Approved The Future of Advertising in the Metaverse</u></a></li>
-<li><a href="https://article-tips.techidaily.com/easy-sound-alteration-for-everyday-vocalization-with-free-software-for-2024/"><u>Easy Sound Alteration for Everyday Vocalization with Free Software for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/effortless-screen-recording-on-modern-pcs-for-2024/"><u>Effortless Screen Recording on Modern PCs for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-apple-iphone-12-pro-by-drfone-ios/"><u>Guide on How To Remove Apple ID From Apple iPhone 12 Pro</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-top-10-economical-pc-monitoring-and-capture-tools/"><u>In 2024, Top 10 Economical PC Monitoring and Capture Tools</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-unraveling-why-imovie-alters-video-borders/"><u>In 2024, Unraveling Why iMovie Alters Video Borders</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/quick-swivel-techniques-vlcs-video-flipping-mastery/"><u>Quick-Swivel Techniques VLC's Video Flipping Mastery</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successfully-tackling-the-something-went-wrong-error-during-windows-11-fresh-start/"><u>Successfully Tackling the 'Something Went Wrong' Error During Windows 11 Fresh Start</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-configure-streamlabs-on-your-mac-using-obs/"><u>[New] 2024 Approved Configure Streamlabs on Your Mac Using OBS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-augmented-reality-shading-exploiting-free-lut-resources-for-ar-for-2024/"><u>[Updated] Augmented Reality Shading Exploiting Free LUT Resources for AR for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-essential-steps-for-logging-virtual-exchanges-for-2024/"><u>[Updated] Essential Steps for Logging Virtual Exchanges for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-ultimate-hue-harmonizer-tool/"><u>[Updated] In 2024, Ultimate Hue Harmonizer Tool</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-select-8-android-apps-combining-free-and-paid-video-collages-for-2024/"><u>[Updated] Select 8 Android Apps Combining Free and Paid Video Collages for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-list-of-tamil-ringtones-purchase-hubs-and-hacks-for-2024/"><u>[Updated] The Ultimate List of Tamil Ringtones Purchase Hubs & Hacks for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-playbook-for-podcast-titling-success-and-50plus-name-suggestions/"><u>[Updated] The Ultimate Playbook for Podcast Titling Success & 50+ Name Suggestions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-transforming-spoken-words-into-written-text-using-in-built-tools-of-office-suite-ms-word-for-2024/"><u>[Updated] Transforming Spoken Words Into Written Text Using In-Built Tools of Office Suite - MS Word for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-mastering-the-art-of-ifunny-memes/"><u>2024 Approved Mastering the Art of iFunny Memes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-setting-up-your-youtube-studio-essential-equipment-list/"><u>2024 Approved Setting Up Your YouTube Studio Essential Equipment List</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-samsung-galaxy-a05-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Samsung Galaxy A05 without App | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-face-swap-revolution-the-top-apps-for-iphone-and-android/"><u>New In 2024, Face Swap Revolution The Top Apps for iPhone and Android</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-se-2022-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone SE (2022) from iCloud</u></a></li>
 </ul></div>
 

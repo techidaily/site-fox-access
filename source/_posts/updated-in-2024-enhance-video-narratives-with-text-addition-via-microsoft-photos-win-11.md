@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Enhance Video Narratives with Text Addition via Microsoft Photos (Win 11)"
-date: 2024-09-01T14:49:56.190Z
-updated: 2024-09-02T14:49:56.190Z
+date: 2024-12-12T19:10:33.854Z
+updated: 2024-12-13T17:36:11.683Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ Adding the titles/text to video is a great way to explain the people about a cer
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Add Titles/Text to Video on Photos in Windows 10
 
 Do you wish to add titles/text to video on Photos in Windows 10 for your video projects? You may not get several options for video editing in spite of some powerful addition of application in Microsoft Store. But, the Windows 10 Photos app feature offers an add-on for creating video from your phone’s media. Let’s learn how to add titles/text to video on Photos in Windows 10.
@@ -41,6 +45,10 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * Select licensed images from the preset categories and always use it by adding credits to the image and click Insert to add it to the video project
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/add-text-photos-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * You may also add the image from the project library to the storyboard if you cannot find the image in the preset categories
 * Resize the image if black parts appear by clicking on resize and then, remove black parts
@@ -62,6 +70,10 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
@@ -72,20 +84,22 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -109,4 +123,22 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-focus-freshness-the-ultimate-clear-image-software-guide/"><u>[New] In 2024, Focus Freshness The Ultimate Clear Image Software Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-price-tracker-for-cloud-space-services-a-detailed-review/"><u>[New] In 2024, Price Tracker for Cloud Space Services A Detailed Review</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-maximum-clarity-video-transformer-windowsmac/"><u>[New] Maximum Clarity Video Transformer (Windows/Mac)</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-exploring-leading-tiktok-gif-conversion-apps-today/"><u>[Updated] 2024 Approved Exploring Leading TikTok GIF Conversion Apps Today</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-best-lyric-video-makers-you-should-try/"><u>[Updated] In 2024, Best Lyric Video Makers You Should Try</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-ultimate-guide-to-smooth-audio-crossfade/"><u>[Updated] In 2024, The Ultimate Guide to Smooth Audio Crossfade</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-magical-sound-alteration-apps-for-your-device-for-2024/"><u>[Updated] Magical Sound Alteration Apps for Your Device for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-clipmaster-software/"><u>2024 Approved ClipMaster Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/czech-airlines/"><u>Czech Airlines</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-11-pro-how-to-unlock-a-disabled-apple-iphone-11-pro-by-drfone-ios/"><u>Disabled Apple iPhone 11 Pro How to Unlock a Disabled Apple iPhone 11 Pro?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-accelerated-cinematic-tips-diy-filming-mastery/"><u>In 2024, Accelerated Cinematic Tips DIY Filming Mastery</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-discover-best-8-3d-realms-with-glossy-text-effects/"><u>In 2024, Discover Best 8 3D Realms with Glossy Text Effects</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-insight-into-watermark-functionality-for-fb-media/"><u>In 2024, Insight Into Watermark Functionality for Fb Media</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-nokia-g22-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Nokia G22</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fix-unseen-headphones-in-windows-10-device-list/"><u>Troubleshooting: Fix Unseen Headphones in Windows 10 Device List</u></a></li>
+</ul></div>
 

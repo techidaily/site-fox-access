@@ -1,7 +1,7 @@
 ---
 title: Guide to Resolve 'Device Not Configured' Error with Code 1
-date: 2024-12-03T19:10:23.508Z
-updated: 2024-12-07T18:47:25.123Z
+date: 2024-12-08T18:26:36.934Z
+updated: 2024-12-13T20:20:44.379Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Update the driver manually via Device Manager
 
  You can update the driver via Device Manager. Follow these steps (Here take steps in Windows 7 as reference, which also apply to Windows 10, 8, 8.1, XP & Vista.):  
@@ -41,21 +45,17 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57318a0304278.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Click**Search automatically for updated driver software**. Then Windows will update the driver automatically.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57318a2bd0396.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Check to see if the yellow mark next to the device is gone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 2: Update the driver automatically
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a97796ac519e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to the problem device to automatically download and install the correct version of the driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a9779737fc89.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) After updating the driver, check to see if the yellow mark next to the device is gone.
@@ -103,22 +103,16 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-best-deals-on-superior-asmr-microphone-technology/"><u>[New] 2024 Approved Best Deals on Superior ASMR Microphone Technology</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-penning-powerful-film-prospectus/"><u>[New] 2024 Approved Penning Powerful Film Prospectus</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-perfectly-preserve-and-profitably-play-your-phones-gifs/"><u>[New] 2024 Approved Perfectly Preserve and Profitably Play Your Phone's GIFs</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-pushing-boundaries-the-spectrum-of-colors-and-4k-resolution/"><u>[New] 2024 Approved Pushing Boundaries The Spectrum of Colors and 4K Resolution</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-depth-review-dji-phantom-4-in-action/"><u>[New] In Depth Review DJI Phantom 4 in Action</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-nikons-masterpiece-unveiling-the-4k-capabilities-of-j5-for-2024/"><u>[New] Nikon's Masterpiece Unveiling The 4K Capabilities of J5 for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-pinnacle-12-apps-for-unlimited-screen-recording/"><u>[New] Pinnacle 12 Apps for Unlimited Screen Recording</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-the-photomontage-artisans-blueprint-for-2024/"><u>[New] The PhotoMontage Artisan's Blueprint for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-cutting-down-footage-imovies-automatic-size-change-query/"><u>[Updated] 2024 Approved Cutting Down Footage IMovie’s Automatic Size Change Query</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-streamlining-inshot-cuts-for-professional-edge/"><u>[Updated] In 2024, Streamlining Inshot Cuts for Professional Edge</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-subscription-rate-monitoring-software/"><u>[Updated] Subscription Rate Monitoring Software</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-unleash-creative-potential-with-green-screen-tips-for-2024/"><u>[Updated] Unleash Creative Potential with Green Screen Tips for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/6-proven-methods-for-flawlessly-playing-stray-impact-without-pc-crashes/"><u>6 Proven Methods for Flawlessly Playing Stray: Impact Without PC Crashes</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-tecno-spark-20-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Tecno Spark 20 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/leveraging-cross-functional-collaboration-for-comprehensive-market-research-for-2024/"><u>Leveraging Cross-Functional Collaboration for Comprehensive Market Research for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mending-mp4-playback-issues/"><u>Mending MP4 Playback Issues</u></a></li>
-<li><a href="https://fox-access.techidaily.com/swift-transformation-androids-best-vid-upgrades/"><u>Swift Transformation Android's Best Vid Upgrades</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-boost-love-odds-expert-tips-for-compelling-tinder-profiles/"><u>[New] Boost Love Odds Expert Tips for Compelling Tinder Profiles</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-voice-transformation-top-7-innovative-mobile-apps-for-2024/"><u>[New] Voice Transformation Top 7 Innovative Mobile Apps for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-claritycapturex7-zoom-in-size-up-smartly/"><u>[Updated] 2024 Approved ClarityCaptureX7 Zoom In, Size Up Smartly</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-essential-streamers-guide-top-10-sports-apps-for-real-time-action/"><u>[Updated] 2024 Approved Essential Streamers' Guide Top 10 Sports Apps for Real-Time Action</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-innovate-your-visual-narrative-the-10-best-text-upgrades/"><u>[Updated] 2024 Approved Innovate Your Visual Narrative - The 10 Best Text Upgrades</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-360-degree-cameras-vs-3d-cameras-what-are-the-differences/"><u>[Updated] 360 Degree Cameras Vs 3D Cameras What Are the Differences</u></a></li>
+<li><a href="https://video-capture.techidaily.com/a-students-and-educators-handbook-on-efficiently-downloading-panopto-video-content/"><u>A Student's and Educator’s Handbook on Efficiently Downloading Panopto Video Content</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/find-out-which-colleagues-viewed-your-google-documents-with-these-tips/"><u>Find Out Which Colleagues Viewed Your Google Documents with These Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-xiaomi-redmi-13c-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Xiaomi Redmi 13C 5G Devices</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ating-youtubes-systems-after-video-upload/"><u>Navigating YouTube's Systems After Video Upload</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/refurbished-apple-iphone-13-pro-max-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>Refurbished Apple iPhone 13 Pro Max Everything You Need to Know | Dr.fone</u></a></li>
 </ul></div>
 

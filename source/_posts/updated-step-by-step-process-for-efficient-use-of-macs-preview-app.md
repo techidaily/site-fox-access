@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Process for Efficient Use of Mac's Preview App\""
-date: 2024-12-01T16:36:29.041Z
-updated: 2024-12-07T17:25:04.485Z
+date: 2024-12-06T20:36:07.947Z
+updated: 2024-12-13T16:06:26.443Z
 tags: 
   - screen-recording
   - ai video
@@ -36,7 +36,7 @@ That said, the sections below explain **how to use Preview on Mac** for elementa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
@@ -46,7 +46,7 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
@@ -77,6 +77,10 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -105,6 +109,10 @@ Use the method explained above to open the photo in Preview.
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Add Text to Image in Preview
 
 The **Preview app** even lets you annotate the images with ease. To add text to a photo:
@@ -120,10 +128,6 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 **Step 3: Format the Text**
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
 
@@ -158,7 +162,7 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Save Images in Different Formats
@@ -172,10 +176,6 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -236,24 +236,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-economical-dslrs-and-camcorders-4k-edition/"><u>[New] 2024 Approved Economical DSLRs & Camcorders, 4K Edition</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-pivotal-principles-in-digital-story-making/"><u>[New] 2024 Approved Pivotal Principles in Digital Story Making</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-zip-to-subrip-conversion-techniques/"><u>[New] 2024 Approved Zip-to-SubRip Conversion Techniques</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/rom-basics-to-breakthroughs-the-ultimate-strategy-for-youtube-advertising-success/"><u>[New] From Basics to Breakthroughs The Ultimate Strategy for YouTube Advertising Success</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-dreaded-drawing-dynamo/"><u>[New] In 2024, Dreaded Drawing Dynamo</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-pay-attention-focus-fully-on-the-speaker-avoid-distractions-and-show-interest-in-what-theyre-saying/"><u>[New] In 2024, Pay Attention Focus Fully on the Speaker, Avoid Distractions, and Show Interest in What They're Saying</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-step-by-step-guide-to-mastering-kinemaster-plus-10-best-video-editors-online/"><u>[Updated] 2024 Approved Step-by-Step Guide to Mastering KineMaster + 10 Best Video Editors Online</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-computational-photography-what-are-auto-hdr-smart-hdr-3-and-4-shooting-for-2024/"><u>[Updated] Computational Photography What Are Auto HDR, Smart HDR 3 & 4 Shooting for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-high-performance-in-fb-video-streaming/"><u>[Updated] High Performance in FB Video Streaming</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-the-ultimate-iphone-and-ipad-podcast-recording-manual-for-interviews/"><u>[Updated] The Ultimate iPhone & iPad Podcast Recording Manual For Interviews</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/executive-seating-unveiled-the-x-chair-x4-review-for-productive-workspaces/"><u>Executive Seating Unveiled: The X-Chair X4 Review for Productive Workspaces</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-100-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-v30-lite-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo V30 Lite 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/legal-zen-melodies-your-guide-to-soothing-soundtracks/"><u>Legal Zen Melodies – Your Guide to Soothing Soundtracks</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/optimize-your-screen-sessions-with-obs-and-skype/"><u>Optimize Your Screen Sessions with OBS & Skype</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-startup-problems-with-ease-fixes-for-when-your-roku-tv-wont-boot-up/"><u>Overcoming Startup Problems with Ease – Fixes for When Your Roku TV Won't Boot Up</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/schritt-fur-schritt-anleitung-zum-konvertieren-von-dvds-in-mp4-fur-die-beste-videoschnittqualitat/"><u>Schritt-Für-Schritt-Anleitung Zum Konvertieren Von DVDs in MP4 Für Die Beste Videoschnittqualität</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723011501493-steam-sign-in-failures-heres-how-you-can-get-back-in-easily/"><u>Steam Sign In Failures? Here's How You Can Get Back in Easily!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-professionals-complete-handbook-to-fcp-mastery-for-2024/"><u>[New] Professional's Complete Handbook to FCP Mastery for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-dive-into-digital-dimensions-smartphone-vr-conversion-tricks-for-2024/"><u>[Updated] Dive Into Digital Dimensions Smartphone-VR Conversion Tricks for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-immersive-gameplay-capture-roblox-and-macos-synergy-for-2024/"><u>[Updated] Immersive Gameplay Capture Roblox & macOS Synergy for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-lure-inducing-title-engineer/"><u>[Updated] In 2024, Lure-Inducing Title Engineer</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-strategic-use-of-visual-media-in-classroom-teaching/"><u>[Updated] In 2024, Strategic Use of Visual Media in Classroom Teaching</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-secret-sauce-for-stellar-telegram-campaigns/"><u>[Updated] The Secret Sauce for Stellar Telegram Campaigns</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-gopro-film-editing-applications/"><u>[Updated] Top GoPro Film-Editing Applications</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-assessing-daily-video-consumption-in-gb-units/"><u>2024 Approved Assessing Daily Video Consumption in GB Units</u></a></li>
+<li><a href="https://fox-access.techidaily.com/effective-fixes-for-when-utorrent-fails-to-connect-or-download/"><u>Effective Fixes for When uTorrent Fails to Connect or Download</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-sony-bootloader-easily-by-drfone-android/"><u>How to Unlock Sony Bootloader Easily</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-infinix-note-30i-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Infinix Note 30i.</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-video-playback-failed-error-224003-a-comprehensive-guide/"><u>Resolving 'Video Playback Failed: Error 224003' - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/smooth-transition-from-skype-to-zoom-for-better-collaboration-for-2024/"><u>Smooth Transition From Skype to Zoom for Better Collaboration for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-age-of-empires-3-initialization-failed/"><u>Solved: Age of Empires 3 Initialization Failed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-leading-eight-free-windows-html-editor-applications-to-boost-your-website-building-skills/"><u>The Leading Eight FREE Windows HTML Editor Applications to Boost Your Website Building Skills</u></a></li>
 </ul></div>
 
