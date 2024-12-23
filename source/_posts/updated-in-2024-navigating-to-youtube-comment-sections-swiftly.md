@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Navigating to YouTube Comment Sections Swiftly"
-date: 2024-08-28T11:14:48.596Z
-updated: 2024-08-29T11:14:48.596Z
+date: 2024-12-17T21:28:26.498Z
+updated: 2024-12-22T20:57:00.875Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,10 @@ YouTube comments are an opportunity for the site's 1.7 million unique monthly vi
 Not only does it show your fans followers that you care about what they have to say, engaging with comments has they have to say, engaging with comments has the added benefit of boosting you in the YouTube algorithm. Videos with lots of likes, replies and moderation tend to show up higher in search results.
 
 For YouTubers who are serious about growing their channel and making their brand profitable, you know by now that there are certain tricks and strategies that you have to apply and put in place to make your YouTube channel what you want it to be.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Advantage of YouTube comments
 
@@ -74,16 +78,10 @@ Step1 Open your chosen browser, head to YouTube, then sign in to your Google/You
 
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 Step3 From the drop down menu, select “History”.
 
 Step4 On the right side under the “Manage all history” section, click on “comments”.
@@ -91,15 +89,17 @@ Step4 On the right side under the “Manage all history” section, click on “
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
 Step6 Make the necessary edits and choose “Save”.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Highlighted Comments and Replies on YouTube
 
 Among the comments you see on a video, you might notice some that YouTube has labeled “Highlighted Comment.” that label is specific to you, and only appears in your comments list. YouTube that you have a particular interest in a section of comments.
@@ -108,9 +108,6 @@ For example, you might click on a notification, and YouTube takes you to a parti
 
 Each time YouTube adds the “highlighted comment” or “highlighted reply” tags to a video, they create a unique URL. The version of the comment that you see uses this newly generated URL. Therefore, the only way to make these labels disappear (apart from reading the new comments) is to remove the addition to the URL.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Deleting YouTube Comments?
 
 If you consume a lot of YouTube content, you've likely posted hundreds or even thousands of comments on various channels. You might want to:
@@ -130,8 +127,13 @@ Comments history also contains the link to the video where you've left the comme
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 YouTube allows users to view and edit all the comments they have made on YouTube videos on both desktop and mobile apps. You can also edit or delete the comment if you so wish However you cannot delete any comments you made on YouTube from the Google my Activity page. It can be done from within the YouTube app only.
@@ -166,4 +168,20 @@ One way you can encourage people to leave comments on your videos is to finish t
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/rom-chat-room-to-screen-step-by-step-google-meet-youtube-streams-for-2024/"><u>[New] From Chat Room to Screen Step-by-Step Google Meet YouTube Streams for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-how-to-blend-into-the-crowd-watching-instagram-live-anonymously-for-2024/"><u>[New] How to Blend Into the Crowd Watching Instagram Live Anonymously for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-lgs-gaming-monitor-review-the-future-of-4k-freesync/"><u>[Updated] 2024 Approved LG’s Gaming Monitor Review - The Future of 4K FreeSync</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-speech-to-text-magic-free-edition/"><u>[Updated] 2024 Approved Speech-to-Text Magic Free Edition</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-adjusting-screenshots-why-does-imovie-alter-video-sizes-for-2024/"><u>[Updated] Adjusting Screenshots Why Does iMovie Alter Video Sizes for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-anonymizing-faces-a-compendium-of-photographic-shielders/"><u>2024 Approved Anonymizing Faces A Compendium of Photographic Shielders</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/assessing-the-lenovo-130s-notebook-battery-limitations-counterbalanced-by-user-friendly-design/"><u>Assessing the Lenovo 130S Notebook: Battery Limitations Counterbalanced by User-Friendly Design</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-stop-fb-push-notifications-and-messages/"><u>How to Stop FB Push Notifications and Messages</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-bestow-photographic-frames-with-outer-radial-smearing/"><u>In 2024, Bestow Photographic Frames with Outer Radial Smearing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-panopticon-perspective-analysis/"><u>In 2024, Panopticon Perspective Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-there-tangible-value-in-ea-plays-cost/"><u>Is There Tangible Value in EA Play's Cost?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-your-digital-footprint-with-windows-11-histories/"><u>Unveiling Your Digital Footprint with Windows 11 Histories</u></a></li>
+</ul></div>
 

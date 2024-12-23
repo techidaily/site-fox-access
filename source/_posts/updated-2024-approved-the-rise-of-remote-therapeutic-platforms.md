@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  The Rise of Remote Therapeutic Platforms\""
-date: 2024-12-11T18:26:34.062Z
-updated: 2024-12-13T17:11:06.716Z
+date: 2024-12-21T23:08:09.543Z
+updated: 2024-12-22T23:47:19.191Z
 tags: 
   - screen-recording
   - ai video
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/d9697a004ae2bbc53020d06bba853be86eb98852f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Virtual medical training and education
 
  Virtual medical training and education is one of the biggest advantages that professionals have got through the infusion of virtual reality in healthcare industry. Surgery training through virtual reality gives immense amount of exposure to doctors, without wanting a volunteer to participate. Professionals learn new procedures, technicalities, usage of equipment, and even interaction with patients through human simulation software are commenced. Simulations are used to teach how to use new medical devices in a virtual and risk free environment. Virtual simulation gives great opportunity to learn with technologies like force feedback, immersive touch and medical realities. It is an engaging and interactive method for surgeons, dentists, nurses, physicians to practice and understand in a practical, visual and safe environment, which is far more expressive and immersive than videos and theoretical training.
@@ -48,40 +44,44 @@ thumbnail: https://thmb.techidaily.com/d9697a004ae2bbc53020d06bba853be86eb98852f
  Virtual reality in healthcare enables to diagnose with the usage of diagnostic tools and other MRI scans which prevents the need of surgery or any kind of invasion. Virtual reality diagnostics is convenient and less time consuming than the traditional methods.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Virtual robotic surgery
 
 ![vr-for-surgery](https://images.wondershare.com/filmora/article-images/virtual-reality-for-surgery.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Usage of Robotic devices like arms however controlled by human surgeons enables them to be more accurate and reduces the amount of risk in surgeries which need more accuracy and precision, making it not only accurate but also a faster process. With accuracy and smaller incisions using robotic devices, it reduces the loss of blood and hence helps in minimising recovery time. The precise and small movement is often difficult for human surgeons, while it can be achieved with by robotic devices, and virtual reality in healthcare enables to control those movements. Training and education is required to learn the right kind of pressure required to perform such procedures. Robotic surgical procedure allows surgeons to ensure risk margins to prevent reoccurrence of the disease .Virtual fixtures for a robotic surgery has been introduces to make it more risk free. The skills required for the robotic surgery are required to perform an open or laparoscopic surgery. Proficiency is acquired by various educational and practical sessions to take those intricate decisions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Virtual reality therapies
 
 ![vr-for-therapies](https://images.wondershare.com/filmora/article-images/vitrural-reality-for-therapies.jpg)
 
- Virtual reality in healthcare have therapies in a virtual environment which help psychiatrists to deal with patients with their fears, claustrophobia, anxiety, depression, post-traumatic stress disorder and severe pain cases by providing an environment where they can face their challenges in a controlled form and a risk free zone. They can experiment knowing that it’s a virtual and risk free environment, which can be stopped as per the situation and circumstances. Techniques like exposure therapy makes virtual reality in healthcare favourable for doctors and other health care professionals, it may also have an impact on increasing the overall treatment experience, making it very satisfactory. Studies are being conducted where virtual reality has positively impacted the quality and experience of their stay in the hospitals and rehabilitations. Virtual reality applications and software may also have a role to play in alleviate phantom limb pain, with sensors and its relations with the brain.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Virtual reality in healthcare have therapies in a virtual environment which help psychiatrists to deal with patients with their fears, claustrophobia, anxiety, depression, post-traumatic stress disorder and severe pain cases by providing an environment where they can face their challenges in a controlled form and a risk free zone. They can experiment knowing that it’s a virtual and risk free environment, which can be stopped as per the situation and circumstances. Techniques like exposure therapy makes virtual reality in healthcare favourable for doctors and other health care professionals, it may also have an impact on increasing the overall treatment experience, making it very satisfactory. Studies are being conducted where virtual reality has positively impacted the quality and experience of their stay in the hospitals and rehabilitations. Virtual reality applications and software may also have a role to play in alleviate phantom limb pain, with sensors and its relations with the brain.
 
 ## Virtual reality consumer and outpatient market
 
 ![vr-for-outpatient-market](https://images.wondershare.com/filmora/article-images/virtual-reality-for-outpatient-market.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The scope and market for virtual reality in healthcare is starting from training and education which makes it a risk-free, experiment-based learning process. The current main usage is in the controlled clinical environment which also has the right kind of devices and approvals for the entire process to be successful. The progressive industry is exploring options for patients, to get virtual reality as a public face and start programs like education on first aid, fitness, developing healthy habits, for people to take advantage of the virtual reality in healthcare to learn life saving techniques or live a healthy life. Virtual reality devices have a good market in the fitness industry too to either set fitness or exercising routine or to take advantage and improve one’s life styles. Virtual games used for meditation or doing brain wave monitoring and brain imaging have a huge scope in the industry. Experiences like a bike ride and walk on the beach through virtual reality will increase its scope for its consumer and outpatient market.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -108,21 +108,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-discovering-2024s-premier-cameras-for-professional-use/"><u>[New] Discovering 2024'S Premier Cameras for Professional Use</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-ultimate-compilation-of-best-cams-for-mountain-sports/"><u>[Updated] 2024 Approved Ultimate Compilation of Best Cams for Mountain Sports</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-grateful-choices-comprehensive-otu-guide/"><u>[Updated] In 2024, Grateful Choices Comprehensive OTU Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-snicker-spinner-picture-editor/"><u>[Updated] In 2024, Snicker Spinner Picture Editor</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-ultimate-drone-experience-yuneec-q500/"><u>[Updated] In 2024, The Ultimate Drone Experience Yuneec Q500</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-powerful-motherboards-featuring-longsun-cpus-now-delivering-to-america-starting-at-only-383/"><u>Affordable, Powerful Motherboards Featuring Longsun CPUs Now Delivering to America - Starting at Only $383!</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/decoding-the-copyright-code-for-insta-musicians-for-2024/"><u>Decoding the Copyright Code for Insta Musicians for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-set-night-mode-in-iphone/"><u>How to Set Night Mode in iPhone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-explore-and-engage-ifunny-meme-downloads/"><u>In 2024, Explore & Engage IFunny Meme Downloads</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigating-cutting-edge-imaging-a-shoppers-selection-process/"><u>In 2024, Navigating Cutting-Edge Imaging A Shopper's Selection Process</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-the-ultimate-playbook-for-podcast-titling-success-and-50plus-name-suggestions/"><u>In 2024, The Ultimate Playbook for Podcast Titling Success & 50+ Name Suggestions</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-control-registry-editor-access-on-windows-11/"><u>Techniques to Control Registry Editor Access on Windows 11</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/rt-of-subdivision-how-to-efficiently-incorporate-chapters-in-your-youtube-vids-for-2024/"><u>The Art of Subdivision How to Efficiently Incorporate Chapters in Your YouTube Vids for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/troubleshooting-how-to-resolve-undetected-video-cards-in-your-pc-tips-from-yl-computing/"><u>Troubleshooting: How to Resolve Undetected Video Cards in Your PC - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/vanish-3-melee-disguise-4-rises/"><u>Vanish 3 Melee Disguise 4 Rises</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/wallet-friendly-cameras-2024-roundup/"><u>Wallet-Friendly Cameras: 2024 Roundup</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-coherent-and-curated-youtube-playlists-online-and-mobile-assembly-guide/"><u>[New] Coherent and Curated YouTube Playlists Online & Mobile Assembly Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-elite-scripting-plugins-for-ae-for-2024/"><u>[New] Elite Scripting Plugins for AE for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-ultimate-path-to-picsart-proficiency/"><u>[New] The Ultimate Path to PicsArt Proficiency</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-djis-minis-and-airs-no-cost-luts-for-mixing-pros-for-2024/"><u>[Updated] DJI's Minis & Airs No Cost LUTS for Mixing Pros for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-unleashing-funimate-joy-comprehensive-tutorials/"><u>[Updated] In 2024, Unleashing Funimate Joy - Comprehensive Tutorials</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-secret-to-love-in-video-editing-filmoras-best-aspects-for-2024/"><u>[Updated] The Secret to Love in Video Editing Filmora's Best Aspects for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/combatting-crazed-windows-7-graphics/"><u>Combatting Crazed Windows 7 Graphics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/die-13-must-have-freie-dvd-software-fur-nutzer-von-windows-1011-beste-picks/"><u>Die 13 Must-Have Freie DVD-Software Für Nutzer Von Windows 10/11 - Beste Picks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-steps-to-correct-the-detected-graphics-driver-issues-in-oculus-devices/"><u>Easy Steps to Correct the Detected Graphics Driver Issues in Oculus Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-zoom-in-on-kinemaster/"><u>How to Zoom in on Kinemaster</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-extract-youtube-soundtracks-for-free-with-this-list-of-25-rippers/"><u>In 2024, Extract YouTube Soundtracks for Free With This List of 25 Rippers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-m1-processor-transforming-the-video-editing-experience/"><u>In 2024, M1 Processor Transforming the Video Editing Experience</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-proven-strategies-to-amplify-zoomed-participants-in-google-meet/"><u>In 2024, Proven Strategies to Amplify Zoomed Participants in Google Meet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-sharing-your-chatgpt-conversations-online/"><u>Step-by-Step Guide: Sharing Your ChatGPT Conversations Online</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/step-by-step-minecraft-video-editing-process-for-2024/"><u>Step-by-Step Minecraft Video Editing Process for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlocking the Potential of Closeup Cinematography"
-date: 2024-12-11T16:27:07.032Z
-updated: 2024-12-13T18:51:04.797Z
+date: 2024-12-20T22:13:05.123Z
+updated: 2024-12-22T17:56:51.985Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,10 @@ Any person having a photography background can learn the nuances of the macro vi
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 Tips For Making Macro Video
 
@@ -76,7 +80,7 @@ The background of your macro video always remains blurred as you shoot it closel
 ![background](https://images.wondershare.com/filmora/article-images/separate-the-foreground-from-background.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 4\. DSLR Cameras
@@ -89,10 +93,6 @@ You may also add an extension tube which basically splits the focal distance in 
 
 ![dslr camera](https://images.wondershare.com/filmora/article-images/dslr-camera-full-rig.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 5\. Depth of Field
 
 The lens has certain limitation to capture and focus the subject closely. The camera’s aperture can be adjusted to control the depth of your field.
@@ -103,6 +103,10 @@ But, you must remember that when the opening of the lens is small, the light req
 
 ![depth of field](https://images.wondershare.com/filmora/article-images/depth-of-field.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 6\. Composition
 
 When you have low lights, ensuring a correct perspective on the subject with maximum focus area is quite difficult. You must have the right composition for your macro video.
@@ -112,11 +116,7 @@ For instance, in order to keep a snail always in focus, you may choose to shoot 
 ![composition](https://images.wondershare.com/filmora/article-images/composition.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -126,7 +126,7 @@ Once you can master the above tips for making the macro video, you can easily sh
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -154,22 +154,14 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-ascending-with-expertise-mastering-the-art-and-science-of-asmr-production/"><u>[New] Ascending with Expertise Mastering The Art & Science of ASMR Production</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-dive-into-downloaded-subtitles-unlocking-youtubes-srt-files-with-a-trifecta-of-strategies/"><u>[New] Dive Into Downloaded Subtitles Unlocking YouTube's SRT Files with a Trifecta of Strategies</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-essentials-of-picking-up-free-pictorial-frames/"><u>[New] In 2024, Essentials of Picking Up Free Pictorial Frames</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-how-to-blur-a-picture-on-iphone-4-ways/"><u>[Updated] In 2024, How to Blur a Picture on iPhone [4 Ways]</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-transforming-photos-with-simple-bg-removal-in-picsart/"><u>[Updated] In 2024, Transforming Photos with Simple Bg Removal in Picsart</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-tweaking-sound-on-ps5ps4-games/"><u>2024 Approved Tweaking Sound on PS5/PS4 Games</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/captivating-books-in-video-form/"><u>Captivating Books in Video Form</u></a></li>
-<li><a href="https://fox-access.techidaily.com/hacks-for-hassle-free-podcast-streaming/"><u>Hacks for Hassle-Free Podcast Streaming</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-efficiently-unite-various-soundtracks-into-one-on-spotify/"><u>How to Efficiently Unite Various Soundtracks Into One on Spotify</u></a></li>
-<li><a href="https://fox-access.techidaily.com/htc-vive-review-the-most-immersive-vr-headset-for-2024/"><u>HTC Vive Review – The Most Immersive VR Headset for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-exclusive-content-delivery-assessment/"><u>In 2024, Exclusive Content Delivery Assessment</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-foundational-framework-engaging-in-instagram-video-talk/"><u>In 2024, Foundational Framework Engaging in Instagram Video Talk</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-instantaneously-ingesting-imagery-google-collage-basics/"><u>In 2024, Instantaneously Ingesting Imagery Google Collage Basics</u></a></li>
-<li><a href="https://review-topics.techidaily.com/oppo-data-retrieval-tool-restore-lost-data-from-oppo-reno-10-5g-by-fonelab-android-recover-data/"><u>Oppo Data Retrieval tool – restore lost data from Oppo Reno 10 5G</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-tecno-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Tecno</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/successfully-overcoming-asus-pce-ac56-driver-woes-across-windows-10-8-and-7/"><u>Successfully Overcoming ASUS PCE-AC56 Driver Woes Across Windows 10, 8 & 7!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-anthropics-revolutionary-prompt-library/"><u>Unveiling Anthropic's Revolutionary Prompt Library</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-how-to-zoom-in-google-meet-best-ways/"><u>[Updated] 2024 Approved How to Zoom in Google Meet [Best Ways]</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-pathway-to-visual-storytelling-through-gifs/"><u>[Updated] 2024 Approved The Pathway to Visual Storytelling Through GIFs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-capturing-magic-essential-cinematographic-secrets-unveiled/"><u>2024 Approved Capturing Magic Essential Cinematographic Secrets Unveiled</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-perfecting-screen-magnification-techniques-on-ms-teams/"><u>2024 Approved Perfecting Screen Magnification Techniques on MS Teams</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/usb-c-lightning-iphone/"><u>如何利用 USB-C / Lightning 線接頭進行iPhone之間的有線資料轉移：步驟解析</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/discover-innovative-strategies-in-creating-stunning-fb-ad-videos-for-2024/"><u>Discover Innovative Strategies in Creating Stunning FB Ad Videos for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-dynamic-focus-enhanced-handheld-shot-quality/"><u>In 2024, Dynamic Focus Enhanced Handheld Shot Quality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-adding-tunes-to-your-insta-videos/"><u>Step-by-Step Guide: Adding Tunes to Your Insta Videos</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/streamline-your-audio-file-editing-with-our-hassle-free-online-mp4-to-wav-converter/"><u>Streamline Your Audio File Editing with Our Hassle-Free Online MP4 to WAV Converter!</u></a></li>
 </ul></div>
 

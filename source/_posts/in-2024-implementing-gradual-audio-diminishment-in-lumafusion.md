@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Implementing Gradual Audio Diminishment in Lumafusion"
-date: 2024-12-11T18:25:40.430Z
-updated: 2024-12-13T18:29:06.808Z
+date: 2024-12-16T19:17:17.933Z
+updated: 2024-12-22T17:09:53.725Z
 tags: 
   - screen-recording
   - ai video
@@ -27,10 +27,6 @@ Video editors should give LumaFusion a try if they want to use its compact LumaF
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. How to Fade Audio with LumaFusion
 
 There are several capabilities in Luma Fusion that make precise editing possible, including ones that we haven't seen in other mobile editing tools, such keyframing for all effects. Beginning filmmakers may use LumaFusion to discover their voice via editing. Their work may be moved to a desktop software after their abilities have grown on mobile. To start fading audio using Luma Fusion, follow these steps:
@@ -43,13 +39,13 @@ Step2 LumaFusion allows for the automated synchronization of up to 12 camera sou
 
 ![edit sources luma fusion](https://images.wondershare.com/filmora/article-images/2022/07/edit-sources-luma-fusion.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 From the choices, choose the Cross Dissolve (Fade) transition. The transition should be placed at the very end of your music channel timeline. Tap on the Help & Settings menu to do this action. Look for Transition under the Settings menu and edit it to the appropriate duration. If you do this, your transition won't take effect until you add it again.
 
 ![fade audio in luma fusion](https://images.wondershare.com/filmora/article-images/2022/07/fade-audio-in-luma-fusion.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Beyond simple editing, LumaFusion excels in enhancing projects with a wide variety of built-in effects, transitions, titles, and color correction. It also has a limited (but excellent) collection of royalty-free music. Finally, LumaFusion Project Packages are a terrific solution to regularly backup a project for security or to complete altering it. After choosing Export, choose the Project Package from the list.
 
@@ -82,7 +78,7 @@ The fade-in audio button inside your audio file may be seen when you just hover 
 ![apply fade effects](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step4 Share and export
@@ -91,10 +87,6 @@ After finishing the method for editing audio in Filmora, click the Export button
 
 In that window, you can select the MP3 format in the format customization box to continue with storing your file to your system. After making any necessary adjustments to the audio file, click the Export button below, which will ultimately direct you to the area on your PC where you want to store the audio.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3\. Related FAQs about LumaFusion
 
 ### 1\. How do you fade in a title LumaFusion?
@@ -102,16 +94,12 @@ In that window, you can select the MP3 format in the format customization box to
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. How do you do transitions in LumaFusion?
 
 There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. How to you split audio and video in LumaFusion?
 
@@ -131,11 +119,19 @@ Drag and drop your sound recordings from the media library to the timeline at th
 
 ![import audios to fade](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3 Apply Fade Effects
 
 The fade-in audio button inside your audio file may be seen when you just hover over the audio file within the timeline and look for the white circle filled with pink hue at the beginning and finish of your audio file. On the other hand, to choose the fade-out audio, click and drag the pink circle that appears on the opposite end of the audio file in the timeline that you have chosen to fade out the music file.
 
 ![apply fade effects](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step4 Share and export
 
@@ -148,6 +144,10 @@ In that window, you can select the MP3 format in the format customization box to
 ### 1\. How do you fade in a title LumaFusion?
 
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. How do you do transitions in LumaFusion?
 
@@ -181,22 +181,15 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-how-to-create-and-change-an-igtv-cover-photo-thumbnail-for-2024/"><u>[New] How to Create and Change an IGTV Cover Photo (Thumbnail) for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-adding-depth-to-narratives-through-b-clips/"><u>[New] In 2024, Adding Depth to Narratives Through B-Clips</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-ensuring-easy-download-of-youtubes-srt-subs/"><u>[New] In 2024, Ensuring Easy Download of YouTube's SRT Subs</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-mastering-minute-details-on-screen-through-zooming-techniques/"><u>[New] In 2024, Mastering Minute Details On-Screen Through Zooming Techniques</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-tech-showdown-exploring-facial-detection-in-iphones-vs-samsungs/"><u>[New] In 2024, Tech Showdown Exploring Facial Detection in iPhones Vs. Samsungs</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-design-excellence-premier-templates-and-free-2023-plan-guide/"><u>[Updated] Design Excellence Premier Templates & Free 2023 Plan Guide</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>11 Best Location Changers for Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/elite-matches-best-8-stability-systems-for-4k-cameras/"><u>Elite Matches Best 8 Stability Systems for 4K Cameras</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/t-insights-for-youtube-end-credits-top-makers-advice-for-2024/"><u>Expert Insights for YouTube End Credits - Top Makers' Advice for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-improve-image-quality-on-iphones-with-lower-megapixel-cameras/"><u>How to Improve Image Quality on iPhones with Lower Megapixel Cameras</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-cutting-edge-360-degree-cameras-for-youtube-and-facebook/"><u>In 2024, Cutting-Edge 360-Degree Cameras for YouTube & Facebook</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-xiaomi-redmi-note-12-4g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Xiaomi Redmi Note 12 4G Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/safe-harbor-for-windows-free-software-selections/"><u>Safe Harbor for Windows Free Software Selections</u></a></li>
-<li><a href="https://fox-access.techidaily.com/streamline-your-content-conversion-top-5-online-gif-to-video-hubs-for-2024/"><u>Streamline Your Content Conversion Top 5 Online GIF-to-Video Hubs for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-document-production-leveraging-the-power-of-chatgpt-in-microsoft-word-environments/"><u>Transforming Document Production: Leveraging the Power of ChatGPT in Microsoft Word Environments</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/ultimate-guide-solving-the-sky-on-demand-download-problem-with-6-key-strategies/"><u>Ultimate Guide: Solving the Sky On Demand Download Problem with 6 Key Strategies</u></a></li>
-<li><a href="https://fox-access.techidaily.com/unleashing-the-power-of-macos-subtitles-manipulation/"><u>Unleashing the Power of macOS Subtitles Manipulation</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unraveling-visual-clarity-for-the-new-digital-age/"><u>[New] Unraveling Visual Clarity for the New Digital Age</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-mastering-netflixs-split-screen-functionality-for-2024/"><u>[Updated] Mastering Netflix's Split Screen Functionality for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-power-of-video-endorsements-in-advertising/"><u>[Updated] The Power of Video Endorsements in Advertising</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-essential-iphone-podcast-retrieval-handbook/"><u>2024 Approved The Essential iPhone Podcast Retrieval Handbook</u></a></li>
+<li><a href="https://win-premium.techidaily.com/fast-techniques-for-expanding-usb-capacity-on-microsofts-latest-operating-systems/"><u>Fast Techniques for Expanding USB Capacity on Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-honor-x9b-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Honor X9b is off? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-13-mini-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone 13 mini Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-iphone-11-pro-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From iPhone 11 Pro? 5 Tips You Must Know</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-samsung-galaxy-a54-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Samsung Galaxy A54 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/top-ranked-action-cameras-for-extreme-sports-for-2024/"><u>Top-Ranked Action Cameras for Extreme Sports for 2024</u></a></li>
 </ul></div>
 

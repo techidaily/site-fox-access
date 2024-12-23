@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlocking the Mystery of Downloading YouTube SRT Files Easily"
-date: 2024-12-11T20:21:00.770Z
-updated: 2024-12-13T20:06:11.944Z
+date: 2024-12-18T17:03:10.794Z
+updated: 2024-12-22T18:58:33.748Z
 tags: 
   - screen-recording
   - ai video
@@ -34,7 +34,7 @@ In this article, we will let you know about the actionable ways through which Yo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. Why use an SRT file from YouTube?
@@ -52,6 +52,10 @@ If your desired YouTube video with subtitles is in low resolution, you can extra
 * **Extract classic lines in a movie**
 
 A lot of movies have some classic lines that make them popular. These lines can be extracted as subtitles from the movies.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. 3 Actionable methods to download YouTube SRT subtitles
 
@@ -91,10 +95,6 @@ Step7 Finally, choose the location to save the downloaded subtitle.
 
 ![srt subtitle download youtube studio 7](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-08.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2: Download any YouTube SRT subtitles with Online Sub Downloaders
 
 Online tools also work as a decent choice for downloading YouTube SRT subtitles. These programs work straight from the browser and do not require any software download. Among various tools available, we have shortlisted a few popular ones as below.
@@ -111,19 +111,11 @@ This is free to use online program that allows downloading subtitles from an arr
 
 ![downsub](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-22.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### **3\. Savesubs**
 
 This is another widely used online tool for extracting SRT subtitles from YouTube, Facebook, DailyMotion, and more. The tool allows you to either enter the video URL or even search for the desired video using any related keyword. Locally saved videos with subtitles can also be added to the tool for processing. The program is simple to use and allows extracting subtitles in various different languages. In addition to SRT, the subtitles can also be downloaded in VTT and TXT format.
 
 ![savesubs](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### **How to download SRT file from YouTube using Online Sub Downloaders**
 
@@ -132,6 +124,10 @@ Let’s take Downsub as an example to show you how to use an online downloader t
 Step1 Open [Downsub](https://downsub.com/) on your browser window and then at the search bar enter the YouTube video for which subtitles need to be downloaded.
 
 ![downsub srt download 1](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 Click on the DOWNLOAD button after the video URL is entered.
 
@@ -142,11 +138,7 @@ Step3 The tool will start processing and will show the language options for SRT 
 ![downsub srt download 3](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-12.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Get YouTube subtitles as .srt with Reliable Software
@@ -181,10 +173,6 @@ Step1 Launch the installed software on your system and at the main interface cho
 
 ![wondershare uniconverter srt download 1](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-14.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Once the file is added, the interface will show the video details at the target tab on the right-hand side. Expand and open the drop-down menu at the Subtitle section and from the list of options choose Export Subtitle(s).
 
 ![wondershare uniconverter srt download 2](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-15.jpg)
@@ -210,6 +198,10 @@ Step1 Download, install, and launch the software on your system. Using the Media
 Step2 Next, right-click on the timeline and then choose the Advanced Edit option, or alternatively, you can also double-click the sele4cted SRT file.
 
 ![edit srt wondershare filmora 2](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-20.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 Now the supported editing features can be used for the added subtitle file, including subtitle styles, like text color, shadow, fonts, etc.
 
@@ -237,6 +229,10 @@ If your desired YouTube video with subtitles is in low resolution, you can extra
 
 A lot of movies have some classic lines that make them popular. These lines can be extracted as subtitles from the movies.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. 3 Actionable methods to download YouTube SRT subtitles
 
 So, now if you are in any one of the above or other situations when you need to download YouTube SRT, the next step is to know the tools or the methods that can help get the task done. We have shortlisted the 3 workable methods that can work.
@@ -259,10 +255,6 @@ Step3 Now for the video that you want to edit click on the pencil icon (Details)
 
 ![srt subtitle download youtube studio 3](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-04.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 Choose Subtitles and tap on the EDIT option.
 
 ![srt subtitle download youtube studio 4](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-05.jpg)
@@ -275,9 +267,17 @@ Step6 Next to EDIT TIMINGS, click on 3 dots and then choose Download subtitle.
 
 ![srt subtitle download youtube studio 6](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step7 Finally, choose the location to save the downloaded subtitle.
 
 ![srt subtitle download youtube studio 7](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Download any YouTube SRT subtitles with Online Sub Downloaders
 
@@ -341,6 +341,10 @@ This is a versatile software that not only allows downloading videos but also su
 
 ![itubesgo video downloader](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-18.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **The Best Way to Edit SRT subtitles after Downloading from YouTube**
 
 How to make **SRT file downloaded from YouTube** using Professional Software
@@ -348,10 +352,6 @@ How to make **SRT file downloaded from YouTube** using Professional Software
 Step1 Launch the installed software on your system and at the main interface choose the Converter Tab. Click on the + sign to browse and add the video for which SRT subtitles have to be extracted. You can even drag and drop the video file to the interface.
 
 ![wondershare uniconverter srt download 1](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-14.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Once the file is added, the interface will show the video details at the target tab on the right-hand side. Expand and open the drop-down menu at the Subtitle section and from the list of options choose Export Subtitle(s).
 
@@ -375,6 +375,10 @@ Step1 Download, install, and launch the software on your system. Using the Media
 
 ![edit srt wondershare filmora 1](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-19.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Next, right-click on the timeline and then choose the Advanced Edit option, or alternatively, you can also double-click the sele4cted SRT file.
 
 ![edit srt wondershare filmora 2](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-20.jpg)
@@ -384,10 +388,6 @@ Step3 Now the supported editing features can be used for the added subtitle file
 ![edit srt wondershare filmora 3](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-21.jpg)
 
 Step4 Once the editing is done, right-click on the subtitle file at the timeline and choose the Export Subtitle File option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -417,19 +417,22 @@ So, we hope we are able to clear all your queries related to downloading and ext
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-superior-suggestions-top-websites-for-acquiring-snapalert-melodies/"><u>[New] 2024 Approved Superior Suggestions Top Websites for Acquiring SnapAlert Melodies</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-bold-and-beautiful-implementing-borders-on-instagram-shots-for-2024/"><u>[New] Bold & Beautiful Implementing Borders on Instagram Shots for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-say-laughs-say-free-mememakers-tutorial-for-2024/"><u>[New] Say Laughs, Say Free - MemeMaker's Tutorial for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-guide-to-alternatives-to-streamlabs-obs/"><u>[New] The Ultimate Guide to Alternatives to StreamLabs OBS</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-quick-fixes-enhancing-your-snaps-with-snapchat-edits/"><u>[Updated] 2024 Approved Quick Fixes Enhancing Your Snaps with Snapchat Edits</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-ultimate-ios-movie-experience-top-8-free-plus-paid-picks/"><u>[Updated] In 2024, The Ultimate iOS Movie Experience Top 8 Free + Paid Picks</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-vmixadaptive-mac-and-pc-harmony/"><u>[Updated] In 2024, VMixAdaptive Mac & PC Harmony</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/creation-gratuite-de-site-web-pgm-avec-movavi-convertir-votre-pgm-en-ligne-facilement/"><u>Création Gratuite De Site Web PGM Avec Movavi - Convertir Votre PGM en Ligne Facilement!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-asus-rog-phone-8-frp-by-drfone-android/"><u>How Can We Bypass Asus ROG Phone 8 FRP?</u></a></li>
-<li><a href="https://facebook.techidaily.com/leveraging-tech-for-discovering-the-latest-online-circles/"><u>Leveraging Tech for Discovering the Latest Online Circles</u></a></li>
-<li><a href="https://fox-access.techidaily.com/personalized-branding-made-easy-use-free-logo-templates-and-edit-for-2024/"><u>Personalized Branding Made Easy Use Free Logo Templates and Edit for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/picart-secrets-to-pristine-picture-perfection-for-2024/"><u>PicArt Secrets to Pristine Picture Perfection for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tech-giants-update-samsungs-ai-ascends-while-google-grapples-with-legal-challenges-innovation-index-shifts/"><u>Tech Giants Update: Samsung's AI Ascends While Google Grapples with Legal Challenges, Innovation Index Shifts</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-using-the-rca-video-doorbell-surveillance-camera/"><u>The Ultimate Guide to Using the RCA Video Doorbell Surveillance Camera</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-exploring-the-coloredge-4k-capabilities-with-eizo/"><u>[New] 2024 Approved Exploring the ColorEdge 4K Capabilities with EIZO</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-from-concept-to-crypto-asset-the-ultimate-list-of-nft-engines/"><u>[New] In 2024, From Concept to Crypto Asset The Ultimate List of NFT Engines</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-quick-start-utilizing-zoom-in-windows-10-systems/"><u>[New] Quick Start Utilizing Zoom in Windows 10 Systems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-soaring-visions-with-dji-mavic-pro-insight-for-2024/"><u>[New] Soaring Visions with DJI Mavic Pro Insight for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-timeless-tech-posed-shots-of-old-iphone-x-for-2024/"><u>[New] Timeless Tech Posed Shots of Old iPhone X for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-image-editors-ultimate-toolkit-review-for-2024/"><u>[Updated] The Image Editor's Ultimate Toolkit Review for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-toggle-your-youtube-video-with-picture-in-picture-on-ios-for-2024/"><u>[Updated] Toggle Your YouTube Video with Picture-in-Picture on iOS for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-virtual-worlds-stacked-meta-and-omni-comparison/"><u>2024 Approved Virtual Worlds Stacked Meta & Omni Comparison</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/automating-safe-closure-of-safari-browser-tabs-on-macos-high-sierra-with-easy-steps/"><u>Automating Safe Closure of Safari Browser Tabs on macOS High Sierra with Easy Steps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/from-srt-to-sub-enhancing-video-captioning-for-2024/"><u>From SRT to SUB Enhancing Video Captioning for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lava-storm-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Lava Storm 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://facebook.techidaily.com/illuminating-facebooks-secrets-accessing-its-transparency-center/"><u>Illuminating Facebook's Secrets: Accessing Its Transparency Center</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-guide-to-free-music-for-mindfulness-and-serenity/"><u>In 2024, Guide to Free Music for Mindfulness & Serenity</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722960104083-speedy-and-hassle-free-downloads-getting-your-elgato-drivers-installed-now/"><u>Speedy and Hassle-Free Downloads: Getting Your Elgato Drivers Installed Now</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-editors-secret-best-free-premiere-pro-resources/"><u>Top Editors' Secret Best FREE Premiere Pro Resources</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-kobo-forma-a-focused-e-reader-taking-literary-enjoyment-to-a-serious-level/"><u>Unveiling the Kobo Forma: A Focused E-Reader Taking Literary Enjoyment to a Serious Level</u></a></li>
 </ul></div>
 

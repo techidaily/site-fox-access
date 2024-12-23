@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Pioneering Tomorrow  Visionary Developments in VR for 2024\""
-date: 2024-08-28T11:13:31.190Z
-updated: 2024-08-29T11:13:31.190Z
+date: 2024-12-19T18:03:45.281Z
+updated: 2024-12-22T16:30:53.169Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/e7a938c8213dc5d370405bab4afa736e010a188d2
 
  Mar 27, 2024• Proven solutions
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s the popular VR platforms and what is developing fast?
 
  Well, the fourth Annual GDC European State of the Industry was held just about a month ago and as always, developers from various parts of this continent took part in it. It was very clear from the developers that they are still launching games keeping the PC and Smart Phones in mind. These are still the most popular platforms where 49 percent of the developers made their latest release on PC/Mac, around 41 percent chose smart phones and tablets to be the best medium.
@@ -41,13 +45,18 @@ thumbnail: https://thmb.techidaily.com/e7a938c8213dc5d370405bab4afa736e010a188d2
 
 ![vr-gaming ](https://images.wondershare.com/filmora/resource/vr-gaming1.jpg )
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This clears the air that VR is turning to be an emerging platform for the European game developers but, which one is preferred more by the professional game developers – is it the Oculus Rift or HTC Vive or something else for that matter? The survey also includes a detailed report on that as well. Asking about which VR platform they are using – 23.1 percent developers said they are using Rift, Vive is slightly behind with 22 percent developers’ preferences. There is PlayStation VR headset as well with 11.8 percent preferences.
 
  However, despite having such acceptance by the professional game developers, the confidence for the VR games market seems to have dropped a bit – at least the recent survey is showing something like that. Last year, 71.7 percent of the game developers considered VR to be a sustainable long-term market while in this year, it slipped a little with 68.8 percent developers are thinking VR could be a long sustaining gaming market.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## About the European VR game makers and their funding
 
  Funding for the games has always remained one of the prime concerns for the game developers and publishers. You know that it takes large amounts to be invested for the games. When it comes to the funding policies for the European game developers, most of them are covering the entire expenses using their own funds. Take a look at what the survey report has to say about that. Asking about the sources of the fund for the games 57.8 percent said that their funds come from the company’s existing fund while contrary to this, 32.9 percent game developers said that they manage their own fund from their personal accounts.
@@ -55,8 +64,9 @@ thumbnail: https://thmb.techidaily.com/e7a938c8213dc5d370405bab4afa736e010a188d2
 ![ vr-developer](https://images.wondershare.com/filmora/resource/vr-developer.jpg )
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  We know that crowdsourced funding is also a preferable way to manage funds but, this seems not very convenient for the VR game developers since a very poor percentage (5.2) of the developers replied that they are working on games the fund of which is crowdsourced. While some developers consider this as an awful idea, some mentioned this to be a tricky process.
 
  Overall, this is what cooking inside the VR gaming world and this survey report explains the different aspects of virtual reality that clearly presents the state of the VR industry on this year – 2016\. Hopefully, we will come across much more advancement to this process in the coming years since gaming on VR headsets is massively exciting and fun.
@@ -64,8 +74,9 @@ thumbnail: https://thmb.techidaily.com/e7a938c8213dc5d370405bab4afa736e010a188d2
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -89,4 +100,19 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-shortform-video-tweets-as-webm-sounds/"><u>[New] 2024 Approved Shortform Video Tweets as WebM Sounds</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-elemental-aspects-in-crafting-tales/"><u>[New] In 2024, Elemental Aspects in Crafting Tales</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-elevate-your-photos-tips-and-apps-on-android/"><u>[New] In 2024, Elevate Your Photos Tips & Apps on Android</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-vlogging-equipment-and-basic-software-tools-to-start-vlogging-for-2024/"><u>[Updated] Vlogging Equipment and Basic Software Tools to Start Vlogging for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-pixlr-essentials-10-pro-tips-to-transform-your-images/"><u>2024 Approved Pixlr Essentials 10 Pro Tips to Transform Your Images</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/expert-tips-top-free-tools-to-extract-and-save-instagram-videos-windowsos-x-for-2024/"><u>Expert Tips Top Free Tools to Extract and Save Instagram Videos (Windows/OS X) for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-vivo-y78plus-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Vivo Y78+ without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/innovative-iphone-macro-tactics-for-professional-results-for-2024/"><u>Innovative iPhone Macro Tactics for Professional Results for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/script-mastery-online-academy/"><u>Script Mastery Online Academy</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-timed-recording-apps-compare-windowsmac-solutions-endorsed-by-movavi/"><u>The Ultimate List of Timed Recording Apps: Compare Windows/Mac Solutions Endorsed by Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-walkthrough-for-applying-tracert-command-techniques-in-windows/"><u>The Ultimate Walkthrough for Applying Tracert Command Techniques in Windows</u></a></li>
+</ul></div>
 

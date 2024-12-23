@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Hero5 Black or YI  Comparing Top Actions Cameras\""
-date: 2024-08-28T11:10:34.807Z
-updated: 2024-08-29T11:10:34.807Z
+date: 2024-12-19T17:01:42.490Z
+updated: 2024-12-22T19:42:34.689Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/1003c2d436af1af88200a4fecafa1c9b55219d7d2
 [Best 4K action cameras for 2017 >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [Best GoPro Alternatives >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Comparison for Hero5 Black and Yi 4K Action Camera
 
@@ -67,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/1003c2d436af1af88200a4fecafa1c9b55219d7d2
 
 ![Yi 4K action camera touchscreen](https://images.wondershare.com/filmora/article-images/yi-4k-touchscreen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image source:elproducente.com
 
 **Waterproof:** The biggest benefit of GoPro Hero5 is that it can serve you underwater but YI 4K cannot as you need additional protective case for this camera. But you cannot save your recordings from handling noise in case of GoPro unit. When you go underwater with YI 4K while using protective housing then it is not possible to use its touch screen feature and secondly the audio quality decays by large extent.
@@ -88,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/1003c2d436af1af88200a4fecafa1c9b55219d7d2
  Almost all features are discussed above and it is observed that if you are searching for a camera to record videos underwater or in rainy seasons then it is best idea to invest on GoPro Hero5 but in case of other adventurous sports activities Yi 4K can also provide you impressive results and it is a fit to budget camera unit. The Video and Photo quality is almost similar for both units but the battery backup of Yi 4K is again better then GoPro unit. So it is better to decide your budget and needs first and then pick the right camera unit for you.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -112,8 +124,26 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-expert-tips-on-maximizing-adobes-cloud-storage-capabilities-and-top-contenders/"><u>[New] 2024 Approved Expert Tips on Maximizing Adobe's Cloud Storage Capabilities and Top Contenders</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-demystifying-toolwizs-tools-for-modern-photo-editors/"><u>[New] In 2024, Demystifying Toolwiz's Tools for Modern Photo Editors</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-newbies-pathway-to-stunning-photo-edits-in-ps/"><u>[New] In 2024, Newbie's Pathway to Stunning Photo Edits in PS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-leading-lights-pioneering-video-and-sound-makers-for-2024/"><u>[New] Leading Lights Pioneering Video & Sound Makers for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-masterful-method-smart-watch-to-access-mac/"><u>[New] Masterful Method Smart Watch to Access Mac</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-rhythm-in-reels-the-essentials-of-iphone-video-making-for-2024/"><u>[New] Rhythm in Reels The Essentials of iPhone Video Making for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-choosing-ultrawide-vs-uhd-4k-displays-a-comprehensive-guide/"><u>[Updated] 2024 Approved Choosing UltraWide vs UHD 4K Displays A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-immersive-e-commerce-advancements/"><u>[Updated] 2024 Approved Immersive E-Commerce Advancements</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-discover-8-essential-sites-for-pristine-green-screen-images-for-2024/"><u>[Updated] Discover 8 Essential Sites for Pristine Green Screen Images for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-perfectly-timed-instagram-content-our-list-of-the-top-8-schedulers-for-2024/"><u>[Updated] Perfectly Timed Instagram Content - Our List of the Top 8 Schedulers for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-iphone-filmmaking-achieving-complete-circles/"><u>2024 Approved IPhone Filmmaking Achieving Complete Circles</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/five-motivational-reasons-for-late-life-linguists/"><u>Five Motivational Reasons for Late-Life Linguists</u></a></li>
+<li><a href="https://fox-access.techidaily.com/garmin-virb-ultra-30-your-companion-for-outdoor-capture/"><u>Garmin VIRB Ultra 30 – Your Companion for Outdoor Capture</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-problems-with-the-photos-feature-in-windows-11-spotlight/"><u>How to Resolve Problems with the Photos Feature in Windows 11 Spotlight</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-magic-vs-2-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Honor Magic Vs 2 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/how-to-troubleshoot-a-malfunctioning-graphics-card-expert-advice-from-yl-computing/"><u>How to Troubleshoot a Malfunctioning Graphics Card: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-transform-your-workflow-harnessing-the-power-of-luts-in-adobe-suite/"><u>In 2024, Transform Your Workflow Harnessing the Power of LUTs in Adobe Suite</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-stutters-and-lags-enhancing-your-fallout-76-experience/"><u>Troubleshooting Stutters & Lags: Enhancing Your Fallout 76 Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-gadget-mysteries-with-tom-the-hardware-specialist/"><u>Unraveling Gadget Mysteries with Tom - The Hardware Specialist</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

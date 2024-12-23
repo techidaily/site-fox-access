@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Curbing Inertia in High Altitude Cinematography"
-date: 2024-08-28T11:13:47.022Z
-updated: 2024-08-29T11:13:47.022Z
+date: 2024-12-15T17:24:14.058Z
+updated: 2024-12-22T19:14:09.825Z
 tags: 
   - screen-recording
   - ai video
@@ -28,9 +28,17 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
 
 When we talk about flight FPV quadcopters then Jello Effect appears like biggest disturbance in the path of quality. This effect results due to vibration influence that is channelled on camera when it starts rocking in air. No matter whether you are a professional or beginner, Jello effect is always your biggest enemy as it does terrible things inside recorded videos that can distract viewers away from actual content. The article below will help you to gain important information about how to remove this Jello or rolling shutter effect from videos.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Rolling Shutter
 
 First of all we need to discus about the major terms like rolling shutter effect etc. You might be aware of the fact that sensors can be designed with rolling shutter as well as with a global shutter. This rolling shutter is able to capture footage with better scanning on every part of image due to installed CMOS sensor. Generally, the global shutters are capable enough to manage entire frame at the same time but rolling shutters start scanning from top to bottom and hence they leave various visual artefacts in between. In simple words, it is not able to capture top and bottom portion of shot at same moment hence images appear skewed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Jello Effect
 
@@ -41,8 +49,9 @@ Now, you might be thinking hard that when global shutters are able to serve with
 Further, global shutters are not able to achieve the DR value same as rolling shutters hence they cannot be applied for handheld recording needs, visual effects or for action scenes.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Remove Jello Effect from Drone Videos?
 
 #### 1. Use Gimbal
@@ -78,8 +87,9 @@ Check this video tutorial to see how to remove jello effect with Adobe Premiere
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -103,4 +113,19 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-enhancing-your-vtuber-presence-with-premier-voice-editors-for-2024/"><u>[New] Enhancing Your VTuber Presence with Premier Voice Editors for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-how-to-zoom-in-on-videoleap-for-2024/"><u>[New] How to Zoom in on Videoleap for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-master-organization-with-mematics-toolkit-for-2024/"><u>[New] Master Organization with Mematic's Toolkit for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-ultimate-checklist-for-top-tier-instagram-reels/"><u>[Updated] In 2024, The Ultimate Checklist for Top-Tier Instagram Reels</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-13-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 13 without Passcode or Face ID</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-optimize-your-site-with-leading-analytics-integration/"><u>Cookiebot-Enabled: Optimize Your Site with Leading Analytics Integration</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-oppo-reno-9a-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo Reno 9A Without Password | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-poco-m6-pro-4g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Poco M6 Pro 4G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/mastering-single-stream-live-a-guide-for-solo-broadcasts/"><u>Mastering Single-Stream LIVE A Guide for Solo Broadcasts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/step-into-professional-photoshop-mastering-luts-in-cs6cc-for-2024/"><u>Step Into Professional Photoshop Mastering LUTs in CS6/CC for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/storytelling-on-screen-crafting-compelling-narratives-for-instareels-for-2024/"><u>Storytelling on Screen Crafting Compelling Narratives for InstaReels for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-effortless-video-editing-how-to-split-and-merge-clips-in-windows-live-movie-maker-for-2024/"><u>Updated Effortless Video Editing How to Split and Merge Clips in Windows Live Movie Maker for 2024</u></a></li>
+</ul></div>
 

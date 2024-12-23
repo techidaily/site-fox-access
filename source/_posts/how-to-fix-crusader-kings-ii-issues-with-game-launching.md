@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Crusader Kings II: Issues with Game Launching"
-date: 2024-08-28T11:12:16.946Z
-updated: 2024-08-29T11:12:16.946Z
+date: 2024-12-21T19:05:33.257Z
+updated: 2024-12-22T21:09:16.400Z
 tags:
   - win11
   - win10
@@ -37,8 +37,9 @@ Having trouble launching**_Crusader Kings 2 (CK2)_** on your PC? You’re not al
  If your problem still exists after the reboot, move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Run the game as an administrator
 
  If you’re running_Crusader Kings 2_ on a standard user account, the game might not be able to access all the game files and folders. To see if that’s the problem for you, try running the game as an administrator to give it high integrity access. Here is how to do it:
@@ -49,23 +50,6 @@ Having trouble launching**_Crusader Kings 2 (CK2)_** on your PC? You’re not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_11-51-56.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 **3)** Click the **Compatibility tab** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_11-52-12.jpg)
@@ -75,8 +59,9 @@ Key features:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_11-52-21-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **5)** Click **Apply** , then **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_14-12-35.jpg)
@@ -85,31 +70,33 @@ Key features:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_14-11-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **7)**  Click the **Compatibility tab** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_11-57-25.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **8)**  Check the box next to **Run this program as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_14-14-41-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **9)** Click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_14-14-41-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 **10)** Relaunch**Crusader Kings 2** test your issue.
 
 If your problem still exists, try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify the integrity of your game files
 
@@ -129,12 +116,13 @@ If your problem still exists, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_14-20-58.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)** Relaunch your game to test your issue.
 
 If your game still won’t launch, then go ahead with the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -167,9 +155,6 @@ If your game still won’t launch, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_12-00-59-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -186,13 +171,14 @@ If your game still won’t launch, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-39-20-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Right-click**Crusader Kings II** , then click**Manage> Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-40-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_14-33-24-3.jpg)
@@ -200,6 +186,10 @@ If your game still won’t launch, then go ahead with the next fix.
 **5)** On your keyboard, press the**Windows logo key** and**E** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_15-16-16.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Double-click**Documents>Paradox Interactive** .
 
@@ -209,9 +199,6 @@ If your game still won’t launch, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_15-22-20.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 **8)** Download and reinstall the game from Steam.
 
 **9)** Try launching_Crusader Kings 2_ again.
@@ -219,8 +206,9 @@ If your game still won’t launch, then go ahead with the next fix.
  If_Crusader Kings 2_ still won’t respond when you launch it, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Check for Windows updates
 
  Windows releases regular updates to fix bugs. It’s probable that a recent update is preventing_Crusader Kings 2_ from launching correctly, and a new update is needed to fix it. So, you should check if there are any updates available. Here is how to do it:
@@ -233,9 +221,6 @@ If your game still won’t launch, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_12-05-24.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 **3)** Restart your computer and your game after the update is complete.
 
  Hopefully, one of the fixes above helped in resolving your issue. If you have any questions or suggestions, please comment! I would love your thoughts!
@@ -252,8 +237,6 @@ If your game still won’t launch, then go ahead with the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -261,4 +244,22 @@ If your game still won’t launch, then go ahead with the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-drone-vfx-essentials-free-luts-for-dji-drones-available/"><u>[New] 2024 Approved Drone VFX Essentials - Free LUTS for DJI Drones Available</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-synchronizing-airwaves-for-audience-gain/"><u>[New] In 2024, Synchronizing Airwaves for Audience Gain</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-echo-archives-digital-sound-recording-for-2024/"><u>[Updated] Echo Archives Digital Sound Recording for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-must-watch-live-games-top-nine-sites/"><u>[Updated] In 2024, Must-Watch Live Games Top Nine Sites</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-nokia-c12-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/guide-complet-reparer-le-cryptage-de-la-messagerie-pour-outlook-qui-ne-fonctionne-pas-efficacement-solutions-en-5-etapes/"><u>Guide Complet : Réparer Le Cryptage De La Messagerie Pour Outlook Qui Ne Fonctionne Pas Efficacement - Solutions en 5 Étapes !</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-integrate-chatgpt-with-whatsapp-for-customer-support/"><u>How to Integrate ChatGPT With WhatsApp for Customer Support</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-bargain-ball-games-free-recording-and-editing-techniques/"><u>In 2024, Bargain Ball Games Free Recording & Editing Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-best-practices-for-capturing-vimeo-content/"><u>In 2024, Best Practices for Capturing Vimeo Content</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-cutting-edge-video-player-apps-for-iphone-and-ipad-top-10/"><u>In 2024, Cutting-Edge Video Player Apps for iPhone and iPad (Top 10)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-how-much-does-pewdiepie-make-yearly-financial-report/"><u>In 2024, How Much Does PewDiePie Make - Yearly Financial Report</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-list-top-10-websites-for-free-photo-access/"><u>In 2024, The Ultimate List Top 10 Websites for Free Photo Access</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/shining-through-hd-is-it-a-wise-pick-for-hdr-for-2024/"><u>Shining Through HD Is It a Wise Pick for HDR for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Process for Efficient Use of Mac's Preview App\""
-date: 2024-12-06T20:36:07.947Z
-updated: 2024-12-13T16:06:26.443Z
+date: 2024-12-15T22:00:53.720Z
+updated: 2024-12-22T22:36:57.191Z
 tags: 
   - screen-recording
   - ai video
@@ -35,10 +35,6 @@ That said, the sections below explain **how to use Preview on Mac** for elementa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
@@ -46,7 +42,7 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
@@ -77,10 +73,6 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -108,10 +100,6 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -145,6 +133,10 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -162,7 +154,7 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Save Images in Different Formats
@@ -176,6 +168,10 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -211,6 +207,10 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -236,20 +236,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-professionals-complete-handbook-to-fcp-mastery-for-2024/"><u>[New] Professional's Complete Handbook to FCP Mastery for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-dive-into-digital-dimensions-smartphone-vr-conversion-tricks-for-2024/"><u>[Updated] Dive Into Digital Dimensions Smartphone-VR Conversion Tricks for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-immersive-gameplay-capture-roblox-and-macos-synergy-for-2024/"><u>[Updated] Immersive Gameplay Capture Roblox & macOS Synergy for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-lure-inducing-title-engineer/"><u>[Updated] In 2024, Lure-Inducing Title Engineer</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-strategic-use-of-visual-media-in-classroom-teaching/"><u>[Updated] In 2024, Strategic Use of Visual Media in Classroom Teaching</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-secret-sauce-for-stellar-telegram-campaigns/"><u>[Updated] The Secret Sauce for Stellar Telegram Campaigns</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-top-gopro-film-editing-applications/"><u>[Updated] Top GoPro Film-Editing Applications</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-assessing-daily-video-consumption-in-gb-units/"><u>2024 Approved Assessing Daily Video Consumption in GB Units</u></a></li>
-<li><a href="https://fox-access.techidaily.com/effective-fixes-for-when-utorrent-fails-to-connect-or-download/"><u>Effective Fixes for When uTorrent Fails to Connect or Download</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-sony-bootloader-easily-by-drfone-android/"><u>How to Unlock Sony Bootloader Easily</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-infinix-note-30i-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Infinix Note 30i.</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-video-playback-failed-error-224003-a-comprehensive-guide/"><u>Resolving 'Video Playback Failed: Error 224003' - A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/smooth-transition-from-skype-to-zoom-for-better-collaboration-for-2024/"><u>Smooth Transition From Skype to Zoom for Better Collaboration for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-age-of-empires-3-initialization-failed/"><u>Solved: Age of Empires 3 Initialization Failed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-leading-eight-free-windows-html-editor-applications-to-boost-your-website-building-skills/"><u>The Leading Eight FREE Windows HTML Editor Applications to Boost Your Website Building Skills</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-advanced-technology-showcase-reviewing-the-top-5-slow-motion-cameras/"><u>[New] 2024 Approved Advanced Technology Showcase Reviewing the Top 5 Slow-Motion Cameras</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-cutting-edge-guide-to-mastering-windows-11-conferencing-via-zoom/"><u>[New] 2024 Approved Cutting-Edge Guide to Mastering Windows 11 Conferencing via Zoom</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-discovering-the-best-in-android-gaming-kinemaster-edition/"><u>[New] In 2024, Discovering the Best in Android Gaming KineMaster Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-essential-tv-gear-for-premium-live-broadcasts/"><u>[New] In 2024, Essential TV Gear for Premium Live Broadcasts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-mastering-airborne-shots-the-pivotal-role-of-dji-spark-in-selfie-culture-for-2024/"><u>[New] Mastering Airborne Shots The Pivotal Role of DJI Spark in Selfie Culture for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-mastering-access-the-journey-through-free-visual-resources/"><u>[Updated] 2024 Approved Mastering Access The Journey Through Free Visual Resources</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-elevate-media-projects-engaging-with-windows-11-movie-maker/"><u>[Updated] Elevate Media Projects Engaging with Windows 11 Movie Maker</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/channel-titles-that-shine-how-to-innovate-for-2024/"><u>Channel Titles That Shine How to Innovate for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-the-ultimate-iphones-and-chatgpt-combo/"><u>Crafting the Ultimate iPhones and ChatGPT Combo</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-leading-caller-id-changers-with-magical-features/"><u>In 2024, Leading Caller ID Changers with Magical Features</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-se-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone SE</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/step-by-step-guide-on-how-to-transfer-export-emails-from-outlook-16-13-and-10-to-pst-file/"><u>Step-by-Step Guide on How to Transfer EXPORT Emails From Outlook '16, '13, and '10 to PST File</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-value-tablets-in-depth-analysis-and-reviews-by-tech-experts-zdnet/"><u>Top Value Tablets : In-Depth Analysis & Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-vr-advertising-potential/"><u>Unlocking VR Advertising Potential</u></a></li>
 </ul></div>
 

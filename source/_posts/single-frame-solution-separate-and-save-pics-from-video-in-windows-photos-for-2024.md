@@ -1,7 +1,7 @@
 ---
 title: "\"Single-Frame Solution  Separate and Save Pics From Video in Windows Photos for 2024\""
-date: 2024-08-28T11:11:30.617Z
-updated: 2024-08-29T11:11:30.617Z
+date: 2024-12-18T20:39:26.109Z
+updated: 2024-12-22T18:12:14.545Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,10 @@ Creating a living image:
 
 ![ save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Now, you can see the living picture by tapping ‘Play’ button.
 
 These photos are stored in the ‘Pictures’ folder of your computer having ‘LI’ appended file names. Now, it’s time to save the living image as photo on your computer using Photos app.
@@ -56,6 +60,10 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/start-save-photos-from-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
 
 ## Part 2: Why I can’t save photo from video
@@ -64,24 +72,14 @@ In case, you are not able to save photos from video on Windows 10 Photos App. Th
 
 We are explaining the solutions here –
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### 1\. Check the update
 
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Sign in a different account in Microsoft Store
 
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: Alternative way to save photo from video
 
 When you want to save photo from video Windows 10 Photos but fail to do so, you can look for alternate ways that are fruitful. ‘ScreenShot’ is an online tool that enables you to capture and edit anything popping up on your screen. From webpages, windows, media files, menus, objects, to webcams, you can literally capture anything. It supports Mac, Windows PC, Android devices etc. it supports AVI, FLV, MPEG, WMV, MOV, and MKV files and enables you to add shapes, texts, lines, arrows, and stylish effects while editing the captured images. You can even upload images to cloud or social networking sites like Facebook, Google Plus, Twitter etc. The pictures are saved in JPG, PNG, BMP, GIF, and TIFF format on your computer. Automatic video capture at fixed intervals is also supported.
@@ -95,14 +93,16 @@ Here comes the guide –
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 We provided you some knowledge on how to save a photo from video Windows 10 Photos. Out of the multiple ways to save photos from videos, you can try what suits you best. If you want to go for a desktop based application, then Windows Photos serves you best. But, when you want to get things done online, you can pick ScreenShot for that matter. Hope you liked our efforts!
@@ -110,8 +110,9 @@ We provided you some knowledge on how to save a photo from video Windows 10 Phot
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -135,4 +136,22 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-embrace-freedom-no-cost-movie-player-software/"><u>[New] Embrace Freedom No-Cost MOVIE PLAYER Software</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-becoming-a-streaming-pro-iphone-and-android-strategies/"><u>[New] In 2024, Becoming a Streaming Pro IPhone & Android Strategies</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-mastering-the-art-of-sandbox-gaming-for-2024/"><u>[New] Mastering the Art of Sandbox Gaming for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-ultimate-data-sanctuary-guide/"><u>[New] The Ultimate Data Sanctuary Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-yearly-insights-the-most-impactful-social-graphs/"><u>[New] Yearly Insights - The Most Impactful Social Graphs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-mastering-video-production-a-compreey-guide-to-powerdirector/"><u>[Updated] 2024 Approved Mastering Video Production A Compreey Guide to PowerDirector</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-10-essential-meme-blueprints/"><u>[Updated] In 2024, 10 Essential Meme Blueprints</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-top-10-stabilizing-tech-for-youtube-creators-success/"><u>[Updated] In 2024, Top 10 Stabilizing Tech for YouTube Creators' Success</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-innovative-storytelling-in-book-trails/"><u>[Updated] Innovative Storytelling in Book Trails</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-skyrocketing-up-the-rankings-hit-10k-views-to-unlock-partnership/"><u>[Updated] Skyrocketing Up the Rankings - Hit 10K Views to Unlock Partnership</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-nightscape-notables-tips-for-capturing-starlit-portraits/"><u>2024 Approved Nightscape Notables Tips for Capturing Starlit Portraits</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-unlocking-the-best-free-screen-recorders-on-windows-10/"><u>In 2024, Unlocking the Best Free Screen Recorders on Windows 10</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-your-step-by-step-equipment-plan-for-youtube-beginnings/"><u>In 2024, Your Step-by-Step Equipment Plan for YouTube Beginnings</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-evolution-from-rgb-to-srgb-in-graphic-media-for-2024/"><u>The Evolution From RGB to Srgb in Graphic Media for 2024</u></a></li>
+</ul></div>
 

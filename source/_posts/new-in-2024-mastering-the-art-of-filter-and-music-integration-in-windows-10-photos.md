@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Mastering the Art of Filter & Music Integration in Windows 10 Photos"
-date: 2024-12-12T16:12:08.106Z
-updated: 2024-12-13T19:08:26.140Z
+date: 2024-12-17T23:20:46.585Z
+updated: 2024-12-22T16:35:40.614Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,10 @@ Having Windows 10 Photos app is an advantage for you. This is not like any other
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to add filters on Windows 10 Photos App
 
 If you have got Windows 10 Photos app and wish to add filters, though, it is by default a photo viewing app, its editing features are worth to mention. This step by step guide is your perfect savior in that case.
@@ -50,24 +54,16 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3**: Now, you will be in an video editing page. You can name your video at start or later.
 
 **Step 4**: Click Filters at tool bar. Microsoft Photos has 14 filters you can use, including classic, adventure, sepia and so on.
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
@@ -83,7 +79,7 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
@@ -91,7 +87,7 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 5**: Hit the ‘Done’ button.
@@ -101,6 +97,10 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 From the above article, we conclude that Windows 10 Photos app is an amazing app when it comes to photo editing and screen capturing from a video. While there are numerous options out there, you can **_add filters using Windows 10 Photos app_** in the best way possible. Moreover, this application enables you enable to even add music to videos using Windows 10 Photos app. The advantages of Windows 10 are innumerable, and with the right tools, you can get the best out of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -127,14 +127,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-unlocking-secure-periscope-streaming-techniques-and-strategies/"><u>[New] 2024 Approved Unlocking Secure Periscope Streaming Techniques & Strategies</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-iphone-screen-recording-made-simple/"><u>[New] Iphone Screen Recording Made Simple</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-you-rely-on-chatgpt-for-consistent-health-information/"><u>Can You Rely on ChatGPT for Consistent Health Information?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-mx492-driver-update-and-download-enhance-your-printers-performance-on-windows-systems/"><u>Canon MX492 Driver Update & Download: Enhance Your Printer's Performance on Windows Systems</u></a></li>
-<li><a href="https://fox-access.techidaily.com/giggle-generators-online-for-2024/"><u>Giggle Generators Online for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-breakthrough-visuals-top-10-monitors-for-your-macbook/"><u>In 2024, Breakthrough Visuals Top 10 Monitors For Your MacBook</u></a></li>
-<li><a href="https://article-posts.techidaily.com/innovative-techniques-for-unique-canon-timelapse-vids-for-2024/"><u>Innovative Techniques for Unique Canon Timelapse Vids for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-installation-hurdles-how-to-enjoy-tiny-tinas-wonderlands-flawlessly-on-pc/"><u>Overcoming Installation Hurdles - How to Enjoy Tiny Tina's Wonderlands Flawlessly on PC</u></a></li>
-<li><a href="https://fox-access.techidaily.com/skys-dynamic-range-masterpieces-website-roundup-for-2024/"><u>Sky's Dynamic Range Masterpieces - Website Roundup for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-choosing-between-gopro-hero-5-and-nikkor-km-170-for-2024/"><u>[New] Choosing Between GoPro HERO 5 and Nikkor KM-170 for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-echoes-across-platforms-moving-music-lists-digitally/"><u>[New] In 2024, Echoes Across Platforms Moving Music Lists Digitally</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-game-console-sound-amplification-and-modifications-for-ps4ps5/"><u>[Updated] 2024 Approved Game Console Sound Amplification and Modifications for PS4/PS5</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-navigating-live-streams-on-youtube-and-twitch-with-ease-via-obs/"><u>[Updated] 2024 Approved Navigating Live Streams on YouTube & Twitch with Ease via OBS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-personal-drones-that-perfectly-trace-their-owners-path/"><u>[Updated] 2024 Approved Personal Drones That Perfectly Trace Their Owner's Path</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-top-10-iphone-lens-capabilities-in-ios-11/"><u>[Updated] 2024 Approved Top 10 iPhone Lens Capabilities in iOS 11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-boost-cinematographic-capabilities-essential-iphone-gear/"><u>[Updated] Boost Cinematographic Capabilities Essential iPhone Gear</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/convert-flawlessly-leading-software-for-high-res-videos-for-2024/"><u>Convert Flawlessly Leading Software for High-Res Videos for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/crayoncrafts-thorough-examination-and-users-manual-2eva/"><u>CrayonCrafts Thorough Examination & User's Manual 2Eva</u></a></li>
+<li><a href="https://fox-access.techidaily.com/giggle-your-way-comedy-tones-downloads-hubs/"><u>Giggle Your Way Comedy Tones Downloads Hubs</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/listening-in-text-out-no-fee-required-for-2024/"><u>Listening In, Text Out – No Fee Required for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-content-generation-using-hixgpt-4/"><u>Seamless Content Generation Using HIX/GPT-4</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-14-pro-max-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking iPhone 14 Pro Max Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-a-curated-selection-of-websites-for-obtaining-quality-whoosh-sound-experience-for-2024/"><u>Updated A Curated Selection of Websites for Obtaining Quality Whoosh Sound Experience for 2024</u></a></li>
 </ul></div>
 
