@@ -1,7 +1,7 @@
 ---
 title: "[New] Elite Scripting Plugins for AE for 2024"
-date: 2024-12-17T20:52:59.550Z
-updated: 2024-12-22T17:37:53.236Z
+date: 2024-12-27T01:17:45.636Z
+updated: 2024-12-28T05:14:54.868Z
 tags: 
   - screen-recording
   - ai video
@@ -26,7 +26,7 @@ Adobe After Effects remains one of the most powerful ways to edit videos. One of
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## TextDelay
@@ -36,6 +36,10 @@ Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Ftextdelay/>
 TextDelay is a native plugin, meaning that you will find it already installed on After Effects. As the name suggests, you can use TextDelay to delay any other text transformations that you may add to the text and it allows you to delay these transformations by word, line, or even character. It comes with a range selector that allows you to have precise control over which characters can get the effect.
 
 ![text delay plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-delay-plugin.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## TextExploder
 
@@ -61,6 +65,10 @@ If you want to create the perfect shape behind your text, then TextBox is a good
 
 ![text box plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-box-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Font Manager
 
 Link: <https://aescripts.com/font-manager/>
@@ -68,10 +76,6 @@ Link: <https://aescripts.com/font-manager/>
 Font Manager is an After Effects text plugin that is useful when creating and working with animated typefaces. You can use it to create the most complex animated text graphics in just a few simple clicks. You will also find it very familiar to use as the user interface is similar to the Character Panel in After Effects.
 
 ![font manager plugin](https://images.wondershare.com/filmora/article-images/2022/07/font-manager-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Cartoon Moblur
 
@@ -82,7 +86,7 @@ This is the most ideal plugin to choose when you want to add motion trail to the
 ![cartoon moblur plugin](https://images.wondershare.com/filmora/article-images/2022/07/cartoon-moblur-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shadow Studio
@@ -92,7 +96,7 @@ If you are looking for shadow styles that will go very well with your project, S
 ![shadow studio plugin](https://images.wondershare.com/filmora/article-images/2022/07/shadow-studio-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Texts Animation Bundle
@@ -103,14 +107,6 @@ This is a bundle of more than 80 different templates to add text effects to any 
 
 ![texts animation bundle plugin](https://images.wondershare.com/filmora/article-images/2022/07/texts-animation-bundle-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Artificial Intelligence Titles
 
 Link: <https://videohive.net/item/ait-artificial-intelligence-titles/22124640?s%5Frank=1>
@@ -120,7 +116,7 @@ The Artificial Intelligence Titles is an After Effects text plugin that is desig
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Text Library
@@ -130,6 +126,10 @@ Link: <https://videohive.net/item/text-library-handy-text-animations/21932974>
 This is another great text animation bundle with different options for just about any kind of project. But unlike other plugin bundles that only have a few effects to choose from, Text Library has thousands of templates to choose from. Once you have selected the template that you would like to use, you also get the option to customize the template to suit your project. You can customize the text, size, duration of the animation, and color. It is easy to use and is constantly updated to introduce even more templates with each update.
 
 ![text library plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-library-plugin.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -165,16 +165,16 @@ On its own After Effects comes with so many post-production effects and features
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-guidelines-for-eliminating-obs-fullscreen-freeze-for-2024/"><u>[New] Guidelines for Eliminating OBS Fullscreen Freeze for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-top-picks-premium-and-economical-bdr-players-for-pcmac/"><u>[New] Top Picks Premium & Economical BDR Players for PC/Mac</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-cherished-holiday-hits-our-top-10-family-friendly-films/"><u>[Updated] 2024 Approved Cherished Holiday Hits Our Top 10 Family-Friendly Films</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-comprehensiveness-in-film-capture-vs-dimensionality-in-visuals/"><u>[Updated] 2024 Approved Comprehensiveness in Film Capture vs Dimensionality in Visuals</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-top-strategies-for-zoom-use-with-a-chrome-os-device/"><u>[Updated] 2024 Approved Top Strategies for Zoom Use with a Chrome OS Device</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-master-the-art-of-text-sculpting-for-an-astonishing-photos-effect/"><u>[Updated] In 2024, Master the Art of Text Sculpting for an Astonishing PHOTOS Effect</u></a></li>
-<li><a href="https://games-able.techidaily.com/addressing-and-correcting-create-file-unsuccessful-error-30005/"><u>Addressing and Correcting Create File Unsuccessful (Error 30005)</u></a></li>
-<li><a href="https://win-blog.techidaily.com/identifying-your-windows-11-os-type-detailed-instructions-for-determining-build-and-version-numbers/"><u>Identifying Your Windows 11 OS Type: Detailed Instructions for Determining Build & Version Numbers</u></a></li>
-<li><a href="https://games-able.techidaily.com/ifa-2023s-innovative-devices-a-gamers-paradise/"><u>IFA 2023'S Innovative Devices – A Gamer's Paradise</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-oneplus-11r-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your OnePlus 11R Phone Now with These Tips</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/peekcapture-review-of-low-res-screen-grabs-for-2024/"><u>PeekCapture Review of Low-Res Screen Grabs for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-iphone-video-editors-cameo-vs-filmorago-showdown/"><u>[New] 2024 Approved IPhone Video Editors Cameo Vs. FilmoraGo Showdown</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-webcam-setup-simplified-for-hp-and-chrome-users-for-2024/"><u>[Updated] Webcam Setup Simplified for HP & Chrome Users for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-cease-chromes-unintended-tabs/"><u>A Step-By-Step Guide to Cease Chrome's Unintended Tabs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-entry-into-the-arvr-space-a-skeptical-viewpoint-from-zdnet/"><u>Apple's Entry Into the AR/VR Space: A Skeptical Viewpoint From ZDNet</u></a></li>
+<li><a href="https://fox-access.techidaily.com/discover-the-latest-2023-features-of-samsung-bd-j5900-for-2024/"><u>Discover the Latest 2023 Features of Samsung BD-J5900 for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/educational-videography-mastery-in-cutting-and-pacing-for-2024/"><u>Educational Videography Mastery in Cutting & Pacing for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/enhance-multitasking-pip-configuration-on-iphone-youtube/"><u>Enhance Multitasking PIP Configuration on iPhone YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/expert-tips-to-elevate-iphone-picture-quality/"><u>Expert Tips to Elevate iPhone Picture Quality</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/funny-facades-top-quality-free-meme-files/"><u>Funny Facades Top-Quality, FREE Meme Files</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-discovery-gpodcs-best-series/"><u>In 2024, Exclusive Discovery GPodC's Best Series</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-apple-iphone-11-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track WhatsApp Messages on Apple iPhone 11 Without Them Knowing? | Dr.fone</u></a></li>
 </ul></div>
 

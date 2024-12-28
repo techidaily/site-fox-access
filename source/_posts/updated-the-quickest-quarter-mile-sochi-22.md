@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Quickest Quarter Mile - Sochi '22\""
-date: 2024-08-28T11:05:55.926Z
-updated: 2024-08-29T11:05:55.926Z
+date: 2024-12-20T16:10:38.014Z
+updated: 2024-12-28T09:51:00.333Z
 tags: 
   - screen-recording
   - ai video
@@ -48,9 +48,17 @@ Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian na
 
 ![ren ziwei shoved hungarian](https://images.wondershare.com/filmora/article-images/ren-ziwei-shoved-hungarian.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter short track speed skating previously.
 
 ![ren ziwei was disqualified](https://images.wondershare.com/filmora/article-images/ren-ziwei-was-disqualified.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The last leg of competition among skaters before reaching the finishing line at men’s short track speed skating 1500m event.
 
@@ -61,8 +69,9 @@ Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awa
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
 The best way to present any news related to any sports event is to create a short video containing all the highlights of the event. For example, you can create a video combining all the highlights of short track speed skating 2022 that we have presented in the previous section. You can also collect short clips of the event from social media platforms that have been captured by audiences.
@@ -78,8 +87,9 @@ To create such a highlight video on any sports event, there are certain videos e
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
 To create a video based on any sport event such as short track speed skating highlights, you need a professional video editor where you can get all the video effects and elements in one place. We recommend Wondershare Filmora where you get a wide range of video effects and editing tools to make your video stand out easily.
@@ -98,9 +108,6 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
 
 Step 3: Go to Import > Import Media Files and bring in all the still footages and short clips you have collected. You can also use the option Import with Instant Cutter Tool to trim the footages and clips for uniformity.
@@ -112,8 +119,9 @@ Step 5: Select individual slides and apply Transition, Effects or add Titles and
 Step 6: When all the editing work is done, click on Export to save the video on your hard drive and publish online.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 South Korean skater Hwang Dae-heon has won the gold medal in men’s short track speed skating 1500m. This has buried the controversy that cropped up due to South Korean disqualification in 1000m short track speed skating. If you want to make a video highlighting all the important scenes and moments of any sports event, we have illustrated how to make a professional-quality video with Wondershare Filmora.
@@ -135,4 +143,24 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-mastering-solo-podcast-production-for-top-spots/"><u>[New] 2024 Approved Mastering Solo Podcast Production for Top Spots</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-best-action-hats-motorcycle-cameras-reviewed-and-ranked/"><u>[New] 2024 Approved The Best Action Hats Motorcycle Cameras Reviewed and Ranked</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-achieving-professional-level-audio-crossfades-in-audacity-for-2024/"><u>[New] Achieving Professional-Level Audio Crossfades in Audacity for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-evaluating-tunefab-for-video-capture-excellence/"><u>[New] Evaluating Tunefab for Video Capture Excellence</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-strategies-for-indefinitely-removing-a-tiktok-profile/"><u>[New] In 2024, Strategies for Indefinitely Removing a TikTok Profile</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-ultimate-screen-experience-with-hp-envy-27-display-for-2024/"><u>[New] The Ultimate Screen Experience with HP Envy 27 Display for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-exploring-high-definition-chroma-blade-photography/"><u>[Updated] 2024 Approved Exploring High-Definition Chroma Blade Photography</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-curated-collection-saving-snapchat-ringtone-audio-for-2024/"><u>[Updated] Curated Collection Saving Snapchat Ringtone Audio for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-rebooted-login-claiming-back-to-facebook/"><u>[Updated] In 2024, Rebooted Login Claiming Back to Facebook</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-infinix-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Infinix Phone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/actuellement-convertissez-vos-fichiers-wmv-en-mp4-avec-une-perte-de-qualite-inferieure-a-2/"><u>Actuellement, Convertissez Vos Fichiers WMV en MP4 Avec Une Perte De Qualité Inférieure À 2 %</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-panoramic-viewpoint-gear-for-vr/"><u>In 2024, Panoramic Viewpoint Gear for VR</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-tips-to-fix-the-persistent-fltrmgrsys-bsod-error-on-your-windows-device/"><u>Step-by-Step Tips to Fix the Persistent Fltrmgr.sys BSOD Error on Your Windows Device</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-freshest-nvidia-quadro-graphics-driver-software-for-windows-11/"><u>Step-by-Step: Freshest NVIDIA Quadro Graphics Driver Software for Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-importance-of-saving-local-group-policy-edits-on-windows-tips-and-tricks-for-effective-management/"><u>The Importance of Saving Local Group Policy Edits on Windows - Tips and Tricks for Effective Management</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-seekers-manual-a-comprehensive-approach-to-purchasing-high-definition-monitors/"><u>The Seeker's Manual A Comprehensive Approach to Purchasing High-Definition Monitors</u></a></li>
+<li><a href="https://fox-access.techidaily.com/unleash-your-creative-edge-with-adjustable-story-videos-for-2024/"><u>Unleash Your Creative Edge with Adjustable Story Videos for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Process for Efficient Use of Mac's Preview App\""
-date: 2024-12-15T22:00:53.720Z
-updated: 2024-12-22T22:36:57.191Z
+date: 2024-12-22T04:15:21.021Z
+updated: 2024-12-28T05:29:13.288Z
 tags: 
   - screen-recording
   - ai video
@@ -35,15 +35,15 @@ That said, the sections below explain **how to use Preview on Mac** for elementa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
 
@@ -59,6 +59,10 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -72,6 +76,10 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -134,7 +142,7 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Combine Images into One
@@ -153,10 +161,6 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -170,7 +174,7 @@ After opening an image, click **File** from the menu bar at the top, and click *
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
@@ -207,10 +211,6 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -236,19 +236,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-advanced-technology-showcase-reviewing-the-top-5-slow-motion-cameras/"><u>[New] 2024 Approved Advanced Technology Showcase Reviewing the Top 5 Slow-Motion Cameras</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-cutting-edge-guide-to-mastering-windows-11-conferencing-via-zoom/"><u>[New] 2024 Approved Cutting-Edge Guide to Mastering Windows 11 Conferencing via Zoom</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-discovering-the-best-in-android-gaming-kinemaster-edition/"><u>[New] In 2024, Discovering the Best in Android Gaming KineMaster Edition</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-essential-tv-gear-for-premium-live-broadcasts/"><u>[New] In 2024, Essential TV Gear for Premium Live Broadcasts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-mastering-airborne-shots-the-pivotal-role-of-dji-spark-in-selfie-culture-for-2024/"><u>[New] Mastering Airborne Shots The Pivotal Role of DJI Spark in Selfie Culture for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-mastering-access-the-journey-through-free-visual-resources/"><u>[Updated] 2024 Approved Mastering Access The Journey Through Free Visual Resources</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-elevate-media-projects-engaging-with-windows-11-movie-maker/"><u>[Updated] Elevate Media Projects Engaging with Windows 11 Movie Maker</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/channel-titles-that-shine-how-to-innovate-for-2024/"><u>Channel Titles That Shine How to Innovate for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-the-ultimate-iphones-and-chatgpt-combo/"><u>Crafting the Ultimate iPhones and ChatGPT Combo</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-leading-caller-id-changers-with-magical-features/"><u>In 2024, Leading Caller ID Changers with Magical Features</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-se-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone SE</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/step-by-step-guide-on-how-to-transfer-export-emails-from-outlook-16-13-and-10-to-pst-file/"><u>Step-by-Step Guide on How to Transfer EXPORT Emails From Outlook '16, '13, and '10 to PST File</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-value-tablets-in-depth-analysis-and-reviews-by-tech-experts-zdnet/"><u>Top Value Tablets : In-Depth Analysis & Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlocking-vr-advertising-potential/"><u>Unlocking VR Advertising Potential</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-15-online-audio-haven-sites-for-video-content-makers/"><u>[New] In 2024, 15 Online Audio Haven Sites for Video Content Makers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unmasked-influence-introducing-the-power-players-of-insta/"><u>[Updated] Unmasked Influence Introducing the Power Players of Insta</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-a-step-by-step-guide-to-using-youtubes-creative-commons-license/"><u>2024 Approved A Step-by-Step Guide to Using YouTube's Creative Commons License</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-pinnacle-of-zooid-creations-guide/"><u>2024 Approved The Pinnacle of Zooid Creations Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/dive-into-the-digital-realm-the-most-exquisite-pc-vr-players/"><u>Dive Into the Digital Realm The Most Exquisite PC VR Players</u></a></li>
+<li><a href="https://fox-access.techidaily.com/efficiency-meets-entertainment-the-finest-31-video-cutters-for-phones-for-2024/"><u>Efficiency Meets Entertainment The Finest 31 Video Cutters for Phones for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/efficient-ways-to-integrate-movies-into-your-youtube-catalog/"><u>Efficient Ways to Integrate Movies Into Your YouTube Catalog</u></a></li>
+<li><a href="https://fox-access.techidaily.com/elevating-brand-presence-in-virtual-worlds/"><u>Elevating Brand Presence in Virtual Worlds</u></a></li>
+<li><a href="https://fox-access.techidaily.com/expert-insights-into-making-the-most-out-of-mac-preview/"><u>Expert Insights Into Making the Most Out of Mac Preview</u></a></li>
+<li><a href="https://fox-access.techidaily.com/expertise-in-capturing-high-quality-verbal-notes/"><u>Expertise in Capturing High-Quality Verbal Notes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/fond-memories-old-phone-xxs-photography/"><u>Fond Memories Old Phone Xx's Photography</u></a></li>
+<li><a href="https://win11.techidaily.com/stealthy-strategies-bypassing-windows-account-sign-in/"><u>Stealthy Strategies: Bypassing Windows Account Sign-In</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-dual-boot-revolution-on-your-steam-deck-device/"><u>The Dual Boot Revolution on Your Steam Deck Device</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-evolution-of-music-production-software-with-magix-studio-max-2024/"><u>The Evolution of Music Production Software with Magix Studio Max 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-motorola-moto-g73-5g-by-fonelab-android-recover-data/"><u>Undelete lost data from Motorola Moto G73 5G</u></a></li>
 </ul></div>
 

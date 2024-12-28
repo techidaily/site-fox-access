@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Harnessing Hours of Light  Long-Exposure iPhone Tips\""
-date: 2024-08-28T11:08:57.179Z
-updated: 2024-08-29T11:08:57.179Z
+date: 2024-12-27T06:22:36.007Z
+updated: 2024-12-28T04:58:00.054Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c0
 
  Previously the preserve of those who could afford to invest in a top of the range SLR, this type of photography is now within reach of many more of us, thanks to improvement in iPhone camera's technology. Want to know how? Read on.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Take Long Exposure Shots on iPhone
 
 * [Section 1: Users on iOS 11](#part1)
@@ -49,13 +53,14 @@ thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c0
 
 ![long-exposure-effect-iphone](https://images.wondershare.com/filmora/article-images/long-exposure-effect-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: iPhoneMod
 
  Now bring up your live photo within the Photos app and bring up the effects selector. You can see this either by tapping 'details' or by simply swiping up whilst viewing the photo. There are lots of effects you can apply to your live photo, but the one we're looking for here is 'long exposure'. Simply tap this and your clever iPhone will make all the adjustments necessary to produce an awesome pro-looking photograph using long exposure.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Not a user of iOS 11?
 
  If you don't have iOS 11 yet (or can't get it for your model), there is a way around this. Some developers have produced apps which mimic the extended shutter speed of Live Photos. This is achieved by combining multiple exposures of the same photograph, and then stitching them together with an overlain effect to create a simulated long exposure image.
@@ -64,9 +69,6 @@ thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c0
 
 **You may also like:** [iPhone Night Photography Tips: Take Night Photos with iPhone >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Long Exposure Photography Tips
 
  Getting amazing long exposure shots has been made as simple as possible, thanks to the geniuses at Apple, but you're still going to need to plan for these shots carefully if you want to make them incredible. Here are some top tips for shooting better long exposure photos on iPhone:
@@ -87,40 +89,35 @@ thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c0
 ![flowing-water-long-exposure](https://images.wondershare.com/filmora/article-images/flowing-water-long-exposure.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Image resource: Photography Mad
 
 * **Light trails:** Light is everywhere, and if you take your iPhone camera long exposure trick out of the house at night, you'll find some amazing opportunities to shoot. Cars on the highway, Ferris wheels at the fair and even the stars in the sky can become something amazing with a longer exposure.
 
 ![long-trails-exposure](https://images.wondershare.com/filmora/article-images/long-trails-exposure.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image resource: WallDevil
 
 * **Motion blur:** To give the sense of something really moving fast, a motion blur can be a captivating effect. From vehicles on the city street to a galloping horse, allowing the moving object to blur whilst everything else around it stays in focus can add a dose of drama to your shots.
 
 ![motion-blur-long-exposure](https://images.wondershare.com/filmora/article-images/motion-blur-long-exposure.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Image resource: Digital Photo Secrets
 
 * **Low light photography:** With a longer exposure, things which were previously un-snappable are suddenly within your grasp. Beautiful fountains at night, bridges, buildings… anything which would previously have been little more than a shadow can now become part of your collection, simply by extending the exposure length.
 
 ![low-light-long-exposure](https://images.wondershare.com/filmora/article-images/low-light-long-exposure.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: Nikonites
 
  Play around, try different things and get to know how variations in settings can change the outcome of your shots. Tinkering with exposure length is great fun, and will almost certainly result in some totally Facebook-worthy additions to your gallery.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## To conclude
 
  Using a digital SLR is looking less and less appealing these days, as Apple push the boundaries of what a phone can do ever further. If you're not using a device that supports Live Photos, try a workaround using a specifically developed app so that you can join in the fun too.
@@ -128,6 +125,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  With the iPhone camera long exposure shots could really up your game on social media. Whether you're a budding travel photographer, a wannabe stock photo entrepreneur or simply an Instagram lover who wants to impress their friends, have a play with the technology available to you and see what you can create. Long exposure shots are massively popular right now, so grab your iPhone and get snapping!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -152,4 +153,18 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-metaverse-adventures-to-share-with-pals/"><u>[Updated] Best Metaverse Adventures to Share with Pals</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-perfecting-chromes-sound-best-apps-for-online-text-to-speech-transformation/"><u>[Updated] In 2024, Perfecting Chrome's Sound Best Apps for Online Text-to-Speech Transformation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-charting-the-course-of-creative-conquests-self-vs-competitors-on-youtube/"><u>2024 Approved Charting the Course of Creative Conquests Self Vs. Competitors on YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/elevate-your-green-screen-skills-with-this-kinemaster-guide-for-2024/"><u>Elevate Your Green Screen Skills with This Kinemaster Guide for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-safely-download-and-install-dell-wd1er-drivers-a-step-by-step-guide/"><u>How to Safely Download & Install Dell WD1er Drivers: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-twitch-and-youtube-a-comprehensive-streamers-guide/"><u>In 2024, Twitch and YouTube A Comprehensive Streamer's Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/in-depth-strategies-to-illuminate-troubleshooting-mending-black-screens-on-dell-machines/"><u>In-Depth Strategies to Illuminate Troubleshooting: Mending Black Screens on Dell Machines</u></a></li>
+<li><a href="https://fox-access.techidaily.com/perfecting-your-srt-craft-a-compreran-guide-to-tips-and-tricks-for-2024/"><u>Perfecting Your SRT Craft A Compreran Guide to Tips & Tricks for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-error-code-0x800704b3/"><u>Resolving Windows Error Code: 0X800704B3</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-updating-graphics-card-drivers-for-amd-users-on-windows-platforms/"><u>Step-by-Step Guide: Updating Graphics Card Drivers for AMD Users on Windows Platforms</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-realme-c67-5g-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Realme C67 5G.</u></a></li>
+</ul></div>
 

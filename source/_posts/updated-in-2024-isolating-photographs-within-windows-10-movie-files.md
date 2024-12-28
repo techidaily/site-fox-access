@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Isolating Photographs Within Windows 10 Movie Files"
-date: 2024-08-28T11:09:03.670Z
-updated: 2024-08-29T11:09:03.670Z
+date: 2024-12-22T18:07:13.726Z
+updated: 2024-12-27T17:53:28.204Z
 tags: 
   - screen-recording
   - ai video
@@ -34,6 +34,10 @@ In this article, you will learn how to save photo from Windows 10 Photos app and
 * [**Part2: Why I can’t save photo from video**](#part2)
 * [**Part3: Alternative way to save photo from video**](#part3)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to save photo from Windows 10 Photos app
 
 In this part of the article, we are going to discuss, how you would save photo from video with Windows 10 Photos app. The Photos app has numerous features for you, and the editing tools would simply amaze you. You can use the Windows Ink to write on the images or capture stills from a video for that matter. Let’s see, how to save photo from video using Windows 10 Photos app –
@@ -47,6 +51,10 @@ Creating a living image:
 
 ![ save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Now, you can see the living picture by tapping ‘Play’ button.
 
 These photos are stored in the ‘Pictures’ folder of your computer having ‘LI’ appended file names. Now, it’s time to save the living image as photo on your computer using Photos app.
@@ -56,7 +64,15 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/start-save-photos-from-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Why I can’t save photo from video
 
@@ -64,24 +80,18 @@ In case, you are not able to save photos from video on Windows 10 Photos App. Th
 
 We are explaining the solutions here –
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Check the update
 
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### 2\. Sign in a different account in Microsoft Store
 
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: Alternative way to save photo from video
 
 When you want to save photo from video Windows 10 Photos but fail to do so, you can look for alternate ways that are fruitful. ‘ScreenShot’ is an online tool that enables you to capture and edit anything popping up on your screen. From webpages, windows, media files, menus, objects, to webcams, you can literally capture anything. It supports Mac, Windows PC, Android devices etc. it supports AVI, FLV, MPEG, WMV, MOV, and MKV files and enables you to add shapes, texts, lines, arrows, and stylish effects while editing the captured images. You can even upload images to cloud or social networking sites like Facebook, Google Plus, Twitter etc. The pictures are saved in JPG, PNG, BMP, GIF, and TIFF format on your computer. Automatic video capture at fixed intervals is also supported.
@@ -94,24 +104,15 @@ Here comes the guide –
 
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 We provided you some knowledge on how to save a photo from video Windows 10 Photos. Out of the multiple ways to save photos from videos, you can try what suits you best. If you want to go for a desktop based application, then Windows Photos serves you best. But, when you want to get things done online, you can pick ScreenShot for that matter. Hope you liked our efforts!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -135,4 +136,24 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-elite-sound-to-text-conversion-technology-for-2024/"><u>[New] Elite Sound to Text Conversion Technology for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-mastering-vector-art-our-picks-for-top-10-tools-in-industry/"><u>[New] In 2024, Mastering Vector Art Our Picks for Top 10 Tools in Industry</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-secrets-of-6-video-categories-for-viewer-retention-for-2024/"><u>[New] Secrets of 6 Video Categories for Viewer Retention for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-luxury-makeup-techniques-unveiled/"><u>[Updated] 2024 Approved Luxury Makeup Techniques Unveiled</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-spectacular-photo-narrative-construction-suite/"><u>[Updated] 2024 Approved Spectacular Photo Narrative Construction Suite</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fueling-audience-interaction-crafting-intriguing-fb-giving-announcements/"><u>[Updated] Fueling Audience Interaction Crafting Intriguing FB Giving Announcements</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-songcutter-pro-turning-tamil-tracks-into-call-alerts/"><u>[Updated] In 2024, SongCutter Pro Turning Tamil Tracks Into Call Alerts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-money-making-enabling-youtube-monetization-for-mobile-devices/"><u>[Updated] Mastering Money-Making Enabling YouTube Monetization for Mobile Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-saving-the-essence-a-guide-for-virtual-meeting-records/"><u>[Updated] Saving the Essence A Guide for Virtual Meeting Records</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-stream-on-the-go-youtube-via-mobile-for-understaffed-creators/"><u>[Updated] Stream on the Go YouTube via Mobile for Understaffed Creators</u></a></li>
+<li><a href="https://win11.techidaily.com/clear-screen-clarity-with-these-6-windows-fixes/"><u>Clear Screen Clarity with These 6 Windows Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-restore-sound-on-your-windows-11-device/"><u>Fixing the Issue: How to Restore Sound on Your Windows 11 Device</u></a></li>
+<li><a href="https://fox-access.techidaily.com/full-guide-to-premiere-pro-full-screen-preview-for-2024/"><u>Full Guide to Premiere Pro Full Screen Preview for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-from-vocal-exchanges-to-written-words-mastering-ms-words-speech-to-text/"><u>In 2024, From Vocal Exchanges to Written Words Mastering MS Word's Speech-to-Text</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/method-to-forget-your-printer-in-windows/"><u>Method to Forget Your Printer in Windows</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-review-of-the-lg-oled-c9-television-stunning-visuals-in-a-smart-package/"><u>The Ultimate Review of the LG OLED C9 Television - Stunning Visuals in a Smart Package</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-guide-to-mp4-tag-editors-for-windows-and-mac-for-2024/"><u>Updated The Ultimate Guide to MP4 Tag Editors for Windows and Mac for 2024</u></a></li>
+</ul></div>
 

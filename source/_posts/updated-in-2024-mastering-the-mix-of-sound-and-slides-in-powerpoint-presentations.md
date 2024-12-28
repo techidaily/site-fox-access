@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Mastering the Mix of Sound and Slides in PowerPoint Presentations"
-date: 2024-08-28T11:02:29.873Z
-updated: 2024-08-29T11:02:29.873Z
+date: 2024-12-24T12:01:52.492Z
+updated: 2024-12-28T00:52:25.945Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,10 @@ To your PowerPoint presentation, you can add audio, such as music, narration, or
 
 ![insert audio ppt](https://images.wondershare.com/filmora/article-images/2022/02/insert-audio-ppt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2 Select Audio on My PC
 
 ##### Step3 Select the audio file you want to add in the Insert Audio dialogue box
@@ -84,6 +88,10 @@ NOTE: You can re-record the PowerPoint slides by hitting the Record Slide Show a
 
 ![record from current slide ppt](https://images.wondershare.com/filmora/article-images/2022/02/record-from-current-slide-ppt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step5 Hit the Record tab to begin recording narration
 
 NOTE: PowerPoint will offer a three-second countdown before it begins recording.
@@ -102,6 +110,10 @@ Select Export to confirm.
 
 This section will look at editing the added Audio into PowerPoint. As we've already gathered steps on adding Audio to PowerPoint and recording Audio on PowerPoint, it's time to move a step ahead into the editing panel as follows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### I. Trim audio in PowerPoint presentation
 
 Let's suppose we've added long audio to our presentation, and we just only need it a few seconds long. So, we need to trim its audio by hitting the specific tabs.
@@ -112,18 +124,16 @@ Let's suppose we've added long audio to our presentation, and we just only need 
 
 ![trim ppt audio](https://images.wondershare.com/filmora/article-images/2022/02/trim-ppt-audio.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3 Within the pop-up window, you need to use the red and green markers to adjust the start and endpoint of the audio
 
 ![adjust audio ppt](https://images.wondershare.com/filmora/article-images/2022/02/adjust-audio-ppt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 Hit the Play tab to preview the changes done.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ### II. Fade Audio Duration in PowerPoint presentation
 
 On the same tab, you have a fade duration to adjust Fade In and Fade Out durations.
@@ -142,18 +152,12 @@ If you want to switch to a specific point in the Audio, you can add a bookmark. 
 
 ![add bookmark audio ppt](https://images.wondershare.com/filmora/article-images/2022/02/add-bookmark-audio-ppt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4 How to play audio automatically in PowerPoint
 
 After the above modifications, you can adjust the Audio Options. Thus, you can change how the audio plays in PPT as follows.
 
 ![adjust audio options ppt](https://images.wondershare.com/filmora/article-images/2022/02/adjust-audio-options-ppt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 Then, there are options of Loop until Stopped and Rewind after Playing to adjust with.
 
 So, these were a few simple steps to Insert Audio in PowerPoint and a detailed guide on how to record a PowerPoint presentation with Audio.
@@ -166,9 +170,6 @@ Instead of doing extreme and lengthy steps, we can create a top-notch video with
 
 Let’s see how we can achieve this!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Steps to add audio to PowerPoint via Wondershare Filmora
 
 #### Wondershare Filmora
@@ -180,8 +181,9 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##### Step1 Import audio
 
 Launch the Wondershare Filmora as the necessary primary step. Then, click the Import button below the menu bar and select Import Media Files to add the Audio.
@@ -203,15 +205,17 @@ Double-tap the Audio on the timeline and adjust the Audio to fade-in, fade-out, 
 ![edit audio Filmora](https://images.wondershare.com/filmora/article-images/edit-music.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##### Step4 Export audio
 
 Click the Export tab and choose the format in which you want to export the Audio.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Steps to record audio to PowerPoint via Wondershare Filmora
 
 We suppose that you’ve already launched Wondershare Filmora as your foremost task.
@@ -226,6 +230,10 @@ Hit the New Project tab to create a new project and click Record a voiceover opt
 
 ![record voiceover filmora](https://images.wondershare.com/filmora/article-images/record-voiceover-before-video-editing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3 Edit voiceover
 
 Now, it's time to edit the recorded voiceover and adjust different settings in the audio track, namely the Pitch, Volume, Speed, etc.
@@ -239,13 +247,11 @@ Hit the Export button and choose the Device and Format you’d like to export it
 ![export voiceover filmora](https://images.wondershare.com/filmora/article-images/export-output.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 We feel that this way to insert Audio into PowerPoint is pretty creative than using the PowerPoint itself with the lengthy steps. After doing all the adding and recording of Audio on Wondershare Filmora, you can export the project and add its whole presentation. Thus, there's no need to add extra elements and editing tools in the PowerPoint presentation, which could be tricky for an amateur.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### Conclusion
 
 So, we'd like to conclude our tutorial here on how to add Audio to PowerPoint with the steps required for the purpose. However, we've also discussed all the loops in inserting PowerPoint presentations with Audio. The smartest are those who are quick, professional, and easy-going! Keeping this beautiful phrase in mind, we've recommended using Wondershare Filmora as a handy tool to create compelling PowerPoint presentations and stand better than your competitors.
@@ -273,4 +279,26 @@ In this guide, we’ll specifically talk about the feature by which you can reco
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-how-much-money-does-mr-beast-make/"><u>[New] 2024 Approved How Much Money Does Mr. Beast Make</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-clear-skies-in-video-learn-to-trim-logitech-feeds/"><u>[New] In 2024, Clear Skies in Video – Learn to Trim Logitech Feeds</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-revolutionizing-imaging-with-quantum-hdrs-potential/"><u>[New] In 2024, Revolutionizing Imaging with Quantum HDR's Potential</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-leverage-free-luts-to-upgrade-your-obs-video-production-quality-for-2024/"><u>[New] Leverage Free LUTs to Upgrade Your OBS Video Production Quality for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/trategies-for-maximizing-video-impact-while-staying-in-cc-zone-for-2024/"><u>[New] Strategies for Maximizing Video Impact While Staying in CC Zone for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-insiders-look-at-streaming-content-on-social-media-platforms/"><u>[Updated] In 2024, Insider's Look at Streaming Content on Social Media Platforms</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-find-the-best-online-subtitle-converters-for-no-cost/"><u>2024 Approved Find the Best Online Subtitle Converters for No Cost</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-golden-nuggets-revealing-the-hottest-reddit-topics-10/"><u>2024 Approved Golden Nuggets Revealing the Hottest Reddit Topics (10)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-master-your-sketches-with-the-ultimate-mac-apps/"><u>2024 Approved Master Your Sketches with the Ultimate Mac Apps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-navigating-the-complexities-of-macos-srt-changes/"><u>2024 Approved Navigating the Complexities of macOS SRT Changes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-ultimate-dji-phantom-4-extension-kit-list/"><u>2024 Approved The Ultimate DJI Phantom 4 Extension Kit List</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-top-ae-titles-for-striking-visual-impact/"><u>2024 Approved Top AE Titles for Striking Visual Impact</u></a></li>
+<li><a href="https://fox-access.techidaily.com/a-thorough-evaluation-of-the-high-resolution-dell-p2715q-monitor-for-2024/"><u>A Thorough Evaluation of the High-Resolution Dell P2715Q Monitor for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/become-an-audio-trailblazer-exclusive-vocal-change-techniques-in-free-fire-free-for-2024/"><u>Become an Audio Trailblazer – Exclusive Vocal Change Techniques in Free Fire (Free) for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-oneplus-nord-ce-3-lite-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your OnePlus Nord CE 3 Lite 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/crafting-visual-stories-a-detailed-magix-video-pro-x-review-for-2024/"><u>Crafting Visual Stories A Detailed Magix Video Pro X Review for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/e-ora-di-agire-non-e-piu-possibile-utilizzare-gratuitamente-macrium-reflect-scopri-le-opzioni-di-backup-migliori-qui/"><u>È Ora Di Agire: Non È Più Possibile Utilizzare Gratuitamente Macrium Reflect? Scopri Le Opzioni Di Backup Migliori Qui!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-installing-sony-vaio-drivers-on-your-pc-with-windows-os/"><u>Easy Guide: Installing Sony Vaio Drivers on Your PC with Windows OS</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/quick-solutions-repairing-a-non-booting-duplicate-hard-drive-on-windows-11-5-methods/"><u>Quick Solutions: Repairing a Non-Booting Duplicate Hard Drive on Windows 11 (5 Methods)</u></a></li>
+</ul></div>
 

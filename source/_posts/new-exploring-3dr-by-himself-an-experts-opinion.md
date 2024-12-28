@@ -1,7 +1,7 @@
 ---
 title: "[New] Exploring '3DR' By Himself – An Expert's Opinion"
-date: 2024-08-28T11:04:48.111Z
-updated: 2024-08-29T11:04:48.111Z
+date: 2024-12-27T03:22:34.367Z
+updated: 2024-12-27T21:09:50.392Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/d0be551e2fb6faca9c1b4ad092d1becef6333157c
 
  The 3DR solo is one of the best examples of the excellent industrial product; it can record footage with amazing results in the air. It possesses so many simple yet powerful controls and users whether they are [professionals](https://tools.techidaily.com/wondershare/filmora/download/) or [beginners](https://tools.techidaily.com/wondershare/filmora/download/) can take full advantage of its incredible features. 3DR solo is one of the best product for [cinematographers](https://tools.techidaily.com/wondershare/filmora/download/) as it can work on aerial shoot with breathtaking clarity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Pros and Cons of 3DR Solo
 
 **Pros:**
@@ -48,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/d0be551e2fb6faca9c1b4ad092d1becef6333157c
 
  The 3DR solo drone is designed to serve with amazing aerial photography functions that is why it is one of the most preferred drones by cinematographers. One can easily connect it with GoPro cameras to get stunning shots on height. But the downside is its short battery life and weak GPS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Complete Review
 
 #### 1\. Basic Specs Info
@@ -67,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/d0be551e2fb6faca9c1b4ad092d1becef6333157c
 
 ![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=5a8069fda1f7be3bf48e831452f3ee9d)
 
  People call 3DR Solo one of the most impressive drone with minimal complexities in design. It is the best product for cinematographic needs and you could easily imagine it hovering on the top to capture scenes for Hollywood movies. You will find a 5200mAh battery on top portion of this drone, located near power button. It appears little heavier with the gimbal, camera and battery installation, the overall weight goes up to 3.35 pounds. Note that, you need to get your drone registered with FAA to organise its flights because the weight goes above 0.5 pounds limit. You will find indicating LEDs on this device that keep on indicating full status during its flights and they can be observed in day light too. Users need to connect this device with a smartphone or iOS device to avail full control as well as to get live preview of shoots.
@@ -83,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/d0be551e2fb6faca9c1b4ad092d1becef6333157c
 
 ![3dr solo controller](https://images.wondershare.com/filmora/article-images/3dr-solo-controller.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The 3DR solo controller appears trendy with just two joysticks that offer direct control to acceleration, yaw, pitch and roll. The fly button can be accessed for initiated automated landing and takeoff. A tiny screen is provided to display continuous information about battery condition and telemetry data. One additional knob is available for adjustments of camera angle controls. Other then this you will find one customizable button to activate autonomous flight mode. It also provides one pause button that helps users to make their drone stable in air. All other controls can be managed from application.
 
 #### 6\. Camera
@@ -96,6 +112,10 @@ thumbnail: https://thmb.techidaily.com/d0be551e2fb6faca9c1b4ad092d1becef6333157c
 **You may also like:** [10 Must Have drone accessories and parts](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -120,8 +140,20 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-captivating-cuts-editor-apps-that-liberate-android-users-for-2024/"><u>[New] Captivating Cuts Editor Apps That Liberate Android Users for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-essential-techniques-for-computer-based-vhs-image-transformation/"><u>[New] In 2024, Essential Techniques for Computer-Based VHS Image Transformation</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unleash-creative-potential-with-top-tips-for-gopro-timelapses/"><u>[New] Unleash Creative Potential with Top Tips for GoPro Timelapses</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-symphony-storage-download-and-critique-melodies/"><u>[Updated] 2024 Approved Symphony Storage Download & Critique Melodies</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-step-by-step-implementing-chromes-pip-multiscreen-functionality/"><u>[Updated] In 2024, Step-by-Step Implementing Chrome’s PIP Multiscreen Functionality</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-ringtune-guide-downloading-and-cutting-tamil-melodies-for-2024/"><u>[Updated] RingTune Guide Downloading and Cutting Tamil Melodies for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-adobe-premiere-soundtrack-guide-for-2024/"><u>[Updated] The Ultimate Adobe Premiere Soundtrack Guide for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/incorporate-soundscape-into-visual-discussions/"><u>Incorporate Soundscape Into Visual Discussions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/mastering-timecode-alignment-and-text-modification-in-srt-using-macos-for-2024/"><u>Mastering Timecode Alignment & Text Modification in SRT Using macOS for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/parrots-next-gen-ar-drone-evaluation-for-2024/"><u>Parrot's Next-Gen AR Drone Evaluation for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-tier-innovations-in-virtual-reality-setup/"><u>Top-Tier Innovations in Virtual Reality Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-resolving-volume-is-dirty-error-0x80071ac3/"><u>Understanding and Resolving 'Volume Is Dirty' Error (0X80071AC3)</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

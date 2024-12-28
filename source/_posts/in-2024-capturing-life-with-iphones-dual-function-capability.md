@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Capturing Life with iPhone’s Dual-Function Capability\""
-date: 2024-08-23T04:31:23.974Z
-updated: 2024-08-24T04:31:23.974Z
+date: 2024-12-21T13:49:32.571Z
+updated: 2024-12-27T17:23:16.791Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09
 
  Video or picture capturing these days are plainly one of the frequently done tasks at various instants be it for recording a birthday party or a dance performance. And often times, you might have experienced the urge to take a picture out of the video recording so that the precious moment can be captured. But, switching to photo mode again for this will break the flow and the desired moment will be missed in the next second. And considering this situation, we have brought this article where you will learn to take photos and videos simultaneously.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to shoot a still photo and record a video simultaneously on your iPhone
 
  The feature of simultaneous photo and video recording had begun since the coming of iPhone 5\. So, iPhone 5 and later model users can enjoy taking photos while recording videos while if we talk about other iOS devices, iPad makes this feature available with its fourth generation as well as iPod touch sixth generation started supporting the feature of capturing stills when recording videos.
@@ -40,9 +44,17 @@ thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09
 
 ![](https://images.wondershare.com/filmora/article-images/take-photo-while-recording-videos-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: igeeksblog.com
 
 * Now, to take a still, just tap on the white 'take picture' button that can be noticed at the left of the red button. The screen will flicker each time you press the button to take the photo.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The drawbacks of taking photos and videos simultaneously
 
@@ -59,16 +71,14 @@ thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09
 | **iPhone 6S series** | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
 | **iPhone 7 series**  | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Extract frames from video
 
  If you are one of those who wish to **take photos while recording videos** without compromising the quality, we are glad to inform you that there is a solution for this. You can easily extract a specific frame from the recorded video keeping the standard resolution quality via Wondershare Filmora and will never be bothered about missing anything interesting from the video.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Why Choose Wondershare Filmora?
 
 * It supports a wide range of video formats and can help in extracting the desired frame out from any file format while keeping the quality intact as the original file.
@@ -80,13 +90,11 @@ thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -110,4 +118,19 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-how-to-validate-your-youtube-profile-a-simple-guide/"><u>[New] In 2024, How to Validate Your YouTube Profile? A Simple Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-perfect-pitch-for-producers-techniques-for-flawless-vocal-recordings/"><u>[Updated] In 2024, Perfect Pitch for Producers Techniques for Flawless Vocal Recordings</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-full-scrutiny-the-dji-inspire-1-experience/"><u>2024 Approved Full Scrutiny The DJI Inspire 1 Experience</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-income-reconnaissance-unmasking-mr-beasts-fortune/"><u>2024 Approved Income Reconnaissance Unmasking Mr. Beast's Fortune</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-mastering-hero5-black-pro-photography-and-cinematography-techniques/"><u>2024 Approved Mastering Hero5 Black Pro Photography & Cinematography Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/abridged-blueprint-for-starting-virtual-conversations-zoom-edition/"><u>Abridged Blueprint for Starting Virtual Conversations Zoom Edition</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ace-video-editing-with-kinemaster-skills-plus-10-leading-online-competitors-for-2024/"><u>Ace Video Editing with KineMaster Skills + 10 Leading Online Competitors for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/become-a-whatsapp-guru-key-tips-and-tricks-uncovered-for-2024/"><u>Become a WhatsApp Guru Key Tips and Tricks Uncovered for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corsair-keyboard-backlight-failure-heres-how-to-get-your-board-glowing-again/"><u>Corsair Keyboard Backlight Failure? Here’s How to Get Your Board Glowing Again!</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-a-comfortable-visual-space-notepads-themes-and-fonts-in-window-11/"><u>Crafting a Comfortable Visual Space: Notepad's Themes & Fonts in Window 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>How to Watch Hulu Outside US On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-lenovo-thinkphone-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Lenovo ThinkPhone Phone? | Dr.fone</u></a></li>
+</ul></div>
 

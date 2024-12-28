@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Regaining Access to Windows Photo Viewer  Two Steps for Windows 10\""
-date: 2024-08-28T11:08:18.791Z
-updated: 2024-08-29T11:08:18.791Z
+date: 2024-12-23T23:03:59.960Z
+updated: 2024-12-27T19:22:24.814Z
 tags: 
   - screen-recording
   - ai video
@@ -57,6 +57,10 @@ Here is why they want to restore Windows Photo Viewer –
 
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1 to restore Windows Photo Viewer
 
 The first method speaks about, when you have upgraded from a Windows 7/8/8.1 computer to Windows 10\. You can easily swing back to your most loved Windows Photo Viewer within no time. Here is the detailed guide –
@@ -69,9 +73,6 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## Method 2 to get Windows Photo Viewer back
 
 Here comes another way to restore Windows Photo Viewer on your computer. If your computer has been upgraded to Windows 10 from an older version, then Windows Photo Viewer might be lying around somewhere. You can retrieve it to view images.
@@ -87,45 +88,33 @@ Here is the detailed guide –
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Conclusion
 
 From the above article, we found out that restoring Windows Photo Viewer on your system is not a tough task. But, without having the proper knowledge you shouldn’t play around with your Photos app. So, this article guides you through a reliable method for restoring Windows Photo Viewer and view your photos like you always loved to. We hope you liked our efforts of enlightening you about Windows Photo Viewer and got the necessary information. Plus, if none of these work, you can use [Windows 10 Photos app alternatives](https://tools.techidaily.com/wondershare/filmora/download/). Thanks for reading! Do comment us below to let us know your views.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -149,4 +138,23 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-from-speech-to-text-your-all-inclusive-gdoc-training-guide-for-2024/"><u>[New] From Speech to Text Your All-Inclusive GDoc Training Guide for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-outro-techniques-for-videos/"><u>[New] Mastering Outro Techniques for Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-proven-strategies-for-powerful-customer-success-stories-on-screen-for-2024/"><u>[New] Proven Strategies for Powerful Customer Success Stories on Screen for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-maximize-reach-in-telegram-a-marketers-playbook/"><u>[Updated] 2024 Approved Maximize Reach in Telegram A Marketer's Playbook</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-effortlessly-create-and-manage-cross-platform-communication-channels-with-skype-groups/"><u>[Updated] Effortlessly Create and Manage Cross-Platform Communication Channels with Skype Groups</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-high-speed-fb-video-techniques-for-smooth-playback/"><u>[Updated] High-Speed FB Video Techniques for Smooth Playback</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-accessibility-achieved-the-simple-setup-of-ifunny-app/"><u>[Updated] In 2024, Accessibility Achieved The Simple Setup of iFunny App</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-ideal-equipment-for-animation-photography/"><u>[Updated] In 2024, Ideal Equipment for Animation Photography</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unraveling-the-science-of-motion-without-contact/"><u>[Updated] Unraveling the Science of Motion Without Contact</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/begin-your-journey-into-xps-video-editing-world/"><u>Begin Your Journey Into Xp's Video Editing World</u></a></li>
+<li><a href="https://fox-access.techidaily.com/connect-and-play-xbox-one-zoom-guidebook/"><u>Connect and Play Xbox One Zoom Guidebook</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-a58-4g-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo A58 4G? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-a-comprehensible-guide-to-srt-fundamentals/"><u>In 2024, A Comprehensible Guide to SRT Fundamentals</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-economical-video-editing-solutions-for-beginners-and-pros-for-2024/"><u>New Economical Video Editing Solutions for Beginners and Pros for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/seamless-integration-gopro-hacks-for-360-degree-cinematography-for-2024/"><u>Seamless Integration GoPro Hacks for 360-Degree Cinematography for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-tecno-spark-20-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Tecno Spark 20 FRP</u></a></li>
+</ul></div>
 

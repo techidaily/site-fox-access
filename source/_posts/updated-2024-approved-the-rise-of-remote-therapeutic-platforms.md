@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  The Rise of Remote Therapeutic Platforms\""
-date: 2024-12-21T23:08:09.543Z
-updated: 2024-12-22T23:47:19.191Z
+date: 2024-12-22T05:50:14.031Z
+updated: 2024-12-27T16:07:53.807Z
 tags: 
   - screen-recording
   - ai video
@@ -41,10 +41,14 @@ thumbnail: https://thmb.techidaily.com/d9697a004ae2bbc53020d06bba853be86eb98852f
 
 ![vr-for-healthcare](https://images.wondershare.com/filmora/article-images/virtual-reality-for-healthcare.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Virtual reality in healthcare enables to diagnose with the usage of diagnostic tools and other MRI scans which prevents the need of surgery or any kind of invasion. Virtual reality diagnostics is convenient and less time consuming than the traditional methods.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Virtual robotic surgery
@@ -52,24 +56,20 @@ thumbnail: https://thmb.techidaily.com/d9697a004ae2bbc53020d06bba853be86eb98852f
 ![vr-for-surgery](https://images.wondershare.com/filmora/article-images/virtual-reality-for-surgery.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Usage of Robotic devices like arms however controlled by human surgeons enables them to be more accurate and reduces the amount of risk in surgeries which need more accuracy and precision, making it not only accurate but also a faster process. With accuracy and smaller incisions using robotic devices, it reduces the loss of blood and hence helps in minimising recovery time. The precise and small movement is often difficult for human surgeons, while it can be achieved with by robotic devices, and virtual reality in healthcare enables to control those movements. Training and education is required to learn the right kind of pressure required to perform such procedures. Robotic surgical procedure allows surgeons to ensure risk margins to prevent reoccurrence of the disease .Virtual fixtures for a robotic surgery has been introduces to make it more risk free. The skills required for the robotic surgery are required to perform an open or laparoscopic surgery. Proficiency is acquired by various educational and practical sessions to take those intricate decisions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Virtual reality therapies
 
 ![vr-for-therapies](https://images.wondershare.com/filmora/article-images/vitrural-reality-for-therapies.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Virtual reality in healthcare have therapies in a virtual environment which help psychiatrists to deal with patients with their fears, claustrophobia, anxiety, depression, post-traumatic stress disorder and severe pain cases by providing an environment where they can face their challenges in a controlled form and a risk free zone. They can experiment knowing that it’s a virtual and risk free environment, which can be stopped as per the situation and circumstances. Techniques like exposure therapy makes virtual reality in healthcare favourable for doctors and other health care professionals, it may also have an impact on increasing the overall treatment experience, making it very satisfactory. Studies are being conducted where virtual reality has positively impacted the quality and experience of their stay in the hospitals and rehabilitations. Virtual reality applications and software may also have a role to play in alleviate phantom limb pain, with sensors and its relations with the brain.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Virtual reality consumer and outpatient market
 
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/d9697a004ae2bbc53020d06bba853be86eb98852f
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -108,20 +108,16 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-coherent-and-curated-youtube-playlists-online-and-mobile-assembly-guide/"><u>[New] Coherent and Curated YouTube Playlists Online & Mobile Assembly Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-elite-scripting-plugins-for-ae-for-2024/"><u>[New] Elite Scripting Plugins for AE for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-ultimate-path-to-picsart-proficiency/"><u>[New] The Ultimate Path to PicsArt Proficiency</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-djis-minis-and-airs-no-cost-luts-for-mixing-pros-for-2024/"><u>[Updated] DJI's Minis & Airs No Cost LUTS for Mixing Pros for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-unleashing-funimate-joy-comprehensive-tutorials/"><u>[Updated] In 2024, Unleashing Funimate Joy - Comprehensive Tutorials</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-the-secret-to-love-in-video-editing-filmoras-best-aspects-for-2024/"><u>[Updated] The Secret to Love in Video Editing Filmora's Best Aspects for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/combatting-crazed-windows-7-graphics/"><u>Combatting Crazed Windows 7 Graphics</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/die-13-must-have-freie-dvd-software-fur-nutzer-von-windows-1011-beste-picks/"><u>Die 13 Must-Have Freie DVD-Software Für Nutzer Von Windows 10/11 - Beste Picks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-steps-to-correct-the-detected-graphics-driver-issues-in-oculus-devices/"><u>Easy Steps to Correct the Detected Graphics Driver Issues in Oculus Devices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-zoom-in-on-kinemaster/"><u>How to Zoom in on Kinemaster</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-extract-youtube-soundtracks-for-free-with-this-list-of-25-rippers/"><u>In 2024, Extract YouTube Soundtracks for Free With This List of 25 Rippers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-m1-processor-transforming-the-video-editing-experience/"><u>In 2024, M1 Processor Transforming the Video Editing Experience</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-proven-strategies-to-amplify-zoomed-participants-in-google-meet/"><u>In 2024, Proven Strategies to Amplify Zoomed Participants in Google Meet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-sharing-your-chatgpt-conversations-online/"><u>Step-by-Step Guide: Sharing Your ChatGPT Conversations Online</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/step-by-step-minecraft-video-editing-process-for-2024/"><u>Step-by-Step Minecraft Video Editing Process for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-leading-tech-essential-video-recorders-of-the-net/"><u>[New] Leading Tech Essential Video Recorders of the Net</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-experience-effortless-videodownloads-on-pinterest-with-5-best-tools/"><u>2024 Approved Experience Effortless Videodownloads on Pinterest with 5 Best Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-securing-your-anonymity-during-instagrams-live-feature/"><u>2024 Approved Securing Your Anonymity During Instagram's Live Feature</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-quick-glitch-fix-for-podcast-broadcasts/"><u>2024 Approved The Quick Glitch Fix for Podcast Broadcasts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/5-good-book-trailer-examples/"><u>5 Good Book Trailer Examples</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-12-mini-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 12 mini</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/guide-pratique-pour-transferer-des-donnees-sur-votre-appareil-samsung-via-usb-en-mode-bootable-etape-par-etape/"><u>Guidé Pratique Pour Transférer Des Données Sur Votre Appareil Samsung via USB en Mode Bootable - Étape Par Étape !</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-responsiveness-issues-with-resource-monitor-apps-on-win11/"><u>Resolving Responsiveness Issues with Resource Monitor Apps on Win11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-watching-dvd-movies-on-your-windows-10-pc/"><u>Step-by-Step Guide: Watching DVD Movies on Your Windows 10 PC</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-10-telegram-spy-tools-on-apple-iphone-se-2020-for-parents-drfone-by-drfone-virtual-ios/"><u>Top 10 Telegram Spy Tools On Apple iPhone SE (2020) for Parents | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/top-10-ways-to-convert-mkv-to-mp4-without-losing-quality/"><u>Top 10 Ways to Convert MKV to MP4 Without Losing Quality</u></a></li>
 </ul></div>
 
