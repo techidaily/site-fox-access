@@ -1,7 +1,7 @@
 ---
 title: Guide to Resolve 'Device Not Configured' Error with Code 1
-date: 2024-12-22T11:46:07.446Z
-updated: 2024-12-27T22:11:48.111Z
+date: 2024-12-31T17:11:30.701Z
+updated: 2025-01-06T22:44:40.461Z
 tags:
   - win11
   - win10
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Update the driver manually via Device Manager
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57318a0304278.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Click**Search automatically for updated driver software**. Then Windows will update the driver automatically.  
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57318a2bd0396.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Check to see if the yellow mark next to the device is gone.
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a97796ac519e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to the problem device to automatically download and install the correct version of the driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a9779737fc89.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) After updating the driver, check to see if the yellow mark next to the device is gone.
@@ -103,22 +103,14 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-become-the-brand-you-want-with-our-exclusive-set-of-free-graphics-for-2024/"><u>[New] Become the Brand You Want With Our Exclusive Set of FREE Graphics for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-guide-to-locating-vanished-eyes-only-images-on-snapchat/"><u>[New] In 2024, Guide to Locating Vanished Eyes-Only Images on Snapchat</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-deciphering-the-coded-language-of-concealed-youtube-movies/"><u>[Updated] 2024 Approved Deciphering the Coded Language of Concealed YouTube Movies</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-adeptness-at-mobile-app-development-for-luts/"><u>2024 Approved Adeptness at Mobile App Development for LUTs</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-dissecting-the-functionality-of-burst-in-gopro-filming/"><u>2024 Approved Dissecting the Functionality of Burst in GoPro Filming</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-from-disjointed-to-cohesive-perfecting-video-transition-artistry-on-inshot/"><u>2024 Approved From Disjointed to Cohesive Perfecting Video Transition Artistry on Inshot</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-m1-computation-face-off-lightweight-vs-robust-designs/"><u>2024 Approved M1 Computation Face-Off Lightweight vs Robust Designs</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-mastering-microphone-modifications-for-vtubers/"><u>2024 Approved Mastering Microphone Modifications for VTubers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-powerful-strategies-for-optimizing-gratuitous-timer-use/"><u>2024 Approved Powerful Strategies for Optimizing Gratuitous Timer Use</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-reveling-in-4k-an-in-depth-look-at-yis-hero-series/"><u>2024 Approved Reveling in 4K An In-Depth Look at Yi’s HERO Series</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-scoping-out-superior-cloud-platforms-for-secure-storing/"><u>2024 Approved Scoping Out Superior Cloud Platforms for Secure Storing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-unveiling-top-6-microphones-perfect-for-online-streaming-success/"><u>2024 Approved Unveiling Top 6 Microphones Perfect for Online Streaming Success</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-quick-guide-to-incor-written-as-a-python-list-which-represents-the-30-titles-above-the-elements-of-this-list-should-be-strings-that-are-already-comp/"><u>In 2024, Quick Guide to Incor Written as a Python List, Which Represents the 30 Titles Above. The Elements of This List Should Be Strings that Are Already Complete Sentences and Adhere to the Given Constraints. Ensure No Title Exceeds 156 Characters</u></a></li>
-<li><a href="https://techtrends.techidaily.com/in-depth-how-to-enable-and-utilize-remote-access-on-a-samsung-smart-television/"><u>In Depth: How to Enable and Utilize Remote Access on a Samsung Smart Television</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/masterful-technology-for-virtual-meetings/"><u>Masterful Technology for Virtual Meetings</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/maximize-learning-free-tools-for-online-video-texts/"><u>Maximize Learning Free Tools for Online Video Texts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/overcoming-chatgpt-hiccups-in-live-transmission/"><u>Overcoming ChatGPT Hiccups in Live Transmission</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-instant-illusions-mastering-time-lapse-photography-on-samsung/"><u>[New] 2024 Approved Instant Illusions Mastering Time-Lapse Photography on Samsung</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-shooting-spectacle-top-9-strategies-for-panoramic-videos/"><u>[New] 2024 Approved Shooting Spectacle Top 9 Strategies for Panoramic Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-essential-guide-recording-video-calls-on-pctablet-for-2024/"><u>[New] Essential Guide Recording Video Calls on PC/Tablet for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-dynamic-typography-guide-the-most-innovative-ae-text-ideas/"><u>[Updated] Dynamic Typography Guide The Most Innovative AE Text Ideas</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-tropico-6-the-downfall-of-a-dreamy-archipelago/"><u>Exploring Tropico 6: The Downfall of a Dreamy Archipelago</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-essential-playlists-for-engaging-unboxing-videos/"><u>In 2024, Essential Playlists for Engaging Unboxing Videos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x90s-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Vivo X90S Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/l-top-8-websites-with-free-green-screen-video-treasures-for-2024/"><u>Unveil Top 8 Websites with FREE Green Screen Video Treasures for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wireless-fun-unleashed-configuring-your-nintendo-switch-console-with-a-television-display/"><u>Wireless Fun Unleashed: Configuring Your Nintendo Switch Console with a Television Display</u></a></li>
 </ul></div>
 

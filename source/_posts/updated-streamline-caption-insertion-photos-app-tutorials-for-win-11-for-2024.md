@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Streamline Caption Insertion  Photos App Tutorials for WIN 11 for 2024\""
-date: 2024-11-30T17:46:41.019Z
-updated: 2024-12-07T19:09:17.772Z
+date: 2024-12-30T19:11:46.208Z
+updated: 2025-01-06T21:13:26.064Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,10 @@ Adding the titles/text to video is a great way to explain the people about a cer
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Add Titles/Text to Video on Photos in Windows 10
 
 Do you wish to add titles/text to video on Photos in Windows 10 for your video projects? You may not get several options for video editing in spite of some powerful addition of application in Microsoft Store. But, the Windows 10 Photos app feature offers an add-on for creating video from your phone’s media. Let’s learn how to add titles/text to video on Photos in Windows 10.
@@ -47,17 +51,13 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/add-text-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * You may also add the image from the project library to the storyboard if you cannot find the image in the preset categories
 * Resize the image if black parts appear by clicking on resize and then, remove black parts
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/resize-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * To add titles/text to video on Photos in Windows 10 that perfectly match the background, type out the title in the text box at the top right corner
@@ -65,7 +65,7 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Make Text Move in Windows 10 Photos App
@@ -85,13 +85,13 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
@@ -102,7 +102,7 @@ To add titles/text to video on Photos in Windows 10 and to make the text move wi
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -130,17 +130,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-ultimate-guide-to-kids-drones/"><u>[New] 2024 Approved The Ultimate Guide to Kids' Drones</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-posting-photos-and-vids-to-twitter-from-your-phone-not-as-a-retweet/"><u>[New] In 2024, Posting Photos and Vids to Twitter From Your Phone, Not as a Retweet</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-explore-10-prime-video-editing-apps-for-android-and-pc/"><u>[Updated] In 2024, Explore 10 Prime Video Editing Apps for Android and PC</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-navigating-figma-erase-background-elements-seamlessly/"><u>[Updated] In 2024, Navigating Figma Erase Background Elements Seamlessly</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-snapshot-speaks-the-leading-captioning-apps-iosandroid/"><u>[Updated] Snapshot Speaks The Leading Captioning Apps (iOS/Android)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/fotovisparing-ladda-ner-professionella-bildvisare-for-windows-and-mac/"><u>Fotovisparing Ladda Ner: Professionella Bildvisare För Windows & Mac</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/go-big-or-go-home-selecting-the-most-satisfying-1tbplus-cloud-services/"><u>Go Big or Go Home - Selecting the Most Satisfying 1TB+ Cloud Services</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratuitamente-trasforma-i-tuoi-file-vob-in-formato-mpeg-con-lutilita-online-di-movavi/"><u>Gratuitamente Trasforma I Tuoi File VOB in Formato MPEG Con L'utilità Online Di Movavi</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-nubia-red-magic-8s-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Nubia Red Magic 8S Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-strategies-to-evade-content-flagging/"><u>In 2024, Strategies to Evade Content Flagging</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/transform-your-videos-with-the-right-dimension-proportions/"><u>Transform Your Videos with the Right Dimension Proportions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-abletons-art-of-softening-soundscapes/"><u>[New] 2024 Approved Ableton's Art of Softening Soundscapes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-videovisionary-toolkit/"><u>[New] 2024 Approved VideoVisionary Toolkit</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-exploring-windows-hdr-video-features/"><u>[New] In 2024, Exploring Windows HDR Video Features</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-elite-8-video-transformations-for-virtual-events/"><u>[Updated] 2024 Approved Elite 8 Video Transformations for Virtual Events</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-excellence-collection-highest-quality-webcam-supports/"><u>[Updated] 2024 Approved Excellence Collection Highest Quality Webcam Supports</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-investigating-freezing-moments-in-photobooth-recordings/"><u>[Updated] 2024 Approved Investigating Freezing Moments in Photobooth Recordings</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-step-by-step-guide-to-rearranging-youtube-playlists/"><u>[Updated] 2024 Approved Step-by-Step Guide to Rearranging YouTube Playlists</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-restoring-iphone-xs-trust-reviving-biometric-lock/"><u>[Updated] Restoring iPhone X's Trust Reviving Biometric Lock</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-ten-practices-to-avoid-vr-motion-sickness/"><u>[Updated] Ten Practices to Avoid VR Motion Sickness</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/5aac5l2v5ywn6lk75zue5b6p56gs6auu5rif56m65b6m55qe6zu76iwm5pw45poa/"><u>如何免費回復硬體清空後的電腦數據</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-nokia-c12-plus-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Nokia C12 Plus Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a14-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Samsung Galaxy A14 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-vivo-x100-pro-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Vivo X100 Pro Phone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/top-10-gamer-friendly-pc-configurations-ranging-from-modest-500-sets-to-premium-4kplusplus-systems/"><u>Top 10 Gamer-Friendly PC Configurations : Ranging From Modest $500 Sets to Premium $4K++ Systems</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/unable-to-locate-the-webpage-understanding-error-404/"><u>Unable to Locate the Webpage: Understanding Error 404</u></a></li>
 </ul></div>
 

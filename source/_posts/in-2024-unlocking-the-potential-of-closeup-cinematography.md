@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlocking the Potential of Closeup Cinematography"
-date: 2024-12-20T22:13:05.123Z
-updated: 2024-12-22T17:56:51.985Z
+date: 2025-01-05T01:25:43.703Z
+updated: 2025-01-06T22:53:35.405Z
 tags: 
   - screen-recording
   - ai video
@@ -38,7 +38,7 @@ Any person having a photography background can learn the nuances of the macro vi
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6 Tips For Making Macro Video
@@ -73,15 +73,15 @@ Try to get great visual perspectives or angles by bracing the camera on the tree
 
 ![Tripod](https://images.wondershare.com/filmora/article-images/oconnor-ultimate-1030d-fluid-head-30l-cf-tripod.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 3\. Background
 
 The background of your macro video always remains blurred as you shoot it closely. But, the background color is visible so, choosing it correctly is vital. The color of the background must compliment your composition’s color and must be chosen creatively.
 
 ![background](https://images.wondershare.com/filmora/article-images/separate-the-foreground-from-background.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 4\. DSLR Cameras
 
@@ -92,6 +92,10 @@ If you are a Canon user, you may opt for the 180 mm macro, 100 mm macro or the 6
 You may also add an extension tube which basically splits the focal distance in two equal halves and make the image size bigger but it decreases the depth of the field.
 
 ![dslr camera](https://images.wondershare.com/filmora/article-images/dslr-camera-full-rig.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 5\. Depth of Field
 
@@ -104,7 +108,7 @@ But, you must remember that when the opening of the lens is small, the light req
 ![depth of field](https://images.wondershare.com/filmora/article-images/depth-of-field.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 6\. Composition
@@ -116,7 +120,7 @@ For instance, in order to keep a snail always in focus, you may choose to shoot 
 ![composition](https://images.wondershare.com/filmora/article-images/composition.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -124,10 +128,6 @@ For instance, in order to keep a snail always in focus, you may choose to shoot 
 Once you can master the above tips for making the macro video, you can easily shoot small objects like a pro. A videographer’s experience and creativity can be matched even by you if you can easily grasp the techniques, practice it, and implement creatively while making your macro videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -154,14 +154,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-how-to-zoom-in-google-meet-best-ways/"><u>[Updated] 2024 Approved How to Zoom in Google Meet [Best Ways]</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-pathway-to-visual-storytelling-through-gifs/"><u>[Updated] 2024 Approved The Pathway to Visual Storytelling Through GIFs</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-capturing-magic-essential-cinematographic-secrets-unveiled/"><u>2024 Approved Capturing Magic Essential Cinematographic Secrets Unveiled</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-perfecting-screen-magnification-techniques-on-ms-teams/"><u>2024 Approved Perfecting Screen Magnification Techniques on MS Teams</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/usb-c-lightning-iphone/"><u>如何利用 USB-C / Lightning 線接頭進行iPhone之間的有線資料轉移：步驟解析</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/discover-innovative-strategies-in-creating-stunning-fb-ad-videos-for-2024/"><u>Discover Innovative Strategies in Creating Stunning FB Ad Videos for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-dynamic-focus-enhanced-handheld-shot-quality/"><u>In 2024, Dynamic Focus Enhanced Handheld Shot Quality</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-adding-tunes-to-your-insta-videos/"><u>Step-by-Step Guide: Adding Tunes to Your Insta Videos</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/streamline-your-audio-file-editing-with-our-hassle-free-online-mp4-to-wav-converter/"><u>Streamline Your Audio File Editing with Our Hassle-Free Online MP4 to WAV Converter!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-how-to-shoot-a-time-lapse-video-with-gopro-hero5-black/"><u>[New] 2024 Approved How to Shoot a Time-Lapse Video with GoPro Hero5 Black</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-key-to-smooth-segments-crossfade-logic-pro-steps/"><u>[New] 2024 Approved The Key to Smooth Segments Crossfade Logic Pro Steps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-fast-tracked-finesse-how-to-efficiently-edit-and-enhance-windows-photos-for-2024/"><u>[New] Fast-Tracked Finesse How to Efficiently Edit and Enhance Windows Photos for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-from-concept-to-completion-a-windows-10-video-editors-journey-for-2024/"><u>[New] From Concept to Completion A Windows 10 Video Editor’s Journey for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-top-ranked-desktop-pcs-for-gamers/"><u>[New] In 2024, Top-Ranked Desktop PCs for Gamers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-plain-definitions-in-storytelling-basics/"><u>[New] Plain Definitions in Storytelling Basics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-creating-gripping-videography-content-plans/"><u>[Updated] 2024 Approved Creating Gripping Videography Content Plans</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-automated-text-transcription-powerpoints-new-edge/"><u>[Updated] Automated Text Transcription PowerPoint's New Edge</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-captivating-chats-with-animated-content-an-in-depth-guide-to-snapchats-gif-feature/"><u>[Updated] Captivating Chats with Animated Content An In-Depth Guide to Snapchat's GIF Feature</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-figure-skating-highlights-2022/"><u>[Updated] Figure Skating Highlights 2022</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-step-by-step-guide-to-professional-instagram-live-conversations-for-2024/"><u>[Updated] Step-by-Step Guide to Professional Instagram Live Conversations for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/comment-creer-un-systeme-damorcage-avec-cle-usb-sur-windows-10-une-approche-simple-et-facile/"><u>Comment Créer Un Système D'Amorçage Avec Clé USB Sur Windows 10 : Une Approche Simple Et Facile</u></a></li>
+<li><a href="https://win11.techidaily.com/flawless-frames-winning-views-top-strategies-for-smooth-playback/"><u>Flawless Frames, Winning Views: Top Strategies for Smooth Playback</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-drone-families-and-forms/"><u>In 2024, Drone Families and Forms</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-techniques-selecting-audioscapes-for-unveiling-videos/"><u>In 2024, Techniques Selecting Audioscapes for Unveiling Videos</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-surplus-the-top-10-benefits-of-quitting-facebook-for-real-living/"><u>Social Media Surplus: The Top 10 Benefits of Quitting Facebook for Real Living</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-oppo-a58-4g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Oppo A58 4G Fingerprint Not Working Solutions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Becoming a Snapshot Wizard  Top Positions for iPhone Photos\""
-date: 2024-08-23T04:29:20.890Z
-updated: 2024-08-24T04:29:20.890Z
+date: 2024-12-30T18:06:40.258Z
+updated: 2025-01-07T02:15:07.083Z
 tags: 
   - screen-recording
   - ai video
@@ -58,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/4c8d9f631d7921c719a1941a590fa8e1cb22a0616
 
 ![straight-shots-iphone](https://images.wondershare.com/filmora/article-images/straight-shots-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: Digital Photography Review
 
  Raising your head up from time to time to see what is directly above you, may not be such a bad idea for any aspiring iPhone photographer because it will enable you to snap a photo from a unique perspective. Forests, skyscrapers or starry skies are all perfect scenery for straight up shots, however, if the scene doesn't have enough light try to avoid holding your iPhone in your hand, because you might end up with a blurry picture.
@@ -74,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/4c8d9f631d7921c719a1941a590fa8e1cb22a0616
 
 ![bird-eye-view-shots](https://images.wondershare.com/filmora/article-images/bird-eye-view-shots.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: Google
 
  Looking down on a beautiful view impresses everyone, but putting yourself in a position to watch the world from a top of a mountain or even a building requires a certain level of preparation. However, a bird's eye view angle can be captured on any location, and you just need to place yourself above the subject of your photo. This type of shot can be used for portraits, areal shots, and even breathtaking landscapes, but all objects depicted in bird's eye view photos will appear smaller than they actually are.
@@ -83,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/4c8d9f631d7921c719a1941a590fa8e1cb22a0616
 #### 6\.  Use a Frame Within a Frame
 
 ![use-frame-photography](https://images.wondershare.com/filmora/article-images/use-frame-photography.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image resource: Chris Utano Photography
 
@@ -94,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/4c8d9f631d7921c719a1941a590fa8e1cb22a0616
 
 ![shoot-trought-another-subject](https://images.wondershare.com/filmora/article-images/shoot-trought-another-subject.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: Digital Photo Secrets
 
  You don't have to know anything about camera lens filters in order to use them. Your sunglasses, glasses of water or any other transparent or reflecting surface can be used as a filter through which you take pictures.
@@ -101,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/4c8d9f631d7921c719a1941a590fa8e1cb22a0616
  If you take a photo through a glass of water you'll be able to create a distorted image of the view behind the glass. Taking photos through transparent objects can be a lot of fun, but it is often more complicated than it seems. Controlling aperture, exposure or focus manually from your iPhone may help you get better results because you'll be able to decide where the focal point of the photo will be or fine-tune the amount of light your iPhone camera can pick up.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -125,10 +145,22 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-bold-broadcasters-on-a-budget-youtube-live-not-1000plus-supporters/"><u>[New] Bold Broadcasters on a Budget YouTube LIVE, Not 1000+ Supporters</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-essential-android-photography-tools-for-2024/"><u>[New] Essential Android Photography Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-best-online-companion-for-customizing-your-video-branding/"><u>[New] The Best Online Companion for Customizing Your Video Branding</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-ice-capped-inspiration-chinas-sports-spectacle/"><u>[Updated] 2024 Approved Ice-Capped Inspiration China's Sports Spectacle</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-free-image-repository-roundup-top-10-sites-reviewed-for-2024/"><u>[Updated] Free Image Repository Roundup Top 10 Sites Reviewed for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-in-depth-look-at-lg-27uhd68-4k-sync-technology/"><u>[Updated] In 2024, In-Depth Look at LG 27UHD68, 4K Sync Technology</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-revamping-your-videos-top-5-mac-editors-at-hand/"><u>[Updated] Revamping Your Videos? Top 5 Mac Editors at Hand</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/androids-ultimate-guide-to-photo-editors-is-pickup-a-contender-for-2024/"><u>Android’s Ultimate Guide to Photo Editors Is PickUp a Contender for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-solutions-to-resolve-safari-cant-load-webpage-issue/"><u>Easy Solutions to Resolve 'Safari Can't Load Webpage' Issue</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-guide-windows-movie-maker-60-configuration-for-2024/"><u>Expert Guide Windows Movie Maker 6.0 Configuration for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-setting-the-scene-a-complete-guide-to-adding-custom-sounds-and-ringtones-on-android/"><u>In 2024, Setting the Scene A Complete Guide to Adding Custom Sounds and Ringtones on Android</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/laughlounge-beginner-friendly-content-creation-for-2024/"><u>LaughLounge Beginner-Friendly Content Creation for 2024</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/two-methods-starting-windows-server-201/"><u>Two Methods: Starting Windows Server 201</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-the-ultimate-list-10-best-video-editing-apps-for-vloggers/"><u>Updated 2024 Approved The Ultimate List 10 Best Video Editing Apps for Vloggers</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
