@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Title Your Photos Quickly  Captioning Techniques in Photos App Win 11\""
-date: 2024-08-23T04:16:15.755Z
-updated: 2024-08-24T04:16:15.755Z
+date: 2025-01-06T16:01:03.912Z
+updated: 2025-01-13T16:00:15.597Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,10 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/add-text-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * You may also add the image from the project library to the storyboard if you cannot find the image in the preset categories
 * Resize the image if black parts appear by clicking on resize and then, remove black parts
 
@@ -62,21 +66,30 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
@@ -84,8 +97,9 @@ To add titles/text to video on Photos in Windows 10 and to make the text move wi
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -109,4 +123,24 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-differentiating-between-metaverse-and-multiplemetaverse-worlds/"><u>[New] 2024 Approved Differentiating Between Metaverse & MultipleMetaverse Worlds</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-advanced-lighting-strategies-for-superior-iphone-photos/"><u>[New] Advanced Lighting Strategies for Superior iPhone Photos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-control-youtube-audio-mobiledesktop-approach/"><u>[New] In 2024, Control YouTube Audio Mobile/Desktop Approach</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-guide-to-video-call-capturing-on-devices/"><u>[New] The Ultimate Guide to Video Call Capturing on Devices</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-from-raw-to-refined-expert-techniques-for-youtube-content-creators/"><u>[Updated] 2024 Approved From Raw to Refined Expert Techniques for YouTube Content Creators</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-enhancing-engagement-streaming-historical-video-events-on-facebook/"><u>[Updated] Enhancing Engagement Streaming Historical Video Events on Facebook</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-gopro-start-up-must-haves-decoded/"><u>[Updated] GoPro Start-Up Must-Haves Decoded</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-techniques-for-smoothly-fading-audio-within-lumafusion/"><u>[Updated] In 2024, Techniques for Smoothly Fading Audio Within Lumafusion</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-newest-vr-cam-face-off-hero5-and-yis-latest-battle/"><u>[Updated] In 2024, The Newest VR Cam Face-Off Hero5 and Yi's Latest Battle</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-real-time-12-hd-streaming-app-for-content-lovers-for-2024/"><u>[Updated] Real-Time 12 HD Streaming App for Content Lovers for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-ultimate-guide-to-lgs-advanced-4k-visual-display/"><u>2024 Approved The Ultimate Guide to LG’s Advanced 4K Visual Display</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-your-pcs-performance-solutions-for-optimizing-a-sluggish-windows-11-experience/"><u>Boost Your PC's Performance: Solutions for Optimizing a Sluggish Windows 11 Experience</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-infinix-note-30-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-moto-g73-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Motorola Moto G73 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-essential-guide-utilizing-luts-in-ae/"><u>In 2024, Essential Guide Utilizing LUTs in AE</u></a></li>
+<li><a href="https://fox-access.techidaily.com/light-up-your-media-select-5-excellent-apps/"><u>Light Up Your Media Select 5 Excellent Apps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/live-streaming-war-confronting-the-titans-wirecast-and-obs/"><u>Live Streaming War Confronting the Titans, Wirecast & OBS</u></a></li>
+</ul></div>
 

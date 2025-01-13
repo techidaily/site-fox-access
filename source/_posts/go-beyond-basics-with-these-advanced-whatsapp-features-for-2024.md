@@ -1,7 +1,7 @@
 ---
 title: "Go Beyond Basics with These Advanced WhatsApp Features for 2024"
-date: 2025-01-01T03:33:07.622Z
-updated: 2025-01-06T23:33:04.715Z
+date: 2025-01-09T16:10:46.548Z
+updated: 2025-01-13T16:12:18.585Z
 tags: 
   - screen-recording
   - ai video
@@ -66,7 +66,7 @@ The monospace is a font stylization now available in WhatsApp that allows you to
 ![Whatsapp Text Tricks Monospace](https://images.wondershare.com/filmora/article-images/whatsapp-text-tricks-monospace.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 5.Disable Read Recipients
@@ -74,6 +74,10 @@ The monospace is a font stylization now available in WhatsApp that allows you to
 WhatsApp introduced the Blue Tick feature to notify users when their messages are not only delivered but are seen by the recipients. But it has also been the cause of fallouts between loved ones and even trouble at work for failing to respond despite a Blue Tick. Now you can control the fury with WhatsApp Text Tricks of disabling the Read Recipient feature. Go Settings >> Account >> Privacy >> Read Recipients. By doing this, you won’t be able to see your contact’s blue ticks as no one will be able to see yours. Unlike custom notifications, the Read Recipient feature applies to your entire contact list and cannot be used for one specific contact. The sender would see black double ticks even if you read the message.
 
 ![Whatsapp Disable Read Recipients](https://images.wondershare.com/filmora/article-images/whatsapp-disable-read-recipients.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 6.Pin Prioritized Contacts
 
@@ -89,6 +93,10 @@ If you wish to save the chats that you exchanged with someone special, you can e
 
 ![Whatsapp Export Chat Logs](https://images.wondershare.com/filmora/article-images/whatsapp-export-chat-logs.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 8.WhatsApp Font Tricks for Formatting
 
 Though we have already mentioned the shortcuts for bold, italics, and other text formatting features, there is another way to format your texts if you forget the shortcuts - go for the Native Settings Strip. Once you are done typing, then tap and hold the text sections you want to format, this will open all the options in a list. You can scroll it to select your formatting command.
@@ -101,15 +109,15 @@ There are plenty of things you can do with one word. It can be bold, italic, mon
 
 ![Apply All Whatsapp Font Tricks](https://images.wondershare.com/filmora/article-images/apply-all-whatsapp-font-tricks.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 10.Share Sections of Messages While Typing
 
 While typing a WhatsApp message if you need to cross-check certain areas with someone else, and don’t want to copy the text or overwrite your clipboard, you can directly share the text without copy-pasting or taking screenshots. This WhatsApp Typing Trick is in the same native setting strip mentioned earlier, which you can access by tapping and holding the text section you want to share, which will open the formatting strip. Once it opens then click on the 3 dots, which will turn the strip into a panel, in the panel you will find what you are looking for. The coolest part is that you can share the text not only in WhatsApp but multiple other apps like Zoom, Skype, Email… even Bluetooth!
 
 ![Whatsapp Typing Trick](https://images.wondershare.com/filmora/article-images/whatsapp-typing-trick.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the Hidden Features of WhatsApp?
 
@@ -124,10 +132,6 @@ Never be caught up creating a group for a one-time cause and see it becoming som
 There are many ways how you can save mobile data consumed by WhatsApp. First, you can reduce the data consumption while on call, secondly, control the downloading of media when mobile data is running. You will find both the customization options under Data and Storage in your WhatsApp settings.
 
 ![Whatsapp Save More Data](https://images.wondershare.com/filmora/article-images/whatsapp-save-more-data.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Source: androidauthority.com
 
@@ -151,10 +155,6 @@ Sometimes you just need to hush your WhatsApp for just a while. Perhaps you have
 
 ![Whatsapp Hidden Feature Snooze Whatsapp](https://images.wondershare.com/filmora/article-images/whatsapp-hidden-feature-snooze-whatsapp.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 7.Automatically Delete Messages After 7 Days
 
 Not every message thread is important, and many people have the habit of deleting messages just to feel organized. WhatsApp brings some zero-effort minimalism for you with this new feature available for Android users. Update your app and visit the contact’s page in WhatsApp and you will be able to see the “Disappearing Messages” option. If you enable this, your chats with the particular contact will be deleted automatically on their own.
@@ -162,7 +162,7 @@ Not every message thread is important, and many people have the habit of deletin
 ![Whatsapp Auto Delete Messages](https://images.wondershare.com/filmora/article-images/whatsapp-auto-delete-messages.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 8.Mute Stories that You Don’t Want to See
@@ -170,6 +170,10 @@ Not every message thread is important, and many people have the habit of deletin
 If it is annoying to open a loved one’s story and then automatically sliding into a story you did not want to open, you can MUTE the people whose stories you are not interested to see. Go to Story and tap and hold the unwanted contact to open the Mute option. Even though there is no option that you can stop the automatic carousel to the next contact’s stories altogether, you can always go by the rule of the thumb - place your thumb on the screen and the carousel won’t move.
 
 ![Mute Whatsapp Stories](https://images.wondershare.com/filmora/article-images/mute-whatsapp-stories.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 9.Reply Privately to Recipients in a WhatsApp Group
 
@@ -184,7 +188,7 @@ Manage how you are notified of messages from specific contacts and groups. Go to
 Source: beebom.com
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Edit WhatsApp Videos with Ease
@@ -198,7 +202,7 @@ There are no download options for photos and videos for WhatsApp Statuses, yet y
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 2.Record Video Calls from PC and Improve Its Quality
@@ -208,10 +212,6 @@ For this WhatsApp Video Editing Trick, you would need to have a third-party scre
 #### 3.Snip Out a GIF from a Video
 
 You can create an instant GIF out of the video file within WhatsApp. Do this, let the video download, and then freshly share it from Attach >> Gallery >> Videos. Before sending, the video editing panel would open, there, you can see the GIF option at the top right. It will shorten your video to 6 seconds, adjust the cursor to the portion you wish to use.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -246,20 +246,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-a-list-websites-with-free-thrones-audio-downloads/"><u>[New] A-List Websites with Free Thrones Audio Downloads</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-breaking-boundaries-top-6-artists-leading-nft-frontier/"><u>[New] Breaking Boundaries Top 6 Artists Leading NFT Frontier</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-speech-to-script-top-apps-for-on-the-go-text-generation/"><u>[New] In 2024, Speech to Script Top Apps for On-the-Go Text Generation</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-scriptwriting-a-comprerancial-guide-to-slug-lines-for-2024/"><u>[New] Scriptwriting A Comprerancial Guide to Slug Lines for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-411-on-building-sports-video-gold/"><u>[New] The 411 on Building Sports Video Gold</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-embracing-diversity-easeus-tech-assessment/"><u>[Updated] 2024 Approved Embracing Diversity, EaseUS Tech Assessment</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-crafting-visual-dynamics-illustrator-motion-blur-tips/"><u>[Updated] Crafting Visual Dynamics Illustrator Motion Blur Tips</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-elevating-execution-the-fonts-of-after-effects/"><u>[Updated] Elevating Execution The Fonts of After Effects</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-from-copycat-to-originalist-crafting-funny-relatable-memes/"><u>[Updated] In 2024, From Copycat to Originalist Crafting Funny, Relatable Memes</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-master-the-art-of-archiving-with-these-13-key-techniques/"><u>[Updated] Master the Art of Archiving with These 13 Key Techniques</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-proving-ideal-for-iphone-users-9-photo-watermarking-tools-for-2024/"><u>[Updated] Proving Ideal for iPhone Users 9 Photo Watermarking Tools for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-vive-review-where-real-and-virtual-collide-for-maximum-impact/"><u>[Updated] Vive Review Where Real and Virtual Collide for Maximum Impact</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-visual-voyage-enhancing-videos-using-youtube-studios-tools/"><u>2024 Approved Visual Voyage Enhancing Videos Using YouTube Studio's Tools</u></a></li>
-<li><a href="https://driver-download.techidaily.com/direct-download-links-newest-nvidia-geforce-rtx-cufft-driver-for-microsoft-windows-64-bit/"><u>Direct Download Links: Newest Nvidia GeForce RTX cuFFT Driver For Microsoft Windows (64-Bit)</u></a></li>
-<li><a href="https://win11.techidaily.com/turbocharge-your-printer-fast-windows-fixes/"><u>Turbocharge Your Printer: Fast Windows Fixes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-crafting-an-aural-experience-for-previews-for-2024/"><u>[New] Crafting an Aural Experience for Previews for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-10-financially-friendly-live-streaming-apps-ios-and-android-reviewed/"><u>[New] In 2024, 10 Financially Friendly Live Streaming Apps IOS & Android Reviewed</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-personal-emblem-creation-fashioning-an-exaggerated-self-for-2024/"><u>[New] Personal Emblem Creation Fashioning an Exaggerated Self for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-transforming-media-captions-the-creme-de-la-creme-of-top-online-editors/"><u>[Updated] 2024 Approved Transforming Media Captions The Crème De La Créme of Top Online Editors</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-covert-content-creation-how-to-invisibly-alter-videos/"><u>[Updated] Covert Content Creation How to Invisibly Alter Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-cutting-edge-introduction-editors-for-all-your-tech/"><u>[Updated] Cutting-Edge Introduction Editors for All Your Tech</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-superior-sd-cards-that-power-up-your-gopro-hero-78/"><u>[Updated] In 2024, Superior SD Cards that Power Up Your GoPro Hero 7/8</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/conquer-the-world-of-video-downloads-software-or-freely-whats-best-for-you-in-2024/"><u>Conquer the World of Video Downloads Software or Freely, What's Best for You, In 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-anti-fog-gear-for-clear-shot-capture-in-cold-weather/"><u>In 2024, Anti-Fog Gear for Clear Shot Capture in Cold Weather</u></a></li>
+<li><a href="https://fox-access.techidaily.com/navigating-the-world-of-srt-alteration-in-macos-systems/"><u>Navigating the World of SRT Alteration in macOS Systems</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-comparison-of-googles-speakers-nest-audio-and-nest-mini-side-by-side/"><u>The Ultimate Comparison of Google's Speakers - Nest Audio and Nest Mini Side by Side</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlock-the-potential-of-your-site-with-cookiebot-solutions/"><u>Unlock the Potential of Your Site with Cookiebot Solutions</u></a></li>
 </ul></div>
 

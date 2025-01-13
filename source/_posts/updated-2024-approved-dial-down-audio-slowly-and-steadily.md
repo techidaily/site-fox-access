@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Dial Down Audio, Slowly and Steadily\""
-date: 2025-01-03T01:09:08.035Z
-updated: 2025-01-07T03:25:23.061Z
+date: 2025-01-10T16:03:38.813Z
+updated: 2025-01-13T16:08:02.330Z
 tags: 
   - screen-recording
   - ai video
@@ -43,6 +43,10 @@ Step3 After getting the volume parameter, now you will need to create automation
 
 ![create automation clips fl studio](https://images.wondershare.com/filmora/article-images/2022/07/create-automation-clips-fl-studio.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After selecting that, there will be an addition of a new automation clip to the playlist.
 
 Step4 Due to the automation clip, you will be able to do a smooth transition in and out of that song or audio. Now, you can create a suitable volume for fading your sound. If you want to create another new automation, then click on the right. After that click on the left and drag it.
@@ -66,7 +70,7 @@ Step2 To fade audio in, you have to go to the audio setting. Then drag the point
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3 If you want your audio to fade out, again go to the audio setting. Then drag the pointer to the fade-out option. Now set your duration and see the fade-out effect.
@@ -75,12 +79,16 @@ No matter which audio editing software, what matters is the learning outcome. Le
 
 ## Related FAQs of FL Studio Audio Editing
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. How to fade out FL studio mobile?
 
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. How to crescendo in FL studio?
@@ -101,13 +109,13 @@ Step1 The first thing you have to do is successfully install the Filmora softwar
 
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
 
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3 If you want your audio to fade out, again go to the audio setting. Then drag the pointer to the fade-out option. Now set your duration and see the fade-out effect.
 
@@ -119,17 +127,9 @@ No matter which audio editing software, what matters is the learning outcome. Le
 
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. How to crescendo in FL studio?
 
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. What is declicking mode FL studio?
 
@@ -159,21 +159,18 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-eliminate-discomfort-quick-tips-to-beat-vr-sickness-for-2024/"><u>[New] Eliminate Discomfort Quick Tips to Beat VR Sickness for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/lluminate-your-content-creation/"><u>[New] Illuminate Your Content Creation</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-select-your-dreams-best-vr-bike-trails-for-2024/"><u>[New] Select Your Dreams Best VR Bike Trails for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-innovative-interface-intensity/"><u>[Updated] In 2024, Innovative Interface Intensity</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-top-streaming-technology-for-live-events/"><u>[Updated] In 2024, Top Streaming Technology for Live Events</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-instagram-the-ultimate-video-editing-handbook-for-2024/"><u>[Updated] Mastering Instagram The Ultimate Video Editing Handbook for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-photoshop-magic-master-the-art-of-background-elimination/"><u>[Updated] Photoshop Magic Master the Art of Background Elimination</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-guide-to-enhancing-videos-with-online-filters-for-2024/"><u>[Updated] The Ultimate Guide to Enhancing Videos with Online Filters for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-top-vr-game-engines/"><u>[Updated] Top VR Game Engines</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-unleash-your-devices-potential-with-these-8-must-have-apps/"><u>[Updated] Unleash Your Device's Potential with These 8 Must-Have Apps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/addictive-rhythms-await-with-beat-sabers-latest-complimentary-track-bundle-and-innovative-cutting-control-updates/"><u>Addictive Rhythms Await with Beat Saber's Latest Complimentary Track Bundle and Innovative Cutting Control Updates!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-verizon-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock Verizon Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-proving-ideal-for-iphone-users-9-photo-watermarking-tools/"><u>In 2024, Proving Ideal for iPhone Users 9 Photo Watermarking Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-guide-to-selecting-the-best-mp4-encoder-for-efficient-video-file-transcoding/"><u>The Ultimate Guide to Selecting the Best MP4 Encoder for Efficient Video File Transcoding</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/troubleshooting-steps-how-to-fix-a-disconnected-or-non-functioning-logitech-g923-controller/"><u>Troubleshooting Steps: How to Fix a Disconnected or Non-Functioning Logitech G923 Controller</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-spark-paves-way-but-will-mavic-air-top-the-gaming-scene/"><u>[New] In 2024, Spark Paves Way, But Will Mavic Air Top the Gaming Scene?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-pop-culture-with-a-click-using-kinemaster/"><u>[New] Pop Culture with a Click Using KineMaster</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-sony-xperia-xz-premium-an-odyssey-into-ultra-hd-phones/"><u>[New] Sony Xperia XZ Premium An Odyssey Into Ultra HD Phones</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-tiktokplusinstagram-social-media-fusion-guide-for-2024/"><u>[New] TikTok+Instagram Social Media Fusion Guide for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-deciding-on-your-ideal-virtual-reality-experience-is-wireless-freedom-worthwhile-or-a-tethered-tech-is-better-for-2024/"><u>[Updated] Deciding on Your Ideal Virtual Reality Experience Is Wireless Freedom Worthwhile, Or a Tethered Tech Is Better for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-finding-the-best-free-subtitle-conversion-services/"><u>[Updated] Finding the Best Free Subtitle Conversion Services</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-finding-the-best-prices-on-vr-headsets-from-china/"><u>[Updated] Finding the Best Prices on VR Headsets From China</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-biting-snippets-to-captivating-narratives-an-experts-guide-to-youtube-edits-for-2024/"><u>[Updated] From Biting Snippets to Captivating Narratives An Expert's Guide to Youtube Edits for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-daily-movie-data-demand-in-gigabytes/"><u>[Updated] In 2024, Daily Movie Data Demand in Gigabytes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-vividaieditor-bringing-images-to-life-anew/"><u>[Updated] In 2024, VividAiEditor Bringing Images to Life Anew</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-pc-world-expert-hardware-assessments-and-advice/"><u>Inside Tom's PC World: Expert Hardware Assessments & Advice</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/photo-memory-locker-at-no-cost-plus-elite-charged-cloud-spheres/"><u>Photo Memory Locker at No Cost, Plus Elite Charged Cloud Spheres</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/understanding-facebook-messengers-signaling-with-a-blue-splash-for-2024/"><u>Understanding Facebook Messenger's Signaling With a Blue Splash for 2024</u></a></li>
 </ul></div>
 

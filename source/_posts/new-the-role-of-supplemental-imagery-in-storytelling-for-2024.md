@@ -1,7 +1,7 @@
 ---
 title: "[New] The Role of Supplemental Imagery in Storytelling for 2024"
-date: 2024-08-16T03:09:35.332Z
-updated: 2024-08-17T03:09:35.332Z
+date: 2025-01-12T16:04:17.258Z
+updated: 2025-01-13T16:04:41.767Z
 tags: 
   - screen-recording
   - ai video
@@ -40,16 +40,14 @@ The ideal way to use B roll is to put it behind interviews. This kind of footage
 
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. What types of b roll are there?
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
@@ -59,15 +57,17 @@ Aerial B roll is the solution when you like to show your viewers where your film
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
@@ -78,9 +78,6 @@ When you are sharing a narrative that has been told in the past or that has hist
 
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### 6\. Pick-up shots
 
 A pick-up is a tiny shot added to previously captured material. Re-shoots involve redoing entire scenes. Both types of shots are commonly added during film editing to fix, logic, continuity, or quality flaws. These photos happen a while after the sets have been taken down, clothes and props stowed, and the actors and crew have gone on to new projects.
@@ -88,11 +85,16 @@ A pick-up is a tiny shot added to previously captured material. Re-shoots involv
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -126,4 +128,22 @@ We sincerely hope that this post will be of use to you in making your films more
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-meme-architectural-genius-top-picks-for-2024/"><u>[New] Meme Architectural Genius Top Picks for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-nikon-j5s-4k-capability/"><u>[New] The Ultimate Guide to Nikon J5's 4K Capability</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-capture-edit-and-enhance-a-novices-journey-with-lunapic-for-2024/"><u>[Updated] Capture, Edit & Enhance A Novice's Journey with LunaPic for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-groundwork-on-image-detail-a-novices-reference/"><u>[Updated] Groundwork on Image Detail A Novice's Reference</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-podcasts-the-comprehensive-iphone-download-method/"><u>2024 Approved Mastering Podcasts The Comprehensive iPhone Download Method</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/building-an-aesthetic-iphone-photo-mosaic-basics-for-2024/"><u>Building an Aesthetic IPhone Photo Mosaic Basics for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-defiant-statement-why-it-wont-disappear/"><u>Facebook's Defiant Statement: Why It Won't Disappear</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-repair-no-provisioned-sim-mmi2-warning-on-mobile-phones/"><u>Guide to Repair 'No Provisioned SIM MMI2' Warning on Mobile Phones</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-expert-online-workshop-title-author/"><u>In 2024, Expert Online Workshop Title Author</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-video-to-photo-windows-11-methodology/"><u>In 2024, Video to Photo Windows 11 Methodology</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-unlock-professional-color-in-fcp-tips-and-tricks/"><u>New Unlock Professional Color in FCP Tips and Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openais-gpt-unpacking-cybersecurity-issues/"><u>OpenAI's GPT: Unpacking Cybersecurity Issues</u></a></li>
+<li><a href="https://fox-access.techidaily.com/professional-strategies-converting-xmlssattml-to-dynamic-srts-for-2024/"><u>Professional Strategies Converting XML/SSA/TTML to Dynamic SRTs for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/toonbox-complete-insight-for-24-year/"><u>ToonBox Complete Insight for '24 Year</u></a></li>
+<li><a href="https://fox-access.techidaily.com/twirling-titans-olympic-ice-revelations-for-2024/"><u>Twirling Titans Olympic Ice Revelations for 2024</u></a></li>
+</ul></div>
 

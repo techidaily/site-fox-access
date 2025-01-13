@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Process for Efficient Use of Mac's Preview App\""
-date: 2025-01-01T01:58:15.224Z
-updated: 2025-01-07T01:44:21.744Z
+date: 2025-01-09T16:11:04.460Z
+updated: 2025-01-13T16:08:21.772Z
 tags: 
   - screen-recording
   - ai video
@@ -35,15 +35,15 @@ That said, the sections below explain **how to use Preview on Mac** for elementa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
 
@@ -60,7 +60,7 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Show Markup Tools in Preview on Mac
@@ -78,7 +78,7 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Crop in Preview
@@ -108,6 +108,10 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -142,7 +146,7 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Combine Images into One
@@ -160,10 +164,6 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 **Step 3: Combine the Images**
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Save Images in Different Formats
 
@@ -236,24 +236,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-explaining-video-trims-the-logic-of-trimming/"><u>[New] 2024 Approved Explaining Video Trims The Logic of Trimming</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-how-to-preview-off-facebook-activities-and-should-i-leave-it-on-check/"><u>[New] 2024 Approved How to Preview Off-Facebook Activities and Should I Leave It On? Check</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-seamlessiphonedesktop-video-editing-top-8-software-recommendations/"><u>[New] 2024 Approved SeamlessiPhone/Desktop Video Editing Top 8 Software Recommendations</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-premier-programs-designing-animated-3d-worlds/"><u>[New] Premier Programs Designing Animated 3D Worlds</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-dji-phantom-3-the-pro-drone-experience-explored-for-2024/"><u>[Updated] DJI Phantom 3 The Pro Drone Experience Explored for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-prime-video-cameras-that-will-elevate-your-twitch-channel-for-2024/"><u>[Updated] Prime Video Cameras That Will Elevate Your Twitch Channel for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ing-your-financial-course-the-3-step-methodology-for-estimating-youtube-income-for-2024/"><u>Charting Your Financial Course The 3-Step Methodology for Estimating YouTube Income for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-realme-narzo-60-pro-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Realme Narzo 60 Pro 5G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/finally-cyberpunk-2077-is-up-and-running-tips-for-a-seamless-experience/"><u>Finally, Cyberpunk 2077 Is Up and Running - Tips for a Seamless Experience</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/green-screen-video-magic-must-know-methods/"><u>Green Screen Video Magic Must-Know Methods</u></a></li>
-<li><a href="https://fox-access.techidaily.com/honored-hubs-best-websites-to-download-snapalert-beats-for-2024/"><u>Honored Hubs Best Websites to Download SnapAlert Beats for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-poco-x6-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Honor Magic 6? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-shaping-narratives-through-text-effects/"><u>In 2024, Shaping Narratives Through Text Effects</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-step-by-step-crafting-photos-into-engaging-videos-in-pixiz/"><u>In 2024, Step-by-Step Crafting Photos Into Engaging Videos in Pixiz</u></a></li>
-<li><a href="https://fox-access.techidaily.com/mobile-identification-showdown-iphone-x-and-galaxy-for-2024/"><u>Mobile Identification Showdown IPhone X and Galaxy for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavi-jpgbmp/"><u>Movavi에서 사용자 친화적인 JPG/BMP 이미지 전환기: 원격 가용성 제공</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Honor X7b? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-connecting-your-zoom-call-with-your-television/"><u>Ultimate Guide: Connecting Your Zoom Call with Your Television</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-dive-deep-with-these-6-extraordinary-metaverse-models/"><u>[New] 2024 Approved Dive Deep with These 6 Extraordinary Metaverse Models</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-periscope-techniques-for-effective-livestreams/"><u>[New] 2024 Approved Periscope Techniques for Effective Livestreams</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-art-of-haul-videography-pre-and-post-editing-processes/"><u>[New] 2024 Approved The Art of Haul Videography Pre and Post Editing Processes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-reigning-reddit-stars-10-all-time-favorites/"><u>[New] In 2024, Reigning Reddit Stars 10 All-Time Favorites</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-future-without-vlc-media-player-insights/"><u>[New] The Future Without VLC - Media Player Insights</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-discover-the-leading-8-free-3d-videos-players-for-windowsmac-os-for-2024/"><u>[Updated] Discover the Leading 8 FREE 3D Videos Players for Windows/Mac OS for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-ultimate-handbook-for-vr-gameplay-capture/"><u>[Updated] In 2024, The Ultimate Handbook for VR Gameplay Capture</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-premiere-pro-mastering-full-screen-views-for-2024/"><u>[Updated] Premiere Pro Mastering Full-Screen Views for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unlocking-the-full-potential-of-zoom-with-youtube-live-for-2024/"><u>[Updated] Unlocking the Full Potential of Zoom with YouTube Live for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-your-guide-to-exceptional-online-marketing-savor-our-selection-of-50-free-ads-for-2024/"><u>[Updated] Your Guide to Exceptional Online Marketing – Savor Our Selection of 50 FREE Ads for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-evaluation-of-the-amazon-echo-dot-3rd-generation-unpacking-all-alexa-features-in-one-compact-device/"><u>Comprehensive Evaluation of the Amazon Echo Dot (3Rd Generation): Unpacking All Alexa Features in One Compact Device</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-complete-guide-to-android-time-lapse-creation/"><u>In 2024, The Complete Guide to Android Time-Lapse Creation</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-xiaomi-redmi-a2plus-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Xiaomi Redmi A2+ FRP Bypass</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-picture-in-picture-video-integration-for-mac-os-x-for-2024/"><u>Navigating Picture in Picture Video Integration for Mac OS X for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/surviving-the-dead-a-comprehensive-review-of-days-gone-gameplay/"><u>Surviving the Dead: A Comprehensive Review of Days Gone Gameplay</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-itel-a70-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Itel A70 Phone</u></a></li>
 </ul></div>
 
