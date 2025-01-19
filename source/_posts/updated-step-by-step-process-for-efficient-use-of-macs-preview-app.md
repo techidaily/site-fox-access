@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Process for Efficient Use of Mac's Preview App\""
-date: 2025-01-09T16:11:04.460Z
-updated: 2025-01-13T16:08:21.772Z
+date: 2025-01-16T18:21:53.559Z
+updated: 2025-01-19T17:27:52.316Z
 tags: 
   - screen-recording
   - ai video
@@ -41,10 +41,6 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -58,10 +54,6 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Show Markup Tools in Preview on Mac
 
@@ -78,7 +70,7 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Crop in Preview
@@ -110,7 +102,7 @@ Use the method explained above to open the photo in Preview.
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
@@ -146,7 +138,7 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Combine Images into One
@@ -176,6 +168,10 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -211,6 +207,10 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -236,22 +236,15 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-dive-deep-with-these-6-extraordinary-metaverse-models/"><u>[New] 2024 Approved Dive Deep with These 6 Extraordinary Metaverse Models</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-periscope-techniques-for-effective-livestreams/"><u>[New] 2024 Approved Periscope Techniques for Effective Livestreams</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-art-of-haul-videography-pre-and-post-editing-processes/"><u>[New] 2024 Approved The Art of Haul Videography Pre and Post Editing Processes</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-reigning-reddit-stars-10-all-time-favorites/"><u>[New] In 2024, Reigning Reddit Stars 10 All-Time Favorites</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-future-without-vlc-media-player-insights/"><u>[New] The Future Without VLC - Media Player Insights</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-discover-the-leading-8-free-3d-videos-players-for-windowsmac-os-for-2024/"><u>[Updated] Discover the Leading 8 FREE 3D Videos Players for Windows/Mac OS for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-ultimate-handbook-for-vr-gameplay-capture/"><u>[Updated] In 2024, The Ultimate Handbook for VR Gameplay Capture</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-premiere-pro-mastering-full-screen-views-for-2024/"><u>[Updated] Premiere Pro Mastering Full-Screen Views for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-unlocking-the-full-potential-of-zoom-with-youtube-live-for-2024/"><u>[Updated] Unlocking the Full Potential of Zoom with YouTube Live for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-your-guide-to-exceptional-online-marketing-savor-our-selection-of-50-free-ads-for-2024/"><u>[Updated] Your Guide to Exceptional Online Marketing – Savor Our Selection of 50 FREE Ads for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-evaluation-of-the-amazon-echo-dot-3rd-generation-unpacking-all-alexa-features-in-one-compact-device/"><u>Comprehensive Evaluation of the Amazon Echo Dot (3Rd Generation): Unpacking All Alexa Features in One Compact Device</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-complete-guide-to-android-time-lapse-creation/"><u>In 2024, The Complete Guide to Android Time-Lapse Creation</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-xiaomi-redmi-a2plus-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Xiaomi Redmi A2+ FRP Bypass</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-picture-in-picture-video-integration-for-mac-os-x-for-2024/"><u>Navigating Picture in Picture Video Integration for Mac OS X for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/surviving-the-dead-a-comprehensive-review-of-days-gone-gameplay/"><u>Surviving the Dead: A Comprehensive Review of Days Gone Gameplay</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-itel-a70-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Itel A70 Phone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-unlock-creative-potential-top-methods-for-green-screen-filming/"><u>[New] 2024 Approved Unlock Creative Potential Top Methods for Green Screen Filming</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-game-on-the-ultimate-guide-to-superior-offline-ios-fun/"><u>[New] Game On The Ultimate Guide to Superior Offline iOS Fun</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-top-10-border-tools-for-professional-instagram-images-for-2024/"><u>[New] Top 10 Border Tools for Professional Instagram Images for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-digital-content-filming-talents-release/"><u>[Updated] Digital Content Filming Talents Release</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-efficient-techniques-for-removing-auto-selected-podcasts-from-spotify/"><u>[Updated] Efficient Techniques for Removing Auto-Selected Podcasts From Spotify</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-harnessing-the-power-of-azure-transcript-services/"><u>[Updated] In 2024, Harnessing the Power of Azure Transcript Services</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-photonpinnacle-z7-optimize-picture-scaling-for-2024/"><u>[Updated] PhotonPinnacle Z7 Optimize Picture Scaling for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-toggle-picture-in-picture-feature-for-youtube-app/"><u>2024 Approved Toggle Picture-in-Picture Feature for Youtube App</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-poco-m6-pro-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Poco M6 Pro 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/securing-your-shots-top-15-mounting-options-for-gopro-for-2024/"><u>Securing Your Shots Top 15 Mounting Options for GoPro for 2024</u></a></li>
 </ul></div>
 

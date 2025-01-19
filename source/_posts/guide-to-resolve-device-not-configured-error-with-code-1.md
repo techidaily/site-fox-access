@@ -1,7 +1,7 @@
 ---
 title: Guide to Resolve 'Device Not Configured' Error with Code 1
-date: 2025-01-06T16:09:08.046Z
-updated: 2025-01-13T16:04:02.177Z
+date: 2025-01-16T18:57:20.987Z
+updated: 2025-01-19T16:28:40.187Z
 tags:
   - win11
   - win10
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Update the driver manually via Device Manager
@@ -44,19 +44,19 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57318a0304278.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Click**Search automatically for updated driver software**. Then Windows will update the driver automatically.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57318a2bd0396.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Check to see if the yellow mark next to the device is gone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Method 2: Update the driver automatically
 
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a97796ac519e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to the problem device to automatically download and install the correct version of the driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a9779737fc89.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) After updating the driver, check to see if the yellow mark next to the device is gone.
@@ -103,24 +103,16 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-full-access-to-sierras-documents-and-desktop-in-the-cloud/"><u>[New] 2024 Approved Full Access to Sierra's Documents and Desktop in the Cloud</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-gimp-ultimate-editing-course-review/"><u>[New] 2024 Approved GIMP Ultimate Editing Course Review</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-elite-cost-effective-asmr-recording-devices-unveiled/"><u>[New] Elite Cost-Effective ASMR Recording Devices Unveiled</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-the-blueprint-for-building-a-youtube-empire-in-quick-time/"><u>[New] In 2024, The Blueprint for Building a YouTube Empire in Quick Time</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-dive-into-multi-tasking-mastery-with-chromes-pip-feature/"><u>[Updated] 2024 Approved Dive Into Multi-Tasking Mastery with Chrome's PIP Feature</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-elevate-phone-communication-a-step-by-step-guide-on-downloading-and-customizing-whatsapp-ringtones/"><u>[Updated] 2024 Approved Elevate Phone Communication A Step-By-Step Guide on Downloading & Customizing WhatsApp Ringtones</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-redefining-high-definition-a-review-of-the-immersive-4k-monitor-lgs-31mu97-b/"><u>[Updated] 2024 Approved Redefining High Definition A Review of the Immersive 4K Monitor, LG's 31MU97-B</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-gif-genius-unleashed-the-best-tools-and-methods-of-memetic-artistry-for-2024/"><u>[Updated] GIF Genius Unleashed The Best Tools and Methods of Memetic Artistry for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-permitted-practices-for-saving-youtube-videos-for-2024/"><u>[Updated] Permitted Practices for Saving YouTube Videos for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/defeating-disruption-your-ultimate-guide-to-repairing-netflixs-error-code-nw-1-19/"><u>Defeating Disruption: Your Ultimate Guide to Repairing Netflix's Error Code NW-1-19</u></a></li>
-<li><a href="https://video-capture.techidaily.com/dvdpcdvd/"><u>DVDからPCへ移行:市販DVDを取り込むステップバイステップマニュアル</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-tecno-camon-20-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-harmonizing-your-windows-photos-how-to-incorporate-audio-visual-features/"><u>In 2024, Harmonizing Your Windows Photos How to Incorporate Audio-Visual Features</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-securing-a-spotlight-with-zoom-and-fb-live-integration/"><u>In 2024, Securing a Spotlight with ZOOM & FB Live Integration</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-honor-70-lite-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Honor 70 Lite 5G Device</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/possible-authy-security-breach-exposes-users-phone-numbers/"><u>Possible Authy Security Breach Exposes Users' Phone Numbers</u></a></li>
-<li><a href="https://win11.techidaily.com/propelling-linux-with-powerful-windows-integration/"><u>Propelling Linux with Powerful Windows Integration</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-remedies-to-address-compatibility-issues-on-windows-xp/"><u>Quick Remedies to Address Compatibility Issues on Windows XP.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/stay-updated-navigating-through-recent-twitter-scam-alerts-introducing-meta-verified-badges-and-breaking-down-how-chatgpt-c-works/"><u>Stay Updated! Navigating Through Recent Twitter Scam Alerts, Introducing Meta Verified Badges and Breaking Down How ChatGPT-C Works</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-elevate-your-snaps-with-zooming-techniques-for-2024/"><u>[New] Elevate Your Snaps with Zooming Techniques for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-yi-hero-review-transform-your-videography-with-4k/"><u>[Updated] 2024 Approved YI Hero Review Transform Your Videography with 4K</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-master-quick-youtube-video-rendering-and-efficient-uploading/"><u>[Updated] Master Quick YouTube Video Rendering & Efficient Uploading</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-step-by-step-guide-to-installing-streamlabs-in-obs-mac/"><u>2024 Approved Step-by-Step Guide to Installing Streamlabs in OBS (Mac)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/asus-rt-ac88u-gaming-router-review/"><u>Asus RT-AC88U Gaming Router Review</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/o-make-fortnite-thumbnail-for-free-and-easy/"><u>How to Make Fortnite Thumbnail for Free and Easy</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfecting-the-art-of-sound-blending-a-comprehensive-audacity-workshop-series/"><u>Perfecting the Art of Sound Blending A Comprehensive Audacity Workshop Series</u></a></li>
+<li><a href="https://fox-access.techidaily.com/rapid-reader-of-windows-photos-and-images/"><u>Rapid Reader of Windows Photos & Images</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-itel-p40-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Itel P40 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-5-kid-friendly-song-downloading-sites-build-an-engaging-music-collection-for-your-little-ones/"><u>Top 5 Kid-Friendly Song Downloading Sites: Build an Engaging Music Collection for Your Little Ones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-resolving-connection-issues-with-your-stadia-gaming-headset/"><u>Troubleshooting Guide: Resolving Connection Issues with Your Stadia Gaming Headset</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Master Strategies to Stop Windows 10 Photos Crashes for 2024"
-date: 2024-12-04T16:11:47.766Z
-updated: 2024-12-07T18:28:41.523Z
+date: 2025-01-15T18:34:53.097Z
+updated: 2025-01-19T16:22:15.698Z
 tags: 
   - screen-recording
   - ai video
@@ -58,12 +58,12 @@ Here is how to troubleshoot –
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Restore Default Libraries
 
@@ -77,10 +77,6 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 3: Reset it
 
@@ -104,7 +100,7 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 4. Now, the Windows 10 Photos App won’t crash.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 5: Reinstall Windows 10 Photos app
@@ -119,7 +115,7 @@ Here is how to reinstall the Windows 10 Photos App –
 3. Install ‘Microsoft Photos’ after downloading it from there. Your Windows 10 Photos App crashing issue is well taken care of now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -128,10 +124,14 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -159,18 +159,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-transforming-video-conferencing-with-zoom-and-youtube-for-impactful-live-events/"><u>[New] 2024 Approved Transforming Video Conferencing with Zoom and YouTube for Impactful Live Events</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-how-to-sharpen-your-vision-in-the-world-of-roblox-for-2024/"><u>[New] How to Sharpen Your Vision in the World of Roblox for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-masterful-monikers-a-compendium-of-cool-channel-titles/"><u>[New] In 2024, Masterful Monikers A Compendium of Cool Channel Titles</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-learn-to-extract-twitter-media-as-audible-files/"><u>[Updated] 2024 Approved Learn to Extract Twitter Media as Audible Files</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-best-ai-naming-assistants-for-podcast-innovation/"><u>[Updated] 2024 Approved The Best AI Naming Assistants for Podcast Innovation</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-a-step-by-step-approach-to-snapchat-commerce/"><u>[Updated] A Step-by-Step Approach to Snapchat Commerce</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-optimize-gmail-for-video-calls-with-effective-zoom-use/"><u>[Updated] Optimize Gmail for Video Calls with Effective Zoom Use</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-path-to-youtube-riches-optimal-view-figures-for-monetization-success-for-2024/"><u>[Updated] Path to YouTube Riches Optimal View Figures for Monetization Success for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/comparing-handbrake-and-vlc-determining-the-superior-media-conversion-tool/"><u>Comparing Handbrake and VLC: Determining the Superior Media Conversion Tool</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/fixing-handbrake-errors-on-your-pc-essential-tips-for-windows-users-windows-1011/"><u>Fixing Handbrake Errors on Your PC: Essential Tips for Windows Users (Windows 10/11)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-tecno-camon-20-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Tecno Camon 20 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862761231-introducing-minisforums-new-affordable-gaming-laptop-156-screen-144hz-refresh-rate-and-1440p-display-just-189/"><u>Introducing Minisforum's New Affordable Gaming Laptop: 15.6 Screen, 144Hz Refresh Rate & 1440P Display - Just $189!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-delving-into-magix-photo-editors-features/"><u>[New] 2024 Approved Delving Into MAGIX Photo Editor's Features</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-color-reversal-making-blacks-from-whites/"><u>[New] In 2024, Color Reversal Making Blacks From Whites</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-cutting-to-perfection-the-science-of-online-photo-trimming/"><u>[New] In 2024, Cutting to Perfection The Science of Online Photo Trimming</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-professional-photography-with-canons-complimentary-luts/"><u>[New] In 2024, Professional Photography with Canon's Complimentary LUTs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-secure-mobile-video-calls-best-10-safe-and-free-applications-for-phones/"><u>[New] In 2024, Secure Mobile Video Calls Best 10 Safe and Free Applications for Phones</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-premier-hash-trackers-fb-tweet-instagram-edition-for-2024/"><u>[New] Premier Hash Trackers FB, Tweet, Instagram Edition for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-ultimate-guide-to-supercharging-srt-with-macwindows-for-2024/"><u>[New] The Ultimate Guide to Supercharging SRT with Mac/Windows for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-essential-iphone-handbook-for-gif-enthusiasts/"><u>[Updated] The Essential iPhone Handbook for GIF Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-archivists-toolkit-techniques-for-capturing-social-events/"><u>2024 Approved The Archivist's Toolkit Techniques for Capturing Social Events</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-unveiling-the-secrets-of-avi-to-gif-transition-filmora-software-windowsmacos/"><u>2024 Approved Unveiling the Secrets of AVI to GIF Transition Filmora Software (Windows/macOS)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/a-compreranly-curated-list-best-free-srt-translators-online-for-2024/"><u>A Compreranly Curated List Best Free SRT Translators Online for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/gratuita-conversao-de-videos-mov-online-com-moovavi-facil-e-sem-custo/"><u>Gratuita Conversão De Vídeos MOV Online Com Moovavi - Fácil E Sem Custo</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-nokia-c12-pro-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Nokia C12 Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/marathon-battery-and-striking-style-discover-the-top-13-inch-laptop-from-my-rigorous-tests-a-detailed-review/"><u>Marathon Battery & Striking Style: Discover the Top 13 Inch Laptop From My Rigorous Tests - A Detailed Review</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/navigating-tech-world-easily-with-toms-innovation-hub/"><u>Navigating Tech World Easily with Tom's Innovation Hub</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-motorola-moto-g14-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Motorola Moto G14 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-ultimate-tech-elite-laptops-showcased-at-ces-2024-by-zdnet/"><u>Unveiling the Ultimate Tech: Elite Laptops Showcased at CES 2024 by ZDNet</u></a></li>
 </ul></div>
 

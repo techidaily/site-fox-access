@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting PC Crashes in F1 2021 - A Step-by-Step Guide for Gamers
-date: 2024-12-04T19:09:33.390Z
-updated: 2024-12-07T18:43:05.696Z
+date: 2025-01-16T16:47:55.424Z
+updated: 2025-01-19T17:28:45.834Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/5b77fd5a0fde79a2c2eb70c6784e4159441548e49
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
@@ -91,15 +91,15 @@ thumbnail: https://thmb.techidaily.com/5b77fd5a0fde79a2c2eb70c6784e4159441548e49
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -114,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/5b77fd5a0fde79a2c2eb70c6784e4159441548e49
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
@@ -141,15 +141,19 @@ thumbnail: https://thmb.techidaily.com/5b77fd5a0fde79a2c2eb70c6784e4159441548e49
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -166,10 +170,6 @@ thumbnail: https://thmb.techidaily.com/5b77fd5a0fde79a2c2eb70c6784e4159441548e49
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -193,14 +193,18 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-amplify-your-chat-status-with-melodies/"><u>[New] 2024 Approved Amplify Your Chat Status with Melodies</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-unleash-creativity-gratuity-in-humor-tools/"><u>[New] In 2024, Unleash Creativity Gratuity in Humor Tools</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-exploring-the-asus-proart-329q-4k-monitor-capabilities-for-2024/"><u>[Updated] Exploring the Asus ProArt 329Q 4K Monitor Capabilities for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-navigate-with-precision-the-complete-guide-to-idevice-podcast-downloads-for-2024/"><u>[Updated] Navigate with Precision The Complete Guide to iDevice Podcast Downloads for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/2024s-essential-running-timepieces-a-curated-selection-for-enthusiasts/"><u>2024'S Essential Running Timepieces: A Curated Selection for Enthusiasts</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/echoes-of-the-unliving-top-8-zombie-game-choices-for-2024/"><u>Echoes of the Unliving Top 8 Zombie Game Choices for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-90-lite-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Honor 90 Lite to New Android? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpt-for-effective-cross-language-communication/"><u>Leveraging ChatGPT for Effective Cross-Language Communication</u></a></li>
-<li><a href="https://fox-access.techidaily.com/vintage-voices-top-websites-for-classical-ringtone-acquisition-for-2024/"><u>Vintage Voices Top Websites for Classical Ringtone Acquisition for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-essential-steps-from-production-to-apple-store-placement/"><u>[New] Essential Steps From Production to Apple Store Placement</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-future-proofing-in-the-metaverse-essential-device-lineup/"><u>[Updated] 2024 Approved Future-Proofing in the Metaverse Essential Device Lineup</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-filmforge-editor8x/"><u>[Updated] FilmForge Editor8X</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-professional-drones-pro-level-editing-software-showdown/"><u>[Updated] Professional Drones, Pro-Level Editing Software Showdown</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-decoding-the-science-of-hash-optimization-for-game-streaming/"><u>2024 Approved Decoding the Science of Hash Optimization for Game Streaming</u></a></li>
+<li><a href="https://fox-access.techidaily.com/a-comprehensive-walkthrough-of-youtube-timestamping-techniques-for-2024/"><u>A Comprehensive Walkthrough of YouTube Timestamping Techniques for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/deciphering-metas-status-symbol/"><u>Deciphering Meta's Status Symbol</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-13-pro-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone 13 Pro</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-capturing-the-essence-cinematic-techniques-at-their-best/"><u>In 2024, Capturing the Essence Cinematic Techniques at Their Best</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-reimagine-personal-storytelling-on-snapchat-access-a-library-of-over-120-ideas-to-stand-out/"><u>In 2024, Reimagine Personal Storytelling on Snapchat Access a Library of Over 120 Ideas to Stand Out</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/netflix-streaming-restored-addressing-common-xbox-one-hurdles/"><u>Netflix Streaming Restored: Addressing Common Xbox One Hurdles</u></a></li>
+<li><a href="https://win-special.techidaily.com/scopri-il-motivo-dietro-la-cancellazione-delle-tue-vecchie-e-mail-di-yahoo-risolvi-facilmente-qui/"><u>Scopri Il Motivo Dietro La Cancellazione Delle Tue Vecchie E-Mail Di Yahoo - Risolvi Facilmente Qui</u></a></li>
+<li><a href="https://fox-access.techidaily.com/top-picks-for-integrating-frame-elements-with-images-for-2024/"><u>Top Picks for Integrating Frame Elements with Images for 2024</u></a></li>
 </ul></div>
 

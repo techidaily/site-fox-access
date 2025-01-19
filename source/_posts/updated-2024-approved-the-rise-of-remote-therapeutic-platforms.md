@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  The Rise of Remote Therapeutic Platforms\""
-date: 2025-01-11T16:05:31.729Z
-updated: 2025-01-13T16:08:55.401Z
+date: 2025-01-15T19:11:17.615Z
+updated: 2025-01-19T17:14:06.879Z
 tags: 
   - screen-recording
   - ai video
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/d9697a004ae2bbc53020d06bba853be86eb98852f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Virtual medical training and education
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/d9697a004ae2bbc53020d06bba853be86eb98852f
  Virtual medical training and education is one of the biggest advantages that professionals have got through the infusion of virtual reality in healthcare industry. Surgery training through virtual reality gives immense amount of exposure to doctors, without wanting a volunteer to participate. Professionals learn new procedures, technicalities, usage of equipment, and even interaction with patients through human simulation software are commenced. Simulations are used to teach how to use new medical devices in a virtual and risk free environment. Virtual simulation gives great opportunity to learn with technologies like force feedback, immersive touch and medical realities. It is an engaging and interactive method for surgeons, dentists, nurses, physicians to practice and understand in a practical, visual and safe environment, which is far more expressive and immersive than videos and theoretical training.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Virtual Clinical Healthcare
@@ -55,7 +55,15 @@ thumbnail: https://thmb.techidaily.com/d9697a004ae2bbc53020d06bba853be86eb98852f
 
 ![vr-for-surgery](https://images.wondershare.com/filmora/article-images/virtual-reality-for-surgery.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Usage of Robotic devices like arms however controlled by human surgeons enables them to be more accurate and reduces the amount of risk in surgeries which need more accuracy and precision, making it not only accurate but also a faster process. With accuracy and smaller incisions using robotic devices, it reduces the loss of blood and hence helps in minimising recovery time. The precise and small movement is often difficult for human surgeons, while it can be achieved with by robotic devices, and virtual reality in healthcare enables to control those movements. Training and education is required to learn the right kind of pressure required to perform such procedures. Robotic surgical procedure allows surgeons to ensure risk margins to prevent reoccurrence of the disease .Virtual fixtures for a robotic surgery has been introduces to make it more risk free. The skills required for the robotic surgery are required to perform an open or laparoscopic surgery. Proficiency is acquired by various educational and practical sessions to take those intricate decisions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Virtual reality therapies
 
@@ -63,24 +71,16 @@ thumbnail: https://thmb.techidaily.com/d9697a004ae2bbc53020d06bba853be86eb98852f
 
  Virtual reality in healthcare have therapies in a virtual environment which help psychiatrists to deal with patients with their fears, claustrophobia, anxiety, depression, post-traumatic stress disorder and severe pain cases by providing an environment where they can face their challenges in a controlled form and a risk free zone. They can experiment knowing that it’s a virtual and risk free environment, which can be stopped as per the situation and circumstances. Techniques like exposure therapy makes virtual reality in healthcare favourable for doctors and other health care professionals, it may also have an impact on increasing the overall treatment experience, making it very satisfactory. Studies are being conducted where virtual reality has positively impacted the quality and experience of their stay in the hospitals and rehabilitations. Virtual reality applications and software may also have a role to play in alleviate phantom limb pain, with sensors and its relations with the brain.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Virtual reality consumer and outpatient market
 
 ![vr-for-outpatient-market](https://images.wondershare.com/filmora/article-images/virtual-reality-for-outpatient-market.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The scope and market for virtual reality in healthcare is starting from training and education which makes it a risk-free, experiment-based learning process. The current main usage is in the controlled clinical environment which also has the right kind of devices and approvals for the entire process to be successful. The progressive industry is exploring options for patients, to get virtual reality as a public face and start programs like education on first aid, fitness, developing healthy habits, for people to take advantage of the virtual reality in healthcare to learn life saving techniques or live a healthy life. Virtual reality devices have a good market in the fitness industry too to either set fitness or exercising routine or to take advantage and improve one’s life styles. Virtual games used for meditation or doing brain wave monitoring and brain imaging have a huge scope in the industry. Experiences like a bike ride and walk on the beach through virtual reality will increase its scope for its consumer and outpatient market.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -108,22 +108,16 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-premier-5-high-resolution-film-makers/"><u>[New] In 2024, Premier 5 High-Resolution Film Makers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-the-fancy-filter-fest-snapping-with-snapchats-colorful-cartoons/"><u>[New] In 2024, The Fancy Filter Fest Snapping with Snapchat's Colorful Cartoons</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-what-to-pick-for-your-youtube-videos-ideal-formats-explored/"><u>[New] In 2024, What to Pick for Your YouTube Videos? Ideal Formats Explored</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-downloading-youtube-playlists-made-simple-and-easy/"><u>[Updated] 2024 Approved Downloading YouTube Playlists Made Simple & Easy</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-solo-art-of-personalized-instagram-ringtone-making/"><u>[Updated] 2024 Approved The Solo Art of Personalized Instagram Ringtone Making</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-exploring-with-polaroid-camplus-ultimate-action-footage/"><u>[Updated] Exploring with Polaroid Cam+ Ultimate Action Footage</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-removing-vibration-effects-from-drones-recordings-for-2024/"><u>[Updated] Removing Vibration Effects From Drones' Recordings for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-top-10-budget-friendly-jpeg-to-gif-conversion-tools-online-for-2024/"><u>[Updated] Top 10 Budget-Friendly JPEG to GIF Conversion Tools Online for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-online-sources-for-3d-glitter-text-designs/"><u>[Updated] Top Online Sources for 3D Glitter Text Designs</u></a></li>
-<li><a href="https://games-able.techidaily.com/8-ways-to-fix-big-picture-mode-not-working-or-crashing-in-steam-for-windows/"><u>8 Ways to Fix Big Picture Mode Not Working or Crashing in Steam for Windows</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-honor-x50i-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Honor X50i FRP In 3 Different Ways</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-masterclass-in-minimal-photoshop-alterations/"><u>In 2024, Masterclass in Minimal Photoshop Alterations</u></a></li>
-<li><a href="https://fox-access.techidaily.com/key-sites-for-enhancing-youtube-video-popularity/"><u>Key Sites for Enhancing YouTube Video Popularity</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/obtain-your-essential-msi-b350-tomahawk-drivers-seamless-setup-for-win11win7-users/"><u>Obtain Your Essential MSI B350 Tomahawk Drivers - Seamless Setup for Win11/Win7 Users</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-dell-p2715qs-stunning-4k-visuals/"><u>The Ultimate Guide to Dell P2715Q's Stunning 4K Visuals</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-improvements-in-the-latest-version-of-logitech-extreme-3d-driver/"><u>Unveiling Improvements in the Latest Version of Logitech Extreme 3D Driver</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-launchpad-for-novice-gopro-owners-must-have-gear-guide/"><u>[New] 2024 Approved Launchpad for Novice GoPro Owners - Must-Have Gear Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-engaging-audiences-with-dynamic-photoviewer-content-in-pixiz/"><u>[New] In 2024, Engaging Audiences with Dynamic Photoviewer Content in Pixiz</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-how-to-keep-the-momentum-ios-and-android-gif-savings/"><u>[Updated] 2024 Approved How to Keep the Momentum IOS & Android GIF Savings</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-essential-handbook-for-iphone-ringtone-tweaking/"><u>[Updated] 2024 Approved The Essential Handbook for iPhone Ringtone Tweaking</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-a-complete-breakdown-of-lgs-premium-4k-screen-experience/"><u>[Updated] A Complete Breakdown of LG’s Premium 4K Screen Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-deactivating-audio-boost-options-in-windows-10-for-better-sound-quality/"><u>Guide: Deactivating Audio Boost Options in Windows 10 for Better Sound Quality</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/hearing-heroism-essential-online-picks-for-tts-files/"><u>Hearing Heroism Essential Online Picks for TTS Files</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-13-location-by-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 13 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/instantaneous-windows-image-player-for-2024/"><u>Instantaneous Windows Image Player for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-the-art-of-igtv-production-phone-and-dslr-techniques-for-2024/"><u>Mastering the Art of IGTV Production Phone and DSLR Techniques for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782481-9781591437598-shamanic-awakening-2nd-ed/"><u>Shamanic Awakening (2nd ed.) | Free Book</u></a></li>
 </ul></div>
 

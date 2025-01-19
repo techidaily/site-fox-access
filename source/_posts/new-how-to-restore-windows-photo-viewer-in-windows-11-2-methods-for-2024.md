@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Restore Windows Photo Viewer in Windows 11 (2 Methods) for 2024"
-date: 2025-01-03T02:32:37.740Z
-updated: 2025-01-06T20:57:00.282Z
+date: 2025-01-16T17:22:01.503Z
+updated: 2025-01-19T17:29:57.872Z
 tags: 
   - screen-recording
   - ai video
@@ -60,15 +60,7 @@ Here is why they want to restore Windows Photo Viewer –
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 1 to restore Windows Photo Viewer
 
@@ -78,13 +70,13 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -101,7 +93,7 @@ Here is the detailed guide –
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
@@ -109,7 +101,7 @@ Here is the detailed guide –
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -118,7 +110,15 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -145,19 +145,19 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-advanced-visual-treatment-adding-effects-on-videos-pcmobile/"><u>[New] 2024 Approved Advanced Visual Treatment Adding Effects on Videos (PC/Mobile)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-az-screen-recorder-comprehensive-app-review-and-alternative/"><u>[New] AZ Screen Recorder | Comprehensive App Review & Alternative</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-fundamentals-of-visual-communication-through-motion/"><u>[New] Fundamentals of Visual Communication Through Motion</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-image-weaving-the-art-of-photomontages-for-2024/"><u>[New] Image Weaving The Art of Photomontages for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-transform-your-shots-into-art-with-top-10-grids/"><u>[New] Transform Your Shots Into Art with Top 10 Grids</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-dive-deep-into-the-digital-world-adding-panoramic-photos-to-your-feed/"><u>[Updated] In 2024, Dive Deep Into the Digital World Adding Panoramic Photos to Your Feed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-how-apples-innovative-vision-pro-headset-will-revolutionize-the-market-with-a-customized-library-of-more-than-600-new-apps-expert-insights-from-zdn44/"><u>Discover How Apple's Innovative Vision Pro Headset Will Revolutionize the Market with a Customized Library of More than 600 New Apps – Expert Insights From ZDNet</u></a></li>
-<li><a href="https://fox-access.techidaily.com/gopros-new-era-a-detailed-max-360-vs-hero-11-analysis-for-2024/"><u>GoPro's New Era A Detailed Max 360 vs Hero 11 Analysis for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-from-shot-to-spectacle-pro-tips-for-transformative-photographic-edits/"><u>In 2024, From Shot to Spectacle Pro Tips for Transformative Photographic Edits</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/mastering-apex-play-exclusively-how-to-disable-cross-play-feature-for-2024/"><u>Mastering Apex Play Exclusively How to Disable Cross-Play Feature for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ring-yoga-top-10-youtube-resources-for-enlightened-living-for-2024/"><u>Mastering Yoga Top 10 YouTube Resources for Enlightened Living for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/revealing-hidden-aspects-in-minecraft/"><u>Revealing Hidden Aspects in Minecraft</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reviving-iphones-silent-siri-guides-fixing-why-predictions-dont-pop-up/"><u>Reviving iPhone's Silent Siri Guides: Fixing Why Predictions Don't Pop Up</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-untold-story-of-instagram-story-consumers/"><u>The Untold Story of Instagram Story Consumers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-basic-principles-of-story-artistry/"><u>[New] Basic Principles of Story Artistry</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-handpicked-selections-ringtones-directly-from-snap/"><u>[New] Handpicked Selections Ringtones Directly From Snap</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-cut-through-clutter-expert-tips-on-editing-overflowing-tiktoks/"><u>[New] In 2024, Cut Through Clutter Expert Tips on Editing Overflowing TikToks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harness-the-full-potential-of-video-tags-in-youtube/"><u>[Updated] 2024 Approved Harness the Full Potential of Video Tags in YouTube</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-unlocking-online-income-the-creators-path-to-prosperity/"><u>[Updated] In 2024, Unlocking Online Income The Creator’s Path to Prosperity</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-melodic-matchmakers-aligning-music-to-visuals/"><u>[Updated] Melodic Matchmakers Aligning Music to Visuals</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-gimbal-mastery-seamless-camera-handling-and-tracking/"><u>2024 Approved Gimbal Mastery Seamless Camera Handling & Tracking</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-nokia-c110-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Nokia C110? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Motorola Edge 40? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-13-without-apple-id-password-by-drfone-ios/"><u>In 2024, How To Erase an Apple iPhone 13 Without Apple ID Password?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/online-image-transformation-guide-switching-from-bmp-to-png-without-costs-using-top-tools/"><u>Online Image Transformation Guide: Switching From BMP to PNG without Costs Using Top Tools!</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-overheating-pcs-with-windows-resource-monitor-insights/"><u>Tackling Overheating PCs with Windows Resource Monitor Insights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-drone-enthusiasts-compendium-of-must-haves/"><u>The Drone Enthusiast's Compendium of Must-Haves</u></a></li>
 </ul></div>
 

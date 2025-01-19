@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Guide to Perfect Close-Up Cinematic Shots\""
-date: 2024-08-08T12:13:10.045Z
-updated: 2024-08-09T12:13:10.045Z
+date: 2025-01-16T18:15:21.294Z
+updated: 2025-01-19T18:37:44.294Z
 tags: 
   - screen-recording
   - ai video
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 
 # Videography: 6 Tips for Making Macro Video
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -35,6 +31,10 @@ The art of capturing the small things is called a macro video. Suppose, you wish
 Shooting macro video is an art form because it requires balancing the technicalities of the camera along with the aesthetic and creative beauty of nature.
 
 Any person having a photography background can learn the nuances of the macro video quickly as macro photohgraphy is usually a part of their subject and macro video is an extension of the same.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 Tips For Making Macro Video
 
@@ -66,20 +66,17 @@ A macro video is shot from a close distance. If your camera is in motion, it can
 
 Try to get great visual perspectives or angles by bracing the camera on the tree or ground on any other stable object.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![Tripod](https://images.wondershare.com/filmora/article-images/oconnor-ultimate-1030d-fluid-head-30l-cf-tripod.jpg)
 
 #### 3\. Background
 
 The background of your macro video always remains blurred as you shoot it closely. But, the background color is visible so, choosing it correctly is vital. The color of the background must compliment your composition’s color and must be chosen creatively.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![background](https://images.wondershare.com/filmora/article-images/separate-the-foreground-from-background.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 4\. DSLR Cameras
 
@@ -90,6 +87,10 @@ If you are a Canon user, you may opt for the 180 mm macro, 100 mm macro or the 6
 You may also add an extension tube which basically splits the focal distance in two equal halves and make the image size bigger but it decreases the depth of the field.
 
 ![dslr camera](https://images.wondershare.com/filmora/article-images/dslr-camera-full-rig.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 5\. Depth of Field
 
@@ -107,22 +108,20 @@ When you have low lights, ensuring a correct perspective on the subject with max
 
 For instance, in order to keep a snail always in focus, you may choose to shoot it while it crawls perpendicular to the camera. If you shoot while it crawls towards you, only a part of the snail remains in focus at a certain point of time.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![composition](https://images.wondershare.com/filmora/article-images/composition.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Once you can master the above tips for making the macro video, you can easily shoot small objects like a pro. A videographer’s experience and creativity can be matched even by you if you can easily grasp the techniques, practice it, and implement creatively while making your macro videos.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -148,4 +147,22 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-how-to-extract-youtube-srt-effortlessly-in-3-ways/"><u>[New] 2024 Approved How to Extract YouTube SRT Effortlessly in 3 Ways</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-transform-shots-to-boost-circular-vignette-features/"><u>[New] In 2024, Transform Shots to Boost Circular Vignette Features</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-perfecting-the-art-of-audio-in-audacity-professionally-for-2024/"><u>[New] Perfecting the Art of Audio in Audacity Professionally for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-essential-blueprint-for-home-based-podcasting-for-2024/"><u>[New] The Essential Blueprint for Home-Based Podcasting for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-webcam-recorder-reviews-unlocking-your-video-potential/"><u>[New] Webcam Recorder Reviews - Unlocking Your Video Potential</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-a-guide-to-seamless-inshot-video-segments-for-2024/"><u>[Updated] A Guide to Seamless Inshot Video Segments for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-essential-techniques-for-erasing-background-elements-in-figma/"><u>[Updated] In 2024, Essential Techniques for Erasing Background Elements in Figma</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-magical-image-maker-turning-pictures-into-cartoons-on-devices/"><u>[Updated] Magical Image Maker Turning Pictures Into Cartoons on Devices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-mastering-the-art-of-text-insertion-in-digital-pictures/"><u>[Updated] Mastering the Art of Text Insertion in Digital Pictures</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sonic-artistry-and-video-prowess-in-sonys-xperia-xz/"><u>2024 Approved Sonic Artistry and Video Prowess in Sony's Xperia XZ</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cheapest-4k-dslrmirrorless-cameras-and-camcorders/"><u>Cheapest 4K DSLR/Mirrorless Cameras and Camcorders</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-the-void-how-to-tackle-elden-rings-daunting-start-up-screen-trouble/"><u>Conquer the Void: How to Tackle Elden Ring's Daunting Start-Up Screen Trouble</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-tecno-pop-8-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Tecno Pop 8 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/wacom-bamboo-seamless-upgrade-and-installation/"><u>Wacom Bamboo: Seamless Upgrade and Installation</u></a></li>
+</ul></div>
 

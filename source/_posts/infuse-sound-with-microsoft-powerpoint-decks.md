@@ -1,7 +1,7 @@
 ---
 title: "Infuse Sound with Microsoft PowerPoint Decks"
-date: 2025-01-12T16:10:38.250Z
-updated: 2025-01-13T16:08:21.553Z
+date: 2025-01-13T17:15:39.088Z
+updated: 2025-01-19T17:19:00.673Z
 tags: 
   - screen-recording
   - ai video
@@ -62,11 +62,7 @@ To your PowerPoint presentation, you can add audio, such as music, narration, or
 ![play audio ppt](https://images.wondershare.com/filmora/article-images/2022/02/play-audio-ppt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2 Record audio on PowerPoint
@@ -87,6 +83,10 @@ NOTE: Do not include Audio under Insert and Record Audio since it doesn't synchr
 
 ![click slideshow tab ppt](https://images.wondershare.com/filmora/article-images/2022/02/click-slideshow-tab-ppt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3 Hit the Record Slide Show
 
 NOTE: Audio may begin getting recorded on its own if you are working on the older version of PowerPoint. It may still work, but this version offers reduced functionality.
@@ -96,6 +96,10 @@ NOTE: Audio may begin getting recorded on its own if you are working on the olde
 NOTE: You can re-record the PowerPoint slides by hitting the Record Slide Show and Selecting Record from the Current Slide.
 
 ![record from current slide ppt](https://images.wondershare.com/filmora/article-images/2022/02/record-from-current-slide-ppt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step5 Hit the Record tab to begin recording narration
 
@@ -112,16 +116,12 @@ Save the video by hitting the File tab.
 Select Export to confirm.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3 Adjust audio on PowerPoint
 
 This section will look at editing the added Audio into PowerPoint. As we've already gathered steps on adding Audio to PowerPoint and recording Audio on PowerPoint, it's time to move a step ahead into the editing panel as follows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### I. Trim audio in PowerPoint presentation
 
@@ -134,7 +134,7 @@ Let's suppose we've added long audio to our presentation, and we just only need 
 ![trim ppt audio](https://images.wondershare.com/filmora/article-images/2022/02/trim-ppt-audio.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step3 Within the pop-up window, you need to use the red and green markers to adjust the start and endpoint of the audio
@@ -161,10 +161,6 @@ If you want to switch to a specific point in the Audio, you can add a bookmark. 
 
 ![add bookmark audio ppt](https://images.wondershare.com/filmora/article-images/2022/02/add-bookmark-audio-ppt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4 How to play audio automatically in PowerPoint
 
 After the above modifications, you can adjust the Audio Options. Thus, you can change how the audio plays in PPT as follows.
@@ -182,6 +178,10 @@ Go no far than using the powerful video editing tool Wondershare Filmora and unv
 Instead of doing extreme and lengthy steps, we can create a top-notch video with added Audio for PowerPoint presentation and then add afterward. It's a professional approach than taking so long to complete an entire project on PowerPoint.
 
 Let’s see how we can achieve this!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps to add audio to PowerPoint via Wondershare Filmora
 
@@ -201,6 +201,10 @@ Note: You can also go for in-built music tracks to add music to your video by se
 
 ![import audio filmora](https://images.wondershare.com/filmora/article-images/import-media-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2 Add audio to timeline
 
 Hover the mouse over the media you’ve imported for presentation and click the + sign to add audio to the project.
@@ -214,7 +218,7 @@ Double-tap the Audio on the timeline and adjust the Audio to fade-in, fade-out, 
 ![edit audio Filmora](https://images.wondershare.com/filmora/article-images/edit-music.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step4 Export audio
@@ -222,7 +226,7 @@ Double-tap the Audio on the timeline and adjust the Audio to fade-in, fade-out, 
 Click the Export tab and choose the format in which you want to export the Audio.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Steps to record audio to PowerPoint via Wondershare Filmora
@@ -244,10 +248,6 @@ Hit the New Project tab to create a new project and click Record a voiceover opt
 Now, it's time to edit the recorded voiceover and adjust different settings in the audio track, namely the Pitch, Volume, Speed, etc.
 
 ![edit voiceover filmora](https://images.wondershare.com/filmora/article-images/audio-editing-panel.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step4 Export voiceover
 
@@ -286,20 +286,20 @@ In this guide, we’ll specifically talk about the feature by which you can reco
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-ideal-5-add-ons-to-enhance-sea-footage/"><u>[New] 2024 Approved Ideal 5 Add-Ons to Enhance Sea Footage</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-camera-selection-for-amateurs/"><u>[New] Camera Selection for Amateurs</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-streamlining-your-media-mastering-mp4-and-other-formats-in-vlc/"><u>[New] Streamlining Your Media Mastering MP4 & Other Formats in VLC</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-eight-outstanding-models-your-guide-to-5k-monitors/"><u>[Updated] In 2024, Eight Outstanding Models - Your Guide to 5K Monitors</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-versatility-of-virtual-worlds/"><u>[Updated] In 2024, The Versatility of Virtual Worlds</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-live-link-luxuries-are-codes-more-crucial-than-cables/"><u>[Updated] Live Link Luxuries Are Codes More Crucial Than Cables?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-uncompromised-creativity-best-macos-big-sur-editing-tools-ranked-for-2024/"><u>[Updated] Uncompromised Creativity Best macOS Big Sur Editing Tools Ranked for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-workflow-with-leading-tts-apps-for-mac-users/"><u>2024 Approved Streamline Your Workflow with Leading TTS Apps for Mac Users</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On HTC U23? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-free-tools-to-save-big-screen-fb-video/"><u>In 2024, Free Tools to Save Big Screen FB Video</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-swift-top-tier-photo-viewing-app/"><u>In 2024, Swift Top-Tier Photo Viewing App</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/nvme-laufwerk-nicht-erkannt-auf-windows-11-top-methoden-zur-behebung-jetzt/"><u>NVMe-Laufwerk Nicht Erkannt Auf Windows 11: Top-Methoden Zur Behebung Jetzt!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-hdmi-problems-solutions-when-an-app-is-active/"><u>Overcoming HDMI Problems: Solutions when an App Is Active</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/simple-methods-quick-and-easy-guide-to-uploading-data-onto-your-usb-stick/"><u>Simple Methods: Quick & Easy Guide to Uploading Data Onto Your USB Stick</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/winx-dvd-copy-pro-facil-copia-de-dvd-a-formato-iso-y-creacion-de-respaldo-para-discos/"><u>WinX DVD Copy Pro: Fácil Cópia De DVD a Formato ISO Y Creación De Respaldo Para Discos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-next-gen-cloud-vaults-ultimate-pick-list/"><u>[New] 2024 Approved Next-Gen Cloud Vaults Ultimate Pick List</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-unlocking-color-grading-with-luts-in-pscc/"><u>[New] 2024 Approved Unlocking Color Grading with LUTs in PSCC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-strategic-insights-on-making-persuasive-client-centered-videos/"><u>[New] Strategic Insights on Making Persuasive Client-Centered Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-fast-track-to-short-video-treasure-troves-free-access/"><u>[Updated] 2024 Approved Fast Track to Short Video Treasure Troves (Free Access)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-a-quick-guide-to-firefoxs-innovative-pip-mode-for-2024/"><u>[Updated] A Quick Guide to Firefox's Innovative PIP Mode for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-enhancing-communication-strategies-for-effective-call-logging-for-2024/"><u>[Updated] Enhancing Communication Strategies for Effective Call Logging for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-perfecting-ephemeral-fades-in-digital-recording-software-audacity/"><u>[Updated] In 2024, Perfecting Ephemeral Fades in Digital Recording Software Audacity</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-taming-darkness-for-a-bright-youtube-experience/"><u>[Updated] In 2024, Taming Darkness for a Bright YouTube Experience</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-rediscovering-the-riches-delving-into-literary-masterpieces-of-yore/"><u>[Updated] Rediscovering the Riches Delving Into Literary Masterpieces of Yore</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-exclusive-listing-leading-8-4k-ultra-hd-players/"><u>2024 Approved Exclusive Listing Leading 8 4K Ultra HD Players</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/assessing-hdr-standards-luminances-role-for-2024/"><u>Assessing HDR Standards Luminance's Role for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/olympic-freeze-frame-figure-skating-best-of-2022/"><u>Olympic Freeze-Frame Figure Skating Best of 2022</u></a></li>
+<li><a href="https://fox-access.techidaily.com/streamlined-accessibility-learning-iphoneipad-techniques-for-podcast-downloads/"><u>Streamlined Accessibility Learning iPhone/iPad Techniques for Podcast Downloads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-collective-evaluation-of-vllo-for-2024/"><u>The Collective Evaluation of VLLO for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-10-leading-music-video-editors-to-elevate-your-artistry/"><u>Updated 10 Leading Music Video Editors to Elevate Your Artistry</u></a></li>
 </ul></div>
 

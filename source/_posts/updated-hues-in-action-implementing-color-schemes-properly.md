@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Hues in Action  Implementing Color Schemes Properly\""
-date: 2025-01-06T16:13:05.463Z
-updated: 2025-01-13T16:14:24.987Z
+date: 2025-01-16T18:39:51.478Z
+updated: 2025-01-19T16:15:53.771Z
 tags: 
   - screen-recording
   - ai video
@@ -28,7 +28,7 @@ If you are more selective with your colors in your videos or imagery the viewer 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Color Theory
@@ -44,10 +44,14 @@ Using red, green and blue as primary colors we can mix the colors to one another
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Color Harmony
 
@@ -70,7 +74,7 @@ You may still be unsure as to how to implement color theory into your videos. Le
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
@@ -80,14 +84,10 @@ As you can see from this example the base color for the scene is a dark blue/pur
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -123,24 +123,18 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ow-to-be-a-beauty-guru-on-youtube-beauty-vlogger-set-up/"><u>[New] How To Be A Beauty Guru on YouTube Beauty Vlogger Set Up</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-blurry-looks-simple-ways-to-hide-identities-in-pictures/"><u>[New] In 2024, Blurry Looks Simple Ways to Hide Identities in Pictures</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-humor-and-memes-galore-iphones/"><u>[Updated] 2024 Approved Humor & Memes Galore, iPhones</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-photo-perfection-for-newbies-the-lunapic-way/"><u>[Updated] 2024 Approved Photo Perfection for Newbies The LunaPic Way</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-unlock-your-potential-dominant-tiktok-campaigns-and-techniques/"><u>[Updated] 2024 Approved Unlock Your Potential Dominant TikTok Campaigns and Techniques</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-vlcs-role-in-mpeg-4-and-other-file-type-conversions-explored/"><u>[Updated] 2024 Approved VLC's Role in MPEG-4 and Other File Type Conversions Explored</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-codec-clash-determining-the-leader-in-video-quality/"><u>[Updated] In 2024, Codec Clash Determining the Leader in Video Quality</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-dynamic-movement-analysis-a-complete-examination/"><u>[Updated] In 2024, Dynamic Movement Analysis A Complete Examination</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-the-unbreakable-approach-to-tiktok-bio-hyperlinks-for-2024/"><u>[Updated] The Unbreakable Approach to TikTok Bio Hyperlinks for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-unleash-marketing-potential-with-unpacked-plans/"><u>[Updated] Unleash Marketing Potential with Unpacked Plans</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/accelerate-driver-updates-effortless-and-rapid-solutions-for-dell-xps-7590-g7/"><u>Accelerate Driver Updates: Effortless & Rapid Solutions for Dell XPS 7590 G7</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-ultimate-list-of-excellent-4k-cameras/"><u>In 2024, Ultimate List of Excellent 4K Cameras</u></a></li>
-<li><a href="https://fox-access.techidaily.com/logic-pro-guide-gradually-lowering-audio-levels-for-2024/"><u>Logic Pro Guide Gradually Lowering Audio Levels for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/protect-your-electronics-from-harm-the-importance-of-using-the-right-type-c-cable-explained-zdnet/"><u>Protect Your Electronics From Harm - The Importance of Using the Right Type C Cable Explained | ZDNET</u></a></li>
-<li><a href="https://win-great.techidaily.com/quick-solutions-for-hulu-error-p-edu101-resolve-immediately/"><u>Quick Solutions for Hulu Error P-EDU101 - Resolve Immediately</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-considerations-before-buying-a-high-performance-gaming-pc/"><u>Top Considerations Before Buying a High-Performance Gaming PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-trick-to-regain-entry-after-a-forgotten-ipad-code/"><u>Ultimate Trick to Regain Entry After a Forgotten iPad Code</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-1011-hack-design-your-own-unique-pin-pattern/"><u>Windows 10/11 Hack: Design Your Own Unique Pin Pattern</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-film-techniques-free-ecological-templates/"><u>[New] In 2024, Film Techniques Free Ecological Templates</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-ideas-for-creating-sequences-of-iphone-burst-images/"><u>[New] In 2024, Ideas for Creating Sequences of iPhone Burst Images</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-unlimited-dji-mini-and-air-2-luts-buy-or-free/"><u>[New] In 2024, Unlimited DJI Mini & Air 2 LUTs - Buy or Free</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-low-profile-youtubing-broadcasting-without-a-huge-sublist/"><u>[New] Low Profile YouTubing Broadcasting without a Huge Sublist</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-sleek-60-second-fades/"><u>[New] Sleek 60-Second Fades</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-breaking-barriers-to-sound-in-twitters-visual-share/"><u>[Updated] Breaking Barriers to Sound in Twitter's Visual Share</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-digital-sculptors-playground-essential-tools-for-every-animator/"><u>[Updated] Digital Sculptors’ Playground Essential Tools for Every Animator</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-exploring-new-frontiers-in-gaming-top-titles-for-rift-vive-and-playstation-vr/"><u>[Updated] In 2024, Exploring New Frontiers in Gaming Top Titles for Rift, Vive, and PlayStation VR</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-ae-text-and-title-styles-guide/"><u>2024 Approved AE Text & Title Styles Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convert-your-video-output-vob-files-to-mp4-format-with-these-top-13-methods-for-both-windows-11-and-macos-users/"><u>Convert Your Video Output (VOB) Files to MP4 Format with These Top 13 Methods: For Both Windows 11 and macOS Users</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-video-editing-face-off-final-cut-pro-vs-lumafusion-which-one-wins-in-2024/"><u>New Video Editing Face-Off Final Cut Pro vs LumaFusion - Which One Wins, In 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/transformative-tips-for-a-productive-win-11-bar/"><u>Transformative Tips for a Productive Win 11 Bar</u></a></li>
 </ul></div>
 

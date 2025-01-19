@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Beam Breakthroughs  Lighting Know-How for Video Success\""
-date: 2024-08-16T03:04:47.652Z
-updated: 2024-08-17T03:04:47.652Z
+date: 2025-01-14T17:05:31.458Z
+updated: 2025-01-19T17:39:25.624Z
 tags: 
   - screen-recording
   - ai video
@@ -54,6 +54,10 @@ The key light is the main light that illuminates the subject. You can place it i
 
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
 ##### Step3 Set the Backlight
@@ -68,6 +72,10 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
@@ -76,11 +84,19 @@ Finally, we have a few other small LED lights like this unicorn to put in the ba
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After setting up all the lighting above, you can take a look at the comparison below:
 
 **Using Key Light only**
 
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Using Key Light + Fill + Backlight**
 
@@ -93,9 +109,9 @@ We usually set the lights around 50% brightness and a color temperature of 5600K
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -128,4 +144,22 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-essential-dvd-tools-compatible-with-sierra/"><u>[New] 2024 Approved Essential DVD Tools Compatible with Sierra</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-fresh-perspectives-on-logo-design-for-podcast-brands/"><u>[New] 2024 Approved Fresh Perspectives on Logo Design for Podcast Brands</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-bringing-your-instagram-aesthetic-to-life-with-square-videos-in-imovie/"><u>[New] Bringing Your Instagram Aesthetic to Life with Square Videos in iMovie</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-essential-elements-for-implementing-channel-banners-in-games/"><u>[New] In 2024, Essential Elements for Implementing Channel Banners in Games</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-sound-first-screen-second-podcasts-vs-youtube-analysis-for-2024/"><u>[New] Sound First, Screen Second – Podcasts Vs YouTube Analysis for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-boost-your-brand-visibility-with-top-hashtag-strategies/"><u>[Updated] 2024 Approved Boost Your Brand Visibility with Top Hashtag Strategies</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-tailored-titling-for-stellar-online-video-content/"><u>[Updated] 2024 Approved Tailored Titling for Stellar Online Video Content</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-pioneering-techniques-for-superior-fullscreen-presentation-in-premiere/"><u>[Updated] In 2024, Pioneering Techniques for Superior Fullscreen Presentation in Premiere</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-optimize-periscope-broadcasts-for-maximum-velocity/"><u>[Updated] Optimize Periscope Broadcasts for Maximum Velocity</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-proven-strategies-for-successful-green-screen-videography-for-2024/"><u>[Updated] Proven Strategies for Successful Green Screen Videography for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/extend-your-macbooks-charged-hours-with-expert-tips-learn-more-on-zdnet/"><u>Extend Your MacBook's Charged Hours with Expert Tips - Learn More on ZDNET</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-samsung-galaxy-s23-tactical-edition-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Samsung Galaxy S23 Tactical Edition Face Lock?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-launching-glitches-in-counter-strike-global-offensive/"><u>How To Overcome Launching Glitches in Counter Strike Global Offensive?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-epic-recordings-the-best-timelapse-software/"><u>In 2024, Epic Recordings The Best Timelapse Software</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-how-to-watch-twitter-videos-in-full-hd/"><u>In 2024, How To Watch Twitter Videos in Full HD?</u></a></li>
+</ul></div>
 
