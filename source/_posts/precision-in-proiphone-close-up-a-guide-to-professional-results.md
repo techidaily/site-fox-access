@@ -1,7 +1,7 @@
 ---
 title: "\"Precision in Proiphone Close-Up  A Guide to Professional Results\""
-date: 2024-08-08T12:08:59.158Z
-updated: 2024-08-09T12:08:59.158Z
+date: 2025-01-21T16:41:22.001Z
+updated: 2025-01-25T16:11:33.812Z
 tags: 
   - screen-recording
   - ai video
@@ -38,9 +38,6 @@ You May Also Like: [How to Take Underwater Photos with your iPhone 7](https://to
 
 You May Also Like: [Resizing a Photo without Losing Quality](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## Section 1. What is close-up and macro photography?
 
 Close-up photography and macro photography are all about photographing things in a way that makes them appear larger than they are in real life. It lets us look in detail at the things around us and can be an exciting and dramatic way to shoot images. But is there a difference between close up and macro in photography terms?
@@ -53,8 +50,9 @@ There is, so if you're looking to get to grips with this type of photography, yo
 With your iPhone macro photography and close-up shooting are both possible and can bring great results if you know what you're doing. However, for the really professional touch, an investment in a macro lens or specialist app will certainly kick your photography skills into high gear.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Section 2. iPhone Macro Photography Tips
 
 Taking great photos in macro mode isn't always as easy as it looks. Novice users can become frustrated when images come out dark, blurry or out of focus. Here are some top tips to get your iPhone macro photography just right, and to start building a collection of gorgeous close up images.
@@ -64,6 +62,10 @@ Taking great photos in macro mode isn't always as easy as it looks. Novice users
 Shooting in the macro range requires decent lighting, so consider when and how you are positioning your images. Early morning and midafternoon are great times of day to plan a shoot, as the soft, natural light is ideal for macro photography. Taking photos in the blazing midday sun can cause overexposure, and your iPhone may struggle to focus too.
 
 ![](https://images.wondershare.com/filmora/article-images/close-up-photography-light.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image source: Urdu-Mag.com
 
@@ -97,6 +99,10 @@ When you're shooting macro images with your iPhone, the intention is to make the
 
 ![](https://images.wondershare.com/filmora/article-images/macro-photography-distance.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Image source: GCFLearnFree
 
 Make the subject center stage by positioning your composition to give the least cluttered background possible. Use the sky if you can, or experiment with textured backgrounds such as a wall or fence. Think about how far your subject is from the background, as the further away the background is, the more blurry it will become and the greater the contrast of focus on your subject will appear.
@@ -105,9 +111,6 @@ Make the subject center stage by positioning your composition to give the least 
 
 If you've researched photography in general, you'll already have heard of the ‘rule of thirds'. This rule is super simple to apply when using an iPhone and is just as relevant in macro photography as it is when shooting landscapes or any other composition.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/macro-photography-composition.jpg)
 
 Image source: SmashingHub
@@ -118,10 +121,11 @@ The rule states that if the image were divided into thirds horizontally and vert
 
 iPhone macro photography is all about looking at the world in a different way. To really accentuate this quality in your work, why not try shooting from a different perspective? Get very low down and shoot your subject from below, with the sky as a background, or snap from directly above to add drama to your images.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/macro-photography-angles.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image source: Flickr
 
@@ -147,15 +151,13 @@ If you're fed up with the same old shots and want to try something different, de
 
 Explore, experiment, and practice, and you'll soon find your own style and be the envy of all your followers.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -180,4 +182,17 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/2024-approved-10-effortless-vlog-themes-youll-love/"><u>2024 Approved 10 Effortless Vlog Themes You'll Love</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-mastering-visual-impact-a-comprehensive-guide-to-zooms-video-filters/"><u>2024 Approved Mastering Visual Impact A Comprehensive Guide to Zoom's Video Filters</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-uniting-visuals-on-iphone-photos-with-videos/"><u>2024 Approved Uniting Visuals on iPhone Photos with Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-zero-tolerance-for-background-distractions-editing-tutorial-on-photopea/"><u>2024 Approved Zero Tolerance for Background Distractions Editing Tutorial on Photopea</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-f15-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Samsung Galaxy F15 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-11-pro-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-xiaomi-redmi-note-13-proplus-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Xiaomi Redmi Note 13 Pro+ 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-enable-secure-user-execution-in-windows/"><u>Solutions to Enable Secure User Execution in Windows</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ssentials-for-transforming-your-google-meet-into-youtube-live-for-2024/"><u>The Essentials for Transforming Your Google Meet Into Youtube Live for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/unblocking-mystery-tracking-fb-banned-friends/"><u>Unblocking Mystery: Tracking FB Banned Friends</u></a></li>
+</ul></div>
 

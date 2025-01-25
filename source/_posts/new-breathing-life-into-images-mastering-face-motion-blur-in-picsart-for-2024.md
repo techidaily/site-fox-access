@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Breathing Life Into Images  Mastering Face Motion Blur in Picsart for 2024\""
-date: 2024-08-08T12:10:34.435Z
-updated: 2024-08-09T12:10:34.435Z
+date: 2025-01-24T16:31:03.804Z
+updated: 2025-01-25T17:03:37.165Z
 tags: 
   - screen-recording
   - ai video
@@ -30,18 +30,16 @@ We shall first look into the details of [Picsart](https://picsart.com/), what it
 
 Picsart is a comprehensive photo editor for Windows, Android, iOS, and online users, providing fundamental and advanced features to edit photos and videos under a simple interface. Using Picsart is very simple, as its toolbar below presents all kinds of features that can be utilized to create the best-edited photos and videos. Design professional photos and perfect videos and make the best out of them with this all-in-one treat.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![what is picsart](https://images.wondershare.com/filmora/article-images/2022/12/add-motion-blur-to-face-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Some Fundamental Features to Look Into
 
 Picsart features some great tools for its users, which helps them create the best photos and videos. With a dedicated collage maker, you can design complete photo sets in no time. Following this, you can also find a video editor that provides all the essential tools to trim, crop, add effects, use filters, design slideshows, and present video collages. With 60+ million stickers, you can create the perfect content.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Add the Motion Blur Effect to Face with Picsart?
 
 We shall now see to add the motion blur effect Picsart using the appropriate technique for creating a perfect version of motion blur on the face. Let's lead into the details with the help of the available steps:
@@ -58,17 +56,22 @@ Step3 Following this, lead back to the primary toolbar and select the option of 
 
 ![insert a sticker](https://images.wondershare.com/filmora/article-images/2022/12/add-motion-blur-to-face-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 You need to find the "Effects" section from the bottom toolbar and proceed to the "Blur" menu. Select "Motion Blur" from the available options to add the effect to the image. Select the "Eraser" button and use the "Shape" to define the region where you want to put the motion blur effect and use the "Apply" button. Beautify the image as per your requirement and proceed to the "Next" button on the top.
 
 ![adjust the added motion blur](https://images.wondershare.com/filmora/article-images/2022/12/add-motion-blur-to-face-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Create Motion Blurred Face with an Alternative to Picsart
 
 We will now come up with alternatives to Picsart, including the motion blur effect. If you do not have access to Picsart for this purpose, this section will surely give you good alternatives to try.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### 1\. Motion Blur Photo Effect
 
 The first application in focus brings in a straightforward interface of adding a motion blur effect to images. While the process is done automatically, you can utilize the variety of blur effects to create the perfect image. The tool focuses on the subject of the image and gives you a great result, with realistic blur effects that are equivalent to a professional camera.
@@ -86,17 +89,15 @@ The first application in focus brings in a straightforward interface of adding a
 
 * With this mobile application, you cannot manage videos and include blur effects.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ### 2\. Focus In Motion
 
 Focus In Motion gives a great experience of adding motion blur effect on images only. Though restricted in providing video blurring options, the tool features 12 different and adjustable motion effects, which can help you set up the motion blur according to your requirements. Furthermore, you can easily create accurate motion blurs with the help of the enhancement tools available in it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![focus in motion ios app](https://images.wondershare.com/filmora/article-images/2022/12/add-motion-blur-to-face-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Download:** [**iOS**](https://apps.apple.com/us/app/focus-in-motion/id612486577)
 
@@ -109,16 +110,10 @@ Focus In Motion gives a great experience of adding motion blur effect on images 
 
 * The interface is not appropriately set up, making it challenging to manage the photos.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Motion Blur
 
 This Android tool is great for **motion blur without Picsart** on your smartphone. While you can add the effect to your photos, the tool is relatively easy to work with. With dedicated help for adding motion blur on an image, you can find the effect quite powerful and accommodate the user. Adjust the effect and create the perfect picture for yourselves.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![motion blur android app](https://images.wondershare.com/filmora/article-images/2022/12/add-motion-blur-to-face-8.jpg)
 
 **Download:** [**Android**](https://play.google.com/store/apps/details?id=com.irisstudio.motionblur&hl=en%5FUS&gl=US)
@@ -133,8 +128,9 @@ This Android tool is great for **motion blur without Picsart** on your smartphon
 * The application is quite buggy, which is why it continuously crashes.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bonus Tips: The Alternative to Picsart to Create Motion-Blurred Face
 
 Are you confused with the process of adding the motion blur face effect on Picsart? What if we have a better solution for you? This section introduces you to the perfect alternative to Picsart, which is [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). This tool is an exceptional video and photo editing platform that provides an ideal system for enhancing the quality of the media file. Its diversity of features is outstanding, simple, and exquisite for users.
@@ -143,9 +139,6 @@ Are you confused with the process of adding the motion blur face effect on Picsa
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Steps to Create Motion Blurred Face with Wondershare Filmora
 
 We will now transition into the steps that can be used to create a **motion blur without Picsart** using Wondershare Filmora:
@@ -174,6 +167,10 @@ Adjust the added effect within the "Transitions" tab. Use the "Dissolve" option 
 
 ![add the transition](https://images.wondershare.com/filmora/article-images/2022/12/add-motion-blur-to-face-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 5 Export the Edited Image
 
 On completing the task, click on the "Export" button and define the resolution and output file format for concluding the process.
@@ -181,8 +178,9 @@ On completing the task, click on the "Export" button and define the resolution a
 ![export the edited media file](https://images.wondershare.com/filmora/article-images/2022/12/add-motion-blur-to-face-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Last Words
 
 This article has provided a comprehensive guide on how to do motion blur on Picsart. The provided methods and alternatives are pretty obvious to help you make the best out of your image. However, if you seek for best results, Wondershare Filmora gives a premium experience in adding motion blur to the face without Picsart.
@@ -229,9 +227,6 @@ Are you confused with the process of adding the motion blur face effect on Picsa
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Steps to Create Motion Blurred Face with Wondershare Filmora
 
 We will now transition into the steps that can be used to create a **motion blur without Picsart** using Wondershare Filmora:
@@ -240,10 +235,6 @@ We will now transition into the steps that can be used to create a **motion blur
 
 You must download and install the latest version of Wondershare Filmora 11\. As you launch it on your Windows or Mac device, proceed to the "Create New Project" option to open a new window. Tap on the "Arrow" icon to import the photo where you want to add the motion blur effect.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![import the photo](https://images.wondershare.com/filmora/article-images/2022/12/add-motion-blur-to-face-9.jpg)
 
 ##### Step 2 Clip the Image to add the Effect
@@ -252,45 +243,36 @@ Drag the image to the timeline and clip the part where you want to add the motio
 
 ![split the added clip](https://images.wondershare.com/filmora/article-images/2022/12/add-motion-blur-to-face-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 3 Add Motion Blur Effect of Your Choice
 
 Open the "Effects" tab from the top and find "Background Blur" in the left section. Select the best motion blur effect that suits your requirements and add it to the split clip's specific part.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add the blur to the timeline](https://images.wondershare.com/filmora/article-images/2022/12/add-motion-blur-to-face-11.jpg)
 
 ##### Step 4 Apply Transitions and Change Parameters
 
 Adjust the added effect within the "Transitions" tab. Use the "Dissolve" option to apply the transition effect and smooth the clip. You can also work on the phase increment and zoom rate options to improve the quality.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add the transition](https://images.wondershare.com/filmora/article-images/2022/12/add-motion-blur-to-face-12.jpg)
 
 ##### Step 5 Export the Edited Image
 
 On completing the task, click on the "Export" button and define the resolution and output file format for concluding the process.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![export the edited media file](https://images.wondershare.com/filmora/article-images/2022/12/add-motion-blur-to-face-13.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Last Words
 
 This article has provided a comprehensive guide on how to do motion blur on Picsart. The provided methods and alternatives are pretty obvious to help you make the best out of your image. However, if you seek for best results, Wondershare Filmora gives a premium experience in adding motion blur to the face without Picsart.
@@ -317,4 +299,26 @@ This article has provided a comprehensive guide on how to do motion blur on Pics
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-a-comprehensive-guide-to-softening-images-with-iphone-software/"><u>[New] A Comprehensive Guide to Softening Images with iPhone Software</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/overt-content-creation-how-to-invisibly-alter-videos-for-2024/"><u>[New] Covert Content Creation How to Invisibly Alter Videos for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-elevating-memes-to-cultural-phenomenon/"><u>[Updated] 2024 Approved Elevating Memes to Cultural Phenomenon</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-enhancing-iphone-x-usability-fixing-face-id-issues/"><u>[Updated] 2024 Approved Enhancing iPhone X Usability Fixing Face ID Issues</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-pro-video-production-mastering-the-coordination-between-windows-photos-and-storyremix/"><u>[Updated] In 2024, Pro Video Production Mastering the Coordination Between Windows, Photos, and StoryRemix</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-livestream-lifters-for-modern-audiences/"><u>[Updated] Livestream Lifters for Modern Audiences</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-six-secrets-to-holding-your-viewers-attention/"><u>2024 Approved The Six Secrets to Holding Your Viewers' Attention</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/obs-studio-windowsmac/"><u>如何使用OBS Studio Windows/Mac版本：深入學習最新評論及教程，以便即時下載</u></a></li>
+<li><a href="https://games-able.techidaily.com/brand-wars-examining-how-asus-stacks-up-against-tuf-proart-and-prime/"><u>Brand Wars: Examining How Asus Stacks Up Against Tuf, ProArt & Prime</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-4k-resolution-unveiled-in-chroma-focused-lenses/"><u>In 2024, 4K Resolution Unveiled in Chroma-Focused Lenses</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-a-comprehensible-approach-to-masterful-gopro-studio-edits/"><u>In 2024, A Comprehensible Approach to Masterful GoPro Studio Edits</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-vivo-x-fold-2-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Vivo X Fold 2 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-transforming-traditional-markets-with-virtual-engineering/"><u>In 2024, Transforming Traditional Markets with Virtual Engineering</u></a></li>
+<li><a href="https://fox-access.techidaily.com/leading-setups-in-professional-broadcast-equipment/"><u>Leading Setups in Professional Broadcast Equipment</u></a></li>
+<li><a href="https://fox-access.techidaily.com/navigating-live-stream-providers-with-10-top-insights-for-2024/"><u>Navigating Live Stream Providers with 10 Top Insights for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/quick-and-easy-guide-top-apps-for-instantly-sharpening-blurry-photos-on-iphone/"><u>Quick & Easy Guide: Top Apps for Instantly Sharpening Blurry Photos on iPhone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/sifting-through-inshots-features-for-best-edits/"><u>Sifting Through InShot's Features for Best Edits</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-iphone-14-pro-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On iPhone 14 Pro Making It Possible</u></a></li>
+<li><a href="https://discover-community.techidaily.com/windows-11mp34/"><u>Windows 11におけるMP3等オーディオファイルのカット技術：4つの最適解</u></a></li>
+</ul></div>
 

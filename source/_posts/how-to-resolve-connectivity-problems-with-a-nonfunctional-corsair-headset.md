@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Connectivity Problems with a Nonfunctional Corsair Headset
-date: 2024-08-08T12:10:45.355Z
-updated: 2024-08-09T12:10:45.355Z
+date: 2025-01-18T16:28:17.041Z
+updated: 2025-01-25T17:02:25.511Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 
  If this is also you, and your Realtek microphone is not working no matter what software programs you’re using: Skype, Zoom, and all sorts of multi-player games, don’t worry: you’re definitely not alone. This has been a long-term problem for Windows users since Windows 7\. Here we have some fixes that’ll help to get this problem sorted. Read on and see what more you can do.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes for the Realtek microphone not working problem
 
  You don’t have to try all the following fixes: simply work your way down the list until you find the one that does the trick to fix the Realtek microphone not working problem for you.
@@ -37,9 +34,6 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Make sure your microphone is not muted
 
  This may be hard to believe, but there are cases when the Realtek microphone is back to working again when people just switch the mute button off. This is especially true on laptops with physical switches or function keys to mute and unmute the microphone.
@@ -58,25 +52,24 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 
 1. On your keyboard, hit the**Windows** key, then type**check for update** s, then click C**heck for updates** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then try your Realtek microphone again to see if it works properly now. If the problem remains, please move on to the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Update the sound card driver
 
  An outdated or incorrect sound card driver could also be the culprit to your Realtek microphone not working problem, so if the above two methods don’t help to restore your microphone, it’s likely that you have a corrupted or outdated audio driver. So you should update your drivers to see if it helps.
@@ -87,9 +80,6 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -102,8 +92,9 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Use the sound card driver from your computer manufacturer
 
  If the latest driver for the Realtek sound card doesn’t help to fix its microphone not working problem, it’s time to consider a different driver, and the one from your computer manufacturer is the go-to option.
@@ -114,9 +105,6 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 
  Once you have your computer specs, you can then search keyword combinations like your computer manufacturer plus its model to find the correct driver download page:
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-53.png)
 
  For instance, my keyword combination should be**Dell Vostro 3670 driver download**
@@ -139,6 +127,10 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
  Tips: Still unsure if Fortect is what you need? Check this [Fortec Review](https://tools.techidaily.com/drivereasy/download/) !
@@ -156,8 +148,9 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Reset your computer
 
  If none of the above helps to restore your Realtek microphone, not even the BIOS update, you may need to consider a Windows reset: it wipes out all software incompatibilities and problems, it’s also the rule of thumb in telling a software problem from a hardware one: if the problem remains even after a system reset, then it’s definitely a hardware problem.
@@ -167,6 +160,10 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
  If the Realtek microphone remains not working even after a reset, then the next thing you should do is seek help from a hardware technician to see if your hardware components (the motherboard or the Realtek sound card) are at fault.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Final thought
 
@@ -186,8 +183,6 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +190,17 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-how-to-change-voice-on-ps5ps4-software-and-hardware-solutions-here-for-2024/"><u>[New] How to Change Voice on PS5/PS4? Software & Hardware Solutions Here for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-equipment-list-for-homebound-filmmakers/"><u>[Updated] In 2024, Equipment List for Homebound Filmmakers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-ringtones-for-game-of-thrones-enthusiasts-online-listings-for-2024/"><u>[Updated] Top Ringtones for Game of Thrones Enthusiasts - Online Listings for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-xs-100-i-the-ultimate-polaroid-for-action-enthusiasts-for-2024/"><u>[Updated] XS 100 I - The Ultimate Polaroid for Action Enthusiasts for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-tecno-pova-5-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Tecno Pova 5 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-top-rated-asmr-mic-picks-for-quality-sound/"><u>2024 Approved Top-Rated ASMR Mic Picks for Quality Sound</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-landscape-mode-functionality-when-iphones-wont-rotate-the-screen/"><u>How to Restore Landscape Mode Functionality When iPhones Won't Rotate the Screen</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fine-tuning-the-art-of-recording-in-audacity/"><u>In 2024, Fine-Tuning the Art of Recording in Audacity</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-ultimate-guide-to-uniform-focus-in-teamblend-calls/"><u>In 2024, The Ultimate Guide to Uniform Focus in Teamblend Calls</u></a></li>
+</ul></div>
 

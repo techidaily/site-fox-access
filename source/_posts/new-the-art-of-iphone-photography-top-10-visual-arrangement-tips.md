@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Art of iPhone Photography  Top 10 Visual Arrangement Tips\""
-date: 2024-08-08T12:11:26.189Z
-updated: 2024-08-09T12:11:26.189Z
+date: 2025-01-20T16:14:16.702Z
+updated: 2025-01-25T16:34:46.787Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd
 
 # 10 Photography Composition Rules for iPhone
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -32,15 +29,13 @@ thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd
  Capturing photographs with an iPhone have always been a favorite hobby of community at large. Well, who wouldn’t want to make use of its high quality camera and powerful functionalities to capture the most alluring view! Nevertheless, most of the people fail to take better photos since they don’t know some key photography rules. If you are one of those, all you need to have is little more knowledge on photography composition rules. In today’s post, we have collated 10 golden photography rules that will empower you to steal the view perfectly with your iPhone. So let’s explore and make your photos even more stunning.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Rule of Thirds
 
  The Rule of Thirds consists of a set of guidelines to assist a photographer correctly position the subject in a particular scene. It is meant to draw the attention of the viewer directly towards the subject. According to this rule, the picture is divided into nine equal grids that break the entire image with two vertical and two horizontal lines into vertical and horizontal thirds. As per the Rule of Thirds, the subject should be placed at the intersecting points of the grids.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![rule of third](https://images.wondershare.com/filmora/article-images/rule-of-third.jpg)
 
 ## Leading Lines
@@ -49,55 +44,51 @@ thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd
 
 ![leading lines](https://images.wondershare.com/filmora/article-images/leading-lines.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Symmetry
 
  For the perfect photo composition with an iPhone, one should understand what all make for the right composition. Photographers divide the frame they want to click into rough patterns and position the subject at the right place to get wonderful shots. Both man-made and natural symmetry and patterns represent eye-catching compositions. You can either take a shot following the symmetric patterns or break them to make the subject stand out by adding focal points and tension.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![symmetrical](https://images.wondershare.com/filmora/article-images/Symmetrical.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Framing
 
  When we see a framed photograph, the frame brings out the beauty of the photograph. There are natural and man-made frames lying around. You just need to find that while clicking a picture. Framing the subject with such frames amplifies focus towards it, by isolating it from the world around. You can capture your subject through a hole, an arch, and different shapes and structures that you can visualize at that time.
 
 ![framing](https://images.wondershare.com/filmora/article-images/framing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Diagonals
 
  Diagonals are an integral aspect of photography composition, as they determine the outcome of a picture you have clicked using your iPhone. Let’s get to know what the role of diagonals in a picture is and how it impacts the visual. As you know the Rules of Thirds is important and it positions the subject of interest at a corner over the grid outlay of a photograph. It sometimes might leave the other corner empty and unbalance the image. Using diagonals, you can position the main subject and diagonally move the less important subjects towards the other end to click the perfectly balanced shot.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![diagonal](https://images.wondershare.com/filmora/article-images/diagonal.jpg)
 
 ## Shape
 
  Speaking of shape in photography composition sounds odd? ‘Rule of Thirds’ and ‘Leading Lines’ are not the only rules that make a photo composition. Line, shape, texture, form, space, color, and pattern also play a key role to make your iPhone photography a real treasure. Shape defines the two dimensional view of the subject and the entire scene as well. A well defined subject with a silhouette and backlighting or a black and white picture looks more appealing than a color picture where the shape of the subject or other objects is not prominent. Forms and shapes play an integral role in photography.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![shape](https://images.wondershare.com/filmora/article-images/shape.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Leave Empty Space
 
  You may wonder if I leave too much empty space in my photo contradicts the concept of ‘filling the frame’. But, it brings out the best for your iPhone photography when you have a strong subject in your scene. A clutter free and less distractive environment leads the viewers’ focus towards the main subject. You can think of clicking a giant statue against a clear blue sky, where the sky would act as a perfect background for the statue and render a clean look to the empty space.
 
 ![space](https://images.wondershare.com/filmora/article-images/Space.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Direction of Subject
 
@@ -105,23 +96,29 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![direction](https://images.wondershare.com/filmora/article-images/direction.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fill Your Frame
 
  Making your subject stand out against the entire frame in a photograph creates more impact. You can easily obtain this goal with your iPhone by covering the entire frame with your subject. According to this amazing photography composition technique, all you have to do is move your iPhone closer to the subject and nullify the appearance of the surroundings to take a close shot. Like this, you are able to capture the intricate detailing of a leaf with its vivid colors and texture, the detailing and motif on a wall art and much more.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fill the screen](https://images.wondershare.com/filmora/article-images/fill-the-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Break the Rules
 
  Lastly, we would say that forget and break all the rules. Make use of the above mentioned rules in photography, but don’t let your heart stick to it. Explore, experiment and let your imaginations fly high to capture whatever you want and however you can that fills your soul. Photography is a passion and you must enjoy it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![breal the rules](https://images.wondershare.com/filmora/article-images/break.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclsion
 
@@ -154,4 +151,20 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-10plus-free-apps-to-convert-youtube-videos-on-demand/"><u>[New] 2024 Approved 10+ Free Apps to Convert YouTube Videos on Demand</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-hacking-htc-vive-for-a-nausea-free-session/"><u>[New] Hacking HTC Vive for a Nausea-Free Session</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-maximizing-efficiency-with-azures-audio-transcription/"><u>[New] Maximizing Efficiency with Azure's Audio Transcription</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-why-is-instagram-turning-my-video-sideways/"><u>[New] Why Is Instagram Turning My Video Sideways?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-5-essential-ios-downloader-apps-for-your-favorite-facebook-videos/"><u>[Updated] 2024 Approved 5 Essential iOS Downloader Apps for Your Favorite Facebook Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-essential-techniques-for-color-correction-in-gopro/"><u>[Updated] 2024 Approved Essential Techniques for Color Correction in GoPro</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-mastering-aquatic-cinematography-with-these-7-essential-strategies/"><u>[Updated] Mastering Aquatic Cinematography with These 7 Essential Strategies</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-strategies-for-dealing-with-dark-video-frames-on-youtube/"><u>[Updated] Strategies for Dealing with Dark Video Frames on YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/acquiring-high-quality-copyright-free-images/"><u>Acquiring High-Quality Copyright-Free Images</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-intelligence-unscathed-adopted-by-openai/"><u>GPT Intelligence Unscathed: Adopted by OpenAI</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-samsung-galaxy-m54-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Samsung Galaxy M54 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-how-to-get-blessed-gospel-music-as-your-ringtone/"><u>In 2024, How to Get Blessed Gospel Music as Your Ringtone</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/reviving-your-pc-two-effective-methods-for-restoring-a-full-backup-from-an-exterior-hdd/"><u>Reviving Your PC: Two Effective Methods for Restoring a Full Backup From an Exterior HDD</u></a></li>
+</ul></div>
 

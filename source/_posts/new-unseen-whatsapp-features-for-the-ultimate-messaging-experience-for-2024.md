@@ -1,7 +1,7 @@
 ---
 title: "[New] Unseen WhatsApp Features for the Ultimate Messaging Experience for 2024"
-date: 2024-08-08T12:10:48.256Z
-updated: 2024-08-09T12:10:48.256Z
+date: 2025-01-19T16:44:09.858Z
+updated: 2025-01-25T17:06:34.541Z
 tags: 
   - screen-recording
   - ai video
@@ -32,10 +32,6 @@ With more than a billion active users worldwide, WhatsApp is now among the prima
 * [What are the Hidden Features of WhatsApp?](#part2)
 * [Edit WhatsApp Videos with Ease](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## Cool WhatsApp Text Tricks to Make You Look Edgy
 
 You can do a lot of things with your WhatsApp fonts, appearance, and texts that will make your messages look oh-so-edgy! From italics, bold, strikethrough to monospace there are plenty of text formatting tricks to dress up your epic announcements, festive greetings et al. Rounding it all, here are the best WhatsApp Typing Tricks you can use right away.
@@ -44,18 +40,12 @@ You can do a lot of things with your WhatsApp fonts, appearance, and texts that 
 
 Yes, you can bold your text. Just add a star (\*) symbol before and after your text. Don’t use space between the \* and the letter.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![Whatsapp Text Tricks Bold](https://images.wondershare.com/filmora/article-images/whatsapp-text-tricks-bold.jpg)
 
 #### 2.Italic
 
 Just like the bold, you can also italicize your fonts by simply inserting Underscore Symbol ( \_text\_ ) at the starting and end of your sentence.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Whatsapp Text Tricks Italic](https://images.wondershare.com/filmora/article-images/whatsapp-text-tricks-italic.jpg)
 
 #### 3.Strikethrough
@@ -68,28 +58,23 @@ Strikethrough is largely used to intend puns in WhatsApp, but sometimes it is al
 
 The monospace is a font stylization now available in WhatsApp that allows you to write fixed-width content. These WhatsApp writing tricks are useful when sharing any sort of coding or technical formulas. It will help distinguish special content from regular content. To insert it, use 3 backticks (\`\`\`text\`\`\`) at the beginning and end of your sentence without spacing.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Whatsapp Text Tricks Monospace](https://images.wondershare.com/filmora/article-images/whatsapp-text-tricks-monospace.png)
 
 #### 5.Disable Read Recipients
 
 WhatsApp introduced the Blue Tick feature to notify users when their messages are not only delivered but are seen by the recipients. But it has also been the cause of fallouts between loved ones and even trouble at work for failing to respond despite a Blue Tick. Now you can control the fury with WhatsApp Text Tricks of disabling the Read Recipient feature. Go Settings >> Account >> Privacy >> Read Recipients. By doing this, you won’t be able to see your contact’s blue ticks as no one will be able to see yours. Unlike custom notifications, the Read Recipient feature applies to your entire contact list and cannot be used for one specific contact. The sender would see black double ticks even if you read the message.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Whatsapp Disable Read Recipients](https://images.wondershare.com/filmora/article-images/whatsapp-disable-read-recipients.png)
 
 #### 6.Pin Prioritized Contacts
 
 Many times, we have just one or a few people whose texts matter the most. So, avoid letting those important message threads from getting pushed down below by message floods. You can pin priority contacts by opening WhatsApp, then tapping and holding the chat thread of the contact without opening it. This will show a new toolbar on the green border at the top of the window. Use the first icon of a pin to freeze the chat thread in the top position.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Whatsapp Pin Prioritized Contacts](https://images.wondershare.com/filmora/article-images/whatsapp-pin-prioritized-contacts.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Source: techmesto.com
 
@@ -99,13 +84,14 @@ If you wish to save the chats that you exchanged with someone special, you can e
 
 ![Whatsapp Export Chat Logs](https://images.wondershare.com/filmora/article-images/whatsapp-export-chat-logs.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 8.WhatsApp Font Tricks for Formatting
 
 Though we have already mentioned the shortcuts for bold, italics, and other text formatting features, there is another way to format your texts if you forget the shortcuts - go for the Native Settings Strip. Once you are done typing, then tap and hold the text sections you want to format, this will open all the options in a list. You can scroll it to select your formatting command.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Whatsapp Font Tricks Formatting](https://images.wondershare.com/filmora/article-images/whatsapp-font-tricks-formatting.png)
 
 #### 9.You Can Apply All WhatsApp Font Tricks on One Word or Sentence
@@ -113,6 +99,10 @@ Though we have already mentioned the shortcuts for bold, italics, and other text
 There are plenty of things you can do with one word. It can be bold, italic, monospace, and strikethrough all at the same time. Apply the native settings or shortcuts one after another and voila!
 
 ![Apply All Whatsapp Font Tricks](https://images.wondershare.com/filmora/article-images/apply-all-whatsapp-font-tricks.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 10.Share Sections of Messages While Typing
 
@@ -134,6 +124,10 @@ There are many ways how you can save mobile data consumed by WhatsApp. First, yo
 
 ![Whatsapp Save More Data](https://images.wondershare.com/filmora/article-images/whatsapp-save-more-data.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Source: androidauthority.com
 
 #### 3.Share Your Location Without Ado
@@ -144,10 +138,11 @@ If there is confusion with a location, where sharing addresses is not an option,
 
 As long as you have the chat history intact you can search specific words to trace an old chat within a thread. Open the message thread of the specific contact, tap on the 3 Dots button on the top left and click on “Search”. Then type a word from the particular chat, hit enter to trace it.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Whatsapp Search Old Chat](https://images.wondershare.com/filmora/article-images/whatsapp-search-old-chat.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 5.Restore Your Chat History, and Deleted Chats
 
@@ -158,6 +153,10 @@ Sometimes you can restore deleted chat history if you have switched sims or mist
 Sometimes you just need to hush your WhatsApp for just a while. Perhaps you have to lend your phone to someone but don’t want them bumping into any of your private incoming messages. While other social media allow “logging off”, WhatsApp is always there in your face! Though high-fidelity phones allow fingerprint and face locking, not everyone owns a compatible device right now. Yet you don’t have to delete the app or go Aeroplane Mode, just force stop it. Though it is not an inbuilt WhatsApp feature, you can control the gamut by going to Settings>> Apps and Notifications >> WhatsApp >> Disable. Then in the same section go to Data Settings and disable Background Data. If you do this, your messages will come but you won’t’ get them until you open the app, meanwhile, keep receiving calls and all use your phone full-fledged.
 
 ![Whatsapp Hidden Feature Snooze Whatsapp](https://images.wondershare.com/filmora/article-images/whatsapp-hidden-feature-snooze-whatsapp.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 7.Automatically Delete Messages After 7 Days
 
@@ -179,9 +178,6 @@ This is as simple as it sounds. Tap and hold to select a message in a group and 
 
 Manage how you are notified of messages from specific contacts and groups. Go to the main page of the contact or group you wish to customize, and there you will find Custom Notifications. Activate the mode to open a wide range of options - notification tones, pop up, preview, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Whatsapp Hidden Feature Custom Notification](https://images.wondershare.com/filmora/article-images/whatsapp-hidden-feature-custom-notification.jpg)
 
 Source: beebom.com
@@ -205,23 +201,20 @@ For this WhatsApp Video Editing Trick, you would need to have a third-party scre
 You can create an instant GIF out of the video file within WhatsApp. Do this, let the video download, and then freshly share it from Attach >> Gallery >> Videos. Before sending, the video editing panel would open, there, you can see the GIF option at the top right. It will shorten your video to 6 seconds, adjust the cursor to the portion you wish to use.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Conclusion
 
 When it comes to WhatsApp Tricks and Trades, you always have to look forward to every update. Keep a tab on the updates and find a new WhatsApp Hidden Feature now and then.
 
 **You may also like:**[Best Bio for Whatsapp](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -246,4 +239,23 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-curating-capsules-of-gratitude-paidfree-options/"><u>[New] In 2024, Curating Capsules of Gratitude Paid/Free Options</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-next-gen-odyssey-explore-the-best-of-windows-10s-apps-and-games/"><u>[New] In 2024, Next-Gen Odyssey Explore the Best of Windows 10'S Apps & Games</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-reviving-airtunes-fixing-disrupted-transfer-between-iphone-ipad-and-mac-for-2024/"><u>[New] Reviving Airtunes Fixing Disrupted Transfer Between iPhone, iPad & Mac for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-a-comparative-analysis-androids-finest-video-downloaders/"><u>[Updated] 2024 Approved A Comparative Analysis Android's Finest Video Downloaders</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-itel-p55plus-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Itel P55+</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-enabling-creativity-with-free-online-and-offline-animation-methods/"><u>2024 Approved Enabling Creativity with Free Online & Offline Animation Methods</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-future-of-music-freedom-an-insightful-review-of-pazera-tools/"><u>2024 Approved The Future of Music Freedom An Insightful Review of Pazera Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/automated-methods-for-adding-photo-dates-for-2024/"><u>Automated Methods for Adding Photo Dates for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/benq-bl2711u-27-professional-4k-monitor-review/"><u>BENQ BL2711U 27” Professional 4K Monitor Review</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oneplus-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/june-20th-new-york-times-puzzle-solutions-and-answers-issue-375/"><u>June 20Th New York Times Puzzle Solutions & Answers (Issue #375)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/step-by-step-full-screen-preview-in-premiere-for-2024/"><u>Step-by-Step Full Screen Preview in Premiere for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-asus-rog-phone-7-ultimate-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Asus ROG Phone 7 Ultimate Device</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-visionaries-hashes-that-transform-short-videos-into-hits-for-2024/"><u>Viral Visionaries Hashes that Transform Short Videos Into Hits for 2024</u></a></li>
+</ul></div>
 

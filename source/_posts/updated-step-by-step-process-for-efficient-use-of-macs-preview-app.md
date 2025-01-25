@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Process for Efficient Use of Mac's Preview App\""
-date: 2025-01-16T18:21:53.559Z
-updated: 2025-01-19T17:27:52.316Z
+date: 2025-01-24T17:07:40.689Z
+updated: 2025-01-25T16:04:45.005Z
 tags: 
   - screen-recording
   - ai video
@@ -35,11 +35,19 @@ That said, the sections below explain **how to use Preview on Mac** for elementa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
 
@@ -70,7 +78,7 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Crop in Preview
@@ -100,10 +108,6 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -138,7 +142,7 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Combine Images into One
@@ -170,7 +174,7 @@ After opening an image, click **File** from the menu bar at the top, and click *
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
@@ -207,10 +211,6 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -236,15 +236,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-unlock-creative-potential-top-methods-for-green-screen-filming/"><u>[New] 2024 Approved Unlock Creative Potential Top Methods for Green Screen Filming</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-game-on-the-ultimate-guide-to-superior-offline-ios-fun/"><u>[New] Game On The Ultimate Guide to Superior Offline iOS Fun</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-top-10-border-tools-for-professional-instagram-images-for-2024/"><u>[New] Top 10 Border Tools for Professional Instagram Images for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-digital-content-filming-talents-release/"><u>[Updated] Digital Content Filming Talents Release</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-efficient-techniques-for-removing-auto-selected-podcasts-from-spotify/"><u>[Updated] Efficient Techniques for Removing Auto-Selected Podcasts From Spotify</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-harnessing-the-power-of-azure-transcript-services/"><u>[Updated] In 2024, Harnessing the Power of Azure Transcript Services</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-photonpinnacle-z7-optimize-picture-scaling-for-2024/"><u>[Updated] PhotonPinnacle Z7 Optimize Picture Scaling for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-toggle-picture-in-picture-feature-for-youtube-app/"><u>2024 Approved Toggle Picture-in-Picture Feature for Youtube App</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-poco-m6-pro-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Poco M6 Pro 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/securing-your-shots-top-15-mounting-options-for-gopro-for-2024/"><u>Securing Your Shots Top 15 Mounting Options for GoPro for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-next-gen-title-genius-for-online-content-creators/"><u>[New] In 2024, Next-Gen Title Genius for Online Content Creators</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-untold-journey-of-an-instagram-story-enthusiast/"><u>[Updated] In 2024, The Untold Journey of an Instagram Story Enthusiast</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-instant-sticker-transformation-your-guide-to-making-gifs-pop-in-telegram-and-more/"><u>[Updated] Instant Sticker Transformation Your Guide to Making GIFs Pop in Telegram & More</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamlessly-accessing-vids-the-top-5-free-online-video-extractors/"><u>2024 Approved Seamlessly Accessing Vids The Top 5 Free Online Video Extractors</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-complete-blueprint-for-optimizing-data-in-adobes-cloud-realm/"><u>2024 Approved The Complete Blueprint for Optimizing Data in Adobe's Cloud Realm</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-tale-of-two-sides-in-the-vr-revolution/"><u>2024 Approved The Tale of Two Sides in the VR Revolution</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-top-vr-bikes-to-check-out/"><u>2024 Approved Top VR Bikes to Check Out</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-transforming-audio-content-structuring-your-rss-feed/"><u>2024 Approved Transforming Audio Content Structuring Your RSS Feed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-uncovering-the-appeal-filmora-editors-most-attractive-features/"><u>2024 Approved Uncovering the Appeal Filmora Editor's Most Attractive Features</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-nokia-c32-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Nokia C32</u></a></li>
+<li><a href="https://fox-access.techidaily.com/beyond-boxes-crafting-memorable-receiving-moments/"><u>Beyond Boxes Crafting Memorable Receiving Moments</u></a></li>
+<li><a href="https://fox-links.techidaily.com/stream-your-podcast-with-one-move-only/"><u>Stream Your Podcast with One Move Only</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Add Fonts to After Effects for 2024"
-date: 2025-01-18T16:52:22.398Z
-updated: 2025-01-19T16:28:37.618Z
+date: 2025-01-23T16:02:57.894Z
+updated: 2025-01-25T16:22:27.056Z
 tags: 
   - screen-recording
   - ai video
@@ -37,6 +37,10 @@ Thus, selecting a proper font for the video becomes necessary in the post-produc
 
 ![enable fonts adobe after effects](https://images.wondershare.com/filmora/article-images/2022/07/enable-fonts-adobe-after-effects.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * This will direct you to the official website of Adobe Fonts where you can enable the fonts for your After Effects application. Once you are done with that click on the "Browse Fonts" and then in the opened tab, you will see a variety of fonts with their specified categories.
 
 ![browse fonts adobe](https://images.wondershare.com/filmora/article-images/2022/07/browse-fonts-adobe.jpg)
@@ -46,15 +50,11 @@ Thus, selecting a proper font for the video becomes necessary in the post-produc
 ![activitate all fonts after effects](https://images.wondershare.com/filmora/article-images/2022/07/activitate-all-fonts-after-effects.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Now keep the Creative Cloud application up and running in your system and then open your After Effects application. There navigate to "Graphics" and then select "Add Fonts from Adobe Fonts".
 * You can also use the font dropdown menu as a shortcut to use the fonts instantly. In Adobe After Effects interface, you can then select the "Character" panel to add or change the fonts to your videos.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. Types of Fonts in After Effects
 
@@ -74,10 +74,6 @@ Adding text effects in Adobe After Effects is very easy and you can use these ef
 * Then slide the keyframes to set the text effect on the section of the video where you want to add your text. You can also compose the text by clicking on it and editing it for adjusting its content, height, width, opacity, and color.
 * After you are done, save the project and your text effects will be added to the final video successfully.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4\. Alternative ways to edit text fonts
 
 If for some reason you don't want to use After Effects on your device to edit your videos, or your PC is incompatible with your device, then [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a great alternative for you. Filmora is a paid application that is supported on both Windows as well as Mac and comes with a free version where you can try the different video editing features.
@@ -91,12 +87,16 @@ These features also include adding texts and changing the fonts of those texts o
 ![use filmora to edit device](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * First open that video that you want to edit in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and then you will be available with a tab called "Titles" on the top. Select that and select any style of title that you want to edit. There is a preview window available to look at the text fonts and designs.
 
 ![open wanted video to edit in filmora](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Select the text style you want to add for your title and then drag it from the title's library to your timeline. An alternate way to add texts or such title font is to right-click on it and select the "Apply" option.
 * Here you can also set a particular font or style for the title as your favorite by right-clicking on the library and then selecting "Add to favorites" for easy access.
@@ -127,7 +127,7 @@ These features also include adding texts and changing the fonts of those texts o
 * After you are done, click "save" and the text effects will be added to your videos successfully.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -158,21 +158,24 @@ The article discussed the detailed process of **how to add font to Adobe After E
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-pinterest-vid-extraction-made-easy-the-best-tools-ranked/"><u>[New] 2024 Approved Pinterest Vid Extraction Made Easy The Best Tools Ranked</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-revolutionizing-action-video-with-polaroid-xs-100i/"><u>[New] 2024 Approved Revolutionizing Action Video with Polaroid XS 100I</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-comprehensive-blueprint-for-subtitle-distribution-on-tiktok-and-twitch/"><u>[Updated] Comprehensive Blueprint for Subtitle Distribution on TikTok and Twitch</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-dramatic-portraits-with-hdr-a-complete-tutorial/"><u>[Updated] Dramatic Portraits with HDR A Complete Tutorial</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-filmmakers-choice-converting-avi-files-to-gif-via-filmora-software-windowsmac/"><u>[Updated] In 2024, Filmmaker's Choice Converting AVI Files to GIF via Filmora Software (Windows/Mac)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/0x80248007-error-in-windows-update-in-windows-11-solved/"><u>0X80248007 Error in Windows Update in Windows 11 [Solved]</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-expert-tips-for-srt-enhanced-mp4-files/"><u>2024 Approved Expert Tips for SRT-Enhanced MP4 Files</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024s-most-economical-cloud-stores-revealed/"><u>2024'S Most Economical Cloud Stores Revealed</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-nokia-g310-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Nokia G310 Phone Screen?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mastering-connectivity-with-ugreens-max-revodok-213-the-ultimate-thunderbolt-verview-on-solo-excellence/"><u>Mastering Connectivity with Ugreen's Max Revodok 213: The Ultimate Thunderbolt 지포처verview on Solo Excellence</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-watch-movies-for-free-top-12-app-recommendations/"><u>The Ultimate Guide to Watch Movies for Free: Top 12 App Recommendations</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-when-microsofts-print-to-pdf-feature-fails-on-windows-11/"><u>Troubleshooting Steps when Microsoft's Print to PDF Feature Fails on Windows 11</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/video-earnings-explored-in-depth-look-at-dm-and-yo/"><u>Video Earnings Explored In-Depth Look at Dm & Yo</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-realme-10t-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Realme 10T 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/yl-software-unveiled-mastering-network-connection-management-in-the-control-panel/"><u>YL Software Unveiled: Mastering Network Connection Management in the Control Panel</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-balancing-dynamics-with-controlled-decays-for-2024/"><u>[New] Balancing Dynamics with Controlled Decays for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-capture-clarity-complimentary-photo-refining-app/"><u>[New] Capture Clarity - Complimentary Photo Refining App</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-core-auditory-stimulation-channels/"><u>[New] Core Auditory Stimulation Channels</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-professional-stability-systems-for-youtube-filmmakers/"><u>[Updated] In 2024, Professional Stability Systems for YouTube Filmmakers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-tunefabs-cutting-edge-approach-to-live-streaming/"><u>[Updated] In 2024, Tunefab's Cutting-Edge Approach to Live Streaming</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-dialogue-to-digest-leading-voice-to-text-mobile-apps/"><u>2024 Approved Dialogue to Digest Leading Voice-to-Text Mobile Apps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-digital-revival-improving-computerized-vhs-visuals/"><u>2024 Approved Digital Revival Improving Computerized VHS Visuals</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-elevate-your-videography-best-hd-android-video-apps-guide/"><u>2024 Approved Elevate Your Videography Best Hd Android Video Apps Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-elite-selection-of-10-a-list-camera-lenses/"><u>2024 Approved Elite Selection of 10 A-List Camera Lenses</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-how-to-retrieve-flawless-copyright-free-images/"><u>2024 Approved How to Retrieve Flawless, Copyright-Free Images</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-mastering-kinemaster-techniques-and-top-10-online-rivals/"><u>2024 Approved Mastering KineMaster Techniques & Top 10 Online Rivals</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-mastering-real-time-broadcast-periscope-essentials/"><u>2024 Approved Mastering Real-Time Broadcast Periscope Essentials</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-windows-11-a-features-showcase/"><u>2024 Approved Windows 11 A Features Showcase</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/adopting-smart-marketing-discover-how-our-campaigns-are-powered-by-cookiebots-innovations/"><u>Adopting Smart Marketing: Discover How Our Campaigns Are Powered by Cookiebot's Innovations</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-samsung-galaxy-m54-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Samsung Galaxy M54 5G? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/capturing-every-corner-our-top-picks-for-best-11-bridge-cameras/"><u>Capturing Every Corner Our Top Picks for Best 11 Bridge Cameras</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/professionelle-methoden-zur-wiederherstellung-von-sql-backup-datenbankdateien/"><u>Professionelle Methoden Zur Wiederherstellung Von SQL-Backup-Datenbankdateien</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-methods-how-to-turn-any-video-into-a-blackberry-compatible-format/"><u>Simple Methods: How to Turn Any Video Into a BlackBerry-Compatible Format</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/windowspanasonicssd/"><u>Windows用アドベンチャー版PANASONICSSD複写ツール</u></a></li>
 </ul></div>
 

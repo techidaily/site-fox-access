@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Shoot Vertical Panorama Photos with Your Smartphone Android/iOS"
-date: 2024-08-08T12:08:48.840Z
-updated: 2024-08-09T12:08:48.840Z
+date: 2025-01-22T16:16:18.062Z
+updated: 2025-01-25T16:20:45.371Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 # How to Shoot Vertical Panorama Photos with Your Smartphone Android/iOS
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -31,22 +28,20 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
  When the term 'Panorama' reaches to our ears, majority of people bring those horizontal landscapes in their minds. But what about the beautiful Eiffel Tower or the Statue of Liberty or say a lavish building view? All these tall looking objects will not fit into the traditional horizontal panorama. And here comes vertoramas handy. Vertoramas are basically panorama shots but taken vertically. The **vertical panoramic photos** provide an elevated quality to the tall things of the world ultimately giving them a stunning look and unusual twist.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/vertical-panorama.jpg)
 
  Image source: Imgur
 
  However, you will need to use a few but simple techniques to efficiently capture the vertical panoramic view. In this article, we’ll explain you how you can carry out those extraordinary views with your Android or iOS device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## How to take vertical panorama photography with your respective Smartphone
 
 * [Part 1: For iPhone Users](#part1)
 * [Part 2: For Android Users](#part2)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### For iPhone users
 
@@ -55,10 +50,11 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 * Launch Camera app in your device and initiate a right swipe to the "PANO" mode.
 * Make sure to hold the device horizontally and hit the camera button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/iphone-panorama-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image source: mac-fusion
 
@@ -72,16 +68,21 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 * Start with opening the camera followed by choosing the "Panorama" option from the menu.
 * Hit on "Vertical" and begin the process.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/vertical-panorama-android.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image source: mac-fusion
 
 * To shoot picture, keep holding the target circle on the gray dot until it vanishes.
 * Repeat the same with other dots as well. In other words, move camera towards the gray dots one by one until they get disappear.
 * Tap on "Done" when completed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Some Beneficial Tips for shooting vertical panorama photo
 
@@ -90,10 +91,11 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 * For better shoot of vertical panorama on Android as well as iPhone, make sure to stand close to the subject to be captured. This way will intensify the tall subjects rather than giving more highlight to the foreground.
 * Leaving some space is another beautiful tip especially if you are a graphic designer and want to add some text into the picture. The panorama shot will look perfectly enhanced this way.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -118,4 +120,23 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-efficient-techniques-to-record-and-store-facebook-calls/"><u>[New] Efficient Techniques to Record and Store Facebook Calls</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-troubleshooting-a-non-functional-obs-capture-device/"><u>[New] In 2024, Troubleshooting a Non-Functional OBS Capture Device</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-crafting-professionalism-the-best-practices-for-post-upload-editing/"><u>[Updated] 2024 Approved Crafting Professionalism The Best Practices for Post-Upload Editing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-streamlined-language-translation-best-online-subtitle-manipulators/"><u>[Updated] 2024 Approved Streamlined Language Translation – Best Online Subtitle Manipulators</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-copyright-laws-for-instagram-music-postings/"><u>[Updated] Navigating Copyright Laws for Instagram Music Postings</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-complete-walkthrough-mastering-adobe-cloud-services/"><u>2024 Approved Complete Walkthrough Mastering Adobe Cloud Services</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-estimating-byte-consumption-of-full-film-daily/"><u>2024 Approved Estimating Byte Consumption of Full Film Daily</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-mastering-video-enlargement-on-youtube/"><u>2024 Approved Mastering Video Enlargement on YouTube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-revisit-and-refine-your-past-editing-fbs-look-back-videos/"><u>2024 Approved Revisit and Refine Your Past Editing FB's Look Back Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-spoofing-success-the-path-to-parody-proficiency/"><u>2024 Approved Spoofing Success The Path to Parody Proficiency</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-tomtoms-advanced-adventure-cameras-review-2023-edition/"><u>2024 Approved TomTom’s Advanced Adventure Cameras Review - 2023 Edition</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-top-10-must-haves-action-cameras-unleashed/"><u>2024 Approved Top 10 Must-Haves Action Cameras Unleashed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/a-positive-outlook-the-smooth-process-of-pre-ordering-the-new-apple-vision-pro-reflects-exciting-future-prospects-gadgetguru/"><u>A Positive Outlook: The Smooth Process of Pre-Ordering the New Apple Vision Pro Reflects Exciting Future Prospects | GadgetGuru</u></a></li>
+<li><a href="https://fox-access.techidaily.com/a-step-by-step-approach-to-mastering-lut-utilization/"><u>A Step-by-Step Approach to Mastering LUT Utilization</u></a></li>
+<li><a href="https://fox-access.techidaily.com/comprehensive-breakdown-sony-fdr-x1000-video-gear/"><u>Comprehensive Breakdown Sony FDR-X1000 Video Gear</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-top-10-face-blurring-tools-for-photos-and-videos-free-and-easy-to-use-for-2024/"><u>Updated Top 10 Face Blurring Tools for Photos and Videos (Free & Easy to Use) for 2024</u></a></li>
+</ul></div>
 

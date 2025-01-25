@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Breathtaking Bounds of 2022 Skaters"
-date: 2024-08-08T12:10:36.383Z
-updated: 2024-08-09T12:10:36.383Z
+date: 2025-01-22T16:16:07.362Z
+updated: 2025-01-25T17:01:22.608Z
 tags: 
   - screen-recording
   - ai video
@@ -22,39 +22,29 @@ Winter Olympics is synonymous with Figure Skating as it is the oldest sports eve
 
 Nathan Chen of the United States won the gold medal at the 2022 Beijing Winter Olympics. Yuma Kagiyama of Japan won the silver medal while the bronze medal went to Shoma Uno in Men's singles figure skating competition. On the other hand, the gold medal of the team event went to ROC while the silver medal went to United Stated and the bronze medal went to Japan. Here are all the figure skating highlights 2022 Beijing Winter Olympics. We will also illustrate how to create the highlights of figure skating in a video in simple steps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. Highlights of Figure Skating Olympics Games Beijing2022
 
 In Olympic competition, skaters need to perform two minutes and 40 seconds short program and four minutes free skate and the winner is decided based on combined score.
 
 Nathan Chen got the combined score of 332.60 in short program and free skate competitions to win the 2022 Olympic men's figure skating title.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![nathan chen skating](https://images.wondershare.com/filmora/article-images/nathan-chen-skating.jpg)
 
 Nathan Chen of the United States reacts to winning the gold medal at the 2022 Beijing Winter Olympics. He successfully hit five quadruple jumps which helped him outshine others.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
 
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shoma Uno of Japan won the bronze medal with a combined score of 293 points and he has become the second Japanese to win a medal at the 2022 Beijing Winter Olympics.
 
@@ -62,9 +52,6 @@ Shoma Uno of Japan won the bronze medal with a combined score of 293 points and 
 
 Nathan Chen successful triumph has been four years in the making and it is a perfect combination of seven perfect skating minutes. Back at 2018 Olympics, he botched and ended with disappointment. Therefore, Olympics Games Beijing2022 has been redemption for America's best male skater.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-best-male-skater.jpg)
 
 Even though Nathan Chen finished first for men's short program of the team event, United States could not hold to the first position and losing to ROC.
@@ -73,12 +60,17 @@ Even though Nathan Chen finished first for men's short program of the team event
 
 Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Create a Video for Showing the Highlights of Figure Skating
 
@@ -100,13 +92,14 @@ Step 1: Download and install Filmora. Launch Filmora and click on New Project.
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Go to File > Project Settings and set the parameters as per your requirements.
 
 Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all the still photos and video footage clips you have collected about figure skating Olympics. You can trim them and maintain uniformity throughout.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
 Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
@@ -136,4 +129,23 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-inside-facetunes-magic-an-in-depth-analysis-for-perfect-photos/"><u>[New] 2024 Approved Inside Facetune's Magic An In-Depth Analysis for Perfect Photos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-choosing-hdr-over-sdr-elevating-your-video-creation-process/"><u>[New] Choosing HDR over SDR Elevating Your Video Creation Process</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-deciphering-the-value-of-photoshop-sway-control-for-2024/"><u>[New] Deciphering the Value of Photoshop Sway Control for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-break-down-barriers-with-cost-free-vob-player/"><u>[New] In 2024, Break Down Barriers with Cost-Free VOB Player</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-virtual-reality-therapy-breakthroughs/"><u>[New] In 2024, Virtual Reality Therapy Breakthroughs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-depth-training-on-googles-automatic-transcription-tool-for-2024/"><u>[Updated] In-Depth Training on Google's Automatic Transcription Tool for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-prime-unlimited-space-service-catalogue-for-2024/"><u>[Updated] Prime Unlimited Space Service Catalogue for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/decoding-twitter-archived-content-for-clarity/"><u>Decoding Twitter Archived Content for Clarity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-join-openais-bug-bounty-initiative-insights-and-steps/"><u>How To Join OpenAI's Bug Bounty Initiative – Insights & Steps</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-getting-acquainted-with-quantum-hdr-techniques/"><u>In 2024, Getting Acquainted with Quantum HDR Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-perfecting-package-adventure-7-steps/"><u>In 2024, Perfecting Package Adventure 7 Steps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-artificial-intelligence-for-enhanced-content-generation-exploring-chatbot-capabilities/"><u>Leveraging Artificial Intelligence for Enhanced Content Generation: Exploring Chatbot Capabilities</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/mastering-windows-11-essential-tips-and-tricks-for-ultimate-optimization-guided-by-yl-computing/"><u>Mastering Windows 11: Essential Tips & Tricks for Ultimate Optimization - Guided by YL Computing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quickly-troubleshoot-and-correct-the-lack-of-sound-during-your-skype-conversations/"><u>Quickly Troubleshoot and Correct the Lack of Sound During Your Skype Conversations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/success-story-how-i-fixed-a-continuous-steam-update-glitch-easily/"><u>Success Story: How I Fixed a Continuous Steam Update Glitch Easily</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-vivo-s18-pro-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo S18 Pro</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Streamlining Visual Storytelling  Best Plugin Choices in AE\""
-date: 2024-08-08T12:11:34.107Z
-updated: 2024-08-09T12:11:34.107Z
+date: 2025-01-20T16:38:30.943Z
+updated: 2025-01-25T16:13:31.751Z
 tags: 
   - screen-recording
   - ai video
@@ -34,10 +34,11 @@ Link: <https://aescripts.com/textexploder/>
 
 TextExploder is an After Effects plugin that is developed by MamoWorld and it allows you to split the text layers in After Effects into words, lines, characters, and more. These splits are so powerful that you can very easily isolate a single word or even a single letter.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![text exploder plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-exploder-plugin.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iExpressions 2
 
@@ -48,60 +49,51 @@ If you want to effectively use the After Effects expressions even if you are not
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## TextBox
 
 Link: <https://aescripts.com/textbox/>
 
 If you want to create the perfect shape behind your text, then TextBox is a good text plugin to consider. This is a native After Effects plugin, meaning that you will not need to install it and the shapes it creates can be very easily customized. It updates the shapes you create automatically and adds them to the text layer, making it the most ideal solution to create closed captions, lower thirds, and subtitles.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![text box plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-box-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Font Manager
 
 Link: <https://aescripts.com/font-manager/>
 
 Font Manager is an After Effects text plugin that is useful when creating and working with animated typefaces. You can use it to create the most complex animated text graphics in just a few simple clicks. You will also find it very familiar to use as the user interface is similar to the Character Panel in After Effects.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![font manager plugin](https://images.wondershare.com/filmora/article-images/2022/07/font-manager-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Cartoon Moblur
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Fcartoon%5Fmoblur>
 
 This is the most ideal plugin to choose when you want to add motion trail to the graphics in your video, but you want them to appear very cartoony. If you have used the motion blur effect in After Effects, Cartoon Moblur will behave in a similar function, but it is more suited to 2D, flat or minimal graphics. Some of the factors that you can customize include the length of the blur (shutter angle), color, and opacity.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![cartoon moblur plugin](https://images.wondershare.com/filmora/article-images/2022/07/cartoon-moblur-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Shadow Studio
 
 If you are looking for shadow styles that will go very well with your project, Shadow Studio is a good plugin to get. It offers you a wide variety of shadow styles including radial, inner, soft, and long shadows. Most people find it an easier and more affordable way to add soft shadows as compared to traditional methods like raytracing. It is also quite easy to use, meaning that shadow effects that would take hours to complete can be done in a matter of minutes.
 
 ![shadow studio plugin](https://images.wondershare.com/filmora/article-images/2022/07/shadow-studio-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Texts Animation Bundle
 
 Link: <https://aedownload.com/download-texts-animation-bundle-free-videohive/>
@@ -110,18 +102,6 @@ This is a bundle of more than 80 different templates to add text effects to any 
 
 ![texts animation bundle plugin](https://images.wondershare.com/filmora/article-images/2022/07/texts-animation-bundle-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Artificial Intelligence Titles
 
 Link: <https://videohive.net/item/ait-artificial-intelligence-titles/22124640?s%5Frank=1>
@@ -129,6 +109,14 @@ Link: <https://videohive.net/item/ait-artificial-intelligence-titles/22124640?s%
 The Artificial Intelligence Titles is an After Effects text plugin that is designed to be the ultimate typographical solution. Once you have it in After Effects, you can enter any text and the plugin will automatically adjust the entire layout of the text. You can choose to create awesome text boxes, change the color, add special effects and even change the duration, speed, size, and positioning of the text. It also allows users to customize the text animation’s direction without using a keyframe.
 
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Text Library
 
@@ -170,4 +158,22 @@ On its own After Effects comes with so many post-production effects and features
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-elite-systems-essential-streaming-software-guide/"><u>[New] In 2024, Elite Systems Essential Streaming Software Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-phantom-3-duel-mirage-4s-debut/"><u>[New] In 2024, Phantom 3 Duel Mirage 4'S Debut</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-best-of-the-best-reddits-all-time-favorites/"><u>[New] In 2024, The Best of the Best Reddit's All-Time Favorites</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-pathway-to-get-your-hands-on-movie-maker-6-for-2024/"><u>[New] Pathway to Get Your Hands on Movie Maker 6 for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-complete-handbook-to-securing-product-sponsorships-on-youtube-for-2024/"><u>[New] The Complete Handbook to Securing Product Sponsorships on Youtube for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-your-movies-at-no-cost-on-various-oses/"><u>[New] Unlock Your Movies at No Cost on Various OSes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-capture-creativity-speedy-drawing-techniques-for-windows-photo-editor/"><u>[Updated] 2024 Approved Capture Creativity Speedy Drawing Techniques for Windows Photo Editor</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-comprehensive-review-of-non-google-augmented-reality-accessories/"><u>[Updated] 2024 Approved Comprehensive Review of Non-Google Augmented Reality Accessories</u></a></li>
+<li><a href="https://win-forum.techidaily.com/advanced-techniques-to-delete-secure-files-and-directories-in-modern-windows-os/"><u>Advanced Techniques to Delete Secure Files and Directories in Modern Windows OS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-selection-of-dell-deals-for-black-fridaycyber-monday-at-major-online-and-in-store-outlets-zdnet/"><u>Discover the Ultimate Selection of Dell Deals for Black Friday/Cyber Monday at Major Online and In-Store Outlets | ZDNET</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-update-your-hp-printers-software-compatibility-with-windows-11/"><u>Find & Update Your HP Printer's Software Compatibility with Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-browse-and-compare-leading-affordable-quality-webm-streamers/"><u>In 2024, Browse and Compare Leading Affordable, Quality WebM Streamers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/rapid-results-elevate-images-on-windows-11/"><u>Rapid Results Elevate Images on Windows 11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/subrip-file-creation-from-compressed-archives/"><u>SubRip File Creation From Compressed Archives</u></a></li>
+<li><a href="https://extra-information.techidaily.com/utilize-snapchats-star-trail-effectively/"><u>Utilize Snapchat's Star Trail Effectively</u></a></li>
+</ul></div>
 

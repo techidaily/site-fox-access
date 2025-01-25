@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Batch Background Erasure in Affinity Photo"
-date: 2024-08-08T12:11:53.005Z
-updated: 2024-08-09T12:11:53.005Z
+date: 2025-01-18T16:58:25.143Z
+updated: 2025-01-25T17:01:55.003Z
 tags: 
   - screen-recording
   - ai video
@@ -22,14 +22,14 @@ Affinity Photo is an image editor developed by Serif Ltd. in 2009 and is used by
 
 No matter you are a professional content creator or a newbie, we'll be discussing how to remove background in Affinity Photo. Let's explore how to use the good editing tool to be free of the stressful editing process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Remove Affinity Photo to Remove Image's Background
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ### How to Erase a White Background in Affinity Designer
 
 To erase a white background in Affinity Designer, do these steps:
@@ -38,10 +38,11 @@ Step1 In the first step, install the [Affinity Designer](https://affinity.serif.
 
 Now access the **Pixel Persona** section in the left corner of the software screen by clicking the **colored boxes** icon.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![accessing the pixel persona in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-pixel-persona-in-affinity-designer.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
 
@@ -49,9 +50,6 @@ Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and 
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
 
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
@@ -60,10 +58,11 @@ Step4 Next, zoom in on your subject. Press & hold the ALT key on your keyboard, 
 
 Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** menu. A red mask will be applied to your subject, giving you an idea of how your image will look once you remove the background. Zoom in and if any details are excluded, paint them over. Once you are satisfied, click **"Apply"** to save your changes.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![refining the outline around the image to remove background in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/refining-the-outline-around-the-image-to-remove-background-in-affinity-designer.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
 
@@ -123,8 +122,9 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 This article discusses **removing a background in Affinity Photo**, whether the image has a white or a busy BG.
@@ -141,9 +141,6 @@ Since Affinity Photo is a desktop software available for a one-time purchase of 
 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
@@ -163,9 +160,9 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 This article discusses **removing a background in Affinity Photo**, whether the image has a white or a busy BG.
@@ -198,4 +195,22 @@ Hopefully, this article and video can help you create ideal images!
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-horizon-hurdlers-celebrating-the-most-staying-power-drones/"><u>[New] 2024 Approved Horizon Hurdlers Celebrating the Most Staying Power Drones</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-ideal-slide-show-apps-from-iphone-6-to-xs-max-for-2024/"><u>[New] Ideal Slide Show Apps From iPhone 6 to XS Max for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-preeminent-online-spaces-enhancing-youtube-traffic/"><u>[Updated] 2024 Approved Preeminent Online Spaces Enhancing YouTube Traffic</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-expert-picks-screen-recording-software-for-academic-success/"><u>[Updated] In 2024, Expert Picks Screen Recording Software for Academic Success</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-low-cost-gopro-cameras-where-to-find-them/"><u>[Updated] Low-Cost GoPro Cameras Where to Find Them</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-modern-uses-of-drones-to-coming-innovations-for-2024/"><u>[Updated] Modern Uses of Drones to Coming Innovations for 2024</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/abbyy-secures-soc-2-type-2-accreditation-for-enhanced-data-security/"><u>ABBYY Secures SOC 2 Type 2 Accreditation for Enhanced Data Security</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-potential-gains-and-losses-for-gamers-in-new-partnership/"><u>Exploring Potential Gains and Losses for Gamers in New Partnership</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-dell-wi-fi-adapter-software-here/"><u>Get the Latest Dell Wi-Fi Adapter Software Here!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-12-mini-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock Apple iPhone 12 mini 3 Ways To Unlock</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-fundamentals-of-captivating-video-scripts/"><u>In 2024, The Fundamentals of Captivating Video Scripts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unearthing-vivas-video-capabilities/"><u>In 2024, Unearthing Viva's Video Capabilities</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-depth-study-motion-without-contact-for-2024/"><u>In-Depth Study Motion Without Contact for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210755281-9791028523992-les-4-secrets-de-labondance/"><u>Les 4 secrets de l'abondance | Free Book</u></a></li>
+<li><a href="https://fox-access.techidaily.com/navigating-through-video-editing-landscape-with-movies-maker-on-windows-8-for-2024/"><u>Navigating Through Video Editing Landscape with Movies Maker on Windows 8 for 2024</u></a></li>
+</ul></div>
 
