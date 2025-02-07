@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Step-by-Step Guide for Using Zoom via Gmail\""
-date: 2025-01-19T16:18:57.633Z
-updated: 2025-01-25T16:56:22.578Z
+date: 2025-02-05T08:50:09.216Z
+updated: 2025-02-07T11:47:47.586Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,6 @@ Having a built-in option for scheduling Zoom in Gmail meetings is crucial for in
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. Install Zoom Add-On for Google Account
 
 Using the "Zoom for Gmail" add-on, which connects your Gmail account with Zoom, you may activate Zoom meetings on Gmail. The default choice for meetings is Google's video conferencing service, Google Meet. To make it similarly frictionless, all you have to do is install a free app. When you include a Zoom meeting in your calendar invitation, all participants may join the meeting by simply clicking the meeting's details and then clicking again. With this add-on, you may use Gmail's web client's collaboration capabilities to initiate and plan Zoom sessions. Visit the Google Workspace store to add Zoom to your G-suite account. How to install this on your account is provided here. You may achieve this by doing the actions listed below:
@@ -55,11 +51,19 @@ There is no need to log into Zoom or look through emails to get access. Both cho
 
 ![install zoom for gmail](https://images.wondershare.com/filmora/article-images/2022/07/install-zoom-for-gmail.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3Log into your own Google Account
 
 Launch your web browser and open Gmail. A new Zoom icon with the text "Zoom for Gmail was installed" will appear on the right sidebar. Log into your Zoom account when the new tab has opened, then select Authorize to provide Gmail access.
 
 ![choose account to continue zoom](https://images.wondershare.com/filmora/article-images/2022/07/choose-account-to-continue-zoom.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step4Press "Allow"
 
@@ -76,6 +80,10 @@ G Suite and Zoom may be integrated in both ways. Therefore, each meeting you sch
 Step1 Install the "Zoom for G-Suite" plugin, that is free, from the official G-Suite store after logging into your Google account.
 
 ![install zoom for gsuite](https://images.wondershare.com/filmora/article-images/2022/07/install-zoom-for-gsuite.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To get install rights if you are using an enterprise account, get in touch with your IT administrator. A lot of rights, including complete access to your whole contact list, are also required by the add-on. Skip this technique and look at Method 2, which does not need the add-on, if that makes you uncomfortable.
 
@@ -99,23 +107,19 @@ Step5 The Meeting ID, password, and passcode will now be automatically filled in
 
 Two of the most popular productivity tools are Zoom and G Suite, which are utilized by both businesses and individuals. Users can simply book Zoom meetings from inside Google Calendar and invite friends, family, and coworkers to participate thanks to the connectivity between the two.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Calendar Link Addition
 
 Without the add-on, you may still include a link to a Zoom meeting in a Google Calendar event. Because the add-on requests a ton of permissions, including full access to your complete contact list, it is really the most private alternative. Keep in mind, too, that using the manual way will not sync your meetings between Zoom and Calendar for you. If you're okay with that, the following instructions will show you how to add a Zoom invite link to Google Calendar without the add-on:
 
 ![calendar link addition meeting](https://images.wondershare.com/filmora/article-images/2022/07/calendar-link-addition-meeting.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Create a new meeting by using the Zoom client on your PC (or Android or iOS phone). Then, on the Meetings page, select the "Copy Invitation" option.
 * Open a web browser and log in to Google. After that, enter Google Calendar and manually paste the meeting details into the "Notes" area at the bottom before adding the Zoom invite link. Finally, choose "Save." As previously mentioned, you may now use the email link to add guests and send invitations.
 * After accepting the invitation, the participants will see the meeting link in their Google Calendar and be able to join by clicking the link or the "Join Zoom Meeting" option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Make a Video Recording of the Call
 
@@ -130,11 +134,11 @@ Use the [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) sc
 ![make recording of zoom call](https://images.wondershare.com/filmora/article-images/2022/07/make-recording-of-zoom-call.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Create Meeting Template
@@ -144,11 +148,7 @@ With one URL and preserved settings, create recurring meetings. You may set up a
 ![create zoo mmeeting template](https://images.wondershare.com/filmora/article-images/2022/07/create-zoom-meeting-template.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -176,22 +176,19 @@ In a nutshell, so that everyone can arrive on time, you would be able to easily 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-immersive-entertainment-showdown-google-cardboard-and-samsung-gear/"><u>[New] Immersive Entertainment Showdown Google Cardboard & Samsung Gear</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-ultimate-shot-selection-best-stabilizers-reviewed/"><u>[New] Ultimate Shot Selection - Best Stabilizers Reviewed</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-effortless-metaverse-creation-a-comprehensive-avatar-guide/"><u>2024 Approved Effortless Metaverse Creation A Comprehensive Avatar Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-elevate-design-15-must-have-plugins-for-after-effects/"><u>2024 Approved Elevate Design 15 Must-Have Plugins for After Effects</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-excellence-in-text-editing-with-ae-presets/"><u>2024 Approved Excellence in Text Editing with AE Presets</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-exploring-the-full-features-sony-fdr-x1000-model/"><u>2024 Approved Exploring the Full Features Sony FDR-X1000 Model</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-photo-perfection-in-pixels-a-compreran-guide-to-polarrs-features/"><u>2024 Approved Photo Perfection in Pixels A Compreran Guide to Polarr’s Features</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-strategies-for-effective-youtube-comment-engagement/"><u>2024 Approved Strategies for Effective YouTube Comment Engagement</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-the-essential-guide-to-custom-voices-how-to-alter-game-character-sounds-in-free-fire-no-cost/"><u>2024 Approved The Essential Guide to Custom Voices How to Alter Game Character Sounds in Free Fire (No Cost!)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/a-step-by-step-pathway-to-adding-sound-in-adobe-premiere-for-2024/"><u>A Step-by-Step Pathway to Adding Sound in Adobe Premiere for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-lava-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Lava Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://games-able.techidaily.com/melody-mastery-the-ultimate-showdown-of-musical-quizzes/"><u>Melody Mastery: The Ultimate Showdown of Musical Quizzes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/step-into-visual-storytelling-xp-edition-installation-for-2024/"><u>Step Into Visual Storytelling XP Edition Installation for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sync-your-oura-health-insights-with-strava-a-step-by-step-guide-tech-blog/"><u>Sync Your Oura Health Insights with Strava: A Step-by-Step Guide | Tech Blog</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transformative-guide-gifs-becoming-stickers-on-discord-whatsapp-and-telegram-for-2024/"><u>Transformative Guide GIFs Becoming Stickers on Discord, WhatsApp & Telegram for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-elite-film-preview-spectacles/"><u>[New] In 2024, Elite Film Preview Spectacles</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-should-you-monitor-off-facebook-a-guide-for-users/"><u>[New] Should You Monitor Off-Facebook? A Guide for Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-upgrade-your-video-presentations-zooming-through-filter-techniques/"><u>[New] Upgrade Your Video Presentations Zooming Through Filter Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-blending-images-for-a-captivating-visual-journey/"><u>[Updated] In 2024, Blending Images for a Captivating Visual Journey</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-navigating-chromes-pip-feature-across-devices-for-2024/"><u>[Updated] Navigating Chrome's PIP Feature Across Devices for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-essential-list-of-20-budget-friendly-1tbplus-cloud-space-providers-for-2024/"><u>[Updated] The Essential List of 20 Budget-Friendly, 1TB+ Cloud Space Providers for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-uncover-the-best-6-screen-recording-software-on-mac/"><u>[Updated] Uncover the Best 6 Screen Recording Software on Mac</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-best-websites-to-download-aesthetic-wallpapers-for-laptop-for-2024/"><u>10 Best Websites to Download Aesthetic Wallpapers for Laptop for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-xs-max-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone XS Max Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-streamlining-the-acquisition-of-background-visual-content/"><u>In 2024, Streamlining the Acquisition of Background Visual Content</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-samsung-galaxy-a14-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Samsung Galaxy A14 5G FRP Bypass</u></a></li>
+<li><a href="https://fox-access.techidaily.com/unlocking-telegram-web-potentials-a-practical-guide-for-2024/"><u>Unlocking Telegram Web Potentials A Practical Guide for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/zooms-path-to-visual-impact-adding-video-filters-tutorial-for-2024/"><u>Zoom's Path to Visual Impact Adding Video Filters Tutorial for 2024</u></a></li>
 </ul></div>
 

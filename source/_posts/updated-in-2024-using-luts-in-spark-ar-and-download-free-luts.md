@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Using LUTs in Spark AR & Download Free LUTs"
-date: 2025-01-18T16:42:19.302Z
-updated: 2025-01-25T17:11:14.109Z
+date: 2025-02-03T06:55:44.533Z
+updated: 2025-02-06T17:19:42.935Z
 tags: 
   - screen-recording
   - ai video
@@ -34,7 +34,7 @@ To develop AR effects for mobile cameras, you can use the Mac and Windows augmen
 ![create a color gradient effect](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to use LUTs in Spark AR?
@@ -57,6 +57,10 @@ A patch graph is automatically set that applies a color LUT to the entire scene.
 
 ![apply to the whole scene](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The color LUT patch graph**
 
 The patch graph that renders the color gradation effect looks like this:
@@ -64,7 +68,7 @@ The patch graph that renders the color gradation effect looks like this:
 ![color lut patch graph](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **To create the effect:**
@@ -77,10 +81,6 @@ The patch graph that renders the color gradation effect looks like this:
 
 Here are the best free LUTs resources for Spark AR:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. [Frost Zombie (Technical Showcase)](https://we.tl/t-1uj4wJKluG)
 
 Client filter pieces occasionally end up on the scrap heap. It was a poor Frost Zombie in this instance. Since this is one of my simpler filters, I felt it was okay to publish the build information. Four objects make up much of the scene: an EyeColor block, a custom canvas segmentation, a face mesh, and an emitter for the breath mist (my personal favorite). To show the layers used in generating the primary zombie texture, I also moved to Substance Painter. This is a demonstration of my methods rather than a step-by-step manual.
@@ -88,7 +88,11 @@ Client filter pieces occasionally end up on the scrap heap. It was a poor Frost 
 ![frost zombie](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Fur
@@ -117,7 +121,7 @@ There are 11 distinct animation curves included with Spark AR in the Transition 
 ![transition curves](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Realistic Smoke
@@ -127,11 +131,7 @@ By adding smoke to a scene, you can easily add a lot of detail and realism. Noth
 ![realistic smoke](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Rainbow Glitter
@@ -174,22 +174,20 @@ Spark AR is an amazing website for LUTs and color grading. Whether you're a new 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-alternatives-spotlighted-by-az-screen-recorder/"><u>[Updated] In 2024, Alternatives Spotlighted by AZ Screen Recorder</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-vuephoto-ai-enhancement-showcase/"><u>[Updated] In 2024, VuePhoto AI Enhancement Showcase</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-seamless-transition-adopting-windows-11/"><u>[Updated] Seamless Transition Adopting Windows 11</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-simplify-tech-transitions-smartphone-vr-integration-guide/"><u>[Updated] Simplify Tech Transitions Smartphone-VR Integration Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-essential-free-cloud-services-with-massive-1tb-space-included/"><u>2024 Approved Essential Free Cloud Services with Massive 1TB Space Included</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-master-the-art-of-editing-story-remix-and-windows-photos-synergy/"><u>2024 Approved Master the Art of Editing Story Remix & Windows Photos Synergy</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-rise-above-the-crowd-in-instagram-world-with-these-9-must-try-strategies/"><u>2024 Approved Rise Above the Crowd in Instagram World with These 9 Must-Try Strategies</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-superior-satire-and-smile-mixer/"><u>2024 Approved Superior Satire & Smile Mixer</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-the-ultimate-instagram-ringtone-making-manual/"><u>2024 Approved The Ultimate Instagram Ringtone Making Manual</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-twilight-tones-adobe-premiere-blackouts/"><u>2024 Approved Twilight Tones Adobe Premiere Blackouts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/best-vistas-backgrounds-boosting-live-quality/"><u>Best Vistas Backgrounds Boosting Live Quality</u></a></li>
-<li><a href="https://fox-access.techidaily.com/cutting-edge-20-public-domain-pubg-slideshows/"><u>Cutting-Edge 20 Public Domain PUBG Slideshows</u></a></li>
-<li><a href="https://facebook.techidaily.com/elevating-community-governance-facebook-unveils-new-admin-features/"><u>Elevating Community Governance: Facebook Unveils New Admin Features</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-lava-agni-2-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Lava Agni 2 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-samsung-galaxy-f34-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Samsung Galaxy F34 5G FRP</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95841423-9781683253723-las-cartas-adivinatorias-de-los-indios-de-america/"><u>Las cartas adivinatorias de los indios de América | Free Book</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-affordable-aethervault-substantial-file-safekeeping/"><u>[New] 2024 Approved Affordable AetherVault Substantial File Safekeeping</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-in-depth-analysis-ultimate-storage-choices/"><u>[New] 2024 Approved In-Depth Analysis Ultimate Storage Choices</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-step-in-stride-guide-sharing-personalized-youtube-videos-with-google/"><u>[New] 2024 Approved Step-in-Stride Guide Sharing Personalized YouTube Videos with Google</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-boost-your-projects-quality-rankings-of-the-best-free-editing-apps-top-9-for-2024/"><u>[New] Boost Your Projects' Quality Rankings of the Best Free Editing Apps (Top 9) for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-essential-guide-integrating-virtual-backgrounds-for-webcasters/"><u>[New] In 2024, Essential Guide Integrating Virtual Backgrounds for Webcasters</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-leading-with-purpose-strategic-openings-in-podcasting/"><u>[Updated] 2024 Approved Leading with Purpose Strategic Openings in Podcasting</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-advancing-beyond-vp9-a-look-at-av1/"><u>[Updated] Advancing Beyond VP9 A Look at AV1</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-efficiently-using-background-footage-in-projects/"><u>[Updated] Efficiently Using Background Footage in Projects</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/essential-tips-for-erasing-with-photoshop-for-2024/"><u>Essential Tips for Erasing with Photoshop for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/harnessing-high-performance-with-the-beatit-bt-d11-a-detailed-review/"><u>Harnessing High Performance with the Beatit BT-D11: A Detailed Review</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-beyond-ustream-a-comparative-analysis-of-streams/"><u>In 2024, Beyond Ustream A Comparative Analysis of Streams</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-snapslowly-the-art-of-time-lapse-via-samsung/"><u>In 2024, SnapSlowly The Art of Time-Lapse via Samsung</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ng-flv-files-a-step-by-step-guide/"><u>Joining FLV Files A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-add-tags-to-your-videos-best-mp4-editors-for-windows-and-macos/"><u>New 2024 Approved Add Tags to Your Videos Best MP4 Editors for Windows and macOS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-financial-key-to-boosting-your-videos-reach-for-2024/"><u>The Financial Key to Boosting Your Video's Reach for 2024</u></a></li>
 </ul></div>
 

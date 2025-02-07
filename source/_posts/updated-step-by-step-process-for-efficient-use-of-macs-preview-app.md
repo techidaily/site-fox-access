@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Process for Efficient Use of Mac's Preview App\""
-date: 2025-01-24T17:07:40.689Z
-updated: 2025-01-25T16:04:45.005Z
+date: 2025-02-02T10:44:44.017Z
+updated: 2025-02-07T09:34:38.634Z
 tags: 
   - screen-recording
   - ai video
@@ -36,7 +36,7 @@ That said, the sections below explain **how to use Preview on Mac** for elementa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
@@ -44,10 +44,6 @@ That said, the sections below explain **how to use Preview on Mac** for elementa
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
 
@@ -77,10 +73,6 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -97,6 +89,10 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -108,6 +104,10 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -141,10 +141,6 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -161,6 +157,10 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -174,7 +174,7 @@ After opening an image, click **File** from the menu bar at the top, and click *
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
@@ -236,18 +236,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-next-gen-title-genius-for-online-content-creators/"><u>[New] In 2024, Next-Gen Title Genius for Online Content Creators</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-untold-journey-of-an-instagram-story-enthusiast/"><u>[Updated] In 2024, The Untold Journey of an Instagram Story Enthusiast</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-instant-sticker-transformation-your-guide-to-making-gifs-pop-in-telegram-and-more/"><u>[Updated] Instant Sticker Transformation Your Guide to Making GIFs Pop in Telegram & More</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamlessly-accessing-vids-the-top-5-free-online-video-extractors/"><u>2024 Approved Seamlessly Accessing Vids The Top 5 Free Online Video Extractors</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-the-complete-blueprint-for-optimizing-data-in-adobes-cloud-realm/"><u>2024 Approved The Complete Blueprint for Optimizing Data in Adobe's Cloud Realm</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-the-tale-of-two-sides-in-the-vr-revolution/"><u>2024 Approved The Tale of Two Sides in the VR Revolution</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-top-vr-bikes-to-check-out/"><u>2024 Approved Top VR Bikes to Check Out</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-transforming-audio-content-structuring-your-rss-feed/"><u>2024 Approved Transforming Audio Content Structuring Your RSS Feed</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-uncovering-the-appeal-filmora-editors-most-attractive-features/"><u>2024 Approved Uncovering the Appeal Filmora Editor's Most Attractive Features</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-nokia-c32-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Nokia C32</u></a></li>
-<li><a href="https://fox-access.techidaily.com/beyond-boxes-crafting-memorable-receiving-moments/"><u>Beyond Boxes Crafting Memorable Receiving Moments</u></a></li>
-<li><a href="https://fox-links.techidaily.com/stream-your-podcast-with-one-move-only/"><u>Stream Your Podcast with One Move Only</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-boosting-your-youtube-shorts-profits-key-requirements-and-earning-potential/"><u>[New] 2024 Approved Boosting Your Youtube Shorts Profits Key Requirements & Earning Potential</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-golden-five-best-dvd-makers-for-macos-sierra/"><u>[New] 2024 Approved Golden Five Best DVD Makers for macOS Sierra</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ame-on-steps-for-crafting-an-influential-online-gamers-channel-for-2024/"><u>[New] Game On Steps for Crafting an Influential Online Gamers' Channel for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-step-by-step-fixes-for-youtube-short-failures/"><u>[New] In 2024, Step-by-Step Fixes for YouTube Short Failures</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-journey-through-simulated-realities-vr-basics-for-2024/"><u>[New] Journey Through Simulated Realities VR Basics for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-novices-pathway-top-essential-gopro-supplementary-gear/"><u>[New] Novice's Pathway Top Essential GoPro Supplementary Gear</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-uniting-videos-on-ios-step-by-step-methods/"><u>[New] Uniting Videos on iOS Step-by-Step Methods</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-turn-your-memories-into-moments-share-pics-instantly-for-2024/"><u>[Updated] Turn Your Memories Into Moments Share Pics Instantly for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-basic-recorder-your-windows-10-companion/"><u>2024 Approved Basic Recorder - Your Windows 10 Companion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tailoring-your-iphone-photographs-size-alteration/"><u>2024 Approved Tailoring Your iPhone Photographs Size Alteration</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-securely-download-and-install-intel-hd-graphics-drivers-on-your-windows-11-pc/"><u>How to Securely Download & Install Intel HD Graphics Drivers on Your Windows 11 PC</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-flawless-cross-sound-mixing-in-audacity-pro/"><u>In 2024, Flawless Cross-Sound Mixing in Audacity Pro</u></a></li>
+<li><a href="https://fox-access.techidaily.com/visual-quality-crusade-is-av1-ahead-in-video-coding/"><u>Visual Quality Crusade Is AV1 Ahead in Video Coding?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Enhance and Unblur  Photo Editing Tools Ranked #1-10\""
-date: 2025-01-24T16:13:39.054Z
-updated: 2025-01-25T16:53:51.814Z
+date: 2025-02-02T19:08:14.628Z
+updated: 2025-02-06T16:34:05.932Z
 tags: 
   - screen-recording
   - ai video
@@ -44,10 +44,6 @@ This article can assist you if you are unaware of how to **unblur images online*
 
 Do you know what the actual reasons for blurry photos are? In this section, you can learn the main causes of blurry pictures in a well-structured manner.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Shaky Camera
 
 Many people don’t know how to hold cameras professionally or appropriately. Moreover, if you are not using a tripod to take pictures smoothly, you will get blurry photos as a result. Hence, a shaky camera can be the biggest reason for blurry photos.
@@ -55,6 +51,10 @@ Many people don’t know how to hold cameras professionally or appropriately. Mo
 ### 2\. Excessive Use of Filters
 
 Filters are applied to enhance the visual appearance of your photos. However, if you use excessive filters for your captured pictures, it will eventually reduce the quality of the images. It will result in a pixelated and blur photo that will display an artificial look of your subject.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Poor Lens Results
 
@@ -100,6 +100,10 @@ Clicking on an unblurred image automatically adjusts brightness, contrast, and s
 
 ![fotor online image fixer](https://images.wondershare.com/filmora/article-images/2024/05/unblur-image-free-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Key Features**
 
 * Effortlessly unblur portrait photos with advanced AI face enhancement.
@@ -116,6 +120,10 @@ Clicking on an unblurred image automatically adjusts brightness, contrast, and s
  Cons
 
 * Process completion may take some time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. [Wondershare PixCut](https://pixcut.wondershare.com/unblur-image.html)
 
@@ -142,6 +150,10 @@ To fix blurry pictures, PixCut offers all the necessary options. You can also sh
  Cons
 
 * Add a photo watermark to the free trial.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. [Pixelied](https://pixelied.com/features/unblur-image)
 
@@ -259,10 +271,6 @@ Furthermore, to **unblur images online**, Adobe Express offers a proficient tool
 
 * Adobe Express’ user interface is complicated for beginners.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 9\. [Pine Tools](https://pinetools.com/sharpen-image)
 
 If you want a basic and simple photo editing tool, Pine Tools can be a suitable choice. In this online program, you can perform various functions such as solving mathematical tasks, working with numbers, or editing images. It’s an all-in-one tool through which you cannot only edit photos but also perform several functions to convert, split, merge, and edit files easily.
@@ -321,7 +329,7 @@ With fast processing speed, you can make your problematic pictures sharp and enh
 If you want to unblur an image online instantly, you can try Wondershare PixCut. To use this tool, access the official website of PixCut and navigate to its "Image Sharpener." Tap on the "Upload Image" button and import your blurry picture. Once the tool has unblurred your photo, you can download the file quickly in your system.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. How do you unblur a picture that has been blurred online?
@@ -344,10 +352,6 @@ Many people don’t know how to hold cameras professionally or appropriately. Mo
 
 Filters are applied to enhance the visual appearance of your photos. However, if you use excessive filters for your captured pictures, it will eventually reduce the quality of the images. It will result in a pixelated and blur photo that will display an artificial look of your subject.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Poor Lens Results
 
 Camera lenses play a vital role in taking high-resolution photos. If your camera is old, it might be possible that the quality of your camera lens deteriorates. Furthermore, you will get blurry photos if there are scratches and smudges on your camera lens.
@@ -357,7 +361,7 @@ Camera lenses play a vital role in taking high-resolution photos. If your camera
 If you have encountered blurry pictures for any of the reasons mentioned above, we can provide you with simple solutions. In this part, we will introduce the 10 best tools to **fix motion** **blur online**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. [PicWish](https://picwish.com/unblur-image-portrait)
@@ -367,10 +371,6 @@ PicWish is a one-click image deblurring tool that works on any device and unblur
 Furthermore, PicWish effortlessly removes background objects, distractions, watermarks, timestamps, and logos from images with just one click.
 
 ![picwish unblur image free](https://images.wondershare.com/filmora/article-images/2024/05/unblur-image-free-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Key Features**
 
@@ -417,6 +417,10 @@ Clicking on an unblurred image automatically adjusts brightness, contrast, and s
 
 * Process completion may take some time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. [Wondershare PixCut](https://pixcut.wondershare.com/unblur-image.html)
 
 Wondershare PixCut is a professional online tool that got massive recognition in a short span. Using this tool, you can effortlessly eliminate backgrounds and watermarks from your pictures. Apart from removing the background, you can add transparent background to your photos for modification. Moreover, you can also enlarge your photos to high quality within seconds.
@@ -443,6 +447,10 @@ To fix blurry pictures, PixCut offers all the necessary options. You can also sh
 
 * Add a photo watermark to the free trial.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. [Pixelied](https://pixelied.com/features/unblur-image)
 
 Pixelied is a modern tool through which you can execute photo editing efficiently. To make your photo eye-catchy, you can use the photo effects provided by Pixelied. Through the offered photo effects, you can brighten images, sharpen images, add image saturation, and utilize a hue changer. To display a vintage photo, you can add black and white filters effortlessly. Moreover, you can explore its built-in templates distinguished by different categories, such as social media, video platforms, and banners.
@@ -450,6 +458,10 @@ Pixelied is a modern tool through which you can execute photo editing efficientl
 If you encounter blurry pictures frequently, you can use this tool to unblur photos quickly and free of cost. It offers a "Sharpen" tool through which you can **smart deblur online** effectively. Once successfully deblur your photos, you can download the photo in your desired image file format.
 
 ![pixelied online image fixer](https://images.wondershare.com/filmora/article-images/2024/05/unblur-image-free-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Key Features**
 
@@ -497,10 +509,6 @@ The user interface of this online tool is extremely simple and delightful. Being
 
 ![upscaler fixes the blurry image](https://images.wondershare.com/filmora/article-images/2024/05/unblur-image-free-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Key Features**
 
 * Remove blur from photos without a watermark using the AI Unblur Image tool.
@@ -516,10 +524,6 @@ The user interface of this online tool is extremely simple and delightful. Being
  Cons
 
 * UpScaler only allows unblurring images with a file size of up to 5MB.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. [TinyWow](https://tinywow.com/image/unblur)
 
@@ -543,6 +547,10 @@ You can adjust sharpness strength (in percentage) based on the image's roughness
  Cons
 
 * You have to manually adjust the sharpening of your image to make it unblur.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. [Adobe Express](https://www.adobe.com/express/feature/image/unblur)
 
@@ -599,10 +607,6 @@ With fast processing speed, you can make your problematic pictures sharp and enh
 
 ![remini image and video enhancer](https://images.wondershare.com/filmora/article-images/2024/05/unblur-image-free-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Key Features**
 
 * Direct blur removal preset available in Remini.
@@ -627,10 +631,6 @@ With fast processing speed, you can make your problematic pictures sharp and enh
 ### 1\. How to unblur an image online?
 
 If you want to unblur an image online instantly, you can try Wondershare PixCut. To use this tool, access the official website of PixCut and navigate to its "Image Sharpener." Tap on the "Upload Image" button and import your blurry picture. Once the tool has unblurred your photo, you can download the file quickly in your system.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. How do you unblur a picture that has been blurred online?
 
@@ -664,21 +664,24 @@ If you are an inexperienced photographer, you may take blurry pictures frequentl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-leveraging-instagram-stories-with-ease-and-flair-for-2024/"><u>[New] Leveraging Instagram Stories with Ease and Flair for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-bringing-lectures-to-life-effective-editing-techniques/"><u>2024 Approved Bringing Lectures to Life Effective Editing Techniques</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-ensuring-authenticity-validating-your-tiktok-age/"><u>2024 Approved Ensuring Authenticity Validating Your TikTok Age</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-harnessing-the-power-of-supplemental-film-footage/"><u>2024 Approved Harnessing the Power of Supplemental Film Footage</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-instagram-stories-learn-to-modify-video-velocity/"><u>2024 Approved Instagram Stories Learn to Modify Video Velocity</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-the-illustrator-way-how-to-create-stunning-motion-effects/"><u>2024 Approved The Illustrator Way How to Create Stunning Motion Effects</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-the-simple-art-of-capturing-breathtaking-slow-motion-shots-with-android/"><u>2024 Approved The Simple Art of Capturing Breathtaking Slow-Motion Shots with Android</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-yi-in-focus-the-future-of-4k-filmmaking/"><u>2024 Approved Yi in Focus The Future of 4K Filmmaking</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-motorola-razr-40-ultra-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-i-use-chatgpt-to-discover-and-prepare-healthy-meals-at-home/"><u>Can I Use ChatGPT to Discover and Prepare Healthy Meals at Home?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/creating-masterpiece-canon-sequence-captures/"><u>Creating Masterpiece Canon Sequence Captures</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-the-turing-test-and-envisioning-a-winner/"><u>Decoding the Turing Test & Envisioning a Winner</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-methods-fixing-the-issue-when-zoom-starts-without-video/"><u>Effective Methods: Fixing the Issue When Zoom Starts Without Video</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/exquisite-expression-saver-perfecting-the-art-of-twitter-animations/"><u>Exquisite Expression Saver - Perfecting the Art of Twitter Animations</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-the-microphone-on-your-astro-a50-headphones/"><u>Troubleshooting and Fixing the Microphone on Your Astro A50 Headphones</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-easter-exclusive-wondershare-filmora-discount-code-limited-time-offer/"><u>Updated In 2024, Easter Exclusive Wondershare Filmora Discount Code - Limited Time Offer</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-unleashing-potential-a-moto-z2-deep-dive/"><u>[New] 2024 Approved Unleashing Potential A Moto Z2 Deep Dive</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-whats-going-wrong-sideways-videos-on-instagram/"><u>[New] 2024 Approved What's Going Wrong Sideways Videos on Instagram</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-enhanced-analysis-of-extensive-cloud-services/"><u>[New] In 2024, Enhanced Analysis of Extensive Cloud Services</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-playstation-plaza-your-gateway-to-a-thousand-channels/"><u>[New] PlayStation Plaza Your Gateway to a Thousand Channels</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-top-10-high-fidelity-4k-laptops-for-gamers/"><u>[New] Top 10 High-Fidelity 4K Laptops for Gamers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-ultimate-chart-watcher-rank-tracking-of-youtube-videos/"><u>[New] Ultimate Chart Watcher Rank Tracking of YouTube Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-embark-on-a-cinematic-journey-step-by-step-tutorial-for-creating-slow-motion-video-from-stills-online/"><u>[Updated] 2024 Approved Embark on a Cinematic Journey Step-by-Step Tutorial for Creating Slow-Motion Video From Stills Online</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-most-popular-gratuitous-vfx-websites/"><u>[Updated] 2024 Approved Most Popular Gratuitous VFX Websites</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-quick-tips-for-editing-igtv-content-to-stand-out-for-2024/"><u>[Updated] Quick Tips for Editing IGTV Content to Stand Out for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/anticipating-chatgpt-on-your-desktop-discover-a-fantastic-open-source-substitute/"><u>Anticipating ChatGPT on Your Desktop? Discover a Fantastic Open-Source Substitute</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-on-hardware-by-toms-computing-hub/"><u>Expert Analysis on Hardware by Tom's Computing Hub</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-claude-ai-the-game-changer-in-data-analysis-and-decision-making/"><u>Exploring Claude AI: The Game-Changer in Data Analysis and Decision-Making</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-vivo-s18-frp-by-drfone-android/"><u>Full Guide to Bypass Vivo S18 FRP</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-gratuitous-access-to-top-digital-editing-suites/"><u>In 2024, Gratuitous Access to Top Digital Editing Suites</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-motorola-razr-40-ultra-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Motorola Razr 40 Ultra Device</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-vr-adventure-top-10-best-selling-mobile-games/"><u>In 2024, VR Adventure Top 10 Best-Selling Mobile Games</u></a></li>
+<li><a href="https://fox-access.techidaily.com/sony-a6400-video-vanishing-how-to-stop-it-for-2024/"><u>Sony A6400 Video Vanishing - How to Stop It for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-timeless-trove-of-freely-shared-works/"><u>The Timeless Trove of Freely Shared Works</u></a></li>
 </ul></div>
 

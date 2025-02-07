@@ -1,7 +1,7 @@
 ---
 title: Guide to Resolve 'Device Not Configured' Error with Code 1
-date: 2025-01-18T16:16:30.870Z
-updated: 2025-01-25T17:09:23.075Z
+date: 2025-01-31T03:39:27.710Z
+updated: 2025-02-07T10:28:11.494Z
 tags:
   - win11
   - win10
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Update the driver manually via Device Manager
@@ -44,18 +44,22 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57318a0304278.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Click**Search automatically for updated driver software**. Then Windows will update the driver automatically.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57318a2bd0396.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Check to see if the yellow mark next to the device is gone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 2: Update the driver automatically
@@ -72,16 +76,12 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a97796ac519e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to the problem device to automatically download and install the correct version of the driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a9779737fc89.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) After updating the driver, check to see if the yellow mark next to the device is gone.
@@ -103,22 +103,24 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-cost-effective-action-cams-unveiled-for-2024/"><u>[New] Cost-Effective Action Cams Unveiled for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-chrome-compatibility-solving-media-errors/"><u>[New] In 2024, Chrome Compatibility Solving Media Errors</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-reel-it-in-8-online-utilities-for-creating-and-sharing-instagram-videos-for-2024/"><u>[Updated] Reel It In 8 Online Utilities For Creating & Sharing Instagram Videos for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-bring-a-smile-with-adobe-creations/"><u>2024 Approved Bring a Smile with Adobe Creations</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-quick-and-simple-methods-integrating-clownfish-sounds-into-pc-speech/"><u>2024 Approved Quick & Simple Methods Integrating Clownfish Sounds Into PC Speech</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-quick-curving-techniques-for-modern-photoshop-artists/"><u>2024 Approved Quick Curving Techniques for Modern Photoshop Artists</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-refine-your-virtual-interactions-learning-to-use-zooms-filters/"><u>2024 Approved Refine Your Virtual Interactions Learning to Use Zoom's Filters</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-remove-unsolicited-podcast-episodes-on-spotify-app/"><u>2024 Approved Remove Unsolicited Podcast Episodes on Spotify App</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-the-complete-guide-to-safaris-picture-in-picture-mode/"><u>2024 Approved The Complete Guide to Safari's Picture-in-Picture Mode</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-ultimate-audio-and-video-showcase-excellent-webcams-for-podcasts/"><u>2024 Approved Ultimate Audio & Video Showcase Excellent Webcams for Podcasts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/balancing-act-a-comprehensive-guide-to-drone-gimbals/"><u>Balancing Act A Comprehensive Guide to Drone Gimbals</u></a></li>
-<li><a href="https://fox-access.techidaily.com/critical-insights-into-aurora-hdr-technology-for-2024/"><u>Critical Insights Into Aurora HDR Technology for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/expert-online-helpdesk-services-for-winx-dvd-ripping-and-video-conversion-tool/"><u>Expert Online Helpdesk Services for WinX DVD Ripping & Video Conversion Tool</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/exploring-screen-recording-tools-beyond-apowersoft-for-2024/"><u>Exploring Screen Recording Tools Beyond Apowersoft for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-daily-dollars-and-cents-average-income-from-youtubes-adsense-per-thousand-viewer-hours/"><u>In 2024, Daily Dollars and Cents Average Income From YouTube's AdSense Per Thousand Viewer Hours</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/profitable-pathways-8-steps-for-youtube-earning/"><u>Profitable Pathways 8 Steps for YouTube Earning</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/which-is-more-advanced-in-dialogue-tech-chatgpt-or-google-bard-analysis/"><u>Which Is More Advanced in Dialogue Tech: ChatGPT or Google Bard Analysis</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-fcp-without-spending-practical-guide/"><u>[New] 2024 Approved FCP Without Spending – Practical Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/hoosing-youtube-downloader-apps-on-your-android-device-for-2024/"><u>[New] Choosing YouTube Downloader Apps on Your Android Device for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-elevate-your-mind-while-you-multitask-top-15-ideas-for-podcast-lovers/"><u>[New] Elevate Your Mind While You Multitask Top 15 Ideas for Podcast Lovers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-enriched-narratives-with-these-top-video-text-treatments/"><u>[New] Enriched Narratives with These Top Video Text Treatments</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-how-to-halt-recommendations-no-more-suggests-for-2024/"><u>[New] How to Halt Recommendations No More Suggests for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-virtual-reality-vanguard-leading-pc-headsets-to-watch/"><u>[New] In 2024, Virtual Reality Vanguard Leading PC Headsets to Watch</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-jest-juggler-mummified-memers/"><u>[New] Jest Juggler Mummified Memers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-uav-technology-unveiled-the-yuneec-4k-journey/"><u>[New] UAV Technology Unveiled The Yuneec 4K Journey</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unleashing-shareability-secrets-of-trending-on-fb-for-2024/"><u>[New] Unleashing Shareability Secrets of Trending on Fb for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-essential-watchlist-15-must-see-stop-motion-classics-for-2024/"><u>[Updated] Essential Watchlist 15 Must-See Stop-Motion Classics for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-swift-cinematic-skills-the-quickest-5-diy-hacks-for-success/"><u>2024 Approved Swift Cinematic Skills The Quickest 5 DIY Hacks for Success</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ce-content-reach-and-impact-social-blades-role-in-youtube-analytics-for-2024/"><u>Enhance Content Reach and Impact - Social Blade's Role in YouTube Analytics for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/heroblack-vs-yi-4k-updates-gopro-and-yi-showcase-their-best-for-2024/"><u>HeroBlack Vs. Yi 4K Updates - GoPro and Yi Showcase Their Best for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-oppo-a79-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Oppo A79 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-easily-unlock-tecno-screen-by-drfone-android/"><u>In 2024, How To Easily Unlock Tecno Screen?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-top-15-tips-for-accessing-nba-games-online/"><u>In 2024, Top 15 Tips for Accessing NBA Games Online</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-platforms-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>Top Platforms of Social Networking - Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/view-surge-secrets-tutorials-audience-triumph/"><u>View Surge Secrets Tutorial's Audience Triumph</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/be-shorts-templates-understanding-the-fundamentals-for-2024/"><u>YouTube Shorts Templates Understanding the Fundamentals for 2024</u></a></li>
 </ul></div>
 
