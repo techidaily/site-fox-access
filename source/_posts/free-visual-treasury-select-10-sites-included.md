@@ -1,7 +1,7 @@
 ---
 title: "Free Visual Treasury – Select 10 Sites Included"
-date: 2024-07-29T13:18:10.979Z
-updated: 2024-07-30T13:18:10.979Z
+date: 2025-02-11T22:55:31.901Z
+updated: 2025-02-16T23:19:15.957Z
 tags: 
   - screen-recording
   - ai video
@@ -24,9 +24,6 @@ You don't need a subscription to a stock photo site or money on hand; there are 
 
 We've gathered ten of our favorite sites where you can find free images—and they're all free once you sign up (or log in). So, get ready because there's no limit on how many times you can use these fabulous photos in your projects.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. [Pexels](https://www.pexels.com/)
 
 ![pexels](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-01.JPG)
@@ -35,11 +32,12 @@ Pexels is one of the largest free stock photo sites online. The site has over 50
 
 Pexels' images have various categories, including nature, food, objects, and architecture. You can also browse by keyword or search by image type, such as "food" or "people.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. [Unsplash](https://unsplash.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unsplash](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-02.JPG)
 
 Unsplash is a popular free stock photo website where you can download images for free. It has many ideas, including landscapes and cityscapes, people, food and drink, animals, transportation, and more. Some photos are also accompanied by quotes that can be used as captions.
@@ -56,24 +54,33 @@ Kaboompics is a free stock photo site that offers a good selection of images. Th
 
 Kaboompics also has a "free commercial" section which provides more than 1 million images for your commercial projects without any restrictions or attribution required.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. [Pixabay](https://pixabay.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![pixabay](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-04.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Pixabay is one of the most popular websites for free images. It has a wide range of photos from different photographers and categories, so it's easy to find an image that could fit your needs.
 
 The site is easy to navigate and searchable by keyword or category. You can also browse by "popular" images, which will show you what other people are looking at on Pixabay at any given time.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. [Snappa](https://snappa.com/)
 
 ![snappa](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-05.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Snappa is one of my favorite sites for free images because it's easy to navigate, has a wide selection of photos and graphics, and doesn't require attribution or watermarks.
 
@@ -83,9 +90,6 @@ It can be a little hard to find exactly what you're looking for as there are so 
 
 ## 6\. [Freerange](https://freerangestock.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![freerange](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-06.JPG)
 
 Freerange is a photo agency that offers free and premium photos.
@@ -94,18 +98,12 @@ The site has a wide range of subjects, including nature, animals, food, etc. Pho
 
 ## 7\. [Shutterstock Collection](https://www.shutterstock.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![shutterstocks collection](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-07.JPG)
 
 One of the best places to get free images is Shutterstock. They have a collection of over 70,000 royalty-free images that are available for commercial use, and they don't watermark their photos.
 
 You can search through the site's entire collection or narrow it down by category (e.g., animals or nature). You can also download all images in full resolution or view them as thumbnails on their website.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Morguefile
 
 ![morguefile](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-08.JPG)
@@ -114,19 +112,17 @@ Morguefile is a free photo archive founded in 1996, during the early days of the
 
 Here, you can find free, high-resolution digital stock photos for business or public use. The images are available in various formats and high quality to meet the needs of various scenarios, such as cartoonists, comic book artists, designers, educators, and all creative arts.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. [Dreamstime Images](https://www.dreamstime.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dreamstime images](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-09.JPG)
 
 Dreamstime is a stock photography website with over 20 million images. It allows you to search for images by keyword, color, and style. Dreamstime also offers thousands of different licenses, from $1 to $50 per image.
 
 If you're looking for something specific, Dreamstime has many categories, including animals, architecture, people, nature, and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. CC Search
 
@@ -137,12 +133,9 @@ CC Search is a search engine for Creative Commons photos, which means you can us
 You can also choose whether you want to display ads on your site. If you want to keep them off completely, there is an option that allows users who visit your site to download high-resolution copies at no cost (as long as they attribute credit).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 And that's it! I hope these sites help you find the perfect image for your project.
@@ -177,4 +170,24 @@ Remember, if you're looking for images that aren't copyrighted or stock photos, 
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-precision-in-online-viewing-a-zoomers-handbook/"><u>[New] 2024 Approved Precision in Online Viewing A Zoomer's Handbook</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-a-meticulous-review-the-complete-guide-to-androids-lightroom-for-2024/"><u>[New] A Meticulous Review The Complete Guide to Android's Lightroom for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-breaking-into-the-top-1m-youtube-view-hacks-revealed-for-2024/"><u>[New] Breaking Into the Top 1M YouTube View Hacks Revealed for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-iphone-tricks-to-embrace-cameras-motion-artistry/"><u>[New] In 2024, IPhone Tricks to Embrace Camera's Motion Artistry</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-watermark-warriors-10-best-tools-unveiled/"><u>[New] In 2024, Watermark Warriors 10 Best Tools Unveiled</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-ranking-video-chat-winning-windows-tools-6-1/"><u>[Updated] 2024 Approved Ranking Video Chat Winning Windows Tools #6-#1</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1715860579741-updated-inbuilt-camera-functions-to-capture-screens-on-huaweis-matep-series-phones/"><u>[Updated] Inbuilt Camera Functions to Capture Screens on Huawei's Mate/P Series Phones.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-samsung-galaxy-a14-4g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Samsung Galaxy A14 4G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mg3022-drivers-downloading-and-updating-finding-the-latest-version-for-smooth-printing-experience/"><u>Canon MG3022 Drivers Downloading & Updating: Finding the Latest Version for Smooth Printing Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-an-individual-chatbot-experience-by-integrating-your-unique-data/"><u>Crafting an Individual Chatbot Experience by Integrating Your Unique Data</u></a></li>
+<li><a href="https://fox-access.techidaily.com/fuse-fast-edits-for-stunning-windows-photos/"><u>Fuse Fast Edits for Stunning Windows Photos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-samsung-galaxy-f54-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-leading-15-hd-action-footage-capturers/"><u>In 2024, Leading 15 HD Action Footage Capturers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-lifecam-videoapp-quality-checkup/"><u>In 2024, LifeCam VideoApp Quality Checkup</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-mediascreen-reviewer-pro/"><u>In 2024, MediaScreen Reviewer Pro</u></a></li>
+<li><a href="https://win-forum.techidaily.com/quick-tips-on-removing-windows-10-users-and-their-data-with-revouninstaller/"><u>Quick Tips on Removing Windows 10 Users and Their Data with RevoUninstaller</u></a></li>
+<li><a href="https://fox-access.techidaily.com/unlock-high-quality-audio-recording-with-these-top-5-windows-11-tips-for-2024/"><u>Unlock High-Quality Audio Recording with These Top 5 Windows 11 Tips for 2024</u></a></li>
+</ul></div>
 

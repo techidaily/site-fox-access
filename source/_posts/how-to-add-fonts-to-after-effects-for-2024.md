@@ -1,7 +1,7 @@
 ---
 title: "How to Add Fonts to After Effects for 2024"
-date: 2025-02-02T23:22:16.872Z
-updated: 2025-02-07T05:20:46.517Z
+date: 2025-02-13T17:59:32.105Z
+updated: 2025-02-16T23:09:24.917Z
 tags: 
   - screen-recording
   - ai video
@@ -37,21 +37,17 @@ Thus, selecting a proper font for the video becomes necessary in the post-produc
 
 ![enable fonts adobe after effects](https://images.wondershare.com/filmora/article-images/2022/07/enable-fonts-adobe-after-effects.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * This will direct you to the official website of Adobe Fonts where you can enable the fonts for your After Effects application. Once you are done with that click on the "Browse Fonts" and then in the opened tab, you will see a variety of fonts with their specified categories.
 
 ![browse fonts adobe](https://images.wondershare.com/filmora/article-images/2022/07/browse-fonts-adobe.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * These fonts are classified according to several attributes such as weight, height, and contrast and are created by certified typographers. Once you have found any font that you like, click on the "Activate" button and the theme will be installed on your Adobe After Effects.
 
 ![activitate all fonts after effects](https://images.wondershare.com/filmora/article-images/2022/07/activitate-all-fonts-after-effects.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Now keep the Creative Cloud application up and running in your system and then open your After Effects application. There navigate to "Graphics" and then select "Add Fonts from Adobe Fonts".
 * You can also use the font dropdown menu as a shortcut to use the fonts instantly. In Adobe After Effects interface, you can then select the "Character" panel to add or change the fonts to your videos.
@@ -62,6 +58,10 @@ Adobe After Effects provides a ton of families of fonts that can be added and us
 
 Some of the most famous fonts such as "typewriter", "Cursive Handwriting" and many more are categorized under their family of fonts and are very easy to access. Along with this, you can also select fonts with different character strokes and can alter their features while adding to your videos.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3\. How to use text effects in After Effects?
 
 Adding text effects in Adobe After Effects is very easy and you can use these effects by following these steps:
@@ -69,6 +69,10 @@ Adding text effects in Adobe After Effects is very easy and you can use these ef
 * First, select the project video that you want to edit. Then navigate to "effects and presets" and search for the presets of the texts that you want to edit.
 
 ![effects and presets adobe](https://images.wondershare.com/filmora/article-images/2022/07/effects-and-presets-adobe.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Now, add that text effect to your video by clicking on it and dragging and dropping it on your video. Then select any animation preset for your text from "Adobe Bridge".
 * Then slide the keyframes to set the text effect on the section of the video where you want to add your text. You can also compose the text by clicking on it and editing it for adjusting its content, height, width, opacity, and color.
@@ -87,16 +91,12 @@ These features also include adding texts and changing the fonts of those texts o
 ![use filmora to edit device](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * First open that video that you want to edit in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and then you will be available with a tab called "Titles" on the top. Select that and select any style of title that you want to edit. There is a preview window available to look at the text fonts and designs.
 
 ![open wanted video to edit in filmora](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Select the text style you want to add for your title and then drag it from the title's library to your timeline. An alternate way to add texts or such title font is to right-click on it and select the "Apply" option.
 * Here you can also set a particular font or style for the title as your favorite by right-clicking on the library and then selecting "Add to favorites" for easy access.
@@ -120,7 +120,7 @@ These features also include adding texts and changing the fonts of those texts o
 ![open wanted video to edit in filmora](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Select the text style you want to add for your title and then drag it from the title's library to your timeline. An alternate way to add texts or such title font is to right-click on it and select the "Apply" option.
@@ -158,20 +158,16 @@ The article discussed the detailed process of **how to add font to Adobe After E
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-best-templates-no-cost-explore-premiere-pro-samples-free-for-2024/"><u>[New] Best Templates, No Cost! Explore Premiere Pro Samples (FREE) for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-ultimate-tutorial-for-creating-delayed-videos-on-snapchat/"><u>[New] In 2024, The Ultimate Tutorial for Creating Delayed Videos on Snapchat</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-master-voice-customization-on-ps-playstation-devices-for-2024/"><u>[New] Master Voice Customization on PS PlayStation Devices for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-periscope-demystified-features-pricing-and-account-creation-tips-for-2024/"><u>[New] Periscope Demystified Features, Pricing & Account Creation Tips for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-deciphering-and-crafting-accurate-slug-line-annotations/"><u>[Updated] Deciphering and Crafting Accurate Slug Line Annotations</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-capturing-clarity-strategic-angles-for-excellent-iphone-photos/"><u>[Updated] In 2024, Capturing Clarity Strategic Angles for Excellent iPhone Photos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-mastering-massive-igtv-audience-engagement-essential-steps/"><u>[Updated] In 2024, Mastering Massive IGTV Audience Engagement Essential Steps</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-top-rated-asmr-gear-high-quality-priced-right/"><u>[Updated] In 2024, Top-Rated ASMR Gear High Quality, Priced Right</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-master-live-broadcast-a-step-by-step-guide-to-recording-webcam-via-vlc/"><u>[Updated] Master Live Broadcast A Step-by-Step Guide to Recording Webcam via VLC</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cutting-edge-entertainment-with-wins11-apps-and-games/"><u>Cutting-Edge Entertainment with Wins11 Apps & Games</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-your-steam-voice-chat-back-on-track-expert-advice-and-fixes/"><u>Getting Your Steam Voice Chat Back on Track: Expert Advice and Fixes</u></a></li>
-<li><a href="https://fox-access.techidaily.com/scripting-an-emotionally-charged-trailer-draft-for-2024/"><u>Scripting an Emotionally Charged Trailer Draft for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-8-image-relocation-tools-seamless-photo-sharing-from-iphone-ipad-to-desktop-devices/"><u>Top 8 Image Relocation Tools: Seamless Photo Sharing From iPhone, iPad to Desktop Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-uninstalling-applications-from-your-iphone-or-android-device/"><u>Ultimate Guide: Uninstalling Applications From Your iPhone or Android Device</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-vlcs-network-live-stream-capabilities/"><u>Unveiling VLC's Network Live Stream Capabilities</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-elevate-visibility-mastering-youtube-success-tracks/"><u>[New] 2024 Approved Elevate Visibility Mastering YouTube Success Tracks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-elite-iphone-and-android-edits-to-improve-gopro-content-for-2024/"><u>[Updated] Elite iPhone & Android Edits to Improve GoPro Content for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-how-to-elevate-your-digital-self-with-memetic-skills-in-the-metaverse/"><u>[Updated] How to Elevate Your Digital Self with Memetic Skills in the Metaverse</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-metaverse-odyssey-cutting-edge-vr-headset-lineup/"><u>[Updated] Metaverse Odyssey Cutting-Edge VR Headset Lineup</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-supreme-top-4k-tvs-for-gamers/"><u>2024 Approved Supreme Top 4K TVs for Gamers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-resource-for-artists-identifying-the-top-10-free-online-creative-communities/"><u>2024 Approved The Ultimate Resource for Artists Identifying the Top 10 Free Online Creative Communities</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-core-principles-in-internet-story-development/"><u>In 2024, Core Principles in Internet Story Development</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-video-stories-your-brands-new-voice/"><u>In 2024, Video Stories Your Brand's New Voice</u></a></li>
+<li><a href="https://fox-access.techidaily.com/mobile-magic-unleashed-funimate-pro-apk-exploration/"><u>Mobile Magic Unleashed Funimate Pro APK Exploration</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/pantheons-progeny-ancestral-greek-influence-today/"><u>Pantheon's Progeny: Ancestral Greek Influence Today</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-essentials-of-high-quality-audio-interfaces-in-podcasting/"><u>The Essentials of High-Quality Audio Interfaces in Podcasting</u></a></li>
 </ul></div>
 

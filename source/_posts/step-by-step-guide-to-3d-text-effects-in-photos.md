@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Guide to 3D Text Effects in PHOTOS\""
-date: 2025-02-03T22:38:58.118Z
-updated: 2025-02-06T20:47:55.338Z
+date: 2025-02-12T21:48:54.919Z
+updated: 2025-02-16T21:42:21.006Z
 tags: 
   - screen-recording
   - ai video
@@ -39,6 +39,10 @@ Step2 Select the **Type** tool and choose a color of your liking. Then, click an
 
 ![type text photoshop](https://images.wondershare.com/filmora/article-images/type-adobe-photoshop.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Now, locate the **Layers** panel at the bottom-right corner of the screen. Click on **Layers** **→ right-click on your Text layer → select "New 3D Extrusion from Selected Layer".** Then, just click **Yes** on the new window that pops up.
 
 ![three d layer](https://images.wondershare.com/filmora/article-images/layer-adobe-photoshop.png)
@@ -47,19 +51,11 @@ Step4 You are now editing in the 3D Workspace inside Photoshop. Here is where we
 
 ![edit background](https://images.wondershare.com/filmora/article-images/postcard-adobe-photoshop.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step5 Now, without touching anything else, hold on to the **SHIFT** key and click on your text layer. This will select the text and background layer at the same time. Then, just hold on **CTRL + E / Cmnd + E**. This will merge the two layers.
 
 Step6 Next, go to the 3D panel. Here, simply click on your Text layer. Then, from the **Properties** panel above, select a **Shape Preset** to be applied to your current text.
 
 ![properties](https://images.wondershare.com/filmora/article-images/preset-adobe-photoshop.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step7 The next thing you need to do is add a light source. To do this, go back to the **3D Panel →** click on the **Lightbulb** button at the bottom **→** select **"New Infinite Light"**. Then, you can drag the circle in the middle of the text to set the direction of the light source.
 
@@ -69,23 +65,27 @@ Step8 You can now go to the Properties panel to adjust the 3D effects and light 
 
 ![render three d text](https://images.wondershare.com/filmora/article-images/render-adobe-photoshop.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step9 We're almost done. The next step is to go back to the **Layers** tab → right-click on the **Background** layer → click on **"Convert to Smart Object".**
 
 ![convert to smart object](https://images.wondershare.com/filmora/article-images/convert-adobe-photoshop.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step10 Finally, from the upper-right corner drop-down button, select **Essentials**.
 
 ![convert back](https://images.wondershare.com/filmora/article-images/essentials-adobe-photoshop.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 There you have it. You can now export your 3D text image from Photoshop and you're done. Congratulations on learning how to make a 3D text effect in Photoshop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## An Easier Way to Create a 3D Text Effect or Animation
 
@@ -107,13 +107,13 @@ Step1 First, you should download Filmora and install the program on your compute
 
 ![open new project filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Import a background video or image by going to **My Media** and selecting **Import Media.** From here, select any clip or image you want and hit **Open.** When it's imported, simply drag the clip to the Timeline below.
 
 ![import media files filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3 Next, head over to **Titles** and search for "3D". Select any option you like and drag it to the Timeline, above your background clip.
 
@@ -124,10 +124,14 @@ Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its set
 ![3d titles filmora](https://images.wondershare.com/filmora/guide/3d-title.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -136,10 +140,6 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 Compared to Photoshop, Filmora is not only easier to use, but it's significantly more affordable as well. With that said, let's find out how you can create a 3D text effect in Filmora.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Make a 3D Text Effect in Filmora
 
@@ -153,6 +153,10 @@ Step2 Import a background video or image by going to **My Media** and selecting 
 
 ![import media files filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Next, head over to **Titles** and search for "3D". Select any option you like and drag it to the Timeline, above your background clip.
 
 ![title option filmora](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
@@ -162,10 +166,6 @@ Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its set
 ![3d titles filmora](https://images.wondershare.com/filmora/guide/3d-title.png)
 
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -195,18 +195,24 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-screenrecorderpro-a-detailed-analysis-of-video-capture-software/"><u>[New] 2024 Approved ScreenRecorderPro A Detailed Analysis of Video Capture Software</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-core-skills-in-the-art-of-digital-animation-for-2024/"><u>[New] Core Skills in the Art of Digital Animation for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-high-quality-action-captured-by-the-ion-pro-3-camera/"><u>[New] High-Quality Action Captured by the ION Pro 3 Camera</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-from-novice-to-expert-film-cameras-you-can-trust/"><u>[New] In 2024, From Novice to Expert Film Cameras You Can Trust</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-setting-up-the-pip-feature-in-the-youtube-app-for-easy-video-streaming/"><u>[Updated] 2024 Approved Setting up the PIP Feature in the YouTube App for Easy Video Streaming</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-do-reviewers-get-dollars-for-commentary/"><u>[Updated] In 2024, Do Reviewers Get Dollars for Commentary?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-infinix-smart-8-hd-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Infinix Smart 8 HD Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/focus-on-yourself-insta-stylezoom-techniques-explained/"><u>Focus on Yourself Insta Style—Zoom Techniques Explained</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-xiaomi-14-pro-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Xiaomi 14 Pro to Protect Your Individual Information</u></a></li>
-<li><a href="https://fox-access.techidaily.com/how-to-quickly-stream-spotify-audio-with-integrity/"><u>How to Quickly Stream Spotify Audio with Integrity</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-honor-x7b-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Honor X7b</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-soundless-cinema-mastering-the-art-of-audio-removal-in-movies-for-windowsmac-enthusiasts/"><u>New 2024 Approved Soundless Cinema Mastering the Art of Audio Removal in Movies for Windows/Mac Enthusiasts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-capturing-a-screen-shot-on-your-hp-laptop/"><u>Step-by-Step Guide: Capturing a Screen Shot on Your HP Laptop</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-dimming-down-audio-levels-seamlessly/"><u>[New] 2024 Approved Dimming Down Audio Levels Seamlessly</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-critically-acclaimed-top-8-oculus-rift-games-for-2024/"><u>[New] Critically Acclaimed Top 8 Oculus Rift Games for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-diy-making-music-videos-with-your-iphone-for-2024/"><u>[New] DIY Making Music Videos with Your iPhone for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-6-figure-views-prime-hashtag-strategies-for-success-for-2024/"><u>[Updated] 6-Figure Views Prime Hashtag Strategies for Success for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-essential-guide-to-winning-on-spotify-ad-campaigns/"><u>[Updated] Essential Guide to Winning on Spotify Ad Campaigns</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-visionary-video-setups-a-filmmakers-guide-to-brilliance-for-2024/"><u>[Updated] Visionary Video Setups A Filmmaker's Guide to Brilliance for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-xsplit-vault-detailed-split-reviews-for-2024/"><u>[Updated] XSplit Vault Detailed Split Reviews for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-updated-sony-s3700-bd-review-2023/"><u>2024 Approved Updated Sony S3700 BD REVIEW 2023</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-buy-in-4k-budget-savvy-camera-picks/"><u>Best Buy in 4K Budget-Savvy Camera Picks</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-articles-and-best-practices-in-secure-data-wipe-by-stellar-experts/"><u>Expert Articles & Best Practices in Secure Data Wipe by Stellar Experts</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-oppo-find-x7-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Oppo Find X7 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-mastering-selection-of-top-8-high-quality-free-online-translators/"><u>In 2024, Mastering Selection of Top 8 High-Quality Free Online Translators</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-itel-p55-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Itel P55 Phones</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-depth-analysis-of-googles-voice-to-text-capabilities/"><u>In-Depth Analysis of Google's Voice-to-Text Capabilities</u></a></li>
+<li><a href="https://fox-access.techidaily.com/live-stream-showdown-pick-your-favorite-vmix-or-wirecast-for-2024/"><u>Live Stream Showdown Pick Your Favorite, VMix or Wirecast for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-new-york-times-word-challenge-unlock-your-brain/"><u>Mastering New York Times: Word Challenge - Unlock Your Brain!</u></a></li>
+<li><a href="https://facebook.techidaily.com/sheryl-sandbergs-impact-on-social-media-giants/"><u>Sheryl Sandberg’s Impact on Social Media Giants</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-insiders-handbook-on-cloud-gaming-using-your-xbox-game-pass-ultimate/"><u>The Insider’s Handbook on Cloud Gaming Using Your Xbox Game Pass Ultimate</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1725287905961-windows-10dvddvd/"><u>Windows 10で画像集DVDを作成できない？！代わりにDVD作成ソフトはこれがおすすめ</u></a></li>
 </ul></div>
 

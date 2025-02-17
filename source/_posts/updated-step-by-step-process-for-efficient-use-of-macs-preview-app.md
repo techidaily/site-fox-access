@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Process for Efficient Use of Mac's Preview App\""
-date: 2025-02-02T10:44:44.017Z
-updated: 2025-02-07T09:34:38.634Z
+date: 2025-02-12T22:34:28.517Z
+updated: 2025-02-16T23:08:35.188Z
 tags: 
   - screen-recording
   - ai video
@@ -34,10 +34,6 @@ That said, the sections below explain **how to use Preview on Mac** for elementa
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
@@ -73,6 +69,10 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -89,10 +89,6 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -104,10 +100,6 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -124,6 +116,10 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 **Step 3: Format the Text**
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
 
@@ -158,7 +154,7 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Save Images in Different Formats
@@ -174,7 +170,7 @@ After opening an image, click **File** from the menu bar at the top, and click *
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
@@ -211,6 +207,10 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -236,18 +236,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-boosting-your-youtube-shorts-profits-key-requirements-and-earning-potential/"><u>[New] 2024 Approved Boosting Your Youtube Shorts Profits Key Requirements & Earning Potential</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-golden-five-best-dvd-makers-for-macos-sierra/"><u>[New] 2024 Approved Golden Five Best DVD Makers for macOS Sierra</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ame-on-steps-for-crafting-an-influential-online-gamers-channel-for-2024/"><u>[New] Game On Steps for Crafting an Influential Online Gamers' Channel for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-step-by-step-fixes-for-youtube-short-failures/"><u>[New] In 2024, Step-by-Step Fixes for YouTube Short Failures</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-journey-through-simulated-realities-vr-basics-for-2024/"><u>[New] Journey Through Simulated Realities VR Basics for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-novices-pathway-top-essential-gopro-supplementary-gear/"><u>[New] Novice's Pathway Top Essential GoPro Supplementary Gear</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-uniting-videos-on-ios-step-by-step-methods/"><u>[New] Uniting Videos on iOS Step-by-Step Methods</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-turn-your-memories-into-moments-share-pics-instantly-for-2024/"><u>[Updated] Turn Your Memories Into Moments Share Pics Instantly for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-basic-recorder-your-windows-10-companion/"><u>2024 Approved Basic Recorder - Your Windows 10 Companion</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-tailoring-your-iphone-photographs-size-alteration/"><u>2024 Approved Tailoring Your iPhone Photographs Size Alteration</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-securely-download-and-install-intel-hd-graphics-drivers-on-your-windows-11-pc/"><u>How to Securely Download & Install Intel HD Graphics Drivers on Your Windows 11 PC</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-flawless-cross-sound-mixing-in-audacity-pro/"><u>In 2024, Flawless Cross-Sound Mixing in Audacity Pro</u></a></li>
-<li><a href="https://fox-access.techidaily.com/visual-quality-crusade-is-av1-ahead-in-video-coding/"><u>Visual Quality Crusade Is AV1 Ahead in Video Coding?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-cloud-data-economy-comparison-saving-tips-and-price-leaders-for-2024/"><u>[New] Cloud Data Economy Comparison, Saving Tips & Price Leaders for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-prime-products-best-free-and-paid-macpc-video-decoders/"><u>[New] In 2024, Prime Products Best Free & Paid Mac/PC Video Decoders</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-tap-into-endless-visual-archives-from-top-4-video-platforms/"><u>[New] In 2024, Tap Into Endless Visual Archives From Top 4 Video Platforms</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-latest-take-on-the-sony-bd-play-s3700-review/"><u>[New] The Latest Take on the Sony BD PLAY S3700 Review</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-annual-salary-details-for-streaming-sensation-pewdiepie/"><u>[Updated] 2024 Approved Annual Salary Details for Streaming Sensation PewDiePie</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-cartoony-conversion-chronicles-top-windowsmac-imaging-software/"><u>[Updated] Cartoony Conversion Chronicles Top Windows/Mac Imaging Software</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-exploring-the-land-of-virtual-possibilities-for-2024/"><u>[Updated] Exploring the Land of Virtual Possibilities for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-ideal-pixel-gatherings-unique-ringtone-repository-for-2024/"><u>[Updated] Ideal Pixel Gatherings Unique Ringtone Repository for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-intense-immersion-with-closest-viewing-techniques-in-roblox/"><u>[Updated] In 2024, Intense Immersion with Closest Viewing Techniques in Roblox</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-navigating-color-change-pro-methods-uncovered/"><u>[Updated] Navigating Color Change Pro Methods Uncovered</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-5-cloud-giants-unlimited-capacity-showdown/"><u>[Updated] Top 5 Cloud Giants Unlimited Capacity Showdown</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unlock-image-potential-with-editors-essentials-for-2024/"><u>[Updated] Unlock Image Potential with Editor's Essentials for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expertly-selected-the-ultimate-list-of-2022s-best-coding-bootcamps-for-your-tech-career-zdnet/"><u>Expertly Selected: The Ultimate List of 2022'S Best Coding Bootcamps for Your Tech Career | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experts-reveal-surprisingly-excellent-non-flagship-samsung-tablet-at-unbeatable-price-for-holiday-shoppers-zdnet-insights/"><u>Experts Reveal Surprisingly Excellent Non-Flagship Samsung Tablet at Unbeatable Price for Holiday Shoppers | ZDNET Insights</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-honor-x50i-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Honor X50i to Protect Your Individual Information</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-huawei-mate-60-rs-ultimate-design-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Huawei Mate 60 RS Ultimate Design on Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-flv-webm-movavi/"><u>우아한 방식으로 Online FLV를 WebM로 자유성 전환: Movavi의 통합</u></a></li>
 </ul></div>
 

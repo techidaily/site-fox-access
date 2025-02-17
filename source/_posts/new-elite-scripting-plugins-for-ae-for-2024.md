@@ -1,7 +1,7 @@
 ---
 title: "[New] Elite Scripting Plugins for AE for 2024"
-date: 2025-02-06T08:11:59.074Z
-updated: 2025-02-06T19:33:57.926Z
+date: 2025-02-14T16:27:13.860Z
+updated: 2025-02-16T16:43:30.084Z
 tags: 
   - screen-recording
   - ai video
@@ -25,10 +25,6 @@ Adobe After Effects remains one of the most powerful ways to edit videos. One of
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## TextDelay
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Ftextdelay/>
@@ -38,7 +34,11 @@ TextDelay is a native plugin, meaning that you will find it already installed on
 ![text delay plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-delay-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## TextExploder
@@ -57,6 +57,10 @@ If you want to effectively use the After Effects expressions even if you are not
 
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## TextBox
 
 Link: <https://aescripts.com/textbox/>
@@ -73,6 +77,10 @@ Font Manager is an After Effects text plugin that is useful when creating and wo
 
 ![font manager plugin](https://images.wondershare.com/filmora/article-images/2022/07/font-manager-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Cartoon Moblur
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Fcartoon%5Fmoblur>
@@ -82,7 +90,7 @@ This is the most ideal plugin to choose when you want to add motion trail to the
 ![cartoon moblur plugin](https://images.wondershare.com/filmora/article-images/2022/07/cartoon-moblur-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shadow Studio
@@ -90,10 +98,6 @@ This is the most ideal plugin to choose when you want to add motion trail to the
 If you are looking for shadow styles that will go very well with your project, Shadow Studio is a good plugin to get. It offers you a wide variety of shadow styles including radial, inner, soft, and long shadows. Most people find it an easier and more affordable way to add soft shadows as compared to traditional methods like raytracing. It is also quite easy to use, meaning that shadow effects that would take hours to complete can be done in a matter of minutes.
 
 ![shadow studio plugin](https://images.wondershare.com/filmora/article-images/2022/07/shadow-studio-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Texts Animation Bundle
 
@@ -112,11 +116,7 @@ The Artificial Intelligence Titles is an After Effects text plugin that is desig
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Text Library
@@ -128,7 +128,7 @@ This is another great text animation bundle with different options for just abou
 ![text library plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-library-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -165,20 +165,18 @@ On its own After Effects comes with so many post-production effects and features
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ffordable-tactics-for-combining-media-with-literature-for-2024/"><u>[New] Affordable Tactics for Combining Media with Literature for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-seamless-closure-in-digital-landscapes/"><u>[New] Seamless Closure in Digital Landscapes</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-harnessing-the-power-of-followers-for-impactful-advertising-campaigns/"><u>[Updated] In 2024, Harnessing the Power of Followers for Impactful Advertising Campaigns</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-narrative-nexus-honor-roll-hindsight-for-2024/"><u>[Updated] Narrative Nexus – Honor Roll Hindsight for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-pro-gopro-filming-tips-for-flawless-results/"><u>[Updated] Pro Gopro Filming Tips for Flawless Results</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-turnback-artisan-hub-for-2024/"><u>[Updated] Turnback Artisan Hub for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-oneplus-nord-3-5g-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from OnePlus Nord 3 5G</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-beyond-binary-boundaries-metaverse-vs-multiverse/"><u>In 2024, Beyond Binary Boundaries Metaverse V/S Multiverse</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-cutting-edge-360-cameras-for-dynamic-videos/"><u>In 2024, Cutting-Edge 360 Cameras for Dynamic Videos</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-edge-40-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Edge 40 Pro Phones with/without a PC</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-instant-accessibility-the-simplest-way-to-ifunny-memes/"><u>In 2024, Instant Accessibility The Simplest Way to iFunny Memes</u></a></li>
-<li><a href="https://driver-download.techidaily.com/practice-timing/"><u>Practice Timing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/selecting-the-prime-sky-vault-for-firms/"><u>Selecting the Prime Sky Vault for Firms</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveil-the-ultimate-selection-of-artificial-intelligence-apps-for-mobile-platforms-iphone-and-android/"><u>Unveil the Ultimate Selection of Artificial Intelligence Apps for Mobile Platforms (iPhone & Android)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-10-top-ios-players-elevating-video-watching-on-devices/"><u>[New] 2024 Approved 10 Top iOS Players Elevating Video Watching on Devices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-10-best-free-live-streaming-apps-for-android-and-iphone/"><u>[Updated] 2024 Approved 10 Best Free Live Streaming Apps for Android and iPhone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-behind-the-scenes-youtubes-view-count-algorithm/"><u>[Updated] Behind the Scenes YouTube's View Count Algorithm</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-comprehensive-guide-to-srgb-and-rgb/"><u>[Updated] Comprehensive Guide to Srgb & Rgb</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-cross-platform-hulu-playback-mastery-a-how-to-guide-for-2024/"><u>[Updated] Cross-Platform Hulu Playback Mastery - A How-To Guide for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-download-apple-podcasts-instinctively-for-2024/"><u>[Updated] Download Apple Podcasts Instinctively for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-total-spend-on-a-single-youtubers-ads/"><u>[Updated] Total Spend on a Single Youtuber's Ads</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-videography-on-fb-horizontal-or-vertical-placement/"><u>2024 Approved Videography on FB Horizontal or Vertical Placement?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/critical-analysis-the-innovations-in-dji-phantom-3-professional/"><u>Critical Analysis The Innovations in DJI Phantom 3 Professional</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-xs-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone XS Max Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
 </ul></div>
 

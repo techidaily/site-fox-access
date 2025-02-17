@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Dial Down Audio, Slowly and Steadily\""
-date: 2025-02-02T08:50:59.909Z
-updated: 2025-02-07T02:02:14.137Z
+date: 2025-02-14T20:59:13.050Z
+updated: 2025-02-16T23:52:26.681Z
 tags: 
   - screen-recording
   - ai video
@@ -28,7 +28,7 @@ There are many features available in FL Studio which help for recording purposes
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. Steps to Fade Audio with FL Studio
@@ -40,10 +40,6 @@ It can create new sounds through drum machines as a result you can show your cre
 Step1 The first and foremost task to do is the successful installation of FL Studio. Getting the latest version of this will be useful for you as it has a lot of new features.
 
 ![open fl studio](https://images.wondershare.com/filmora/article-images/2022/07/open-fl-studio.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Open your FL Studio window on your pc or mac. Then, choose the right volume parameter for the creation of automation in your FL studio. You can do it using the mixer channel method.
 
@@ -69,9 +65,17 @@ Step1 The first thing you have to do is successfully install the Filmora softwar
 
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
 
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 If you want your audio to fade out, again go to the audio setting. Then drag the pointer to the fade-out option. Now set your duration and see the fade-out effect.
 
@@ -79,21 +83,17 @@ No matter which audio editing software, what matters is the learning outcome. Le
 
 ## Related FAQs of FL Studio Audio Editing
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. How to fade out FL studio mobile?
 
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. How to crescendo in FL studio?
 
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. What is declicking mode FL studio?
 
@@ -105,23 +105,19 @@ Step1 The first thing you have to do is successfully install the Filmora softwar
 
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
 
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 If you want your audio to fade out, again go to the audio setting. Then drag the pointer to the fade-out option. Now set your duration and see the fade-out effect.
 
 No matter which audio editing software, what matters is the learning outcome. Learn the features of different editing software and choose what is suitable for you. If you are a beginner, then watch some tutorial videos on YouTube and read some Quora on google. Those who are just interested in audio editing and want to learn more should first try out [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), whereas if you have a basic idea about FL Studio then you can definitely go for it.
 
 ## Related FAQs of FL Studio Audio Editing
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. How to fade out FL studio mobile?
 
@@ -130,6 +126,10 @@ If you want to fade out your audio in FL on your mobile phone, tap on the wavefo
 ### 2\. How to crescendo in FL studio?
 
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. What is declicking mode FL studio?
 
@@ -159,22 +159,22 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-innovative-approaches-for-logging-online-discussions/"><u>[New] 2024 Approved Innovative Approaches for Logging Online Discussions</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-maximizing-your-idevices-screen-record-functionality/"><u>[New] 2024 Approved Maximizing Your iDevice's Screen Record Functionality</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-speaking-stories-writing-lyrical-film-scripts/"><u>[New] 2024 Approved Speaking Stories Writing Lyrical Film Scripts</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-audible-allure-choosing-background-beats-for-videos-for-2024/"><u>[New] Audible Allure Choosing Background Beats for Videos for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-converting-tweeted-videos-into-playable-mp3-tracks/"><u>[New] Converting Tweeted Videos Into Playable MP3 Tracks</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-steps-to-record-your-gameplay-on-a-nintendo-switch/"><u>[New] In 2024, Steps to Record Your Gameplay on a Nintendo Switch</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-innovative-techniques-for-next-level-lut-creation/"><u>[New] Innovative Techniques for Next-Level LUT Creation</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-lightroom-for-android-unveiled-detailed-assessment-for-2024/"><u>[New] Lightroom for Android Unveiled Detailed Assessment for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-quietude-quotient-windowsmac-music-control-for-2024/"><u>[New] Quietude Quotient Windows/Mac Music Control for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-fifas-favorite-footage-charted-on-youtube-for-2024/"><u>[Updated] FIFA's Favorite Footage Charted on YouTube for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-premiere-streaming-for-performance-artists/"><u>[Updated] Premiere Streaming for Performance Artists</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-disconnect-your-spotify-account-from-facebook/"><u>How to Disconnect Your Spotify Account From Facebook</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-gionee-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Gionee Devices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-techniques-for-transferring-media-between-two-iphones/"><u>In 2024, Techniques for Transferring Media Between Two iPhones</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-text-tactics-top-10-best-practices/"><u>In 2024, Text Tactics Top 10 Best Practices</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/transformative-strategies-for-effective-use-of-zoom-on-win11/"><u>Transformative Strategies for Effective Use of Zoom on Win11</u></a></li>
-<li><a href="https://fox-access.techidaily.com/unpacking-the-multifaceted-nature-of-wirecast-tools/"><u>Unpacking the Multifaceted Nature of WireCast Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-digital-imaging-from-basic-to-cutting-edge-hdr-techniques/"><u>[New] Digital Imaging From Basic to Cutting-Edge HDR Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-ideal-soundscapes-for-editing-films-and-vids/"><u>[New] Ideal Soundscapes for Editing Films & Vids</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-ultimate-monitor-guide-transform-your-xbox-series-x-experience-today/"><u>[New] In 2024, The Ultimate Monitor Guide Transform Your Xbox Series X Experience Today</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-mastering-film-color-correction-with-luts/"><u>[New] Mastering Film Color Correction with Luts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-pro-drone-guide-unveiling-the-top-5-picks-for-you/"><u>[New] Pro Drone Guide Unveiling the Top 5 Picks for You</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-deciphering-tiktoks-pfp-code-a-thorough-analysis/"><u>[Updated] 2024 Approved Deciphering TikTok's PFP Code - A Thorough Analysis</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-art-of-blending-primary-footage-with-b-roll/"><u>[Updated] 2024 Approved The Art of Blending Primary Footage with B Roll</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-get-a-handful-of-personalized-endings-at-zip/"><u>[Updated] Get a Handful of Personalized Endings, at Zip</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-incorporate-mp3s-into-presentation-decks/"><u>[Updated] In 2024, Incorporate MP3s Into Presentation Decks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-magical-alternatives-to-top-voice-changing-software/"><u>[Updated] Magical Alternatives to Top Voice-Changing Software</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-navigating-googles-podcast-uploading-guide/"><u>[Updated] Navigating Google's Podcast Uploading Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leveraging-cost-free-text-animation-techniques/"><u>2024 Approved Leveraging Cost-Free Text Animation Techniques</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/chart-topping-video-milestones-hitting-100-million-views-in-24-for-2024/"><u>Chart-Topping Video Milestones Hitting 100 Million Views in '24 for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/comprehensive-guide-to-io-screen-capture-capabilities-for-2024/"><u>Comprehensive Guide to IO Screen Capture Capabilities for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/laughlenslab-pixelpunchers/"><u>LaughLensLab PixelPunchers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/stay-connected-anywhere-the-travelers-go-to-portable-hotspot-unveiling-the-power-of-a-tp-link-wr9amo/"><u>Stay Connected Anywhere: The Traveler's Go-To Portable Hotspot - Unveiling the Power of a TP-Link WR9amo</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-10-essential-command-line-tricks-for-windows-power-users/"><u>Top 10 Essential Command-Line Tricks for Windows Power Users</u></a></li>
 </ul></div>
 

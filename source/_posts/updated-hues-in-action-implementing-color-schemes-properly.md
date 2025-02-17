@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Hues in Action  Implementing Color Schemes Properly\""
-date: 2025-02-04T10:34:40.830Z
-updated: 2025-02-06T17:23:00.550Z
+date: 2025-02-15T23:48:12.589Z
+updated: 2025-02-16T18:15:37.204Z
 tags: 
   - screen-recording
   - ai video
@@ -27,6 +27,10 @@ If you are more selective with your colors in your videos or imagery the viewer 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Color Theory
 
 Color theory consists of many elements that could fill a library on its own but for this guide we will focus on two key elements. The color wheel and color harmony. By understanding the color wheel and color harmony you can hand pick which colors to add or use in your pieces to create a well-balanced viewing experience which can help in viewer engagement and enjoyment.
@@ -34,7 +38,7 @@ Color theory consists of many elements that could fill a library on its own but 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Color Wheel
@@ -45,10 +49,6 @@ Using red, green and blue as primary colors we can mix the colors to one another
 
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Color Harmony
 
 So now we know how the wheel is made and what it looks like. What does it do? We can use this wheel now to gather our palette. Within color theory we talk about harmonious colors that work together in a pleasant way creating less stress on the eyes to find information in your scene.
@@ -56,7 +56,7 @@ So now we know how the wheel is made and what it looks like. What does it do? We
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
@@ -80,13 +80,13 @@ As you can see from this example the base color for the scene is a dark blue/pur
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -123,18 +123,20 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-efficient-chromebook-screen-logger/"><u>[New] 2024 Approved Efficient Chromebook Screen Logger</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-hilarityhatcher-create-comedy-with-a-click/"><u>[New] 2024 Approved HilarityHatcher Create Comedy with a Click</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-conduct-cost-effective-seminars-using-youtube/"><u>[New] Conduct Cost-Effective Seminars Using YouTube</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-creating-your-niche-starting-a-video-channel-for-beauty-goods-reviews/"><u>[New] Creating Your Niche Starting a Video Channel for Beauty Goods Reviews</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-evaluating-new-tech-in-lg-360-cameras-for-a-fresh-perspective/"><u>[New] In 2024, Evaluating New Tech in LG 360 Cameras for a Fresh Perspective</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-srs-adjustment-guide-boosting-performance-on-both-platforms/"><u>[New] In 2024, SRS Adjustment Guide Boosting Performance on Both Platforms</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-evolution-of-business-embracing-vr-tech/"><u>[New] The Evolution of Business Embracing VR Tech</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-best-ios-alternatives-to-play-timeless-psp-game-classics/"><u>[Updated] In 2024, The Best iOS Alternatives to Play Timeless PSP Game Classics</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-visual-vibes-your-guide-to-kinemaster-memes-for-2024/"><u>[Updated] Visual Vibes Your Guide to KineMaster Memes for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1728471395610-hddssd/"><u>「東芝HDDからSSDへ完璧なコピー機能を持つクローニングソフトウェア」</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-drone-giants-competing-dji-mavic-meets-karma/"><u>2024 Approved Drone Giants Competing DJi Mavic Meets Karma</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/elevate-gaming-on-tv-obs-guide/"><u>Elevate Gaming on TV - OBS Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/picture-in-picture-unveiled-your-guide-to-firefoxs-pip/"><u>Picture-in-Picture Unveiled Your Guide to Firefox’s PIP</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-navigating-instagrams-video-talk-essentials/"><u>[New] 2024 Approved Navigating Instagram's Video Talk Essentials</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-pro-tools-for-creatives-comprehensively-evaluating-ae-plugins/"><u>[New] In 2024, Pro Tools for Creatives Comprehensively Evaluating AE Plugins</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-cutting-edge-free-and-easy-top-11-youtube-title-inventors/"><u>[Updated] Cutting-Edge, Free, and Easy Top 11 YouTube Title Inventors</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-from-underscrutinized-to-unforgettable-bio-hacks-for-love-success/"><u>[Updated] From Underscrutinized to Unforgettable Bio Hacks for Love Success</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-ditching-samsungs-gear-360-here-are-your-new-camera-options/"><u>[Updated] In 2024, Ditching Samsung's Gear 360? Here Are Your New Camera Options</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-evaluating-hdr-tvs-does-aurora-hit-the-mark/"><u>[Updated] In 2024, Evaluating HDR TVs Does Aurora Hit the Mark?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-sonic-layers-in-reels-weaving-audio-into-visuals/"><u>[Updated] In 2024, Sonic Layers in Reels Weaving Audio Into Visuals</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-inspire-business-identity-utilize-free-logo-templates-and-modify-endlessly/"><u>[Updated] Inspire Business Identity Utilize Free Logo Templates & Modify Endlessly</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-webcam-capture-basics-for-hp-and-chromebook-owners/"><u>[Updated] Webcam Capture Basics for HP and Chromebook Owners</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-xsplit-report-download-and-assessment-summary-for-2024/"><u>[Updated] XSplit Report Download and Assessment Summary for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fast-and-furious-tips-for-resolving-lag-spikes-during-your-bless-unleashed-sessions/"><u>Fast and Furious: Tips for Resolving Lag Spikes During Your Bless Unleashed Sessions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-version-of-scansnap-s1300i-driver-with-ease/"><u>Get the Latest Version of ScanSnap S1300i Driver with Ease!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-launching-an-online-fundraising-challenge-on-facebook/"><u>In 2024, Launching an Online Fundraising Challenge on Facebook</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-top-8-online-photo-montage-maker/"><u>In 2024, Top 8 Online Photo Montage Maker</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-iphone-creating-and-editing-low-speed-video-clips/"><u>Mastering iPhone Creating & Editing Low-Speed Video Clips</u></a></li>
 </ul></div>
 

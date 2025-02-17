@@ -1,7 +1,7 @@
 ---
 title: "\"Eliminating Oculus Sickness  Key Tactics\""
-date: 2024-07-29T13:20:02.559Z
-updated: 2024-07-30T13:20:02.559Z
+date: 2025-02-12T22:10:23.783Z
+updated: 2025-02-16T19:33:25.545Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2
 
 # 10 tips to prevent Oculus Rift VR motion sickness
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -30,8 +27,9 @@ thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2
  Mar 27, 2024• Proven solutions
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10 ways to prevent Oculus Rift motion sickness
 
  While using your Oculus Rift development kits you need to take care of few little things in order to avoid getting any kind of sickness during your game. Although the factors vary from individual to individual since it is more of the bodily response rather than the design variation.
@@ -57,18 +55,20 @@ thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2
 **10\. Try not to move your head a lot.** Since motion sickness directly corresponds to movement, reducing your head movement left and right and up and down in one place can help you lower the chances of sickness.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Oculus have done to reduce motion sickness
 
  With the new, innovative VR devices and the head gear technology has taken a huge leap. Oculus Rift has become widely popular among its enthusiastic users. When Oculus released its first Development kit (DevKit 1) the users experienced the symptoms such as nausea, dizziness, sweating and vomiting. Even Oculus CEO Brendan Iribe experienced “motion sickness” with his own product, while using last year’s “DevKit 1” prototype. These sickness issues were so common while using DevKit 1 that its users called it the “Rift Sickness”.
 
  Since Oculus Rift DK1 came to the market, people were really unhappy with the sickness it gave to them. Oculus saw that issue as a big threat, and started to develop DK2 with a much better display. In the original DK1, Oculus Rift used the liquid crystal display (LCD) to display visual in its devices. LCD screen had been of very much advantage because of its brightness, geometric distortion, and less electricity consumption. But it still had been promoting to the sickness issue because of its sluggish motion time response. In replacement of LCD screens, Oculus Rift has introduced OLED (organic light emitting diode) screens which have proved to be a much better idea. Experiments of Oculus Rift with OLED screens have been successful so far in reducing motion sickness to its minimal. OLED has a much faster rate and thus much enhanced positional tracking.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -93,4 +93,23 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-prime-soundstage-narratives-for-radio/"><u>[New] 2024 Approved Prime Soundstage Narratives for Radio</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-masterclass-zooids-introduction-guide/"><u>[New] In 2024, Masterclass Zooids Introduction Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/aster-quick-youtube-video-rendering-and-efficient-uploading-for-2024/"><u>[New] Master Quick YouTube Video Rendering & Efficient Uploading for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-masterful-online-advertising-for-beginners-4-must-know-strategies-for-2024/"><u>[New] Masterful Online Advertising for Beginners 4 Must-Know Strategies for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-quick-and-easy-apods-episodes-access-on-gadgets-for-2024/"><u>[New] Quick and Easy APods Episodes Access on Gadgets for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-techniques-to-lower-audio-levels-in-os-xwindows/"><u>[Updated] 2024 Approved Techniques to Lower Audio Levels in OS X/Windows</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-dissecting-asuss-proart-pa-329q-an-expert-review-on-its-professional-capabilities/"><u>[Updated] Dissecting Asus's ProArt PA 329Q An Expert Review on Its Professional Capabilities</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-discover-effortless-paths-to-exceptional-image-quality/"><u>[Updated] In 2024, Discover Effortless Paths to Exceptional Image Quality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-enhance-footage-quality-with-premium-handheld-stabilizers/"><u>[Updated] In 2024, Enhance Footage Quality with Premium Handheld Stabilizers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-masters-crafting-unparalleled-vr-adventures-for-2024/"><u>[Updated] Masters Crafting Unparalleled VR Adventures for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725287345076-dvd/"><u>自由ソフトウェアで動画をDVDに書き込むチャレンジガイド</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-apple-iphone-15-online-without-jailbreak-by-drfone-ios/"><u>In 2024, How to Unlock SIM Card on Apple iPhone 15 online without jailbreak</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/online-oasis-media-mashup-for-2024/"><u>Online Oasis Media Mashup for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-the-top-notch-meta-vr-offer-with-512gb-quest-headset-this-october-exclusive-deal-alert/"><u>Score the Top-Notch Meta VR Offer with 512GB Quest Headset This October, Exclusive Deal Alert</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-webm-to-mp3-made-easy-10-reliable-converter-options/"><u>Updated In 2024, WebM to MP3 Made Easy 10 Reliable Converter Options</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Nokia C12 | Dr.fone</u></a></li>
+</ul></div>
 

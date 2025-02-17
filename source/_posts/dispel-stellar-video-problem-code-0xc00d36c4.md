@@ -1,7 +1,7 @@
 ---
 title: "Dispel Stellar Video Problem: Code 0XC00D36C4"
-date: 2024-07-29T13:20:38.997Z
-updated: 2024-07-30T13:20:38.997Z
+date: 2025-02-11T17:55:04.923Z
+updated: 2025-02-16T18:58:36.689Z
 categories:
   - repair-tools
 description: "This Article Describes Dispel Stellar Video Problem: Code 0XC00D36C4"
@@ -42,9 +42,6 @@ Table of Content
 
  _Figure: Error 0xc00d36c4 message in Windows_
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **What is error 0xc00d36c4 in videos?**
 
  The message: _This file isn’t playable. That might be because the file type is unsupported, the file extension is incorrect, or the file is corrupt. 0xc00d36c4.’_ is a Windows error that can occur due to the following reasons:
@@ -56,9 +53,6 @@ Table of Content
 * System drivers are outdated
 * Windows Media Player has a copy-protected feature enabled (in case of DVD/CD videos)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **How to fix error 0xc00d36c4 in videos** **?**
 
  The error usually occurs due to an incompatible file format or codec. Thus, workarounds involve either converting the video file format or installing the supporting codec. In case, the video doesn’t play even after converting the video or installing the codec, troubleshoot the system drivers.
@@ -76,9 +70,6 @@ Table of Content
  7\. Repair with a Stellar Repair for Video software  
  8\. Try AVI repair in VLC Media Player to fix error 0xc00d36c4
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Method 1: Play video in another media player**
 
  The error code 0xc00d36c4 mostly occurs due to unsupported file format or codec. Playing the problematic video in another media player often fixes this issue. The most preferred player in such cases is VLC Media Player. It is configured to play most of the video file formats.
@@ -102,8 +93,9 @@ Table of Content
 [Read More](http://www.microsoft.com/windows/windowsmedia/player/faq/codec.mspx)
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Method 3: Convert the video file format**
 
  Converting the problematic video to another file format can play your video. Use a secure video file converter tool that’s free from malware. There are both online converters and desktop converters like [Stellar Converter for Audio Video](https://tools.techidaily.com/stellardata-recovery/buy-now/) and VLC Media Player.
@@ -126,6 +118,10 @@ Table of Content
 
 * Add profile or click **Edit Selected Profile** – the wrench icon to change or add particular profile settings.
 * Next, click**Start.** Your converted video file will be saved at the specified location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 4: Disable Copy Protection in Windows Media Player**
 
@@ -152,6 +148,10 @@ Table of Content
 
  **Also read:[How to fix Error: ‘Windows Media Player Encountered a Problem While Playing the File’](https://tools.techidaily.com/stellardata-recovery/buy-now/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 5: Remove and reinstall all USB controllers**
 
  ‘This file isn’t playable 0xc00d36c4 error’ can also be due to system conflict between the connected external media (SD card, USB pen drive, etc.) and your computer.
@@ -176,6 +176,10 @@ Table of Content
 
  Now, connect your USB device to a computer, and check if the video 0xc00d36c4 error is fixed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 6: Update the Display Adapter Driver**
 
  As the error code may occur due to hardware conflict, you can also try once updating the display drivers. This may fix the video error.
@@ -190,6 +194,10 @@ Table of Content
  _Figure: Update driver option in Device Manager_
 
 Tip – If the current driver is up-to-date, just to be on the safer side, uninstall the driver first and then reinstall it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 7: Repair with a Stellar Repair for Video software**
 
@@ -213,9 +221,6 @@ Tip – If the current driver is up-to-date, just to be on the safer side, unins
 
 **Step 3:** Preview the repaired videos and click**Save Repaired File.**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **Method 8: Try AVI repair in VLC Media Player to fix error 0xc00d36c4**
 
  Free VLC Media Player has an AVI repair feature. Try the function to fix the video error 0xc00d36c4 in AVI files. If your video file is other than AVI, you can rename it to AVI and then fix it using the media player.
@@ -242,9 +247,6 @@ Now, check if the video error is resolved.
 | **Copy and Paste Hack you may try to fix code 0xc00d36c4**  Does the error code 0xc00d36c4 occur while trying to open the video saved on DVD/CD, USB drive, etc.?  Simply copy your video file from the external storage to the computer drive and then play. This hack has actually worked for many! |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## **To Sum Up**
 
  Error code 0xc00d36c4 while playing videos is either due to unsupported video format or codec or corruption in the video file. It could also occur because of computer conflict with USB devices. Troubleshooting the error should begin by installing the supporting codec or converting the video file format to another. If these methods do not help, reinstall or update the drivers using the above methods.
@@ -255,9 +257,6 @@ Now, check if the video error is resolved.
 
 **For any query reach us through comments in the box below.**
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Was this article helpful?
 
 YES 0
@@ -276,8 +275,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -285,4 +282,18 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-a-future-proof-selection-top-cloud-services-reviewed/"><u>[New] In 2024, A Future-Proof Selection Top Cloud Services Reviewed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximize-efficiency-with-wmp-for-audio-conversion/"><u>[New] Maximize Efficiency with WMP for Audio Conversion</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-slow-motion-magic-a-complete-appraisal-of-2024-edition/"><u>[New] Slow Motion Magic A Complete Appraisal of 2024 Edition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-hacks-to-record-video-of-your-playtime/"><u>2024 Approved Hacks to Record Video of Your Playtime</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-photoshops-stabilization-capabilities-real-advantage/"><u>2024 Approved Photoshop's Stabilization Capabilities Real Advantage?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-mechanics-of-generative-ai-in-search-top-companies-leveraging-this-technology/"><u>Exploring the Mechanics of Generative AI in Search: Top Companies Leveraging This Technology</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-breaking-down-advanced-photographic-modes-for-enhanced-results/"><u>In 2024, Breaking Down Advanced Photographic Modes for Enhanced Results</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-unlocking-slow-motion-magic-in-instagram-reels/"><u>In 2024, Unlocking Slow Motion Magic in Instagram Reels</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-skies-with-djis-robomasters-s1-a-revolutionary-blend-of-fun-learning-and-competitive-drones/"><u>Mastering Skies with DJI's Robomasters S1: A Revolutionary Blend of Fun, Learning & Competitive Drones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mpg-to-mp3-converter-free-online-tool-by-movavi/"><u>MPG to MP3 Converter - Free Online Tool by Movavi</u></a></li>
+<li><a href="https://fox-access.techidaily.com/skyline-pixel-boost-pro-windowsmac-suite-for-2024/"><u>Skyline Pixel Boost Pro Windows/Mac Suite for 2024</u></a></li>
+</ul></div>
 

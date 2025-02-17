@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Using LUTs in Spark AR & Download Free LUTs"
-date: 2025-02-03T06:55:44.533Z
-updated: 2025-02-06T17:19:42.935Z
+date: 2025-02-10T21:41:29.975Z
+updated: 2025-02-16T23:27:35.517Z
 tags: 
   - screen-recording
   - ai video
@@ -33,10 +33,6 @@ To develop AR effects for mobile cameras, you can use the Mac and Windows augmen
 
 ![create a color gradient effect](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. How to use LUTs in Spark AR?
 
 **How to apply a color LUT to the whole scene in Spark AR:**
@@ -58,7 +54,7 @@ A patch graph is automatically set that applies a color LUT to the entire scene.
 ![apply to the whole scene](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The color LUT patch graph**
@@ -66,10 +62,6 @@ A patch graph is automatically set that applies a color LUT to the entire scene.
 The patch graph that renders the color gradation effect looks like this:
 
 ![color lut patch graph](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **To create the effect:**
 
@@ -88,11 +80,7 @@ Client filter pieces occasionally end up on the scrap heap. It was a poor Frost 
 ![frost zombie](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Fur
@@ -108,6 +96,10 @@ Here are the key building principles.
 
 ![fur](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Shockwave
 
 Even while using large image sequences is frequently discouraged, you can still use them to make some extremely spectacular effects! I'll explain how the screen tap computation procedure relates to texture position in this walkthrough. If you want to apply this approach and texture sequence in your projects or give it a try.
@@ -121,7 +113,7 @@ There are 11 distinct animation curves included with Spark AR in the Transition 
 ![transition curves](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Realistic Smoke
@@ -131,7 +123,11 @@ By adding smoke to a scene, you can easily add a lot of detail and realism. Noth
 ![realistic smoke](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Rainbow Glitter
@@ -139,6 +135,10 @@ By adding smoke to a scene, you can easily add a lot of detail and realism. Noth
 Given how beautifully Glitter Rain was received, I believed it would be fitting to broaden the potential with an HDR setting. While Glitter Rain made use of two different colors, this technique makes use of an entirely colorless substance and gets its color information via HDR.
 
 ![rainbow glitter](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Closing Thoughts
 
@@ -174,20 +174,14 @@ Spark AR is an amazing website for LUTs and color grading. Whether you're a new 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-affordable-aethervault-substantial-file-safekeeping/"><u>[New] 2024 Approved Affordable AetherVault Substantial File Safekeeping</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-in-depth-analysis-ultimate-storage-choices/"><u>[New] 2024 Approved In-Depth Analysis Ultimate Storage Choices</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-step-in-stride-guide-sharing-personalized-youtube-videos-with-google/"><u>[New] 2024 Approved Step-in-Stride Guide Sharing Personalized YouTube Videos with Google</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-boost-your-projects-quality-rankings-of-the-best-free-editing-apps-top-9-for-2024/"><u>[New] Boost Your Projects' Quality Rankings of the Best Free Editing Apps (Top 9) for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-essential-guide-integrating-virtual-backgrounds-for-webcasters/"><u>[New] In 2024, Essential Guide Integrating Virtual Backgrounds for Webcasters</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-leading-with-purpose-strategic-openings-in-podcasting/"><u>[Updated] 2024 Approved Leading with Purpose Strategic Openings in Podcasting</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-advancing-beyond-vp9-a-look-at-av1/"><u>[Updated] Advancing Beyond VP9 A Look at AV1</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-efficiently-using-background-footage-in-projects/"><u>[Updated] Efficiently Using Background Footage in Projects</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/essential-tips-for-erasing-with-photoshop-for-2024/"><u>Essential Tips for Erasing with Photoshop for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/harnessing-high-performance-with-the-beatit-bt-d11-a-detailed-review/"><u>Harnessing High Performance with the Beatit BT-D11: A Detailed Review</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-beyond-ustream-a-comparative-analysis-of-streams/"><u>In 2024, Beyond Ustream A Comparative Analysis of Streams</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-snapslowly-the-art-of-time-lapse-via-samsung/"><u>In 2024, SnapSlowly The Art of Time-Lapse via Samsung</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ng-flv-files-a-step-by-step-guide/"><u>Joining FLV Files A Step-by-Step Guide</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-add-tags-to-your-videos-best-mp4-editors-for-windows-and-macos/"><u>New 2024 Approved Add Tags to Your Videos Best MP4 Editors for Windows and macOS</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-financial-key-to-boosting-your-videos-reach-for-2024/"><u>The Financial Key to Boosting Your Video's Reach for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-essential-mobiles-for-cutting-and-tuning-dji-videos-for-2024/"><u>[New] Essential Mobiles for Cutting and Tuning DJi Videos for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-art-of-discrete-audio-erosion-in-audacity/"><u>[New] The Art of Discrete Audio Erosion in Audacity</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oneplus-nord-3-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your OnePlus Nord 3 5G</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-popular-networking-sites-facebook-twitter-instagram-and-youtube/"><u>Exploring Popular Networking Sites: Facebook, Twitter, Instagram and Youtube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-balance-of-swiftness-and-security-on-spotify-sounds/"><u>In 2024, The Balance of Swiftness and Security on Spotify Sounds</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-uniting-social-spheres-from-instagram-to-tiktok-triumphs/"><u>In 2024, Uniting Social Spheres From Instagram to TikTok Triumphs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-output-minimize-time-harnessing-the-potential-of-flow-launcher/"><u>Maximize Output, Minimize Time: Harnessing the Potential of Flow Launcher</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinventing-tech-windows-leap-from-version-11/"><u>Reinventing Tech: Windows' Leap From Version 11</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/top-quality-free-fb-image-and-video-designer-for-2024/"><u>Top Quality FREE FB Image & Video Designer for 2024</u></a></li>
 </ul></div>
 

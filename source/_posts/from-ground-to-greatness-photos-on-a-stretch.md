@@ -1,7 +1,7 @@
 ---
 title: "\"From Ground to Greatness  Photos on a Stretch\""
-date: 2024-07-29T13:18:01.680Z
-updated: 2024-07-30T13:18:01.680Z
+date: 2025-02-09T16:05:59.443Z
+updated: 2025-02-16T20:41:15.692Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/eea9086dc7bf337d2bb499bc698c2b462f0914634
 
 # How to Shoot Vertical Panorama Photos with Your Smartphone Android/iOS
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -31,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/eea9086dc7bf337d2bb499bc698c2b462f0914634
 
  When the term 'Panorama' reaches to our ears, majority of people bring those horizontal landscapes in their minds. But what about the beautiful Eiffel Tower or the Statue of Liberty or say a lavish building view? All these tall looking objects will not fit into the traditional horizontal panorama. And here comes vertoramas handy. Vertoramas are basically panorama shots but taken vertically. The **vertical panoramic photos** provide an elevated quality to the tall things of the world ultimately giving them a stunning look and unusual twist.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/vertical-panorama.jpg)
 
  Image source: Imgur
@@ -41,16 +35,18 @@ thumbnail: https://thmb.techidaily.com/eea9086dc7bf337d2bb499bc698c2b462f0914634
  However, you will need to use a few but simple techniques to efficiently capture the vertical panoramic view. In this article, we’ll explain you how you can carry out those extraordinary views with your Android or iOS device.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to take vertical panorama photography with your respective Smartphone
 
 * [Part 1: For iPhone Users](#part1)
 * [Part 2: For Android Users](#part2)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### For iPhone users
 
  The iPhone users can follow the steps given below to execute vertorama.
@@ -66,8 +62,9 @@ thumbnail: https://thmb.techidaily.com/eea9086dc7bf337d2bb499bc698c2b462f0914634
 * Once finished and satisfied, just tap on "Done" option.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### For Android users
 
  To capture vertical panorama on Android, the steps are given just below.
@@ -75,10 +72,11 @@ thumbnail: https://thmb.techidaily.com/eea9086dc7bf337d2bb499bc698c2b462f0914634
 * Start with opening the camera followed by choosing the "Panorama" option from the menu.
 * Hit on "Vertical" and begin the process.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/vertical-panorama-android.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image source: mac-fusion
 
@@ -94,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/eea9086dc7bf337d2bb499bc698c2b462f0914634
 * Leaving some space is another beautiful tip especially if you are a graphic designer and want to add some text into the picture. The panorama shot will look perfectly enhanced this way.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -118,4 +120,26 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-overcoming-video-limitations-on-instagram-platform/"><u>[New] 2024 Approved Overcoming Video Limitations on Instagram Platform</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-artful-humor-chuckledrawings-for-2024/"><u>[New] Artful Humor ChuckleDrawings for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-breathtaking-review-and-different-directions/"><u>[New] In 2024, Breathtaking Review & Different Directions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-iconic-image-reimagining-tools-visualmorph-v2/"><u>[New] In 2024, Iconic Image Reimagining Tools VisualMorph V2</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-elevate-your-film-scenes-with-precision-zooming-on-kinemaster/"><u>[Updated] 2024 Approved Elevate Your Film Scenes with Precision Zooming on Kinemaster</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-ideal-ringtone-hunt-prime-downloads-for-2024/"><u>[Updated] Ideal Ringtone Hunt Prime Downloads for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-elite-focus-handheld-premium-mobile-mounting-systems/"><u>[Updated] In 2024, Elite Focus Handheld Premium Mobile Mounting Systems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-expert-tips-for-adding-stunning-motion-blur-effects-to-photos/"><u>[Updated] In 2024, Expert Tips for Adding Stunning Motion Blur Effects to Photos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-professional-packing-for-personal-filmmaking/"><u>[Updated] Professional Packing for Personal Filmmaking</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movavi-mp3-aiff/"><u>無限制瀏覽 - 利用 Movavi 自由地轉換 MP3 到 AIFF</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/equinox-introduces-revolutionary-ai-robotic-massage-therapy-for-ultimate-relaxation-zdnet/"><u>Equinox Introduces Revolutionary AI Robotic Massage Therapy for Ultimate Relaxation | ZDNET</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Itel P55? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-initiate-your-streaming-success-story-with-periscope/"><u>In 2024, Initiate Your Streaming Success Story with Periscope</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-novice-guide-to-earning-on-periscope-live-streaming/"><u>In 2024, Novice Guide to Earning on Periscope Live Streaming</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-tips-for-entering-a-friends-tiktok-live-stream/"><u>In 2024, Tips for Entering a Friend's TikTok Live Stream</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-tips-for-kickstarting-a-social-philanthropy-blitz/"><u>In 2024, Tips for Kickstarting a Social Philanthropy Blitz</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-bluetooth-drivers-download-and-update-for-windows-710-100-safe/"><u>Lenovo Bluetooth Drivers Download & Update for Windows 7/10 [100% Safe]</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-maintenance-15-essential-fixes-for-all-models/"><u>Mastering iPhone Maintenance: 15 Essential Fixes for All Models</u></a></li>
+<li><a href="https://win11.techidaily.com/unifying-data-points-merging-text-from-various-excel-cells-into-a-single-cell/"><u>Unifying Data Points: Merging Text From Various Excel Cells Into a Single Cell</u></a></li>
+</ul></div>
 
