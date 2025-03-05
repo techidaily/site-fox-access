@@ -1,7 +1,7 @@
 ---
 title: "How to Add Fonts to After Effects for 2024"
-date: 2025-02-13T17:59:32.105Z
-updated: 2025-02-16T23:09:24.917Z
+date: 2025-03-02T16:24:24.493Z
+updated: 2025-03-05T18:12:36.394Z
 tags: 
   - screen-recording
   - ai video
@@ -41,10 +41,6 @@ Thus, selecting a proper font for the video becomes necessary in the post-produc
 
 ![browse fonts adobe](https://images.wondershare.com/filmora/article-images/2022/07/browse-fonts-adobe.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * These fonts are classified according to several attributes such as weight, height, and contrast and are created by certified typographers. Once you have found any font that you like, click on the "Activate" button and the theme will be installed on your Adobe After Effects.
 
 ![activitate all fonts after effects](https://images.wondershare.com/filmora/article-images/2022/07/activitate-all-fonts-after-effects.jpg)
@@ -58,10 +54,6 @@ Adobe After Effects provides a ton of families of fonts that can be added and us
 
 Some of the most famous fonts such as "typewriter", "Cursive Handwriting" and many more are categorized under their family of fonts and are very easy to access. Along with this, you can also select fonts with different character strokes and can alter their features while adding to your videos.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3\. How to use text effects in After Effects?
 
 Adding text effects in Adobe After Effects is very easy and you can use these effects by following these steps:
@@ -69,10 +61,6 @@ Adding text effects in Adobe After Effects is very easy and you can use these ef
 * First, select the project video that you want to edit. Then navigate to "effects and presets" and search for the presets of the texts that you want to edit.
 
 ![effects and presets adobe](https://images.wondershare.com/filmora/article-images/2022/07/effects-and-presets-adobe.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Now, add that text effect to your video by clicking on it and dragging and dropping it on your video. Then select any animation preset for your text from "Adobe Bridge".
 * Then slide the keyframes to set the text effect on the section of the video where you want to add your text. You can also compose the text by clicking on it and editing it for adjusting its content, height, width, opacity, and color.
@@ -89,10 +77,6 @@ If for some reason you don't want to use After Effects on your device to edit yo
 These features also include adding texts and changing the fonts of those texts on your video. And for users who want to edit texts or fonts in their videos using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), here is how you can do it:
 
 ![use filmora to edit device](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * First open that video that you want to edit in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and then you will be available with a tab called "Titles" on the top. Select that and select any style of title that you want to edit. There is a preview window available to look at the text fonts and designs.
 
@@ -118,10 +102,6 @@ These features also include adding texts and changing the fonts of those texts o
 * First open that video that you want to edit in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and then you will be available with a tab called "Titles" on the top. Select that and select any style of title that you want to edit. There is a preview window available to look at the text fonts and designs.
 
 ![open wanted video to edit in filmora](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Select the text style you want to add for your title and then drag it from the title's library to your timeline. An alternate way to add texts or such title font is to right-click on it and select the "Apply" option.
 * Here you can also set a particular font or style for the title as your favorite by right-clicking on the library and then selecting "Add to favorites" for easy access.
@@ -158,16 +138,20 @@ The article discussed the detailed process of **how to add font to Adobe After E
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-elevate-visibility-mastering-youtube-success-tracks/"><u>[New] 2024 Approved Elevate Visibility Mastering YouTube Success Tracks</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-elite-iphone-and-android-edits-to-improve-gopro-content-for-2024/"><u>[Updated] Elite iPhone & Android Edits to Improve GoPro Content for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-how-to-elevate-your-digital-self-with-memetic-skills-in-the-metaverse/"><u>[Updated] How to Elevate Your Digital Self with Memetic Skills in the Metaverse</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-metaverse-odyssey-cutting-edge-vr-headset-lineup/"><u>[Updated] Metaverse Odyssey Cutting-Edge VR Headset Lineup</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-supreme-top-4k-tvs-for-gamers/"><u>2024 Approved Supreme Top 4K TVs for Gamers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-resource-for-artists-identifying-the-top-10-free-online-creative-communities/"><u>2024 Approved The Ultimate Resource for Artists Identifying the Top 10 Free Online Creative Communities</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-core-principles-in-internet-story-development/"><u>In 2024, Core Principles in Internet Story Development</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-video-stories-your-brands-new-voice/"><u>In 2024, Video Stories Your Brand's New Voice</u></a></li>
-<li><a href="https://fox-access.techidaily.com/mobile-magic-unleashed-funimate-pro-apk-exploration/"><u>Mobile Magic Unleashed Funimate Pro APK Exploration</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/pantheons-progeny-ancestral-greek-influence-today/"><u>Pantheon's Progeny: Ancestral Greek Influence Today</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-essentials-of-high-quality-audio-interfaces-in-podcasting/"><u>The Essentials of High-Quality Audio Interfaces in Podcasting</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-harmonizing-highlights-how-to-add-soundtracks-to-powerpoint-for-2024/"><u>[New] Harmonizing Highlights How to Add Soundtracks to PowerPoint for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-enhancing-user-experience-with-azure-speech-transcription-tools/"><u>[New] In 2024, Enhancing User Experience with Azure Speech Transcription Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-expertly-evaluating-webcam-technology-for-professionals/"><u>[New] In 2024, Expertly Evaluating WebCam Technology for Professionals</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-shadow-flight-new-camera-frontier/"><u>[New] In 2024, Shadow Flight New Camera Frontier</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-how-to-crop-photo-online/"><u>[Updated] 2024 Approved How To Crop Photo Online?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-sony-xperia-xz-bridging-the-gap-to-ultra-hd-phones/"><u>[Updated] 2024 Approved Sony Xperia XZ - Bridging the Gap to Ultra HD Phones</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-beyond-reality-vr-movie-magic-for-2024/"><u>[Updated] Beyond Reality VR Movie Magic for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-finding-the-ultimate-video-solution-vlc-and-mx-showdown/"><u>[Updated] Finding the Ultimate Video Solution VLC and MX Showdown</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-emotive-expression-through-pictures-and-music-fusion/"><u>[Updated] In 2024, Emotive Expression Through Pictures & Music Fusion</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-capture-in-clarity-best-tools-for-quality-4k-conversion/"><u>2024 Approved Capture in Clarity Best Tools for Quality 4K Conversion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhancing-4k-video-encoding-speed-using-hardware-assisted-hevc-technology/"><u>Enhancing 4K Video Encoding Speed Using Hardware-Assisted HEVC Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-novice-to-expert-mastering-button-navigation-games/"><u>From Novice to Expert: Mastering Button Navigation Games</u></a></li>
+<li><a href="https://fox-access.techidaily.com/next-gen-peripherals-exploring-virtual-reality-accessories-for-2024/"><u>Next-Gen Peripherals Exploring Virtual Reality Accessories for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-flooring-for-enhanced-creativity-and-focus/"><u>Premium Flooring for Enhanced Creativity and Focus</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-connectivity-secrets-an-authentic-review-of-linksyss-open-source-wrt19wifi-router/"><u>Unveiling Connectivity Secrets: An Authentic Review of Linksys's Open Source WRT19_WiFi Router</u></a></li>
 </ul></div>
 

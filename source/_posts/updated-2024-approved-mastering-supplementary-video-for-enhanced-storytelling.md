@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Mastering Supplementary Video for Enhanced Storytelling\""
-date: 2025-02-13T18:50:27.435Z
-updated: 2025-02-16T18:50:41.394Z
+date: 2025-02-26T17:08:53.620Z
+updated: 2025-03-05T17:14:06.613Z
 tags: 
   - screen-recording
   - ai video
@@ -27,10 +27,6 @@ Now that we know that, let's dive in!
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. B roll In TV And Movies
 
 Broll is an acronym for "background" or "behind," respectively. It usually refers to extra footage captured with a movie camera while keeping the lighting consistent between scenes in the movie industry. When the filmmaker doesn't want to show any dialogue or action on screen but needs some movement within the frame, it might be utilized as filler.
@@ -40,10 +36,6 @@ B roll has been used from the first silent movies, including D.W. Griffith's 191
 B roll can be utilized for establishing shots as well as close-ups of items. It is used by filmmakers when they lack the funds for pricey films or when they want to showcase their originality. It's also a fantastic method for narrating stories devoid of conversation. It might be anything, such a view of a landscape or a person's hands holding up a sign with words on it.
 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Methods to use b roll
 
@@ -69,10 +61,6 @@ Including archival material in your video allows your audience to experience a p
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
@@ -89,17 +77,9 @@ A pick-up is a tiny shot added to previously captured material. Re-shoots involv
 
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -135,22 +115,19 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-perfect-picture-creation-discover-these-top-5-android-editors/"><u>[New] 2024 Approved Perfect Picture Creation Discover These Top 5 Android Editors</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-specialized-compilation-choosing-ringtones-with-ease/"><u>[New] 2024 Approved Specialized Compilation Choosing Ringtones with Ease</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-professional-video-editing-does-m1-macbook-air-hold-up-in-2024/"><u>[New] Professional Video Editing Does M1 MacBook Air Hold Up, In 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-resounding-beats-audio-studio-mac-for-2024/"><u>[New] Resounding Beats Audio Studio Mac for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-ultimate-list-of-free-got-tune-sources/"><u>[New] Ultimate List of Free GoT Tune Sources</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-unlock-the-secrets-to-lengthy-exposure-with-iphone/"><u>[New] Unlock the Secrets to Lengthy Exposure with iPhone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-dissecting-the-yuneec-typhoon-hs-aerial-capabilities/"><u>[Updated] In 2024, Dissecting the Yuneec Typhoon H's Aerial Capabilities</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-depth-vita-video-editing-analysis-and-step-by-step-guide/"><u>[Updated] In-Depth Vita Video Editing Analysis & Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-inside-kinemaster-the-ultimate-guide-to-its-android-avatar/"><u>[Updated] Inside KineMaster The Ultimate Guide to Its Android Avatar</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/detailed-walkthrough-to-load-wm6-for-2024/"><u>Detailed Walkthrough to Load WM6 for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-logitech-speakers-latest-audio-drivers-compatible-with-windows-11-7-and-8/"><u>Download Logitech Speakers' Latest Audio Drivers Compatible with Windows 11, 7 & 8</u></a></li>
-<li><a href="https://fox-access.techidaily.com/future-fables-top-30-quotes-on-tomorrows-realities/"><u>Future Fables Top 30 Quotes on Tomorrow's Realities</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mov-files-on-xiaomi-redmi-a2-by-aiseesoft-video-converter-play-mov-on-android/"><u>How do you play .mov files on Xiaomi Redmi A2 ?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/illuminating-insights-for-iphone-night-photos/"><u>Illuminating Insights for iPhone Night Photos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-how-to-manipulate-your-instagram-storys-playback-velocity/"><u>In 2024, How to Manipulate Your Instagram Story's Playback Velocity</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-seamlessly-transitioning-sounds-with-audacity-tips/"><u>In 2024, Seamlessly Transitioning Sounds with Audacity Tips</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-perfecting-game-sounds-ps5-and-ps4-adjustments/"><u>[New] In 2024, Perfecting Game Sounds PS5 & PS4 Adjustments</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-apple-media-access-and-download-youtube-videos-on-iphoneipad/"><u>[Updated] 2024 Approved Apple Media Access and Download YouTube Videos on iPhone/iPad</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-reassessing-the-updates-to-sonys-s6500-bdhd-player/"><u>[Updated] In 2024, Reassessing the Updates to Sony's S6500 BD/HD Player</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-professional-portrait-maker-for-passports-desktop-and-online-access-only/"><u>[Updated] Professional Portrait Maker for Passports – Desktop & Online Access Only</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-seamless-storyteller-leveraging-inshot-for-elegant-transitions-for-2024/"><u>[Updated] The Seamless Storyteller Leveraging Inshot for Elegant Transitions for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-best-facebook-practices-videographers-dilemrante/"><u>2024 Approved Best Facebook Practices Videographer's Dilemrante</u></a></li>
+<li><a href="https://solve-help.techidaily.com/cambiar-de-codificacion-video-gratuita-conversion-de-h265-hevc-a-h264-sin-perdida-de-calidad/"><u>Cambiar De Codificación Video Gratuita: Conversión De H.265 (HEVC) a H.264 Sin Pérdida De Calidad</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/frame-perfect-our-top-10-photo-lenses-list-for-2024/"><u>Frame Perfect Our Top 10 Photo Lenses List for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/go-beyond-basics-with-these-advanced-whatsapp-features-for-2024/"><u>Go Beyond Basics with These Advanced WhatsApp Features for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-tecno-phantom-v-fold-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Tecno Phantom V Fold Safely | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-crucial-picks-the-most-influential-6-networking-websites-for-biz/"><u>In 2024, Crucial Picks The Most Influential 6 Networking Websites for Biz</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-diminutive-directors-script/"><u>In 2024, Diminutive Director's Script</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-vivo-y56-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Vivo Y56 5G? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Expert Insights Into Making the Most Out of Mac Preview"
-date: 2024-07-29T13:17:16.082Z
-updated: 2024-07-30T13:17:16.082Z
+date: 2025-02-28T17:02:28.391Z
+updated: 2025-03-05T17:55:04.103Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 
 # How to Use Preview App on Mac
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -39,11 +36,6 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -72,9 +64,6 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -119,9 +108,6 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -154,9 +140,6 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -201,9 +184,6 @@ Choose a destination folder in the **Where** field, select your preferred format
 * Select your preferred output format for all the images from the **Format** drop-down list
 * Click **Choose** to convert all the images in a single go
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -229,4 +209,19 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-secrets-to-prolonging-gopros-energy-capacity/"><u>[New] 2024 Approved Secrets to Prolonging GoPro's Energy Capacity</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-ultimate-deck-to-deck-users-manual-for-durecorder/"><u>[New] 2024 Approved The Ultimate Deck-to-Deck User's Manual for DuRecorder</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-depth-review-is-aurora-revolutionary-for-2024/"><u>[New] In-Depth Review Is Aurora Revolutionary for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-masterclass-adding-subtitles-as-chapter-indicators-on-youtube/"><u>[New] Masterclass Adding Subtitles as Chapter Indicators on YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-essential-guide-to-multistation-open-source-video-tools-for-2024/"><u>[Updated] Essential Guide to Multistation Open Source Video Tools for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-itel-p40-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Itel P40 to Protect Your Individual Information</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-create-stunning-videos-best-collage-apps-for-ios-devices/"><u>New In 2024, Create Stunning Videos Best Collage Apps for iOS Devices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-veritable-value-of-voice-podcasters-earnings-analysis/"><u>The Veritable Value of Voice Podcasters’ Earnings Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upgrading-guide-comparing-ipad-air-4-and-ipad-air-cued-with-the-latest-features-of-ipad-air-5-zdnets-analysis/"><u>Upgrading Guide: Comparing iPad Air 4 and iPad Air Cued with the Latest Features of iPad Air 5 | ZDNet's Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/us-imposes-penalties-on-deepcools-sales-support-to-russia-amidst-conflict-with-ukraine/"><u>US Imposes Penalties on DeepCool's Sales Support to Russia Amidst Conflict with Ukraine</u></a></li>
+<li><a href="https://fox-access.techidaily.com/virtual-odyssey-navigating-sci-fi-metaverse-adventures-in-film/"><u>Virtual Odyssey Navigating Sci-Fi Metaverse Adventures in Film</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Diminutive Director's Script"
-date: 2025-02-15T19:21:33.992Z
-updated: 2025-02-16T23:35:56.661Z
+date: 2025-02-26T16:55:16.280Z
+updated: 2025-03-05T17:14:15.949Z
 tags: 
   - screen-recording
   - ai video
@@ -43,23 +43,11 @@ This is always, always, the number one problem for my screenwriting students. Th
 
 Writing compelling short scripts requires what Thornton Wilder called "shortcuts to the imagination." And knowing what your main character wants in your story is the most important shortcut to understanding and discovering who your main character is. So, give your main character a desire or yearning for something that matters deeply to her. Then let your story flow from your character's efforts to achieve that wish. The best stories, short or long, are about the human heart.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. An independent story
 
 It's also a useful way to think of the script as an energy system, as William Gibson brilliantly says in Shakespeare's play. An energy system begins with an Inciting Incident - a significant event/discovery that unleashes the energy system - and ends with a Climax - the moment when the story's outcome is known, and the energy system ends. Given the limited number of pages available in your short script, it's essential that your inciting incident appears on the first page.
 
 ![an independent story](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Conflict
 
@@ -99,19 +87,11 @@ Have you ever stored various videos and photos on a memory card or on a computer
 
 Below, we will show you have to use this easy movie maker to create a video with Filmora in clicks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Import your files and arrange the order
 
 Open Wondershare Filmora, click the "Import" button, and use the navigation import panel to load media files. You can also directly drag and drop your media files into the program. Then, trim or cut the video clips in the timeline with options in the Toolbox
 
 ![import files and arrange order](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Making stunning short films with various Effects & Filters
 
@@ -141,10 +121,6 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
 
 </article
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Characterization
 
 Writing compelling short scripts requires what Thornton Wilder called "shortcuts to the imagination." And knowing what your main character wants in your story is the most important shortcut to understanding and discovering who your main character is. So, give your main character a desire or yearning for something that matters deeply to her. Then let your story flow from your character's efforts to achieve that wish. The best stories, short or long, are about the human heart.
@@ -171,10 +147,6 @@ It's helpful to think of a screenplay as a pattern of significant human change t
 
 If you want to see a well-crafted surface and deep action/character arc in a fifteen-page script, read Chapter 17 _"Killer Kart"_ in the book Making Short Scripts That Connect 5e, and screen the movie on the book's website. It's no surprise that the film is the most screened film ever made at the FSU Film School.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Sublimation
 
 Scenes are the **"church of drama"**, as William Gibson also brilliantly says. So, it's helpful to think of your scenes as the time and place where a significant moment of change will occur, throwing your script into the next scene and moving your story forward. That is your purpose when you write a scene, to dramatize the moment (or moments) of change. That's what matters. I like to think of a scene as an oyster and a moment of change as a pearl. Then cut to your scenes as close to the moment of change as possible and exit as soon as possible.
@@ -197,19 +169,11 @@ Have you ever stored various videos and photos on a memory card or on a computer
 
 Below, we will show you have to use this easy movie maker to create a video with Filmora in clicks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Import your files and arrange the order
 
 Open Wondershare Filmora, click the "Import" button, and use the navigation import panel to load media files. You can also directly drag and drop your media files into the program. Then, trim or cut the video clips in the timeline with options in the Toolbox
 
 ![import files and arrange order](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Making stunning short films with various Effects & Filters
 
@@ -228,10 +192,6 @@ To add text to the video, click the "Text" button, choose a text type, and drag 
 When everything is done, hit the “Create” button, and you'll see several options: save it as a video file, convert it for viewing on your mobile phone or tablet, directly upload to your YouTube or Facebook account and burn to DVD. Choose an output method as you like and click “Create”. After a few seconds, a folder with the newly reformatted video will open automatically.
 
 ![save the video](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -265,20 +225,24 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-mastering-the-art-of-live-image-capturing-on-screens/"><u>[New] 2024 Approved Mastering the Art of Live Image Capturing on Screens</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-unveiling-drone-footage-wonders-the-leading-software-rankings/"><u>[New] 2024 Approved Unveiling Drone Footage Wonders The Leading Software Rankings</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-new-age-of-memes-how-to-stand-out-in-the-metaverse/"><u>[New] The New Age of Memes How to Stand Out in the Metaverse</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-8-free-and-online-facebook-link-downloaders/"><u>[Updated] In 2024, 8 Free And Online Facebook Link Downloaders</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-radiance-studios-review-pinnacle-suite-deep-dive-into-studio-25-2023/"><u>[Updated] In 2024, Radiance Studios Review Pinnacle Suite Deep Dive Into Studio 25, 2023</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-filmmakers-toolkit-essential-color-grading-of-7-techniques/"><u>[Updated] The Filmmaker's Toolkit Essential Color Grading of 7 Techniques</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-youtubes-dimensions-decoded-a-comprehensive-ratio-handbook/"><u>2024 Approved YouTube's Dimensions Decoded A Comprehensive Ratio Handbook</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-advanced-6-apps-to-translate-film-content/"><u>In 2024, Advanced 6 Apps to Translate Film Content</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-the-art-of-pairing-b-clips-with-main-shots/"><u>In 2024, The Art of Pairing B-Clips with Main Shots</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/mastering-your-fb-profile-picture-update/"><u>Mastering Your FB Profile Picture Update</u></a></li>
-<li><a href="https://fox-access.techidaily.com/navigating-the-world-of-haul-videography-tips-and-tricks/"><u>Navigating the World of Haul Videography Tips and Tricks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/reversing-video-clips-in-final-cut-pro-tips-and-tricks/"><u>Reversing Video Clips in Final Cut Pro Tips and Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/stop-the-hiccup-overcome-a-stalled-dns-server-using-easy-strategies/"><u>Stop the Hiccup! Overcome a Stalled DNS Server Using Easy Strategies</u></a></li>
-<li><a href="https://fox-access.techidaily.com/ultimate-guide-to-hexacopter-wonders/"><u>Ultimate Guide to HexaCopter Wonders</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-qi2-multi-function-charger-a-game-changer-for-apple-devices-dive-in-with-zdnet/"><u>Ultimate Qi2 Multi-Function Charger: A Game-Changer for Apple Devices - Dive In with ZDNet!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-high-fidelity-graphics-on-4k-an-in-depth-look-at-proart-monitors/"><u>[New] 2024 Approved High-Fidelity Graphics on 4K An In-Depth Look at ProArt Monitors</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-using-inbuilt-recorders-for-screen-capture-on-huaweis-mate-and-p-series-devices/"><u>[New] In 2024, Using Inbuilt Recorders for Screen Capture on Huawei's Mate and P Series Devices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-palette-perfection-in-11-step-by-step-lessons/"><u>[New] Palette Perfection in 11 Step-by-Step Lessons</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-creating-profit-on-youtube-the-ultimate-list-of-top-business-channels/"><u>[Updated] 2024 Approved Creating Profit on YouTube The Ultimate List of Top Business Channels</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-essential-tips-to-enhance-your-youtube-live-stream-with-zoom/"><u>[Updated] 2024 Approved Essential Tips to Enhance Your YouTube Live Stream with Zoom</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-must-have-windows-11-video-editing-apps-list/"><u>[Updated] 2024 Approved Must-Have Windows 11 Video Editing Apps List</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-social-media-melody-ownership-laws/"><u>[Updated] Social Media Melody Ownership Laws</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-infinix-smart-8-hd-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Infinix Smart 8 HD to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-new-directions-for-your-words-top-5-artificial-intelligence-scribes/"><u>Discover New Directions for Your Words: Top 5 Artificial Intelligence Scribes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/how-to-effortlessly-run-apps-and-videos-together-in-chrome-for-2024/"><u>How to Effortlessly Run Apps & Videos Together In Chrome for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-find-n3-flip-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Oppo Find N3 Flip</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-elevate-presentations-with-these-10-best-destinations-for-free-templates/"><u>In 2024, Elevate Presentations with These 10 Best Destinations for Free Templates</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-nokia-c02-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Nokia C02 to iPad | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-pcs-ultimate-selection-of-ps3-emulation-tools/"><u>In 2024, PC's Ultimate Selection of PS3 Emulation Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/keeping-track-of-itunes-audio-visual-files/"><u>Keeping Track of iTunes Audio-Visual Files</u></a></li>
+<li><a href="https://fox-access.techidaily.com/migrating-media-from-android-to-iphone/"><u>Migrating Media From Android to iPhone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/shopping-for-tailored-gift-boxes-heres-who-to-hit-for-2024/"><u>Shopping for Tailored Gift Boxes? Here's Who to Hit for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-ultimate-vr-journey-best-pc-360-video-streamers-reviewed-for-2024/"><u>The Ultimate VR Journey Best PC 360 Video Streamers Reviewed for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/thumbnail-tactics-for-top-views-on-youtube-videos-for-2024/"><u>Thumbnail Tactics for Top Views on YouTube Videos for 2024</u></a></li>
 </ul></div>
 

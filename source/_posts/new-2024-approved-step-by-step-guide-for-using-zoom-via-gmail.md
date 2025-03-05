@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Step-by-Step Guide for Using Zoom via Gmail\""
-date: 2025-02-15T17:14:57.831Z
-updated: 2025-02-16T20:30:45.571Z
+date: 2025-03-02T17:41:24.632Z
+updated: 2025-03-05T17:26:56.310Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,6 @@ Having a built-in option for scheduling Zoom in Gmail meetings is crucial for in
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. Install Zoom Add-On for Google Account
 
 Using the "Zoom for Gmail" add-on, which connects your Gmail account with Zoom, you may activate Zoom meetings on Gmail. The default choice for meetings is Google's video conferencing service, Google Meet. To make it similarly frictionless, all you have to do is install a free app. When you include a Zoom meeting in your calendar invitation, all participants may join the meeting by simply clicking the meeting's details and then clicking again. With this add-on, you may use Gmail's web client's collaboration capabilities to initiate and plan Zoom sessions. Visit the Google Workspace store to add Zoom to your G-suite account. How to install this on your account is provided here. You may achieve this by doing the actions listed below:
@@ -55,29 +51,17 @@ There is no need to log into Zoom or look through emails to get access. Both cho
 
 ![install zoom for gmail](https://images.wondershare.com/filmora/article-images/2022/07/install-zoom-for-gmail.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step3Log into your own Google Account
 
 Launch your web browser and open Gmail. A new Zoom icon with the text "Zoom for Gmail was installed" will appear on the right sidebar. Log into your Zoom account when the new tab has opened, then select Authorize to provide Gmail access.
 
 ![choose account to continue zoom](https://images.wondershare.com/filmora/article-images/2022/07/choose-account-to-continue-zoom.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step4Press "Allow"
 
 You will need your account administrator's prior consent if your Gmail account is a part of a G-suite account. You may provide Gmail access by selecting the "Request pre-approve" button after checking in with your Zoom account.
 
 ![allow zoom meetings google account](https://images.wondershare.com/filmora/article-images/2022/07/allow-zoom-meetings-google-account.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. How to start a meeting from Zoom for Gmail
 
@@ -99,17 +83,9 @@ Step3 Turn on "Pre-approve" and adhere to the on-screen instructions to provide 
 
 ![enable pre approve](https://images.wondershare.com/filmora/article-images/2022/07/enable-pre-approve.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 Next, check for the "Add Conferencing" box when creating a new Google Calendar event. Then, pick "Zoom Meeting" from the list of possibilities by clicking on the drop-down menu. At the bottom, click "Preserve" to save your selection.
 
 ![add conference google calendar](https://images.wondershare.com/filmora/article-images/2022/07/add-conference-google-calendar.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step5 The Meeting ID, password, and passcode will now be automatically filled in by the add-on in the Calendar event. Additionally, it will provide a link with joining instructions, which should be helpful for anyone who are unfamiliar with Zoom. You may now invite people to the meeting by clicking on the freshly created event in Google Calendar and using the "Add Guests" section. Finally, choose the "envelope" symbol to send guests an email invitation.
 
@@ -140,10 +116,6 @@ Use the [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) sc
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 ![make recording of zoom call](https://images.wondershare.com/filmora/article-images/2022/07/make-recording-of-zoom-call.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Create Meeting Template
 
@@ -176,18 +148,24 @@ In a nutshell, so that everyone can arrive on time, you would be able to easily 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-exploring-the-core-of-m1-apples-innovation/"><u>[New] 2024 Approved Exploring the Core of M1 Apple's Innovation</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-digital-sound-artists-guide-discovering-no-cost-audio-effect-solutions/"><u>[New] 2024 Approved The Digital Sound Artist's Guide Discovering No-Cost Audio Effect Solutions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-interconnecting-your-music-collection-across-services/"><u>[New] Interconnecting Your Music Collection Across Services</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-unlock-professional-graphics-custom-templates-on-the-house/"><u>[New] Unlock Professional Graphics - Custom Templates on the House</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-elevate-your-youtube-presence-strategic-tagging-and-titling-techniques/"><u>[Updated] 2024 Approved Elevate Your YouTube Presence Strategic Tagging and Titling Techniques</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-pushing-boundaries-the-9-most-advanced-mobile-filmmaking-accessories/"><u>[Updated] 2024 Approved Pushing Boundaries The 9 Most Advanced Mobile Filmmaking Accessories</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-digital-library-of-public-domain-game-sounds/"><u>[Updated] In 2024, Digital Library of Public Domain Game Sounds</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-unleash-clarity-in-depth-tutorial-on-video-enhancer-22/"><u>[Updated] In 2024, Unleash Clarity In-Depth Tutorial on Video Enhancer 2.2</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pioneering-visual-storytelling-uploading-to-youtube/"><u>[Updated] Pioneering Visual Storytelling Uploading to YouTube</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-best-webcam-recorders-for-windows-10/"><u>[Updated] The Best Webcam Recorders for Windows 10</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-pro-tips-that-make-every-iphone-landscape-stand-out/"><u>In 2024, Pro Tips That Make Every iPhone Landscape Stand Out</u></a></li>
-<li><a href="https://fox-access.techidaily.com/securely-downloading-vlc-media-player-for-free-on-macos/"><u>Securely Downloading VLC Media Player for Free on macOS</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-repairing-damaged-pc-gaming-files/"><u>Ultimate Guide: Repairing Damaged PC Gaming Files</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-ultimate-video-recorder-on-xiaomis-latest-megaphone/"><u>[New] 2024 Approved The Ultimate Video Recorder on Xiaomi's Latest MegaPhone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-29-visionary-metaverse-projects-elucidating-potentialities-for-2024/"><u>[New] 29 Visionary Metaverse Projects Elucidating Potentialities for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-a-new-lens-on-cinema-embracing-vr-tech-for-2024/"><u>[New] A New Lens on Cinema Embracing VR Tech for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-guide-365-days-of-no-cost-text-files/"><u>[New] Exclusive Guide 365 Days of No-Cost Text Files</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-faster-phonetic-playback-choose-from-these-10-for-2024/"><u>[New] Faster Phonetic Playback Choose From These 10 for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-vlc-mastery-understanding-key-mac-settings-and-options/"><u>[Updated] 2024 Approved VLC Mastery Understanding Key Mac Settings and Options</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-leading-graphics-cards-in-4k-resolution/"><u>[Updated] In 2024, Leading Graphics Cards in 4K Resolution</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-launch-your-wealth-journey-on-periscope-platform-for-2024/"><u>[Updated] Launch Your Wealth Journey on Periscope Platform for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-precision-practices-for-perfecting-figmas-background-removal/"><u>[Updated] Precision Practices for Perfecting Figma's Background Removal</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-ways-to-clean-out-your-dell-laptop-system/"><u>Effective Ways to Clean Out Your Dell Laptop System</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-essential-displays-for-picture-perfect-editing-choices/"><u>In 2024, Essential Displays for Picture Perfect Editing [Choices]</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-iphone-12-mini-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your iPhone 12 mini and iPad</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-ultimate-guide-to-ipad-based-time-lapse-videos/"><u>In 2024, The Ultimate Guide to iPad-Based Time-Lapse Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/modify-where-mac-photos-stash-location-for-2024/"><u>Modify Where Mac Photos Stash Location for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-ultimate-checklist-for-video-praise-mastery-for-2024/"><u>The Ultimate Checklist for Video Praise Mastery for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/trasforma-i-tuoi-file-wmv-in-mp4-senza-perdite-con-unelevata-qualita-del-98/"><u>Trasforma I Tuoi File WMV in MP4 Senza Perdite Con Un'elevata Qualità Del 98%</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-list-6-must-have-intelligent-conversational-tools-for-vs-code-users/"><u>Ultimate List: 6 Must-Have Intelligent Conversational Tools for VS Code Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-windows-11s-auto-hdr-capabilities/"><u>Unveiling Windows 11'S Auto HDR Capabilities</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/why-investing-in-an-office-chair-outweighs-the-appeal-of-gaming-seats-a-value-comparison/"><u>Why Investing in an Office Chair Outweighs the Appeal of Gaming Seats: A Value Comparison</u></a></li>
 </ul></div>
 

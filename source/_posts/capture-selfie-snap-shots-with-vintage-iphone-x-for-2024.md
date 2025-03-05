@@ -1,7 +1,7 @@
 ---
 title: "\"Capture Selfie  Snap Shots with Vintage iPhone X for 2024\""
-date: 2024-08-08T12:00:35.830Z
-updated: 2024-08-09T12:00:35.830Z
+date: 2025-03-03T17:43:24.238Z
+updated: 2025-03-05T16:48:29.046Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 
 # How to Take Portrait Photo with Old iPhone X/8 Plus/7 Plus
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -33,9 +30,6 @@ Until recently, iPhone cameras didn't have lenses that enabled its users to prod
 
 In this article, we are going to show you how to take photos in Portrait Mode, on iPhone X, 8 Plus, and 7 Plus, but we are also going to take a look at a few apps for older versions of iPhone that also enable you to create amazing portraits.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Tips for iPhone portrait photos
 
 * [Part 1: For iPhone 7 Plus/8 Plus/X users](#part1)
@@ -49,9 +43,6 @@ The quality of cameras on iPhones has been improving over the years, and Portrai
 
 However, the Portrait Mode is only featured on iOS 10.1 or some more recent versions of the iOS, so if you want to use the Portrait Mode you need to upgrade your device's iOS. After you launched the camera app, swipe left and look for the Portrait Mode. Once you find the feature, make sure it is marked yellow, in order to start using its tools. The app will display several different lighting options including the Natural Light preset that is essential for creating photos with Portrait Lightning.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![portrait-mode-iphone](https://images.wondershare.com/filmora/article-images/portrait-mode-iphone.jpg)
 
 Image resource: 9to5mac
@@ -78,9 +69,6 @@ If there is not enough light or if you are too far away from the camera, the app
 
 **Compatible with:** iOS 8.0 or later
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ezy-watermark-lite-photo](https://images.wondershare.com/filmora/article-images/ezy-watermark-lite-photo.jpg)
 
 Older iPhone models may not have a twin-lens system, but with the aid of a camera app such as FabFocus, iPhone photographers can easily take photos with smooth blurry backgrounds. The Automatic Depth of Field and Bokeh options enable you to add as much blur as you want to your photos and create DSLR-like images. The app also contains basic photo editing tools that can be used to touch-up the photo before you share it with your friends.
@@ -91,9 +79,6 @@ Older iPhone models may not have a twin-lens system, but with the aid of a camer
 
 **Compatible with:** iOS 8.0 or later
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iwatermark-watermark-photos](https://images.wondershare.com/filmora/article-images/iwatermark-watermark-photos.jpg)
 
 Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn't offer a lot of photo editing options.
@@ -114,9 +99,6 @@ The term Bokeh comes from the Japanese language and it represents the aesthetic 
 
 **Compatible with:** iOS 8.0 or later
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![my-watermarks-a-personal-logo-signature-maker](https://images.wondershare.com/filmora/article-images/my-watermarks-a-personal-logo-signature-maker.jpg)
 
 The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app's users while uploading a photo from the iPhone's camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.
@@ -146,6 +128,22 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-drone-motor-choose-the-5-best-motors-for-your-quadcopter/"><u>[New] In 2024, Drone Motor Choose the 5 Best Motors for Your Quadcopter</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-free-video-openings-that-stand-out-today/"><u>[New] In 2024, Free Video Openings That Stand Out Today</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-ultimate-selection-winning-16-free-video-experience-for-2024/"><u>[New] Ultimate Selection Winning 16 Free Video Experience for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-step-by-step-methodology-for-erasing-canvas-backdrops/"><u>[Updated] 2024 Approved Step-by-Step Methodology for Erasing Canvas Backdrops</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-transformative-typography-in-after-effects/"><u>[Updated] 2024 Approved Transformative Typography in After Effects</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-full-featured-icloud-drive-in-sierra-comprehensive-exploration/"><u>[Updated] In 2024, Full-Featured iCloud Drive in Sierra – Comprehensive Exploration</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-high-seas-of-hertz-best-websites-for-thrones-audio-files/"><u>[Updated] In 2024, High Seas of Hertz Best Websites for Thrones Audio Files</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-maximizing-your-screen-real-estate-with-picture-in-picture-creation/"><u>[Updated] Maximizing Your Screen Real Estate with Picture in Picture Creation</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-pro-broadcast-hardware-for-seamless-livestreams-for-2024/"><u>[Updated] Pro Broadcast Hardware for Seamless Livestreams for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-rising-stars-top-sierra-dvd-production-tools/"><u>In 2024, Rising Stars Top Sierra DVD Production Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/iphone-7-versus-htc-u-ultra-in-depth-2016-comparison-of-leading-smartphones/"><u>IPhone 7 versus HTC U Ultra: In-Depth 2016 Comparison of Leading Smartphones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-your-zebra-zp450-a-complete-walkthrough-on-drivers-update-and-installation/"><u>Mastering Your Zebra ZP450: A Complete Walkthrough on Drivers Update & Installation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/tailoring-medical-messages-in-social-media-ads-for-2024/"><u>Tailoring Medical Messages in Social Media Ads for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-picks-of-2024-explore-the-best-free-standalone-car-racing-experiences-without-an-internet-connection/"><u>Top Picks of 2024: Explore the Best Free, Standalone Car Racing Experiences Without an Internet Connection</u></a></li>
+</ul></div>
 

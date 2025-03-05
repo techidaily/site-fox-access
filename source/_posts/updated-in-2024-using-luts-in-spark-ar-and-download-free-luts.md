@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Using LUTs in Spark AR & Download Free LUTs"
-date: 2025-02-10T21:41:29.975Z
-updated: 2025-02-16T23:27:35.517Z
+date: 2025-02-26T17:26:22.584Z
+updated: 2025-03-05T18:19:25.063Z
 tags: 
   - screen-recording
   - ai video
@@ -53,10 +53,6 @@ A patch graph is automatically set that applies a color LUT to the entire scene.
 
 ![apply to the whole scene](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The color LUT patch graph**
 
 The patch graph that renders the color gradation effect looks like this:
@@ -79,10 +75,6 @@ Client filter pieces occasionally end up on the scrap heap. It was a poor Frost 
 
 ![frost zombie](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Fur
 
 Here are the key building principles.
@@ -96,10 +88,6 @@ Here are the key building principles.
 
 ![fur](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Shockwave
 
 Even while using large image sequences is frequently discouraged, you can still use them to make some extremely spectacular effects! I'll explain how the screen tap computation procedure relates to texture position in this walkthrough. If you want to apply this approach and texture sequence in your projects or give it a try.
@@ -112,33 +100,17 @@ There are 11 distinct animation curves included with Spark AR in the Transition 
 
 ![transition curves](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Realistic Smoke
 
 By adding smoke to a scene, you can easily add a lot of detail and realism. Nothing revolutionary is happening here. The particle emitter creates flat planes of smoke texture that are forced upward. The force slowly shifts left and right as seen in the patch editor. The Fade particle script (created by Josh Beckwith) enlarges the particles and fades them out at the same time.
 
 ![realistic smoke](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Rainbow Glitter
 
 Given how beautifully Glitter Rain was received, I believed it would be fitting to broaden the potential with an HDR setting. While Glitter Rain made use of two different colors, this technique makes use of an entirely colorless substance and gets its color information via HDR.
 
 ![rainbow glitter](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Closing Thoughts
 
@@ -174,14 +146,22 @@ Spark AR is an amazing website for LUTs and color grading. Whether you're a new 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-essential-mobiles-for-cutting-and-tuning-dji-videos-for-2024/"><u>[New] Essential Mobiles for Cutting and Tuning DJi Videos for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-art-of-discrete-audio-erosion-in-audacity/"><u>[New] The Art of Discrete Audio Erosion in Audacity</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oneplus-nord-3-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your OnePlus Nord 3 5G</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-popular-networking-sites-facebook-twitter-instagram-and-youtube/"><u>Exploring Popular Networking Sites: Facebook, Twitter, Instagram and Youtube</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-the-balance-of-swiftness-and-security-on-spotify-sounds/"><u>In 2024, The Balance of Swiftness and Security on Spotify Sounds</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-uniting-social-spheres-from-instagram-to-tiktok-triumphs/"><u>In 2024, Uniting Social Spheres From Instagram to TikTok Triumphs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-output-minimize-time-harnessing-the-potential-of-flow-launcher/"><u>Maximize Output, Minimize Time: Harnessing the Potential of Flow Launcher</u></a></li>
-<li><a href="https://windows11.techidaily.com/reinventing-tech-windows-leap-from-version-11/"><u>Reinventing Tech: Windows' Leap From Version 11</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/top-quality-free-fb-image-and-video-designer-for-2024/"><u>Top Quality FREE FB Image & Video Designer for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-ideal-websites-for-painless-jpeg-to-gif-changeover/"><u>[New] 2024 Approved Ideal Websites for Painless JPEG to GIF Changeover</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-the-guide-to-integrating-music-and-editing-in-canva-vids/"><u>[New] In 2024, The Guide to Integrating Music & Editing in Canva Vids</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-time-honored-tricks-top-1980s-visual-effects-to-elevate-your-edits/"><u>[New] In 2024, Time-Honored Tricks Top 1980S Visual Effects to Elevate Your Edits</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unveiling-secrets-top-strategies-for-advanced-srt-tweaks-on-apple/"><u>[New] Unveiling Secrets Top Strategies for Advanced SRT Tweaks on Apple</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unveiling-top-2023-vr-engine-innovations/"><u>[New] Unveiling Top 2023 VR Engine Innovations</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-archive-it-right-expert-strategies-for-capturing-digital-tunes/"><u>[Updated] In 2024, Archive It Right Expert Strategies for Capturing Digital Tunes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-visual-media-experience-overview-analysis/"><u>[Updated] Visual Media Experience Overview Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341721540-corsairs-latest-gem-the-ultimate-review-for-the-superior-mp600-mini-1tb-m2-2230e2t-ssd-your-perfect-storage-solution/"><u>Corsair's Latest Gem: The Ultimate Review for the Superior MP600 Mini 1TB (M.2 2230/E2^T) SSD - Your Perfect Storage Solution</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-gamers-rejoice-mavic-air-vs-sparks-duel-explored/"><u>In 2024, Gamers Rejoice! Mavic Air Vs. Spark's Duel Explored</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-sony-xperia-5-v-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Sony Xperia 5 V to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-meizu-21-pro-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Meizu 21 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-unleash-potential-with-latest-windows-10-apps-and-games/"><u>In 2024, Unleash Potential with Latest Windows 10 Apps and Games</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/integrating-ai-for-wellbeiting-top-9-chatgpt-tips/"><u>Integrating AI for Wellbeiting: Top 9 ChatGPT Tips</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mobile-mapping-mastery-a-thorough-review-of-google-maps-version-for-iphones/"><u>Mobile Mapping Mastery: A Thorough Review of Google Maps Version for iPhones</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-rotate-flip-and-spin-top-10-online-video-rotation-tools/"><u>Updated In 2024, Rotate, Flip, and Spin Top 10 Online Video Rotation Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/windows-10-photos-guide-snatching-stills-from-video-footage-for-2024/"><u>Windows 10 Photos Guide Snatching Stills From Video Footage for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-against-slow-motion-shutdowns-a-success-story-for-windows-10-users/"><u>Winning Against Slow-Motion Shutdowns - A Success Story for Windows 10 Users</u></a></li>
 </ul></div>
 

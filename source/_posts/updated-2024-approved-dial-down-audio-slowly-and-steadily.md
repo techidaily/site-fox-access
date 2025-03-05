@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Dial Down Audio, Slowly and Steadily\""
-date: 2025-02-14T20:59:13.050Z
-updated: 2025-02-16T23:52:26.681Z
+date: 2025-02-26T16:57:30.801Z
+updated: 2025-03-05T16:35:07.645Z
 tags: 
   - screen-recording
   - ai video
@@ -26,10 +26,6 @@ There are many features available in FL Studio which help for recording purposes
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1\. Steps to Fade Audio with FL Studio
 
@@ -65,17 +61,9 @@ Step1 The first thing you have to do is successfully install the Filmora softwar
 
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
 
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3 If you want your audio to fade out, again go to the audio setting. Then drag the pointer to the fade-out option. Now set your duration and see the fade-out effect.
 
@@ -90,10 +78,6 @@ If you want to fade out your audio in FL on your mobile phone, tap on the wavefo
 ### 2\. How to crescendo in FL studio?
 
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. What is declicking mode FL studio?
 
@@ -109,10 +93,6 @@ Step2 To fade audio in, you have to go to the audio setting. Then drag the point
 
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 If you want your audio to fade out, again go to the audio setting. Then drag the pointer to the fade-out option. Now set your duration and see the fade-out effect.
 
 No matter which audio editing software, what matters is the learning outcome. Learn the features of different editing software and choose what is suitable for you. If you are a beginner, then watch some tutorial videos on YouTube and read some Quora on google. Those who are just interested in audio editing and want to learn more should first try out [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), whereas if you have a basic idea about FL Studio then you can definitely go for it.
@@ -126,10 +106,6 @@ If you want to fade out your audio in FL on your mobile phone, tap on the wavefo
 ### 2\. How to crescendo in FL studio?
 
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. What is declicking mode FL studio?
 
@@ -159,22 +135,19 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-digital-imaging-from-basic-to-cutting-edge-hdr-techniques/"><u>[New] Digital Imaging From Basic to Cutting-Edge HDR Techniques</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-ideal-soundscapes-for-editing-films-and-vids/"><u>[New] Ideal Soundscapes for Editing Films & Vids</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-the-ultimate-monitor-guide-transform-your-xbox-series-x-experience-today/"><u>[New] In 2024, The Ultimate Monitor Guide Transform Your Xbox Series X Experience Today</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-mastering-film-color-correction-with-luts/"><u>[New] Mastering Film Color Correction with Luts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-pro-drone-guide-unveiling-the-top-5-picks-for-you/"><u>[New] Pro Drone Guide Unveiling the Top 5 Picks for You</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-deciphering-tiktoks-pfp-code-a-thorough-analysis/"><u>[Updated] 2024 Approved Deciphering TikTok's PFP Code - A Thorough Analysis</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-art-of-blending-primary-footage-with-b-roll/"><u>[Updated] 2024 Approved The Art of Blending Primary Footage with B Roll</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-get-a-handful-of-personalized-endings-at-zip/"><u>[Updated] Get a Handful of Personalized Endings, at Zip</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-incorporate-mp3s-into-presentation-decks/"><u>[Updated] In 2024, Incorporate MP3s Into Presentation Decks</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-magical-alternatives-to-top-voice-changing-software/"><u>[Updated] Magical Alternatives to Top Voice-Changing Software</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-navigating-googles-podcast-uploading-guide/"><u>[Updated] Navigating Google's Podcast Uploading Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-leveraging-cost-free-text-animation-techniques/"><u>2024 Approved Leveraging Cost-Free Text Animation Techniques</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/chart-topping-video-milestones-hitting-100-million-views-in-24-for-2024/"><u>Chart-Topping Video Milestones Hitting 100 Million Views in '24 for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/comprehensive-guide-to-io-screen-capture-capabilities-for-2024/"><u>Comprehensive Guide to IO Screen Capture Capabilities for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/laughlenslab-pixelpunchers/"><u>LaughLensLab PixelPunchers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/stay-connected-anywhere-the-travelers-go-to-portable-hotspot-unveiling-the-power-of-a-tp-link-wr9amo/"><u>Stay Connected Anywhere: The Traveler's Go-To Portable Hotspot - Unveiling the Power of a TP-Link WR9amo</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-10-essential-command-line-tricks-for-windows-power-users/"><u>Top 10 Essential Command-Line Tricks for Windows Power Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-distinguishing-designs-effective-podcast-brand-identity/"><u>[New] Distinguishing Designs Effective Podcast Brand Identity</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-converting-srt-into-sub-quick-effective-ways/"><u>[New] In 2024, Converting SRT Into SUB Quick, Effective Ways</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-step-by-step-manual-kickstart-your-bite-sized-gadget-reviews-channel/"><u>[New] Step-by-Step Manual Kickstart Your Bite-Sized Gadget Reviews Channel</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-craft-your-story-with-immersive-youtube-video-editing-tips/"><u>[Updated] 2024 Approved Craft Your Story with Immersive YouTube Video Editing Tips</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-cutting-edge-alternatives-to-acid-pro-for-vectors-for-2024/"><u>[Updated] Cutting Edge Alternatives to ACID Pro for Vectors for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-streamlining-iphone-video-fusion-processes/"><u>[Updated] In 2024, Streamlining iPhone Video Fusion Processes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/elevating-your-iphones-photography-despite-a-lower-megapixel-count/"><u>Elevating Your iPhone's Photography Despite a Lower Megapixel Count</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-asus-rog-phone-7-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-expert-advice-on-mending-iphone-xs-identity-check/"><u>In 2024, Expert Advice on Mending iPhone X's Identity Check</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/inject-life-into-posts-change-your-voice-with-ease-on-insta/"><u>Inject Life Into Posts Change Your Voice with Ease on Insta</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/managing-applications-in-your-system-a-step-by-step-guide-to-addingremoving-programs-via-windows-control-panel-tips-from-yl-computing/"><u>Managing Applications in Your System: A Step-by-Step Guide to Adding/Removing Programs via Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-live-streaming-techniques-for-the-rio-2024-olympiad-viewings/"><u>Master Live Streaming Techniques for the Rio 2024 Olympiad Viewings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-screen-mirroring-sync-your-android-with-amazon-fire-tv/"><u>Mastering Screen Mirroring: Sync Your Android with Amazon Fire TV</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/secure-your-data-on-the-go-locking-down-usb-thumb-drives-with-windows-security-features/"><u>Secure Your Data on the Go: Locking Down USB Thumb Drives with Windows Security Features</u></a></li>
 </ul></div>
 

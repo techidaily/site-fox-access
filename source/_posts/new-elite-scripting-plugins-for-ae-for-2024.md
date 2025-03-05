@@ -1,7 +1,7 @@
 ---
 title: "[New] Elite Scripting Plugins for AE for 2024"
-date: 2025-02-14T16:27:13.860Z
-updated: 2025-02-16T16:43:30.084Z
+date: 2025-02-28T18:08:06.429Z
+updated: 2025-03-05T18:33:20.191Z
 tags: 
   - screen-recording
   - ai video
@@ -33,14 +33,6 @@ TextDelay is a native plugin, meaning that you will find it already installed on
 
 ![text delay plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-delay-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## TextExploder
 
 Link: <https://aescripts.com/textexploder/>
@@ -56,10 +48,6 @@ Link: <https://aescripts.com/iexpressions/>
 If you want to effectively use the After Effects expressions even if you are not familiar with coding, iExpressions 2 is the text plugin to consider. It comes with 22 ready-to-use iExpressions that you can easily customize to fit into your project and it is so easy to use.
 
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## TextBox
 
@@ -77,10 +65,6 @@ Font Manager is an After Effects text plugin that is useful when creating and wo
 
 ![font manager plugin](https://images.wondershare.com/filmora/article-images/2022/07/font-manager-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Cartoon Moblur
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Fcartoon%5Fmoblur>
@@ -88,10 +72,6 @@ Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Fcartoon%5Fmoblur>
 This is the most ideal plugin to choose when you want to add motion trail to the graphics in your video, but you want them to appear very cartoony. If you have used the motion blur effect in After Effects, Cartoon Moblur will behave in a similar function, but it is more suited to 2D, flat or minimal graphics. Some of the factors that you can customize include the length of the blur (shutter angle), color, and opacity.
 
 ![cartoon moblur plugin](https://images.wondershare.com/filmora/article-images/2022/07/cartoon-moblur-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Shadow Studio
 
@@ -115,10 +95,6 @@ The Artificial Intelligence Titles is an After Effects text plugin that is desig
 
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Text Library
 
 Link: <https://videohive.net/item/text-library-handy-text-animations/21932974>
@@ -126,10 +102,6 @@ Link: <https://videohive.net/item/text-library-handy-text-animations/21932974>
 This is another great text animation bundle with different options for just about any kind of project. But unlike other plugin bundles that only have a few effects to choose from, Text Library has thousands of templates to choose from. Once you have selected the template that you would like to use, you also get the option to customize the template to suit your project. You can customize the text, size, duration of the animation, and color. It is easy to use and is constantly updated to introduce even more templates with each update.
 
 ![text library plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-library-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -165,18 +137,24 @@ On its own After Effects comes with so many post-production effects and features
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-10-top-ios-players-elevating-video-watching-on-devices/"><u>[New] 2024 Approved 10 Top iOS Players Elevating Video Watching on Devices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-10-best-free-live-streaming-apps-for-android-and-iphone/"><u>[Updated] 2024 Approved 10 Best Free Live Streaming Apps for Android and iPhone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-behind-the-scenes-youtubes-view-count-algorithm/"><u>[Updated] Behind the Scenes YouTube's View Count Algorithm</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-comprehensive-guide-to-srgb-and-rgb/"><u>[Updated] Comprehensive Guide to Srgb & Rgb</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-cross-platform-hulu-playback-mastery-a-how-to-guide-for-2024/"><u>[Updated] Cross-Platform Hulu Playback Mastery - A How-To Guide for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-download-apple-podcasts-instinctively-for-2024/"><u>[Updated] Download Apple Podcasts Instinctively for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-total-spend-on-a-single-youtubers-ads/"><u>[Updated] Total Spend on a Single Youtuber's Ads</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-videography-on-fb-horizontal-or-vertical-placement/"><u>2024 Approved Videography on FB Horizontal or Vertical Placement?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/critical-analysis-the-innovations-in-dji-phantom-3-professional/"><u>Critical Analysis The Innovations in DJI Phantom 3 Professional</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-xs-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone XS Max Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-utilizing-luts-for-enhanced-color-correction-in-pscc/"><u>[New] 2024 Approved Utilizing LUTs for Enhanced Color Correction in PSCC</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-podcasters-guide-to-seamless-streaming-setup/"><u>[New] The Podcaster’s Guide to Seamless Streaming Setup</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-xmlssa-conversion-manual-for-professional-srt-production/"><u>[New] XML/SSA Conversion Manual for Professional SRT Production</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-enhance-with-ease-introduction-to-video-enhancer-v22/"><u>[Updated] 2024 Approved Enhance with Ease Introduction to Video Enhancer V2.2</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-elite-digital-image-grabbers-for-2024/"><u>[Updated] Elite Digital Image Grabbers for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-is-inshot-leading-video-cutting-tech-deep-insight-reviewed/"><u>[Updated] Is InShot Leading Video Cutting Tech? Deep Insight Reviewed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-secrets-of-the-trade-in-sourcing-professional-filmmakers-for-2024/"><u>[Updated] Secrets of the Trade in Sourcing Professional Filmmakers for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-speaker-tape-recorder-iphone-2024/"><u>[Updated] Speaker Tape Recorder (iPhone 2024)</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/1-khtoat-alnkl-maaayra-windows-server-201and/"><u>1. خطوات النقل: معايرة Windows Server 201^$#@!&</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discovering-instant-transit-mastering-the-teleport-feature-in-minecraft-gaming/"><u>Discovering Instant Transit: Mastering the Teleport Feature in Minecraft Gaming</u></a></li>
+<li><a href="https://windows11.techidaily.com/harness-the-power-of-windows-11-a-guide-to-7-effective-techniques/"><u>Harness the Power of Windows 11: A Guide to 7 Effective Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-all-star-software-selecting-best-bdr-players-for-pcmac/"><u>In 2024, All-Star Software Selecting Best BDR Players for PC/Mac</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-essential-streamers-guide-top-10-sports-apps-for-real-time-action/"><u>In 2024, Essential Streamers' Guide Top 10 Sports Apps for Real-Time Action</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-memory-compatible-with-sony-a7-cams/"><u>In 2024, Premium Memory Compatible with Sony A7 Cams</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-apple-iphone-15-pro-max-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile Apple iPhone 15 Pro Max Before the Plan Expires</u></a></li>
+<li><a href="https://fox-access.techidaily.com/infuse-humor-in-content-simple-text-meme-creation/"><u>Infuse Humor in Content Simple Text Meme Creation</u></a></li>
+<li><a href="https://fox-access.techidaily.com/lifetime-visual-vaults-blend-cost-free-sky-spaces-and-paid-premium-alternatives-for-2024/"><u>Lifetime Visual Vaults Blend Cost-Free Sky Spaces & Paid Premium Alternatives for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/olympic-sprint-spotlight-year-2022-for-2024/"><u>Olympic Sprint Spotlight Year 2022 for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-your-gadgets-the-surprisingly-powerful-and-portable-8-in-1-adapter-a-steal-for-tech-enthusiasts-zdnet/"><u>Unleash Your Gadgets: The Surprisingly Powerful & Portable 8-in-1 Adapter - A Steal for Tech Enthusiasts! | ZDNet</u></a></li>
 </ul></div>
 

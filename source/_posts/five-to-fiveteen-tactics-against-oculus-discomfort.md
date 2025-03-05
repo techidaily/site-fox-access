@@ -1,7 +1,7 @@
 ---
 title: "\"Five to Fiveteen  Tactics Against Oculus Discomfort\""
-date: 2024-07-29T13:16:08.434Z
-updated: 2024-07-30T13:16:08.434Z
+date: 2025-03-04T16:00:13.418Z
+updated: 2025-03-05T18:31:48.780Z
 tags: 
   - screen-recording
   - ai video
@@ -20,18 +20,12 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
 
 # 10 tips to prevent Oculus Rift VR motion sickness
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10 ways to prevent Oculus Rift motion sickness
 
  While using your Oculus Rift development kits you need to take care of few little things in order to avoid getting any kind of sickness during your game. Although the factors vary from individual to individual since it is more of the bodily response rather than the design variation.
@@ -56,18 +50,12 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
 
 **10\. Try not to move your head a lot.** Since motion sickness directly corresponds to movement, reducing your head movement left and right and up and down in one place can help you lower the chances of sickness.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## What Oculus have done to reduce motion sickness
 
  With the new, innovative VR devices and the head gear technology has taken a huge leap. Oculus Rift has become widely popular among its enthusiastic users. When Oculus released its first Development kit (DevKit 1) the users experienced the symptoms such as nausea, dizziness, sweating and vomiting. Even Oculus CEO Brendan Iribe experienced “motion sickness” with his own product, while using last year’s “DevKit 1” prototype. These sickness issues were so common while using DevKit 1 that its users called it the “Rift Sickness”.
 
  Since Oculus Rift DK1 came to the market, people were really unhappy with the sickness it gave to them. Oculus saw that issue as a big threat, and started to develop DK2 with a much better display. In the original DK1, Oculus Rift used the liquid crystal display (LCD) to display visual in its devices. LCD screen had been of very much advantage because of its brightness, geometric distortion, and less electricity consumption. But it still had been promoting to the sickness issue because of its sluggish motion time response. In replacement of LCD screens, Oculus Rift has introduced OLED (organic light emitting diode) screens which have proved to be a much better idea. Experiments of Oculus Rift with OLED screens have been successful so far in reducing motion sickness to its minimal. OLED has a much faster rate and thus much enhanced positional tracking.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -93,4 +81,26 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-champions-guide-to-martial-arts-gaming/"><u>[New] In 2024, The Champion's Guide to Martial Arts Gaming</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-understanding-vr-headsets-an-overview/"><u>[New] In 2024, Understanding VR Headsets An Overview</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-telegram-web-setup-for-novices/"><u>[New] Step-by-Step Telegram Web Setup for Novices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-uncovering-inexpensive-deals-for-your-gopro-camera-for-2024/"><u>[New] Uncovering Inexpensive Deals for Your GoPro Camera for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-how-to-maximize-ios-podcast-features/"><u>[Updated] 2024 Approved How to Maximize iOS Podcast Features</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-sj7-superstar-4k-camera-a-comprehensive-review-for-action-enthusiasts/"><u>[Updated] 2024 Approved SJ7 Superstar 4K Camera - A Comprehensive Review for Action Enthusiasts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-fast-track-converting-your-srt-files-to-text-format-today/"><u>[Updated] Fast Track Converting Your SRT Files to Text Format Today</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-art-of-captioning-text-techniques-for-images-in-oses/"><u>[Updated] In 2024, The Art of Captioning Text Techniques for Images in OSes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-reel-in-rave-6-top-rated-music-video-apps-for-android-for-2024/"><u>[Updated] Reel in Rave 6 Top-Rated Music Video Apps for Android for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-subscribe-to-eco-friendly-production-aids/"><u>[Updated] Subscribe to Eco-Friendly Production Aids</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-terras-treasures-selecting-the-top-mapping-games/"><u>[Updated] Terra's Treasures Selecting the Top Mapping Games</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-ultimate-visual-preservation-tool-chromebook/"><u>[Updated] Ultimate Visual Preservation Tool Chromebook</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-poco-m6-pro-4g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Poco M6 Pro 4G</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-12-mini-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From iPhone 12 mini?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-from-raw-renders-to-rich-realities-grading-in-post-production/"><u>In 2024, From Raw Renders to Rich Realities Grading in Post-Production</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/t-playlist-portraits-actors-and-audio-art/"><u>Pocket Playlist Portraits Actors & Audio Art</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/step-by-step-adding-movie-maker-videos-to-vimeo-stream-for-2024/"><u>Step-by-Step Adding Movie Maker Videos to Vimeo Stream for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/zooming-up-your-video-game-with-custom-filters/"><u>Zooming Up Your Video Game with Custom Filters</u></a></li>
+</ul></div>
 

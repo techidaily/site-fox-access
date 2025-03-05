@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Process for Efficient Use of Mac's Preview App\""
-date: 2025-02-12T22:34:28.517Z
-updated: 2025-02-16T23:08:35.188Z
+date: 2025-02-28T18:20:59.329Z
+updated: 2025-03-05T17:58:39.678Z
 tags: 
   - screen-recording
   - ai video
@@ -69,10 +69,6 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -117,10 +113,6 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -153,10 +145,6 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -168,10 +156,6 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -207,10 +191,6 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -236,22 +216,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-cloud-data-economy-comparison-saving-tips-and-price-leaders-for-2024/"><u>[New] Cloud Data Economy Comparison, Saving Tips & Price Leaders for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-prime-products-best-free-and-paid-macpc-video-decoders/"><u>[New] In 2024, Prime Products Best Free & Paid Mac/PC Video Decoders</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-tap-into-endless-visual-archives-from-top-4-video-platforms/"><u>[New] In 2024, Tap Into Endless Visual Archives From Top 4 Video Platforms</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-latest-take-on-the-sony-bd-play-s3700-review/"><u>[New] The Latest Take on the Sony BD PLAY S3700 Review</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-annual-salary-details-for-streaming-sensation-pewdiepie/"><u>[Updated] 2024 Approved Annual Salary Details for Streaming Sensation PewDiePie</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-cartoony-conversion-chronicles-top-windowsmac-imaging-software/"><u>[Updated] Cartoony Conversion Chronicles Top Windows/Mac Imaging Software</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-exploring-the-land-of-virtual-possibilities-for-2024/"><u>[Updated] Exploring the Land of Virtual Possibilities for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-ideal-pixel-gatherings-unique-ringtone-repository-for-2024/"><u>[Updated] Ideal Pixel Gatherings Unique Ringtone Repository for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-intense-immersion-with-closest-viewing-techniques-in-roblox/"><u>[Updated] In 2024, Intense Immersion with Closest Viewing Techniques in Roblox</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-navigating-color-change-pro-methods-uncovered/"><u>[Updated] Navigating Color Change Pro Methods Uncovered</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-top-5-cloud-giants-unlimited-capacity-showdown/"><u>[Updated] Top 5 Cloud Giants Unlimited Capacity Showdown</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-unlock-image-potential-with-editors-essentials-for-2024/"><u>[Updated] Unlock Image Potential with Editor's Essentials for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/expertly-selected-the-ultimate-list-of-2022s-best-coding-bootcamps-for-your-tech-career-zdnet/"><u>Expertly Selected: The Ultimate List of 2022'S Best Coding Bootcamps for Your Tech Career | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experts-reveal-surprisingly-excellent-non-flagship-samsung-tablet-at-unbeatable-price-for-holiday-shoppers-zdnet-insights/"><u>Experts Reveal Surprisingly Excellent Non-Flagship Samsung Tablet at Unbeatable Price for Holiday Shoppers | ZDNET Insights</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-honor-x50i-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Honor X50i to Protect Your Individual Information</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-huawei-mate-60-rs-ultimate-design-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Huawei Mate 60 RS Ultimate Design on Mac</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/online-flv-webm-movavi/"><u>우아한 방식으로 Online FLV를 WebM로 자유성 전환: Movavi의 통합</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-exploring-the-depth-of-photography-with-polarrs-advanced-editing/"><u>[New] 2024 Approved Exploring the Depth of Photography with Polarr’s Advanced Editing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-transform-your-devices-tone-swiftly-with-these-leading-chrome-apps/"><u>[New] 2024 Approved Transform Your Device's Tone Swiftly With These Leading Chrome Apps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-unveiling-youtubes-most-engrossing-virtual-reality-shows/"><u>[New] 2024 Approved Unveiling YouTube's Most Engrossing Virtual Reality Shows</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-elite-filmmakers-merging-sounds-images/"><u>[New] Elite Filmmakers Merging Sounds, Images</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-eliminate-unwanted-podcast-suggestions-on-spotify/"><u>[New] In 2024, Eliminate Unwanted Podcast Suggestions on Spotify</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-moviegenius-for-windows-8-for-2024/"><u>[New] MovieGenius for Windows 8 for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-unveiling-how-you-can-profit-from-youtube-content/"><u>[Updated] 2024 Approved Unveiling How You Can Profit From YouTube Content</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-hyperfast-picture-explorer-on-windows-11-for-2024/"><u>[Updated] Hyperfast Picture Explorer on Windows 11 for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamers-signature-creating-iconic-banners-with-templates/"><u>[Updated] In 2024, Gamers' Signature Creating Iconic Banners with Templates</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-methods-for-smooth-volume-diminishment-in-lumafusion/"><u>[Updated] In 2024, Methods for Smooth Volume Diminishment in Lumafusion</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-sphere-of-imaging-who-takes-the-crown/"><u>[Updated] In 2024, Sphere of Imaging Who Takes the Crown?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-ultimate-guide-perfecting-pics-with-facetune/"><u>[Updated] In 2024, Ultimate Guide Perfecting Pics with Facetune</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-eye-catching-images-windows-10s-screenshot-feature/"><u>In 2024, Eye-Catching Images Windows 10'S Screenshot Feature</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-infinix-zero-5g-2023-turbo-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Infinix Zero 5G 2023 Turbo FRP</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/insights-into-a-common-icon-what-is-fbs-blue-video-symbol-in-2024/"><u>Insights Into a Common Icon What Is FB’s Blue Video Symbol, In 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-motorola-moto-g34-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Motorola Moto G34 5G Phone</u></a></li>
 </ul></div>
 

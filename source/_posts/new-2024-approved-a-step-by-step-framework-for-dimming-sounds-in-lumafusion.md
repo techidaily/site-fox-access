@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  A Step-by-Step Framework for Dimming Sounds in Lumafusion\""
-date: 2025-02-15T16:47:51.961Z
-updated: 2025-02-16T17:15:25.795Z
+date: 2025-02-28T16:19:16.638Z
+updated: 2025-03-05T18:53:39.041Z
 tags: 
   - screen-recording
   - ai video
@@ -34,10 +34,6 @@ There are several capabilities in Luma Fusion that make precise editing possible
 Step1 LumaFusion's default structure is comparable to that of many desktops editing programs: a multitrack timeline along the bottom, a media browser in the upper left, and a preview monitor that, depending on what you last chose, either displays a source clip or your timeline edit.
 
 ![lumafusion timeline](https://images.wondershare.com/filmora/article-images/2022/07/lumafusion-timeline.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 LumaFusion allows for the automated synchronization of up to 12 camera sources and several audio tracks. When a clip is loaded into LumaFusion, touch on it to open it in the viewer and then adjust the start and finish points.
 
@@ -85,10 +81,6 @@ In that window, you can select the MP3 format in the format customization box to
 
 ## Part 3\. Related FAQs about LumaFusion
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. How do you fade in a title LumaFusion?
 
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
@@ -115,10 +107,6 @@ Drag and drop your sound recordings from the media library to the timeline at th
 
 ![import audios to fade](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step3 Apply Fade Effects
 
 The fade-in audio button inside your audio file may be seen when you just hover over the audio file within the timeline and look for the white circle filled with pink hue at the beginning and finish of your audio file. On the other hand, to choose the fade-out audio, click and drag the pink circle that appears on the opposite end of the audio file in the timeline that you have chosen to fade out the music file.
@@ -133,25 +121,13 @@ In that window, you can select the MP3 format in the format customization box to
 
 ## Part 3\. Related FAQs about LumaFusion
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. How do you fade in a title LumaFusion?
 
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. How do you do transitions in LumaFusion?
 
 There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. How to you split audio and video in LumaFusion?
 
@@ -181,17 +157,24 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-beyond-imagination-vrs-present-future-prospects/"><u>[New] In 2024, Beyond Imagination VR's Present, Future Prospects</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-unlock-free-power-learn-to-edit-videos-on-vimeo/"><u>[New] Unlock FREE Power Learn to Edit Videos on Vimeo</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-dissecting-the-metaverse-vs-multi-meva-landscape-expert-guide/"><u>[Updated] Dissecting the Metaverse Vs. Multi-Meva Landscape (Expert Guide)</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-exclusive-guide-choosing-among-top-9-free-logo-creators-for-2024/"><u>[Updated] Exclusive Guide Choosing Among Top 9 Free Logo Creators for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-immerse-in-visual-creation-best-3d-model-and-rendering-tools-reviewed/"><u>[Updated] In 2024, Immerse in Visual Creation Best 3D Model & Rendering Tools Reviewed</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-social-media-sensation-making-your-vids-pop/"><u>[Updated] In 2024, Social Media Sensation Making Your Vids Pop</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-nvidias-vision-3d-drivers-at-no-cost-a-step-by-step-tutorial-for-windows-users/"><u>Download Nvidia's Vision 3D Drivers at No Cost: A Step-by-Step Tutorial for Windows Users</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/high-quality-live-streaming-games-via-obs-for-2024/"><u>High-Quality Live Streaming Games via OBS for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-freedom-in-viewing-is-vlc-more-powerful-than-mpc/"><u>In 2024, Freedom in Viewing Is VLC More Powerful Than MPC?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-tecno-spark-10-4g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Tecno Spark 10 4G? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-tips-for-troubleshooting-missing-bluetooth-in-windows-11/"><u>Quick Tips for Troubleshooting Missing Bluetooth in Windows 11</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/the-top-triggers-for-network-interface-problems-explained-specialist-tips-from-yl-software/"><u>The Top Triggers for Network Interface Problems Explained – Specialist Tips From YL Software</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-ideal-cameras-perfect-for-smooth-podcasting/"><u>[New] 2024 Approved Ideal Cameras Perfect for Smooth Podcasting</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-soaring-visions-with-dji-mavic-pro-insight/"><u>[New] 2024 Approved Soaring Visions with DJI Mavic Pro Insight</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-green-screen-templates-free-download-videography-and-filmmaking-for-2024/"><u>[New] Green Screen Templates Free Download – Videography, and Filmmaking for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-instagram-photo-addition-a-simple-guide/"><u>[New] In 2024, Instagram Photo Addition A Simple Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-uncovering-other-powerful-video-players-beyond-vlc/"><u>[Updated] 2024 Approved Uncovering Other Powerful Video Players Beyond VLC</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-drone-review-parrots-advanced-ar-model-20/"><u>[Updated] Drone Review Parrot's Advanced AR Model 2.0</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-quest-for-the-ultimate-virtual-world-starts-here-htc-vive/"><u>[Updated] The Quest for the Ultimate Virtual World Starts Here HTC Vive</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-masters-tutorial-total-deep-dive-into-xmedia-suite-workshop/"><u>2024 Approved Master's Tutorial Total Deep Dive Into XMedia Suite Workshop</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-realme-c67-4g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Realme C67 4G?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-top-9-platforms-for-unparalleled-gamers-joy/"><u>In 2024, Top 9 Platforms for Unparalleled Gamers' Joy</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-approaches-to-clearer-zoomed-video-on-online-platforms/"><u>In 2024, Ultimate Approaches to Clearer Zoomed Video on Online Platforms</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-tecno-camon-20-premier-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Tecno Camon 20 Premier 5G FRP Bypass</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigate-away-from-chatgpt-here-are-the-10-superior-choices/"><u>Navigate Away From ChatGPT? Here Are the 10 Superior Choices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/prime-choices-in-cinema-cameras-from-newbies-to-professionals/"><u>Prime Choices in Cinema Cameras From Newbies to Professionals</u></a></li>
+<li><a href="https://fox-access.techidaily.com/pro-tips-for-impressive-gopro-time-lapse-cinematography/"><u>Pro Tips for Impressive GoPro Time-Lapse Cinematography</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-unlocking-new-startup-routines-6-varieties/"><u>PS5: Unlocking New Startup Routines (6 Varieties)</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-trim-and-edit-mp4-videos-with-these-free-tools-2023-review/"><u>Updated Trim and Edit MP4 Videos with These Free Tools (2023 Review)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/your-path-to-perfect-iphone-hdr-photos-for-2024/"><u>Your Path to Perfect iPhone HDR Photos for 2024</u></a></li>
 </ul></div>
 

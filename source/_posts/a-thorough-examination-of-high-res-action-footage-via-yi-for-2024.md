@@ -1,7 +1,7 @@
 ---
 title: "\"A Thorough Examination of High-Res Action Footage via Yi for 2024\""
-date: 2024-08-08T11:56:19.082Z
-updated: 2024-08-09T11:56:19.082Z
+date: 2025-02-27T17:45:32.004Z
+updated: 2025-03-05T16:50:45.976Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 
 # Yi 4K + Action Camera Complete Review
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -117,16 +114,10 @@ Yi 4K is designed with built in Wi-Fi abilities so that users can make direct co
 
 The future firmware update of Yi 4K+ action camera is supposed to bring so many interesting features into this tiny device. It will be extending support towards live streaming facility and raw images will be soon processed. The most interesting addition will be voice command support that will make control actions much easier during adventurous sports recording needs. This device will be offering impressive high performance service while consuming very low power and all ultra HD videos will deliver crisper details with elegant color distributions.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Yi 4K+ is first action camera device to support 60fps frame rate at 4K resolution level and it further provides 8MP support to every still while ensuring crisp and deep details. There are several interesting features inside this tiny action cam including USB-C external mic connectivity and many more. However, you may also find few troubles like it cannot go underwater without protective housing. It not even extends support to live streaming and RAW files cannot be processed. But, even after so many downsides, its amazing video quality makes it standout against all competitors. You must order your new action camera soon.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -152,6 +143,16 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-timeless-treasures-unlocked-free-public-works/"><u>[New] 2024 Approved Timeless Treasures Unlocked Free Public Works</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-elevate-your-videos-auditory-experience-on-youtube/"><u>[Updated] 2024 Approved Elevate Your Video's Auditory Experience on YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-insights-on-effective-spotify-ad-targeting/"><u>[Updated] 2024 Approved Insights on Effective Spotify Ad Targeting</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-boosting-online-videography-with-key-tools/"><u>[Updated] Boosting Online Videography with Key Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-cutting-edge-audio-gear-best-mics-for-podcasts/"><u>[Updated] In 2024, Cutting-Edge Audio Gear Best Mics For Podcasts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-5-ps1-games-emulators-resurrecting-console-legends-on-pc/"><u>[Updated] Top 5 PS1 Games Emulators - Resurrecting Console Legends on PC</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/acclaimed-constructors-top-notch-instagram-hlv-artisans/"><u>Acclaimed Constructors Top-Notch Instagram HLV Artisans</u></a></li>
+<li><a href="https://win-blog.techidaily.com/kop-movavi-affarslicens-vidvuxen-filmbytare-med-fullstandigt-loslost-konsumentuppgifter/"><u>Köp Movavi - Affärslicens Vidvuxen Filmbytare Med Fullständigt Löslöst Konsumentuppgifter</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-apple-iphone-15-plus-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your Apple iPhone 15 Plus</u></a></li>
+</ul></div>
 

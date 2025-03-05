@@ -1,7 +1,7 @@
 ---
 title: "Balancing Main & Supplemental Filmmaking Elements for 2024"
-date: 2024-08-08T11:58:22.322Z
-updated: 2024-08-09T11:58:22.322Z
+date: 2025-03-04T17:43:21.014Z
+updated: 2025-03-05T17:18:33.933Z
 tags: 
   - screen-recording
   - ai video
@@ -22,10 +22,6 @@ B roll is a phrase used to describe supplemental video, which is frequently used
 
 Now that we know that, let's dive in!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 1\. B roll In TV And Movies
 
 Broll is an acronym for "background" or "behind," respectively. It usually refers to extra footage captured with a movie camera while keeping the lighting consistent between scenes in the movie industry. When the filmmaker doesn't want to show any dialogue or action on screen but needs some movement within the frame, it might be utilized as filler.
@@ -44,10 +40,6 @@ The ideal way to use B roll is to put it behind interviews. This kind of footage
 
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## 3\. What types of b roll are there?
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
@@ -56,32 +48,14 @@ We'll examine the top 5 uses for B rolls across a variety of video genres and di
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### 2\. Visual detail b roll footage
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
@@ -98,10 +72,6 @@ A pick-up is a tiny shot added to previously captured material. Re-shoots involv
 
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
@@ -138,6 +108,26 @@ We sincerely hope that this post will be of use to you in making your films more
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-streamline-your-memories-on-ios-organized-albums-and-efficient-icloud-synchronization/"><u>[New] 2024 Approved Streamline Your Memories on iOS Organized Albums & Efficient iCloud Synchronization</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-effervescent-emotions-on-iphone/"><u>[New] In 2024, Effervescent Emotions on IPhone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-effortless-conversions-selecting-the-10-prime-flv-to-youtubes-options/"><u>[New] In 2024, Effortless Conversions Selecting the 10 Prime Flv to YouTubes Options</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-perfect-snap-infusing-dynamic-blur-into-faces-through-picsart-editing/"><u>[New] In 2024, The Perfect Snap Infusing Dynamic Blur Into Faces Through Picsart Editing</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/isual-monologue-engineer/"><u>[New] Visual Monologue Engineer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-master-artwork-accelerated-techniques-for-editing-photos-on-pc/"><u>[Updated] 2024 Approved Master Artwork Accelerated Techniques for Editing Photos on PC</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-a-guide-to-perfect-portraits-with-background-blur-for-2024/"><u>[Updated] A Guide to Perfect Portraits with Background Blur for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-amplify-content-with-free-audio-samples-for-2024/"><u>[Updated] Amplify Content with Free Audio Samples for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-elevated-viewing-larger-youtube-images-for-2024/"><u>[Updated] Elevated Viewing Larger YouTube Images for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-expert-tips-on-closing-distances-in-movies/"><u>[Updated] Expert Tips on Closing Distances in Movies</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-mastering-macs-preview-a-comprehensive-tutorial/"><u>[Updated] Mastering Mac's Preview A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-8-subtitle-editors-transforming-into-srt-format-for-windows-and-macos-for-2024/"><u>[Updated] Top 8 Subtitle Editors Transforming Into SRT Format for Windows & MacOS for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-k11x-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo K11x to Outlook | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-top-asmr-sounds-promoting-deep-sleep/"><u>In 2024, Top ASMR Sounds Promoting Deep Sleep</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-hp-laserjet-5200-drivers-seamless-compatibility-with-windows-11-10-and-8-operating-systems/"><u>Install HP LaserJet 5200 Drivers: Seamless Compatibility with Windows 11, 10 & 8 Operating Systems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/perfect-your-focus-a-guide-to-roblox-tight-scopes/"><u>Perfect Your Focus A Guide to Roblox Tight Scopes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/king-youtubes-hidden-gems-keyword-research-for-2024/"><u>Unlocking YouTube's Hidden Gems Keyword Research for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-hp-laserjet-pro-m404n-get-newest-printing-drivers-and-improved-performance/"><u>Update Your HP LaserJet Pro M404n: Get Newest Printing Drivers & Improved Performance</u></a></li>
+</ul></div>
 

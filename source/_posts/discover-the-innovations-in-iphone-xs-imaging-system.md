@@ -1,7 +1,7 @@
 ---
 title: "Discover the Innovations in iPhone X's Imaging System"
-date: 2024-07-29T13:17:30.787Z
-updated: 2024-07-30T13:17:30.787Z
+date: 2025-03-03T16:58:28.787Z
+updated: 2025-03-05T16:33:24.715Z
 tags: 
   - screen-recording
   - ai video
@@ -33,28 +33,16 @@ thumbnail: https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abe
 * [Part 3: How to use portrait mode](#part3)
 * [Part 4: Video improvement](#part4)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: TrueDepth Camera
 
  The phone has a brand new rear [camera with two lenses](https://tools.techidaily.com/wondershare/filmora/download/) in a vertical orientation. This new orientation has been chosen to provide more space for the front-facing TrueDepth camera. This camera is tasked with powering the Face ID feature. The TrueDepth system also has a f/2.2 7-megapixel camera for selfies. The feature means Portrait Mode and Portrait Lighting are supported in front-facing mode. With Portrait Lighting, you can dynamically adjust your photo’s lighting with ease. TrueDepth uses an infrared emitter to project more than 30,000 in a recognised pattern onto users’ faces, before photographing the dots for analysis. The function is strengthened with a proximity sensor as well as an ambient light sensor which allows output light levels to be set.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## Part 2: The importance of depth
 
  With previous versions of the iPhone Plus, the depth maps were only used to blur backgrounds and make subjects pop against them. However, the iPhone X takes the depth information from the two lenses as well as the efficiency of the A11 Bionic chip to offer outstanding new special effects.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![depth camera](https://images.wondershare.com/filmora/article-images/depth-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to use portrait mode
 
  Portrait mode uses your iPhone X’s telephoto lens kit to create images with “bokeh”-esque backgrounds and foregrounds. Portrait Lighting also comes as part of the Portrait Mode with the iPhone X, utilising both machine learning and the depth map of Portrait mode to add exceptional lighting effects to your photos in real time. When you shoot in Portrait mode, the wide-angle measures the difference between what it and the telephoto can see to offer a multi-point depth map. The depth map itself creates artificial depth of field.
@@ -73,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abe
 
 ![portrait lighting](https://images.wondershare.com/filmora/article-images/PortraitLighting.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Part 4: Video improvement
 
  The iPhone X is also noted for its first-class video shooting capabilities, including its 4K video feature. Though previous iterations of the iPhone were already rather adept at shooting in 4K, the new devices are even more impressive and have been favourably compared to the GH5 in terms of quality and clarity. The new device has been complimented for its vibrant colour profile and its ability to deliver 4K video that matches a wide range of leading DSLR and mirrorless cameras. It’s possible to capture video in 240fps slo-mo at 1080p and 4K at 60fps.
@@ -90,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abe
 
  The phone has also been praised for its wide range between light and dark colours. The Face ID function has proved to be incredibly secure, unlike earlier facial recognition systems which could easily be tricked by with the use of photographs or videos. It’s now possible to be more creative than ever with your iPhone’s camera whilst benefiting from a wealth of robust security features.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -118,4 +100,24 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-insta-tones-101-learn-to-design-and-download-on-your-own/"><u>[New] In 2024, Insta Tones 101 Learn to Design and Download on Your Own</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-optimal-webcam-solutions-for-audio-professionals/"><u>[New] Optimal Webcam Solutions for Audio Professionals</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-amplify-your-videos-the-best-text-effects-guide/"><u>[Updated] 2024 Approved Amplify Your Videos The Best Text Effects Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-breaking-through-with-stunning-hdr-portrait-shots/"><u>[Updated] 2024 Approved Breaking Through with Stunning HDR Portrait Shots</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-revolutionize-your-views-non-xplit-applications/"><u>[Updated] 2024 Approved Revolutionize Your Views Non-Xplit Applications</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-expert-advice-on-crafting-effective-youtube-video-tags-for-2024/"><u>[Updated] Expert Advice on Crafting Effective YouTube Video Tags for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-forging-a-future-in-artistic-expression-and-commerce-for-2024/"><u>[Updated] Forging a Future in Artistic Expression and Commerce for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-groundbreaking-gear-for-next-level-virtual-reality/"><u>[Updated] In 2024, Groundbreaking Gear for Next-Level Virtual Reality</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-art-of-animated-text-in-video-landscapes/"><u>[Updated] In 2024, The Art of Animated Text in Video Landscapes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-the-scoop-on-the-playstation-portal-unveiling-the-launch-date-costs-specifications-and-retail-outlets/"><u>Get the Scoop on the PlayStation Portal: Unveiling the Launch Date, Costs, Specifications & Retail Outlets!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-rapide-comment-graver-avec-precision-un-dvd-en-format-mkv-sans-perturbation-de-la-qualite/"><u>Guide Rapide : Comment Graver Avec Précision Un DVD en Format MKV Sans Perturbation De La Qualité</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-engage-with-creativity-top-9-websites-catering-to-artistic-3d-typography-needs/"><u>In 2024, Engage with Creativity Top 9 Websites Catering to Artistic 3D Typography Needs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-framefixer-feedback-complete-editor-analysis/"><u>In 2024, FrameFixer Feedback – Complete Editor Analysis</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-evolution-of-video-from-sdr-to-the-era-of-high-dynamic-range/"><u>In 2024, The Evolution of Video From SDR to the Era of High Dynamic Range</u></a></li>
+<li><a href="https://article-helps.techidaily.com/key-6-social-media-outlets-for-corporate-growth/"><u>Key 6 Social Media Outlets for Corporate Growth</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207886488-troubleshoot-windows-11s-disappearing-bluetooth-fast-fixes-for-seamless-connectivity/"><u>Troubleshoot Windows 11'S Disappearing Bluetooth: Fast Fixes for Seamless Connectivity</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-mysteries-unknown-fascinating-facts-about-emojis/"><u>Unlocking the Mysteries: Unknown Fascinating Facts About Emojis</u></a></li>
+</ul></div>
 
